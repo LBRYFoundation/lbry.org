@@ -1,12 +1,12 @@
 module.exports = {
-	// '/other/': [
-	// 	{
-	// 		title: 'Additional Information',
-	// 		children: [
-	// 			'/other/',
-	// 			'/',
-	// 			['https://github.com/LBRYFoundation', 'Outside link']
-	// 		],
-	// 	},
-	// ]
+  '/projects/': [
+    {
+      title: 'Projects',
+      children: [
+        '/projects/tavern/',
+        '/projects/podcast/',
+        '/projects/arena/'
+      ]
+    },
+  ]
 };
