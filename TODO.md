@@ -4,7 +4,7 @@
 - [x] Privacy Policy
 - [ ] Branding page
 - [ ] Swarm page
-- [ ] Chat page (?)
+- [x] ~~Chat page (?)~~
 - [ ] Roadmap page
 - [ ] Verified page
 - [ ] Governance page

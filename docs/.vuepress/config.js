@@ -85,7 +85,6 @@ const config = {
     nav: [
       // TODO update?
       { text: 'Swarm', link: '/swarm/' },
-      { text: 'Chat', link: '/chat/' },
       { text: 'Roadmap', link: '/roadmap/' },
       { text: 'Verified', link: '/verified/' },
       { text: 'Governance', link: '/governance/' },
