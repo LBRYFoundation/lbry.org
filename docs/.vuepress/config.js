@@ -1,7 +1,7 @@
 const sidebar = require('./sidebar.js');
 
 const metaTitle = 'LBRY Foundation',
-  metaDesc = 'LBRY is a secure, open, and community-run digital marketplace.',
+  metaDesc = 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
   metaURL = 'https://lbry.org',
   metaLogo = '/logo.png',
   metaColor = '#27E4EB';
