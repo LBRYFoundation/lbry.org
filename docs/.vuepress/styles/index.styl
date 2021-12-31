@@ -99,6 +99,19 @@ html
   .sidebar-heading.open
     color var(--headerText) !important
 
+@media (max-width: $MQMobile)
+  .sidebar-mask
+    display block
+    pointer-events none
+    backdrop-filter brightness(1)
+    transition backdrop-filter .2s ease
+  .theme-container.sidebar-open
+    .sidebar
+      box-shadow 4px 0px 4px rgba(0, 0, 0, 0.25)
+    .sidebar-mask
+      backdrop-filter brightness(0.75)
+      pointer-events all
+
 // Lightbox
 .lightbox__default-loader {
   position:absolute;
