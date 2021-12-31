@@ -1,0 +1,5 @@
+/node_modules
+/docs/.vuepress/dist
+/.vscode/settings.json
+*.log
+.idea

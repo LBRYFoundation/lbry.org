@@ -1,0 +1,250 @@
+@import './animate'
+@import '~@fontsource/roboto/300.css'
+@import '~@fontsource/roboto/400.css'
+@import '~@fontsource/roboto/500.css'
+@import '~@fontsource/roboto/700.css'
+@import '~@fontsource/roboto/400-italic.css'
+@import '~@fontsource/roboto/500-italic.css'
+
+table
+  overflow visible
+
+.animate__animated
+  animation-fill-mode both
+
+html
+  background-color var(--primaryBG)
+  body
+    font-family Roboto, -apple-system, BlinkMacSystemFont, Segoe UI, Oxygen, Ubuntu, Cantarell, 'Fira Sans' , 'Droid Sans' , 'Helvetica Neue', sans-serif;
+  #app
+    background-color var(--primaryBG)
+    color var(--text)
+  h2
+    border-color var(--tertiaryBG)
+  h1, h2, h3, h4, h5, h6
+    color var(--headerText)
+  .sidebar
+    background-color var(--secondaryBG)
+    border none
+    .nav-links
+      background-color var(--secondaryBG)
+      border-color var(--tertiaryBG)
+    &::-webkit-scrollbar-track
+      background-color var(--tertiaryBG)
+      border-radius 10px
+      border 3px solid var(--secondaryBG)
+    &::-webkit-scrollbar-thumb
+      background-color var(--primaryBG)
+      border-radius 10px
+      border 3px solid var(--secondaryBG)
+  a.sidebar-link:not(.active):not(:hover)
+    color var(--secondaryText)
+  .page-nav .inner
+    border-top 1px solid var(--tertiaryBG)
+  .page-edit .edit-link a, .page-edit .last-updated .prefix
+    color var(--secondaryText)
+  *::-webkit-scrollbar
+    width 15px
+  *::-webkit-scrollbar-track
+    background-color var(--secondaryBG)
+    border-radius 10px
+    border 3px solid var(--primaryBG)
+  *::-webkit-scrollbar-thumb
+    background-color var(--tertiaryBG)
+    border-radius 10px
+    border 3px solid var(--primaryBG)
+  .theme-default-content
+    code
+      color var(--secondaryText)
+      background-color var(--secondaryBG)
+    table
+      tr
+        border-top 1px solid var(--tertiaryBG)
+        &:nth-child(2n)
+          background-color var(--secondaryBG)
+      th, td
+        border 1px solid var(--tertiaryBG)
+        padding .6em 1em
+    [class^='language-']
+      background-color var(--text)
+  .custom-block
+    color var(--text)
+    border-radius 10px
+    overflow hidden
+    .custom-block-title
+      font-size 18px
+      font-weight 500
+    &.tip, &.details, &.warning, &.danger
+      color var(--text)
+      background-color alpha(#000, 0.2)
+    &.tip, &.details
+      border-color var(--accent)
+      .custom-block-title
+        color var(--headerText)
+    &.warning
+      border-color var(--warning)
+      .custom-block-title
+        color var(--warning)
+      a
+        color var(--accent)
+    &.danger
+      border-color var(--error)
+      .custom-block-title
+        color var(--error)
+      a
+        color var(--accent)
+  .sidebar-link
+    &.active
+      border none
+  .sidebar-heading.open
+    color var(--headerText) !important
+
+// Lightbox
+.lightbox__default-loader {
+  position:absolute;
+  top:50%;
+  left:50%;
+  -webkit-transform:translate(-50%,-50%);
+  transform:translate(-50%,-50%);
+  z-index:-1
+}
+
+.lightbox__default-loader__element {
+  -webkit-animation:LightboxDefaultLoaderAnimation 1s linear infinite;
+  animation:LightboxDefaultLoaderAnimation 1s linear infinite;
+  border:3px solid #292929;
+  border-top:3px solid #fff;
+  border-radius:50%;
+  height:75px;
+  width:75px
+}
+
+@-webkit-keyframes LightboxDefaultLoaderAnimation{
+  to {
+    border-top-color:#fff;
+    -webkit-transform:rotate(1turn);
+    transform:rotate(1turn)
+  }
+}
+
+@keyframes LightboxDefaultLoaderAnimation{
+  to{
+    border-top-color:#fff;
+    -webkit-transform:rotate(1turn);
+    transform:rotate(1turn)
+  }
+}
+
+.lightbox {
+  position:fixed;
+  top: $navbarHeight;
+  left:0;
+  background:rgba(0,0,0,.8);
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex;
+  -webkit-box-pack:center;
+  -ms-flex-pack:center;
+  justify-content:center;
+  -webkit-box-align:center;
+  -ms-flex-align:center;
+  align-items:center;
+  z-index:1
+}
+
+.lightbox__thumbnail {
+  width:100%;
+  height:100%
+}
+
+.lightbox {
+  width: 100%;
+  height: calc(100% - 3.6rem)
+}
+
+.lightbox__thumbnail img {
+  width:100%
+}
+
+.lightbox__close {
+  position:fixed;
+  right:0;
+  top: $navbarHeight;
+  padding:1rem;
+  font-size:1.5rem;
+  cursor:pointer;
+  color:#fff;
+  width:4rem;
+  height:4rem
+}
+
+.lightbox__arrow--invisible {
+  visibility:hidden
+}
+
+.lightbox__element {
+  width:100%;
+  height:-webkit-fit-content;
+  height:-moz-fit-content;
+  height:fit-content
+}
+
+.lightbox__arrow,.lightbox__element {
+  display:-webkit-box;
+  display:-ms-flexbox;
+  display:flex
+}
+
+.lightbox__arrow {
+  padding:0 2rem;
+  cursor:pointer;
+  -webkit-box-pack:center;
+  -ms-flex-pack:center;
+  justify-content:center;
+  -webkit-box-align:center;
+  -ms-flex-align:center;
+  align-items:center
+}
+
+.lightbox__arrow svg {
+  fill:#fff;
+  pointer-events:none
+}
+
+.lightbox__image {
+  -webkit-box-flex:1;
+  -ms-flex:1;
+  flex:1
+}
+
+.lightbox__image img{
+  width:100%;
+  height:auto!important
+}
+
+@media screen and (max-width:720px) {
+  .lightbox__arrow{
+    padding:0 1rem
+  }
+}
+
+@media screen and (max-width:500px) {
+  .lightbox__element{
+    position:relative
+  }
+  .lightbox__arrow{
+    position:absolute;
+    padding:0 2rem;
+    height:100%
+  }
+  .lightbox__arrow--right{
+    right:0;
+    background:-webkit-gradient(linear,left top,right top,from(transparent),to(rgba(0,0,0,.3)));
+    background:linear-gradient(90deg,transparent,rgba(0,0,0,.3))
+  }
+  .lightbox__arrow--left{
+    left:0;
+    background:-webkit-gradient(linear,right top,left top,from(transparent),to(rgba(0,0,0,.3)));
+    background:linear-gradient(270deg,transparent,rgba(0,0,0,.3))
+  }
+}

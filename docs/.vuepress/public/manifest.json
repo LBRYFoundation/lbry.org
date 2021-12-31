@@ -1,0 +1,22 @@
+{
+  "name": "LBRY Foundation",
+  "short_name": "LBRY Foundation",
+  "description": "LBRY is a secure, open, and community-run digital marketplace.",
+  "icons": [
+    {
+      "src": "/logo/android-chrome-192x192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo/android-chrome-512x512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/?source=pwa",
+  "background_color": "#072a46",
+  "display": "minimal-ui",
+  "scope": "/",
+  "theme_color": "#27e4eb"
+}

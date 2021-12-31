@@ -1,0 +1,10 @@
+{
+  "recommendations": [
+    "syler.sass-indented",
+    "alan.stylus",
+    "gruntfuggly.todo-tree",
+    "octref.vetur",
+    "gamunu.vscode-yarn",
+    "editorconfig.editorconfig"
+  ]
+}
