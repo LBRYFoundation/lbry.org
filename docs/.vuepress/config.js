@@ -75,7 +75,9 @@ const config = {
       [
         // TODO update redirects
         { url: 'https://github.com/LBRYFoundation',
-          aliases: ['/github/'] }
+          aliases: ['/github/'] },
+        { url: 'https://chat.lbry.com',
+          aliases: ['/chat/'] }
       ]
     ],
     require('./plugins/richmeta.js')
