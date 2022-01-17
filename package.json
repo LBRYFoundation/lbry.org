@@ -3,7 +3,7 @@
   "devDependencies": {
     "@fontsource/roboto": "^4.5.1",
     "@iconify/json": "^1.1.457",
-    "@iconify/vue2": "^1.1.1",
+    "@iconify/vue2": "^1.1.2",
     "@vuepress/plugin-pwa": "^1.9.5",
     "fs-extra": "^10.0.0",
     "vuepress": "^1.9.5",
