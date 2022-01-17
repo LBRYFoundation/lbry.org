@@ -871,10 +871,10 @@
   resolved "https://registry.yarnpkg.com/@iconify/json/-/json-1.1.457.tgz#a2e6919a5e2a20f8a73bb7c5f7719a15892e5b8f"
   integrity sha512-5KQALvjWwNnmU+JJTLKdLxmltPYDrsSE7rkSJDnuSRCQboN26MwQRW6bjip1P7aF4Z7pkIr+ZsDY/uEd+8wXaQ==
 
-"@iconify/vue2@^1.1.1":
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/@iconify/vue2/-/vue2-1.1.1.tgz#1e7f180f8e1cf6d33f7800d2df64a0629699f8b4"
-  integrity sha512-f89O5c+V2ghA+LCpFFQ8W8nGb4szrJ33vmPVoKSCtctzL2ujSkx+1rWTx12PnWeIKAQRWh+Ajc5Tn/vu5GptSA==
+"@iconify/vue2@^1.1.2":
+  version "1.1.2"
+  resolved "https://registry.yarnpkg.com/@iconify/vue2/-/vue2-1.1.2.tgz#cfcaac26f41d74e0d383ba396aaa4251f782cd74"
+  integrity sha512-cvN0K5HyzbC9zm+FdaCcA7hq9I4+s8M+idV9Ikw+0sikASqsyC0Hx2glqJrhn0W+tLJ3ddixXwZQLjuncmh1Og==
   dependencies:
     cross-fetch "^3.1.4"
 
