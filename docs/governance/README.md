@@ -17,7 +17,7 @@ The LBRY Foundation is a US-based non-profit corporation governed by a board of 
 <Person
   avatar="/logo.png"
   imageClass="rounded"
-  name="Leo Rodrigues"
+  name="Vlad Nikolaev"
   subtitle="Second community elected board member of LBRY Foundation, Inc."/>
 <Person
   avatar="/logo.png"
