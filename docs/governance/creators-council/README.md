@@ -4,7 +4,7 @@ aliases:
 ---
 
 
-# Creators Council
+# 🎥 Creators Council
 
 ## What is the Creator's Council ?
 

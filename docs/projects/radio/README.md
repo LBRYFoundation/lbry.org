@@ -3,7 +3,7 @@ aliases:
 - /radio/
 ---
 
-# Radio Foundation
+# 📻 Radio Foundation
 
 
 <iframe text-align="center" id="odysee-iframe" width="100%" height="315" src="https://odysee.com/$/embed/radiolive/dd7171cba17468f6eb5a61d2aa7c56d9e6436c08?r=Hj8HJeAgvN8hjjREuK4y7wq7wN5xorZG" allowfullscreen></iframe>
