@@ -8,7 +8,7 @@
 - [ ] Roadmap page
 - [ ] Verified page
 - [ ] Governance page
-- [ ] Projects page
+- [x] Projects page
 - [ ] Tavern page
 - [ ] Podcast page
 - [ ] Arena page

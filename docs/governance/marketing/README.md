@@ -1,0 +1,6 @@
+---
+aliases:
+- /marketing/
+---
+
+# 🚀 Marketing
