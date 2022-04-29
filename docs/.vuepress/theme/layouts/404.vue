@@ -5,12 +5,7 @@
       <h1>Oh no!</h1>
       <p class="description">The page you have requested could not be found.</p>
       <div class="action-buttons">
-        <RouterLink
-          class="action-button"
-          target="_blank"
-          rel="noopener"
-          :to="'/'"
-        >
+        <RouterLink class="action-button" :to="'/'">
           <IconifyIcon icon="fa-solid:arrow-circle-left" />
           <span>Go Back Home</span>
         </RouterLink>
