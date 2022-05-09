@@ -79,9 +79,7 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 
 1. Budget (50k LBC)
 2. Creators Council Channel Post
-- How is it used :
-
-1 week support for the voted creator on the Channel and Content
+- Used as 1 week support for the voted creator on the Channel and Content
 
 
 [Council Members](https://www.notion.so/5ccd854095964c328ea87bcb2d8e6cd2)
