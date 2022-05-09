@@ -76,7 +76,7 @@ const config = {
         // TODO update redirects
         { url: 'https://github.com/LBRYFoundation',
           aliases: ['/github/'] },
-        { url: 'https://chat.lbry.com',
+        { url: 'https://chat.lbry.org',
           aliases: ['/chat/'] }
       ]
     ],
