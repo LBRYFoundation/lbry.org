@@ -86,11 +86,10 @@ const config = {
     search: false,
     nav: [
       // TODO update?
-      { text: 'Swarm', link: '/swarm/' },
-      { text: 'Roadmap', link: '/roadmap/' },
-      { text: 'Verified', link: '/verified/' },
+      { text: 'Projects', link: '/projects/' },
+      { text: 'Verify', link: '/verify/' },
       { text: 'Governance', link: '/governance/' },
-      { text: 'Projects', link: '/projects/' }
+      { text: 'LBRY Communities', link: '/hives/' }
     ],
     sidebar,
     nextLinks: true,
@@ -128,15 +127,8 @@ const config = {
           {
             text: 'LBRY.tech',
             link: 'https://lbry.tech/'
-          },
-          {
-            text: 'LBRY.fund',
-            link: 'https://lbry.fund/'
-          },
-          {
-            text: 'LBRY.tv',
-            link: 'https://lbry.tv/'
-          }]
+          }
+        ]
         }
       ],
       finePrints: [
