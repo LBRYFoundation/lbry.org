@@ -35,7 +35,6 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 
 ### **Responsibilities of this Council Leader**
 
-<aside>
 🦾 - [Creators Council Odysee Channel](https://odysee.com/@cc:c4) MGMT
 - Creator of the Week Post
 - COTW boosting through Curation bot
@@ -43,19 +42,17 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 - Guarantee Weekly Meeting
 - Group agenda MGMT
 
-</aside>
-
 ## Creators Council schedule
 
-![https://i.ibb.co/d2HcpsP/Untitled-Diagram-3.png](https://i.ibb.co/d2HcpsP/Untitled-Diagram-3.png)
+![Creators Council schedule](https://i.ibb.co/d2HcpsP/Untitled-Diagram-3.png)
 
 # Creator of the Week
 
-### Creator of the week -Requisites :
+### Requisites
 
-1. 2 weeks Active in Lbry
-2. Minimum of 7 original uploads **and 1 upload in the last 3 months**
-3. Less than **5k** followers
+- 2 weeks Active in Lbry
+- Minimum of 7 original uploads **and 1 upload in the last 3 months**
+- Less than **5k** followers
 
 ### Nomination and Voting rules for Creator of the Week
 
@@ -63,7 +60,7 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 - Nomination Period: Friday
 - Voting Period: till Wednesday
 
-### Nomination/Voting process:
+## Nomination/Voting process
 
 ### Rules
 
