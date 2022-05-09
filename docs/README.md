@@ -9,7 +9,7 @@ actionButtons:
   link: https://lbry.com/get
 - text: Join Discord
   icon: fa-brands:discord
-  link: https://chat.lbry.com/
+  link: https://chat.lbry.org/
 footer: true
 sitemap:
   changefreq: hourly
