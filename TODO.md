@@ -11,6 +11,6 @@
 - [x] Projects page
 - [ ] Tavern page
 - [ ] Podcast page
-- [ ] Arena page
+- ~~[ ] Arena page~~ No Longer applicable
 - [x] 404 page
 - [ ] Fix grammatical/format errors in the Privacy Policy
