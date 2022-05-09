@@ -132,7 +132,7 @@ const config = {
         }
       ],
       finePrints: [
-        '© 2021 LBRY Foundation Inc',
+        '© {year} LBRY Foundation Inc',
         'With love for community'
       ]
     }
