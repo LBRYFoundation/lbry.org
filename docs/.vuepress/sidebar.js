@@ -3,10 +3,20 @@ module.exports = {
     {
       title: 'Projects',
       children: [
-        '/projects/tavern/',
+        '/projects/swarm/',
         '/projects/podcast/',
-        '/projects/arena/'
+        '/projects/radio/'
       ]
-    },
+    }
+  ],
+  '/governance/': [
+    {
+      title: 'Governance',
+      children: [
+        '/governance/creators-council/',
+        '/governance/curators/',
+        '/governance/marketing/',
+      ]
+    }
   ]
 };
