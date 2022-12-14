@@ -879,10 +879,17 @@
   resolved "https://registry.yarnpkg.com/@iconify/types/-/types-2.0.0.tgz#ab0e9ea681d6c8a1214f30cd741fe3a20cc57f57"
   integrity sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==
 
-"@iconify/vue2@^1.2.1":
-  version "1.2.1"
-  resolved "https://registry.yarnpkg.com/@iconify/vue2/-/vue2-1.2.1.tgz#f858bcfe8554970cca6d8f4c7a7e8015c7933fbb"
-  integrity sha512-aJy/PLs0mqKF5wv6vMc+Pf2+v4TkrlLP15tTU15Tbyw5OSnIGZa64eCkEEJnag2h8+XIf/mx6MOf7m2DE58pHw==
+"@iconify/types@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@iconify/types/-/types-2.0.0.tgz#ab0e9ea681d6c8a1214f30cd741fe3a20cc57f57"
+  integrity sha512-+wluvCrRhXrhyOmRDJ3q8mux9JkKy5SJ/v8ol2tu4FVjyYvtEzkc/3pK15ET6RKg4b4w4BmTk1+gsCUhf21Ykg==
+
+"@iconify/vue2@^2.0.1":
+  version "2.0.1"
+  resolved "https://registry.yarnpkg.com/@iconify/vue2/-/vue2-2.0.1.tgz#07526b527b87cc6b1aa297490eb326253aa16870"
+  integrity sha512-DXQpBedv3Vde9hJnN5XVPIvPgid7MAEdVNQjlE80B31TF3Kb76Wxu6+vwl6mKImvVT1CaZg0mRHCTERTmy7m7A==
+  dependencies:
+    "@iconify/types" "^2.0.0"
 
 "@mrmlnc/readdir-enhanced@^2.2.1":
   version "2.2.1"
