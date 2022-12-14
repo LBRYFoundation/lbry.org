@@ -5,7 +5,7 @@
     "@iconify/json": "^2.1.151",
     "@iconify/vue2": "^1.2.1",
     "@vuepress/plugin-pwa": "^1.9.7",
-    "fs-extra": "^10.1.0",
+    "fs-extra": "^11.1.0",
     "vuepress": "^1.9.7",
     "vuepress-plugin-sitemap": "^2.3.1",
     "vuepress-plugin-zooming": "^1.1.8"
