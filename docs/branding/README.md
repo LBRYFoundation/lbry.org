@@ -1,3 +1,7 @@
+---
+title: Branding Assets
+---
+
 <center>
 <h1>Branding Assets</h1>
 Download official LBRY Foundation branding assets✏️📏🖌️
