@@ -13,5 +13,8 @@
   "scripts": {
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs"
+  },
+  "dependencies": {
+    "request-promise": "^4.2.6"
   }
 }
