@@ -1,4 +1,5 @@
 const sidebar = require('./sidebar.js');
+const additionalPages = require('./additionalPages.js').additionalPages;
 
 const metaTitle = 'LBRY Foundation',
   metaDesc = 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
@@ -10,6 +11,7 @@ const config = {
   title: metaTitle,
   description: metaDesc,
   main: 'layouts/Layout.vue',
+  additionalPages,
   head: [
     // Manifest
     ['link', { rel: 'icon', href: metaLogo }],
