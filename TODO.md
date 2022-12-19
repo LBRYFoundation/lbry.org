@@ -2,12 +2,12 @@
 
 - [ ] Finish home page
 - [x] Privacy Policy
-- [ ] Branding page
+- [x] Branding page
 - [ ] Swarm page
 - [x] ~~Chat page (?)~~
 - [ ] Roadmap page
-- [ ] Verified page
-- [ ] Governance page
+- [x] Verified page
+- [x] Governance page
 - [x] Projects page
 - [ ] Tavern page
 - [ ] Podcast page
