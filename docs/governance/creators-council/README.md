@@ -83,3 +83,5 @@ The Creator's Council is a group of active Lbry creators that helps the foundati
 
 
 [Council Members](https://www.notion.so/5ccd854095964c328ea87bcb2d8e6cd2)
+
+[COTW List](/governance/creators-council/cotw/)
