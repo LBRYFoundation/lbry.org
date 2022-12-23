@@ -51,7 +51,7 @@ aliases:
   imageClass="rounded"
   name="Odysee Server"
   subtitle="Odysee is a video sharing app that’s built on the open-source, decentralized, blockchain-based LBRY network.The use of this LBRY network as a foundation gives Odysee several distinct advantages over centralized video sharing platforms where a single company controls the data.">
-  <a href="https://discord.gg/odysee">
+  <a href="https://chat.odysee.com/">
     Join the Odysee Community Discord Server!
   </a>
 </Person>
