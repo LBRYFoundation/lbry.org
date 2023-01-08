@@ -10,7 +10,7 @@ A verified creator is a role on the Foundation Discord server that displays sepa
 
 ## How to become a verified creator
 
-Request the verified creator role by tagging the @Creator’s Council.
+Request the verified creator role by tagging the `@Creator’s Council`.
 You will be asked to share your LBRY channel.
 If the following requirements are met, you will be made a verified creator.
 
