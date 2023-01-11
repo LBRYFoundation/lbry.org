@@ -90,7 +90,7 @@ const config = {
       // TODO update?
       { text: 'Branding', link: '/branding/'},
       { text: 'Projects', link: '/projects/' },
-      { text: 'Verify', link: '/verify/' },
+      { text: 'Verified', link: '/verified/' },
       { text: 'Governance', link: '/governance/' },
       { text: 'LBRY Communities', link: '/hives/' }
     ],
