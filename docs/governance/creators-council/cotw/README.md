@@ -4,6 +4,10 @@ Every week The Creator’s council votes a new creator of the week. If you wanna
 Here's a list of every channel that have been the creator of the week.
 This list may not reflect the most recent updates as this is a manual process. If you want the most up to date list, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
 
+## Week #115
+Creator of the week: [@techlore](https://odysee.com/@cc:c4/cotw115:e03809a82f38b2425d4214c41b4bd44d133eaebc)
+## Week #114
+Creator of the week: [@AllThingsSecured](https://odysee.com/@cc:c4/cotw114:df2363ca111361ba769803da5b59a0e4909cc1b4)
 ## Week #113
 Creator of the week: [@thenewoil](https://odysee.com/@cc:c4/cotw113:64839149855e764c11d41b2858a2bcbfddc7d0c1)
 ## Week #112
