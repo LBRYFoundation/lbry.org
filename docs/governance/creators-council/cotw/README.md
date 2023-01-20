@@ -1,5 +1,5 @@
 # Creator Of The Week
-Every week The Creator’s council votes a new verified creator of the week. If you wanna know more about this process, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
+Every week The Creator’s council votes a new creator of the week. If you wanna know more about this process, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
 
 Here's a list of every channel that have been the creator of the week.
 This list may not reflect the most recent updates as this is a manual process. If you want the most up to date list, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
