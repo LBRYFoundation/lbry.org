@@ -116,8 +116,6 @@ When it comes to the collection of personal information from children under the 
 
 We do not specifically market to children under the age of 13 years old.
 
-Do we let third-parties, including ad networks or plug-ins collect PII from children under 13?
-
 ## Fair Information Practices
 
 The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
