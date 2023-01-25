@@ -7,16 +7,6 @@ The LBRY Foundation is a US-based non-profit corporation governed by a board of 
 <Person
   avatar="/logo.png"
   imageClass="rounded"
-  name="Julie Sigwart"
-  subtitle="Founding board member of LBRY Foundation, Inc."/>
-<Person
-  avatar="/logo.png"
-  imageClass="rounded"
-  name="Jon Ringo"
-  subtitle="First community elected board member of LBRY Foundation, Inc."/>
-<Person
-  avatar="/logo.png"
-  imageClass="rounded"
   name="Vlad Nikolaev"
   subtitle="Second community elected board member of LBRY Foundation, Inc."/>
 <Person
