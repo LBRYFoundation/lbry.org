@@ -49,7 +49,7 @@ The Creator's Council is a group of active LBRY creators that helps the Foundati
 ## Creator's Council Meetings
 The Creator's Council hosts weekly internal meetings at 17:00 UTC every Sunday.
 
-# Creator of the Week
+# Creator of The Week
 
 ### Requisites
 
@@ -74,7 +74,7 @@ The Creator's Council hosts weekly internal meetings at 17:00 UTC every Sunday.
 ### Process
 
 1. Two CC members nominates 2 channels from Friday to Monday (and try contact)
-2. CC post the current voting round in **#cotw-voting** channel
+2. The CC post the current voting round in **#creator-voting** channel on the Foundation Discord
 3. The public (@Verified Creator and above) votes on the new CoTW
 4. A LBRY post announcing the winner is made (on [the CC channel](https://odysee.com/@cc:c4/)) on Thursday
 5. The winner is announced on [the podcast](https://odysee.com/@LBRYFoundationPodcast:f) (every Friday)
@@ -87,6 +87,21 @@ The Creator's Council hosts weekly internal meetings at 17:00 UTC every Sunday.
 3. Post on the Foundation reddit
 4. Post on Creator's Council Twitter (@lbrycreators) and Mastodon (@cc@lbry.world)
 
+## Creator of The Month
+
+### Process
+1. The CC post a polling round with all four Creator of The Week winners of the past month as candidates in the **#creator-voting** channel on the Foundation Discord
+2. The public (@Verified Creator and above) votes on the new CoTM
+3. A LBRY post announcing the winner is made (on [the CC channel](https://odysee.com/@cc:c4/))
+4. The winner is announced on [the podcast](https://odysee.com/@LBRYFoundationPodcast:f) (every Friday)
+
+### Support
+1. Creator's Council channel post
+2. Post on the Foundation reddit
+3. Post on Creator's Council Twitter (@lbrycreators) and Mastodon (@cc@lbry.world)
+
 [Council Members](https://www.notion.so/5ccd854095964c328ea87bcb2d8e6cd2)
 
 [CoTW List](/governance/creators-council/cotw/)
+
+[CoTM List](/governance/creators-council/cotm/)

@@ -13,9 +13,12 @@ The opinions expressed in this show are the sole responsibility of the authors, 
 
 > Every Friday at 2 p.m. Eastern / UTC-5, the LBRY Foundation sponsors the LBRY Foundation Podcast, an event hosted on the Discord server to talk about new developments in the community, the Foundation-recognized Creator of the Week, another news and events relevant to the LBRY community.
 
-Each Podcast is a recorded record of the entertaining madness that ensued.
+Each Podcast is a recorded record of the entertaining madness that ensued and is avaliable in both Audio (Podcast) and Video (Livecast) form.
 
 Notes, content of interest to the community at large, and special events will also be posted to this Channel.
+
+The hosts are:
+Lex Tenebris, Sandro Linux, Shroom and Jon Ringo
 
 The current maintainer is
 Lex Tenebris
