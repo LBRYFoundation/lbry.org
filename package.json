@@ -2,7 +2,7 @@
   "license": "MIT",
   "devDependencies": {
     "@fontsource/roboto": "^4.5.8",
-    "@iconify/json": "^2.2.11",
+    "@iconify/json": "^2.2.14",
     "@iconify/vue2": "^2.0.1",
     "@vuepress/plugin-pwa": "^1.9.8",
     "fs-extra": "^11.1.0",
