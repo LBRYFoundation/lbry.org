@@ -4,6 +4,10 @@ Every week The Creator’s Council votes a new LBRY Foundation Creator of The We
 Here's a list of every channel that have been the LBRY Foundation Creator of The Week.
 This list may not reflect the most recent updates as this is a manual process. If you want the most up to date list, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
 
+## Week #119
+Creator of the week: [@WebDevSimplified](https://odysee.com/@cc:c4/cotw119:e8d5f63b2a1bb98762efd197f5862eacde720bf9)
+## Week #118
+Creator of the week: [@robgroove](https://odysee.com/@cc:c4/cotw118:4881a53c7796fe4426b0d187a4149daafb33ad51)
 ## Week #117
 Creator of the week: [@Huggbees](https://odysee.com/@cc:c4/cotw117:6e8c40312e960212db0c1b9683c510a93f68f490)
 ## Week #116
