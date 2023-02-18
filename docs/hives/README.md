@@ -1,7 +1,3 @@
----
-aliases:
-- /hives/
----
 ## LBRY Communities
 
 
