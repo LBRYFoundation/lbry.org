@@ -1,3 +1,7 @@
+---
+footer: true
+---
+
 # Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -86,9 +90,9 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 According to CalOPPA, we agree to the following:
 
 * Users can visit our site anonymously.
-  
+
 * Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
-  
+
 * Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
 ### You will be notified of any Privacy Policy changes:
@@ -158,8 +162,8 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-> LBRY Foundation Inc.  
-> 1072 CASITAS PASS RD #122  
-> CARPINTERIA CA 93013  
-> United States  
-> [board@lbry.com](mailto:board@lbry.com)  
+> LBRY Foundation Inc.
+> 1072 CASITAS PASS RD #122
+> CARPINTERIA CA 93013
+> United States
+> [board@lbry.com](mailto:board@lbry.com)

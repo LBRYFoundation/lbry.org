@@ -1,6 +1,7 @@
 ---
 aliases:
 - /radio/
+footer: true
 ---
 
 # 📻 Radio Foundation

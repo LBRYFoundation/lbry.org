@@ -1,3 +1,7 @@
+---
+footer: true
+---
+
 # Foundation Board
 The LBRY Foundation is a US-based non-profit corporation governed by a board of directors. Followed by its councils formed by members of the community. The Foundation currently has five board members and board members serve a three year term but can be re-elected. 
 <!-- TODO probably add more about the governance here -->

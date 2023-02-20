@@ -1,6 +1,7 @@
 ---
 aliases:
 - /podcast/
+footer: true
 ---
 
 # 🎧 Community Podcast

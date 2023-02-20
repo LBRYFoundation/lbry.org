@@ -8,11 +8,12 @@ module.exports = {
     const projects = await rp('https://raw.githubusercontent.com/LBRYFoundation/Awesome-LBRY/master/README.md')
     return [
         {
-            title: 'Awesome LBRY Projects',
-            path: '/projects/',
-            editLink: true,
-            editLinkPattern: ':LBRYFoundation/Awesome-LBRY',
-            content: projects
+          title: 'Awesome LBRY Projects',
+          path: '/projects/',
+          footer: true,
+          editLink: true,
+          editLinkPattern: ':LBRYFoundation/Awesome-LBRY',
+          content: projects
         }
     ]
   }

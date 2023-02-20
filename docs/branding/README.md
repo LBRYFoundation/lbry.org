@@ -1,5 +1,6 @@
 ---
 title: Branding Assets
+footer: true
 ---
 
 <center>
@@ -11,7 +12,10 @@ Download official LBRY Foundation branding assets✏️📏🖌️
 <h2>Foundation Branding</h2>
 <img src="/logo-vertical.svg" width="200px">
 <br/>
-<a class="download-assets" href="/branding/assets.zip">Download assets</a>
+<a class="download-button" target="_blank" rel="noopener" href="/branding/assets.zip">
+          <IconifyIcon name="Download" icon="fa-solid:arrow-alt-circle-down" />
+          <span>Download assets</span>
+        </a>
 </div>
 
 ### Logo
@@ -53,6 +57,23 @@ Download official LBRY Foundation branding assets✏️📏🖌️
   flex-direction: column;
   align-items: center;
   text-align: center;
+}
+
+.assets .download-button {
+  color: #fff;
+  display: inline-flex;
+  align-items: center;
+  gap: 10px;
+  padding: 15px 20px;
+  border-radius: 8px;
+  margin-top: 20px;
+  line-height: 1;
+  text-decoration: none;
+  background-color: var(--tertiaryBG);
+}
+
+.assets .download-button:hover {
+  background-color: var(--secondaryBG);
 }
 
 .assets h2 {
