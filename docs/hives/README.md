@@ -1,7 +1,8 @@
+---
+footer: true
+---
+
 ## LBRY Communities
-
-
-
 
 <Person
 avatar="/img/lbry-community-gaming.png"

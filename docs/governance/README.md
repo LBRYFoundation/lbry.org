@@ -1,3 +1,7 @@
+---
+footer: true
+---
+
 # Foundation Board
 The LBRY Foundation is a US-based non-profit corporation governed by a board of directors. Followed by its councils formed by members of is community.
 <!-- TODO probably add more about the governance here -->
