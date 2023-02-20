@@ -1,6 +1,7 @@
 ---
 aliases:
 - /creators-council/
+- /cc/
 footer: true
 ---
 
@@ -32,11 +33,11 @@ The Creator's Council is a group of active LBRY creators that helps the Foundati
 
 1. Once every 6 months the council must have a new leader election
 2. One member can be only be re-elected once
-3. Its a paid position
+3. It is a paid position
 
 ### **Responsibilities of this Council Leader**
 
-🦾 - [Creators Council Odysee Channel](https://odysee.com/@cc:c4) MGMT
+🦾 - [Creators Council Odysee Channel](https://odysee.com/@cc:c4) <abbr title="Management">MGMT</abbr>
 - Creator of the Week Post
 - <abbr title="Creator of The Week">CoTW</abbr> boosting through Curation bot
 - <abbr title="Creator's Council">CC</abbr> Budget MGMT (For tipping active members)
