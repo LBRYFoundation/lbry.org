@@ -1,6 +1,7 @@
 ---
 aliases:
 - /swarm/
+footer: true
 ---
 
 # 🐝 Swarm

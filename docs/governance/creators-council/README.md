@@ -1,6 +1,7 @@
 ---
 aliases:
 - /creators-council/
+footer: true
 ---
 
 
