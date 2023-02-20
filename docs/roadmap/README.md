@@ -1,4 +1,5 @@
 ---
 aliases:
 - /curators/
+footer: true
 ---

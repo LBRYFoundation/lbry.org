@@ -2,6 +2,7 @@
 aliases:
 - /creators-council/
 - /verify/
+footer: true
 ---
 
 # Become a verified creator ![verified](/verified.webp)
