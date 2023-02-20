@@ -7,7 +7,7 @@ footer: true
 
 # Become a verified creator ![verified](/verified.webp)
 
-A verified creator is a role on the Foundation Discord server that displays separate from other roles. It is a group of creators who have gone through the process described below to verify that they are an active creator on the LBRY platform. The role is largely a vanity role, though it is expected that verified creators help new creators familiarize themselves with LBRY when they can. The group might also be called on for input on decisions as the infrastructure of the Foundation develops.
+A verified creator is a role on the Foundation Discord server that displays separate from other roles. It is a group of creators who have gone through the process described below to verify that they are an active creator on the LBRY platform. The role is largely a vanity role, though it is expected that verified creators help new creators familiarize themselves with LBRY when they can. They can also vote on [Creator of The Week](../governance/creators-council/#creator-of-the-week) (CoTW) and [Creator of The Month](../governance/creators-council/#creator-of-the-month) (CoTM). The group might also be called on for input on decisions as the infrastructure of the Foundation develops.
 
 ## How to become a verified creator
 
