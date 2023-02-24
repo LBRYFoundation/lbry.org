@@ -116,6 +116,10 @@ const config = {
             link: '/branding/'
           },
           {
+            text: 'Ko-fi Donations',
+            link: 'https://ko-fi.com/lbryfoundation'
+          },
+          {
             text: 'GitHub Repo',
             link: 'https://github.com/LBRYFoundation/lbry.org'
           }]
