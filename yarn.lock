@@ -829,10 +829,10 @@
     lodash "^4.17.13"
     to-fast-properties "^2.0.0"
 
-"@fontsource/roboto@^5.0.3":
-  version "5.0.3"
-  resolved "https://registry.yarnpkg.com/@fontsource/roboto/-/roboto-5.0.3.tgz#bff6ce627b8c537e8f56e6f2bba221f425bfdf78"
-  integrity sha512-jbZDFwEFARDlo8TqG7th/xjhuq87GYfFpFb+uxuy+0Ng1bhRVgBRWlLj8+WIKhCTOr+h4QXbjpybLWFLUirOwQ==
+"@fontsource/roboto@^5.0.5":
+  version "5.0.5"
+  resolved "https://registry.yarnpkg.com/@fontsource/roboto/-/roboto-5.0.5.tgz#56e4b2af0d684d6e33e311f307adb958fcf8eabd"
+  integrity sha512-IMXFq5AMgGx0sgNLfwWsmPuy3qa7lmDmQcXXihqwF4mT2UpD725cbxZj93ERY793OWon+6V1ANax02I3nt9+4w==
 
 "@hapi/address@2.x.x":
   version "2.1.4"
