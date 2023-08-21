@@ -1285,13 +1285,13 @@
     "@vuepress/types" "1.9.10"
     nprogress "^0.2.0"
 
-"@vuepress/plugin-pwa@^1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.9.9.tgz#7e8dc0ce9081552c840d3ced02a0bbb52d730c5b"
-  integrity sha512-69kTlTl/mdWSD/+odz73oXvi2SuT8GO+e7YlPZFloeZR3kffC6ywYMip6m4MOalKOSUf0XzD3hCqCNVha6vo8Q==
+"@vuepress/plugin-pwa@^1.9.10":
+  version "1.9.10"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-pwa/-/plugin-pwa-1.9.10.tgz#52c91dee8384fbd07c046514aa5bf244ac8b7223"
+  integrity sha512-pP3CUYKyIpnePswZGj9sBHJUzOczSmWSkmdoJftEnsBQT10YycJ81khS9WKEGPbTurbCOCCXsOzaEqCLysyYaA==
   dependencies:
-    "@vuepress/shared-utils" "1.9.9"
-    "@vuepress/types" "1.9.9"
+    "@vuepress/shared-utils" "1.9.10"
+    "@vuepress/types" "1.9.10"
     register-service-worker "^1.7.0"
     workbox-build "^4.3.1"
 
@@ -1325,21 +1325,6 @@
     toml "^3.0.0"
     upath "^1.1.0"
 
-"@vuepress/shared-utils@1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/shared-utils/-/shared-utils-1.9.9.tgz#f6561ec2264d54e4e459d17678766ffe09f4bfc6"
-  integrity sha512-qhk/7QF5LgMEXhEB1hlqreGFgkz4p2pmaBBNFxnAnYmSwmyO+u/oFOpZLI16QRx9Wg6ekR2ENmByQLxV7y4lJg==
-  dependencies:
-    chalk "^2.3.2"
-    escape-html "^1.0.3"
-    fs-extra "^7.0.1"
-    globby "^9.2.0"
-    gray-matter "^4.0.1"
-    hash-sum "^1.0.2"
-    semver "^6.0.0"
-    toml "^3.0.0"
-    upath "^1.1.0"
-
 "@vuepress/theme-default@1.9.10":
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/theme-default/-/theme-default-1.9.10.tgz#6e916e2164ab3d9cc9567610e4ada9c3a568f206"
@@ -1360,15 +1345,6 @@
   version "1.9.10"
   resolved "https://registry.yarnpkg.com/@vuepress/types/-/types-1.9.10.tgz#5b8d112a0d7dbaffce1e5d39b66754412c83ecc6"
   integrity sha512-TDNQn4og85onmBpLTTXXmncW3rUnYGr2MkuI8OIFJZetDNM49t1WbjNVlrT+kx7C6qXi6okDQgrHGYXajHZWfg==
-  dependencies:
-    "@types/markdown-it" "^10.0.0"
-    "@types/webpack-dev-server" "^3"
-    webpack-chain "^6.0.0"
-
-"@vuepress/types@1.9.9":
-  version "1.9.9"
-  resolved "https://registry.yarnpkg.com/@vuepress/types/-/types-1.9.9.tgz#7c21e4c91c13e58e2ff303ded9ad7425805cb07d"
-  integrity sha512-ukGW49ILzLhIc7CltHMr+BeIjWKloJNN1mrvbDz3beycp9b9kgH+DXNdRIK9QCKr4fJsy7x08vNMwZr9Nq/PTQ==
   dependencies:
     "@types/markdown-it" "^10.0.0"
     "@types/webpack-dev-server" "^3"
