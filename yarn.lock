@@ -866,10 +866,10 @@
   dependencies:
     "@hapi/hoek" "^8.3.0"
 
-"@iconify/json@^2.2.169":
-  version "2.2.169"
-  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.2.169.tgz#5fa779dfa10136ee259f937011ed53b7da0e873b"
-  integrity sha512-hAvyagTw8ir5fX/xMcSKZI6bMipmac/k24FqAutbosgwx7YfamtkEjO3FE0Y0abOiBTposa2ETcRnTBLo6skEA==
+"@iconify/json@^2.2.172":
+  version "2.2.172"
+  resolved "https://registry.yarnpkg.com/@iconify/json/-/json-2.2.172.tgz#82a860e3bf13b618eca1ccb1055527dddb206969"
+  integrity sha512-/QX702onUWOyj7RZyZD1x+QgrjYMUHRPGaz7ycqXg+YOcxYKZ0pZ6HqaL6njstTc9THrWnTF0ZsQEM1eCq86Ag==
   dependencies:
     "@iconify/types" "*"
     pathe "^1.1.0"
