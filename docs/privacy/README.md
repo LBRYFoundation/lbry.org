@@ -162,8 +162,8 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-> LBRY Foundation Inc.
-> 1072 CASITAS PASS RD #122
-> CARPINTERIA CA 93013
-> United States
+> The LBRY Foundation
+> 30 N Gould St #43809
+> Sheridan, WY 82801
+> USA
 > [board@lbry.com](mailto:board@lbry.com)
