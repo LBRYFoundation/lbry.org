@@ -15,9 +15,6 @@ module.exports = {
       title: 'Governance',
       children: [
         '/governance/',
-        '/governance/creators-council/',
-        '/governance/curators/',
-        '/governance/marketing/',
       ]
     }
   ]
