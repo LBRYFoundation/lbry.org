@@ -21,10 +21,6 @@
           <span>{{ abtn.text }}</span>
         </a>
       </p>
-      <a class="ko-fi" target="_blank" href="https://ko-fi.com/lbryfoundation">
-        <img src="/img/kofi.png" alt="Ko-Fi Donations">
-        <span>Support us on Ko-Fi</span>
-      </a>
     </header>
 
     <Content class="content" />
