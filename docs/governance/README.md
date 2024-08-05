@@ -21,7 +21,7 @@ The LBRY Foundation is a US-based non-profit corporation governed by a board of 
 <Person
   avatar="/logo.png"
   imageClass="rounded"
-  name="Ben 'Ben'"
+  name="Ben 'ben221199'"
   subtitle="Board Chief Technical Officer"/>
 <Person
   avatar="/logo.png"
