@@ -3,10 +3,7 @@ module.exports = {
     {
       title: 'Projects',
       children: [
-        '/projects/',
-        '/projects/swarm/',
-        '/projects/podcast/',
-        '/projects/radio/'
+        '/projects/'
       ]
     }
   ],
