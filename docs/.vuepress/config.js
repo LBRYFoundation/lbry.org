@@ -89,7 +89,7 @@ const config = {
     nav: [
       // TODO update?
       { text: 'Projects', link: '/projects/' },
-      { text: 'Verified', link: '/verified/' },
+//      { text: 'Verified', link: '/verified/' },
       { text: 'Governance', link: '/governance/' },
       { text: 'LBRY Communities', link: '/hives/' }
     ],
@@ -115,10 +115,10 @@ const config = {
             text: 'Branding',
             link: '/branding/'
           },
-          {
-            text: 'Ko-fi Donations',
-            link: 'https://ko-fi.com/lbryfoundation'
-          },
+//        {
+//         text: 'Ko-fi Donations',
+//         link: 'https://ko-fi.com/lbryfoundation'
+//        },
           {
             text: 'GitHub Repo',
             link: 'https://github.com/LBRYFoundation/lbry.org'

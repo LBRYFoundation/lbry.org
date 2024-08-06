@@ -3,10 +3,7 @@ module.exports = {
     {
       title: 'Projects',
       children: [
-        '/projects/',
-        '/projects/swarm/',
-        '/projects/podcast/',
-        '/projects/radio/'
+        '/projects/'
       ]
     }
   ],
@@ -15,9 +12,6 @@ module.exports = {
       title: 'Governance',
       children: [
         '/governance/',
-        '/governance/creators-council/',
-        '/governance/curators/',
-        '/governance/marketing/',
       ]
     }
   ]

@@ -21,10 +21,6 @@
           <span>{{ abtn.text }}</span>
         </a>
       </p>
-      <a class="ko-fi" target="_blank" href="https://ko-fi.com/lbryfoundation">
-        <img src="/img/kofi.png" alt="Ko-Fi Donations">
-        <span>Support us on Ko-Fi</span>
-      </a>
     </header>
 
     <Content class="content" />
@@ -129,25 +125,6 @@ export default {
       margin-bottom 0
     hr
       margin 0
-  .ko-fi
-    color var(--counterAccent)
-    display inline-flex
-    width fit-content
-    margin 0px auto 0 auto
-    padding 15px 20px
-    align-items center
-    font-size 20px
-    font-weight 500
-    background-color var(--tertiaryBG)
-    border-radius 8px
-    gap 10px
-    line-height 1
-    img
-      height 20px
-    span
-      margin 0
-  .ko-fi:hover
-    background-color var(--secondaryBG)
 // @media (max-width: $MQNarrow)
 @media (max-width: $MQMobile)
   .home
@@ -173,9 +150,4 @@ export default {
       width calc(100% - 40px)
     & + .footer
       margin-top 0
-    .ko-fi
-      padding 10px 15px
-      font-size 18px
-      img
-        height 18px
 </style>
