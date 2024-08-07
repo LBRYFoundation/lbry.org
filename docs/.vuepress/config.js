@@ -1,7 +1,7 @@
 const sidebar = require('./sidebar.js');
 const additionalPages = require('./additionalPages.js').additionalPages;
 
-const metaTitle = 'LBRY Foundation',
+const metaTitle = 'The LBRY Foundation',
   metaDesc = 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
   metaURL = 'https://lbry.org',
   metaLogo = '/logo.png',
@@ -138,7 +138,7 @@ const config = {
         }
       ],
       finePrints: [
-        '© {year} LBRY Foundation Inc',
+        '© {year} The LBRY Foundation',
         'With love for community'
       ]
     }
