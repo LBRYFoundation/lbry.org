@@ -166,4 +166,4 @@ If there are any questions regarding this privacy policy, you may contact us usi
 > 30 N Gould St #43809
 > Sheridan, WY 82801
 > USA
-> [board@lbry.com](mailto:board@lbry.com)
+> [board@lbry.org](mailto:board@lbry.org)
