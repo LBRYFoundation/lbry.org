@@ -6,10 +6,10 @@ tagline: LBRY is a secure, open, and community-run digital marketplace.
 actionButtons:
 - text: Download LBRY
   icon: fa-solid:arrow-alt-circle-down
-  link: https://lbry.com/get
+  link: https://github.com/LBRYFoundation/lbry-desktop/releases
 - text: Join Discord
   icon: fa-brands:discord
-  link: https://chat.lbry.com/
+  link: https://chat.lbry.org/
 footer: true
 sitemap:
   changefreq: hourly

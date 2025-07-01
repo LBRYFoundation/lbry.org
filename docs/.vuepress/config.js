@@ -127,10 +127,6 @@ const config = {
         {
           title: 'Other Sites',
           rows: [{
-            text: 'LBRY.com',
-            link: 'https://lbry.com/'
-          },
-          {
             text: 'LBRY.tech',
             link: 'https://lbry.tech/'
           }
