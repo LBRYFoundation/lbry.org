@@ -88,6 +88,7 @@ const config = {
     search: false,
     nav: [
       // TODO update?
+      { text: 'Downloads', link: '/downloads/' },
       { text: 'Projects', link: '/projects/' },
 //      { text: 'Verified', link: '/verified/' },
       { text: 'Governance', link: '/governance/' },
