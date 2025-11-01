@@ -4,7 +4,7 @@ heroImage: /logo-fit.svg
 heroText: Welcome to LBRY.
 tagline: LBRY is a secure, open, and community-run digital marketplace.
 actionButtons:
-- text: Download LBRY
+- text: Download
   icon: fa-solid:arrow-alt-circle-down
   link: /downloads
 - text: Join Discord
