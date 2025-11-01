@@ -1,4 +1,6 @@
 ---
+editLink: false
+
 home: true
 heroImage: /logo-fit.svg
 heroText: Welcome to LBRY.

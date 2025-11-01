@@ -1,9 +1,9 @@
-const fs = require('fs-extra');
+const fs = require('fs');
 const path = require('path');
 
 function getTemplate (path) {
-  const result = '<!DOCTYPE html>' +
-    '<html>' +
+  return '<!DOCTYPE html>' +
+    '<html lang="en">' +
     '<head>' +
       '<meta charset="utf-8">' +
       '<title>Redirecting...</title>' +
@@ -11,8 +11,6 @@ function getTemplate (path) {
       '<meta http-equiv="refresh" content="0; url=' + path + '">' +
     '</head>' +
     '</html>';
-
-  return result;
 }
 
 function getAliases (options, ctx) {
@@ -45,8 +43,8 @@ module.exports = (options, ctx) => ({
     Object.assign($page.frontmatter, { _aliases: getAliases(options, ctx) });
   },
   beforeDevServer(app) {
-    getAliases(options, ctx).forEach(({ url, aliases }) => 
-      aliases.forEach(alias => 
+    getAliases(options, ctx).forEach(({ url, aliases }) =>
+      aliases.forEach(alias =>
         app.get(alias, (_, res) => res.redirect(url)))
     );
   },
@@ -63,7 +61,7 @@ module.exports = (options, ctx) => ({
           ];
         filePaths.forEach(async file => {
           const aliasPagePath = path.resolve(outDir, file)
-          await fs.outputFile(aliasPagePath, getTemplate(url))
+          fs.writeFileSync(aliasPagePath,getTemplate(url))
         });
       });
     });

@@ -1,20 +1,14 @@
 {
   "license": "MIT",
   "devDependencies": {
-    "@fontsource/roboto": "^5.2.6",
-    "@iconify/json": "^2.2.267",
-    "@iconify/vue2": "^2.1.0",
-    "@vuepress/plugin-pwa": "^1.9.10",
-    "fs-extra": "^11.2.0",
-    "vuepress": "^1.9.10",
-    "vuepress-plugin-sitemap": "^2.3.1",
-    "vuepress-plugin-zooming": "^1.1.8"
+    "@fontsource/roboto": "^5.2.8",
+    "@iconify/json": "^2.2.402",
+    "@iconify/vue": "^5.0.0",
+    "vitepress": "^1.6.4"
   },
   "scripts": {
-    "docs:dev": "vuepress dev docs",
-    "docs:build": "vuepress build docs"
-  },
-  "dependencies": {
-    "request-promise": "^4.2.6"
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
   }
 }
