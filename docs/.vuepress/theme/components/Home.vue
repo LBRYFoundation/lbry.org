@@ -12,7 +12,7 @@
         <a
           class="action-button"
           v-for="abtn in data.actionButtons"
-          target="_blank"
+          :target="abtn.target"
           rel="noopener"
           :key="abtn.text"
           :href="abtn.link"
