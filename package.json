@@ -4,6 +4,7 @@
     "@fontsource/roboto": "^5.2.8",
     "@iconify/json": "^2.2.402",
     "@iconify/vue": "^5.0.0",
+    "stylus": "^0.64.0",
     "vitepress": "^1.6.4"
   },
   "scripts": {

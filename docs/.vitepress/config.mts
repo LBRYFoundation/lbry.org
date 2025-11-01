@@ -1,5 +1,6 @@
 import { defineConfig } from 'vitepress';
 
+/** @type {import('vitepress').DefaultTheme.Config} */
 export default defineConfig({
   appearance: 'force-dark',
   lang: 'en-US',
