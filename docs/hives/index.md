@@ -5,13 +5,13 @@ footer: true
 ## LBRY Communities
 
 <Person
-avatar="/img/lbry-community-gaming.png"
-imageClass="rounded"
-name="LBRY Community Gaming"
-subtitle="A gaming community that hosts event once in a while, where you gather together playing games, and most importantly having fun. They also offer LBC rewards for participating in these events.">
-<a href="https://discord.gg/d7y5QW3RSB">
-  Join the LBRY Community Gaming Discord Server!
-</a>
+  avatar="/img/lbry-community-gaming.png"
+  imageClass="rounded"
+  name="LBRY Community Gaming"
+  subtitle="A gaming community that hosts event once in a while, where you gather together playing games, and most importantly having fun. They also offer LBC rewards for participating in these events.">
+  <a href="https://discord.gg/d7y5QW3RSB">
+    Join the LBRY Community Gaming Discord Server!
+  </a>
 </Person>
 <Person
   avatar="https://i.ibb.co/s2wPPRY/MUSICHIVE-LOGO.gif"

@@ -1,8 +1,38 @@
-/*:root{*/
-/*  --vp-c-bg: #072a46;*/
-/*  --vp-c-bg-alt: #072a46;*/
-/*  --vp-c-divider: #27E4EB;*/
-/*  --vp-c-text-1: white;*/
-/*  --vp-nav-bg-color: #041523;*/
-/*  --vp-nav-logo-height: 2.6rem;*/
-/*}*/
+:root{
+  /*LBRY Colors*/
+  --accent: #27E4EB;
+
+  --primaryBG: #072A46;
+  --secondaryBG: #051D31;
+  --tertiaryBG: #041523;
+
+  /*VitePress customizations*/
+  --vp-button-brand-bg: var(--accent);
+  --vp-button-brand-hover-bg: var(--secondaryBG);
+  --vp-button-brand-text: var(--secondaryBG);
+
+  --vp-button-alt-bg: var(--secondaryBG);
+  --vp-button-alt-hover-bg: var(--accent);
+  --vp-button-alt-hover-text: var(--secondaryBG);
+
+  --vp-c-bg: var(--primaryBG);
+  --vp-c-bg-soft: var(--secondaryBG);
+
+  --vp-c-bg-alt: var(--primaryBG);
+
+  --vp-c-gutter: var(--accent);
+
+  --vp-nav-bg-color: var(--tertiaryBG);
+
+
+  --vp-c-divider: var(--accent);
+  /*--vp-c-text-1: white;*/
+
+  --vp-nav-logo-height: 2.6rem;
+
+  /*--counterAccent:#fff;*/
+}
+
+:root .home.top{
+  --vp-c-bg-alt: var(--tertiaryBG);
+}

@@ -6,9 +6,17 @@ export default defineConfig({
   lang: 'en-US',
   title: 'The LBRY Foundation',
   description: 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
+  sitemap: {
+    hostname: 'lbry.org',
+  },
   themeConfig: {
     editLink: {
-      pattern: 'https://github.com/LBRYFoundation/lbry.org/edit/master/docs/:path',
+      pattern: ({ filePath }) => {
+        if(filePath==='projects/index.md'){
+          return `https://github.com/LBRYFoundation/Awesome-LBRY/edit/main/README.md`;
+        }
+        return `https://github.com/LBRYFoundation/lbry.org/edit/master/docs/${filePath}`;
+      },
       text: 'Improve this page on GitHub!',
     },
     footer: {
@@ -19,27 +27,54 @@ export default defineConfig({
     nav: [
       {
         text: 'Downloads',
-        link: '/downloads'
+        link: '/downloads/'
       },
       {
         text: 'Projects',
-        link: '/projects'
+        link: '/projects/'
       },
       // {
       //   text: 'Verified',
-      //   link: '/verified'
+      //   link: '/verified/'
       // },
       {
         text: 'Governance',
-        link: '/governance'
+        link: '/governance/'
       },
       {
         text: 'LBRY Communities',
-        link: '/hives'
+        link: '/hives/'
       }
     ],
     search: {
       provider: 'local',
+    },
+    outline: false,
+    sidebar: {
+      '/projects/': [
+        {
+          title: 'Projects',
+          collapsed: false,
+          items: [
+            {
+              text:'Projects',
+              link:'/projects/',
+            },
+          ],
+        },
+      ],
+      '/governance/': [
+        {
+          title: 'Governance',
+          collapsed: false,
+          items: [
+            {
+              text:'Governance',
+              link:'/governance/',
+            },
+          ],
+        },
+      ],
     },
     siteTitle: false,
     socialLinks: [
