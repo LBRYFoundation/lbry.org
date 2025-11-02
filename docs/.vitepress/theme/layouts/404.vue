@@ -6,7 +6,7 @@
       <p class="description">The page you have requested could not be found.</p>
       <div class="action-buttons">
         <RouterLink class="action-button" :to="'/'">
-          <IconifyIcon icon="fa-solid:arrow-circle-left" />
+          <Icon icon="fa-solid:arrow-circle-left" />
           <span>Go Back Home</span>
         </RouterLink>
       </div>
@@ -84,13 +84,3 @@
       padding 10px 15px
       font-size 18px
 </style>
-
-<script>
-import { Icon, addCollection } from '@iconify/vue'
-import faSolidIcons from '@iconify/json/json/fa-solid.json';
-addCollection(faSolidIcons);
-
-export default {
-  components: { IconifyIcon: Icon }
-}
-</script>

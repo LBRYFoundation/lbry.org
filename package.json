@@ -2,14 +2,15 @@
   "license": "MIT",
   "devDependencies": {
     "@fontsource/roboto": "^5.2.8",
-    "@iconify/json": "^2.2.402",
     "@iconify/vue": "^5.0.0",
     "stylus": "^0.64.0",
-    "vitepress": "^1.6.4"
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.22"
   },
   "scripts": {
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
-  }
+  },
+  "packageManager": "yarn@4.10.3"
 }
