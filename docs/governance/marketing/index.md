@@ -1,6 +1,4 @@
 ---
-aliases:
-- /marketing/
 footer: true
 ---
 

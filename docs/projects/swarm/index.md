@@ -1,6 +1,4 @@
 ---
-aliases:
-- /swarm/
 footer: true
 ---
 

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /tavern/
 footer: true
 ---
 

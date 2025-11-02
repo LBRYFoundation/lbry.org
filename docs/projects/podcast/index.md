@@ -1,6 +1,4 @@
 ---
-aliases:
-- /podcast/
 footer: true
 ---
 

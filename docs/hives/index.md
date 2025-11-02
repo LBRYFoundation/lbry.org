@@ -1,8 +1,9 @@
 ---
 footer: true
+title: Hives
 ---
 
-## LBRY Communities
+# LBRY Communities
 
 <Person
   avatar="/img/lbry-community-gaming.png"
@@ -13,6 +14,7 @@ footer: true
     Join the LBRY Community Gaming Discord Server!
   </a>
 </Person>
+
 <Person
   avatar="https://i.ibb.co/s2wPPRY/MUSICHIVE-LOGO.gif"
   imageClass="rounded"
@@ -22,6 +24,7 @@ footer: true
     Join the MusicHive Discord Server!
   </a>
 </Person>
+
 <Person
   avatar="https://thumbnails.odycdn.com/optimize/s:200:0/quality:95/plain/https://spee.ch/8/b416b166fd9dbe4e.png"
   imageClass="rounded"
@@ -31,6 +34,7 @@ footer: true
     Join the SkateHive Discord Server!
   </a>
 </Person>
+
 <Person
   avatar="https://thumbnails.odycdn.com/optimize/s:200:0/quality:95/plain/https://spee.ch/9/0e2d84f2b297f845.jpg"
   imageClass="rounded"
@@ -40,6 +44,7 @@ footer: true
     Join the LBRY Athletes Discord Server!
   </a>
 </Person>
+
 <Person
   avatar="https://i.imgur.com/zfB5T5e.gif"
   imageClass="rounded"
@@ -49,6 +54,7 @@ footer: true
     Join the LBRY:// Nomics Community Discord Server!
   </a>
 </Person>
+
 <Person
   avatar="https://thumbnails.odycdn.com/optimize/s:200:0/quality:95/plain/https://spee.ch/9/45245681a50082f7.jpg"
   imageClass="rounded"
@@ -58,4 +64,3 @@ footer: true
     Join the Odysee Community Discord Server!
   </a>
 </Person>
-

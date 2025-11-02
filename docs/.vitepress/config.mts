@@ -5,6 +5,7 @@ export default defineConfig({
   appearance: 'force-dark',
   lang: 'en-US',
   title: 'The LBRY Foundation',
+  lastUpdated: true,
   description: 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
   sitemap: {
     hostname: 'https://lbry.org',
@@ -79,8 +80,16 @@ export default defineConfig({
     siteTitle: false,
     socialLinks: [
       {
+        icon: 'discord',
+        link: 'https://chat.lbry.org',
+      },
+      {
         icon: 'github',
         link: 'https://github.com/LBRYFoundation',
+      },
+      {
+        icon: 'reddit',
+        link: 'https://reddit.com/r/lbry',
       },
       {
         icon: 'x', // or "twitter"

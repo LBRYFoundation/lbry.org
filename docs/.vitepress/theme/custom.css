@@ -1,3 +1,5 @@
+@import '@fontsource/roboto';
+
 :root{
   /*LBRY Colors*/
   --accent: #27E4EB;
@@ -33,6 +35,8 @@
   /*--vp-c-text-1: white;*/
 
   --vp-nav-logo-height: 2.6rem;
+
+  --vp-font-family-base: Roboto, sans-serif;
 
   /*--counterAccent:#fff;*/
 }

@@ -1,6 +1,4 @@
 ---
-aliases:
-- /radio/
 footer: true
 ---
 

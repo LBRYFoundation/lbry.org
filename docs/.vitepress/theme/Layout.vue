@@ -1,171 +1,94 @@
 <script setup>
+import {useData} from "vitepress";
 import DefaultTheme from 'vitepress/theme';
 
-
-// <!--import { useData } from 'vitepress';-->
-// <!--import Footer from "./components/Footer.vue";-->
-// <!--import Navbar from "./components/Navbar.vue";-->
-// <!--import Home from "./components/Home.vue";-->
-// <!--const { page } = useData();-->
+const { page } = useData();
 </script>
 
-<!--<script>-->
-<!--// import Navbar from '@theme/components/Navbar.vue'-->
-<!--// import Page from '@parent-theme/components/Page.vue'-->
-<!--// import Sidebar from '@parent-theme/components/Sidebar.vue'-->
-<!--// import Footer from '@theme/components/Footer.vue'-->
-<!--// import { resolveSidebarItems } from '@parent-theme/util'-->
-<!--// export default {-->
-<!--//   name: 'Layout',-->
-<!--//   components: {-->
-<!--//     Home,-->
-<!--//     Page,-->
-<!--//     Sidebar,-->
-<!--//     Navbar,-->
-<!--//     Footer-->
-<!--//   },-->
-<!--//   data () {-->
-<!--//     return {-->
-<!--//       isSidebarOpen: false-->
-<!--//     }-->
-<!--//   },-->
-<!--//   computed: {-->
-<!--//     shouldShowNavbar () {-->
-<!--//       const { themeConfig } = this.$site-->
-<!--//       const { frontmatter } = this.$page-->
-<!--//       if (-->
-<!--//         frontmatter.navbar === false-->
-<!--//         || themeConfig.navbar === false) {-->
-<!--//         return false-->
-<!--//       }-->
-<!--//       return (-->
-<!--//         this.$title-->
-<!--//         || themeConfig.logo-->
-<!--//         || themeConfig.repo-->
-<!--//         || themeConfig.nav-->
-<!--//         || this.$themeLocaleConfig.nav-->
-<!--//       )-->
-<!--//     },-->
-<!--//     shouldShowSidebar () {-->
-<!--//       const { frontmatter } = this.$page-->
-<!--//       return (-->
-<!--//         !frontmatter.home-->
-<!--//         && frontmatter.sidebar !== false-->
-<!--//         && this.sidebarItems.length-->
-<!--//       )-->
-<!--//     },-->
-<!--//     sidebarItems () {-->
-<!--//       return resolveSidebarItems(-->
-<!--//         this.$page,-->
-<!--//         this.$page.regularPath,-->
-<!--//         this.$site,-->
-<!--//         this.$localePath-->
-<!--//       )-->
-<!--//     },-->
-<!--//     pageClasses () {-->
-<!--//       const userPageClass = this.$page.frontmatter.pageClass-->
-<!--//       return [-->
-<!--//         {-->
-<!--//           'no-navbar': !this.shouldShowNavbar,-->
-<!--//           'sidebar-open': this.isSidebarOpen,-->
-<!--//           'no-sidebar': !this.shouldShowSidebar-->
-<!--//         },-->
-<!--//         userPageClass-->
-<!--//       ]-->
-<!--//     }-->
-<!--//   },-->
-<!--//   mounted () {-->
-<!--//     this.$router.afterEach(() => {-->
-<!--//       this.isSidebarOpen = false-->
-<!--//     })-->
-<!--//   },-->
-<!--//   methods: {-->
-<!--//     toggleSidebar (to) {-->
-<!--//       this.isSidebarOpen = typeof to === 'boolean' ? to : !this.isSidebarOpen-->
-<!--//       this.$emit('toggle-sidebar', this.isSidebarOpen)-->
-<!--//     },-->
-<!--//     // side swipe-->
-<!--//     onTouchStart (e) {-->
-<!--//       this.touchStart = {-->
-<!--//         x: e.changedTouches[0].clientX,-->
-<!--//         y: e.changedTouches[0].clientY-->
-<!--//       }-->
-<!--//     },-->
-<!--//     onTouchEnd (e) {-->
-<!--//       const dx = e.changedTouches[0].clientX - this.touchStart.x-->
-<!--//       const dy = e.changedTouches[0].clientY - this.touchStart.y-->
-<!--//       if (Math.abs(dx) > Math.abs(dy) && Math.abs(dx) > 40) {-->
-<!--//         if (dx > 0 && this.touchStart.x <= 80) {-->
-<!--//           this.toggleSidebar(true)-->
-<!--//         } else {-->
-<!--//           this.toggleSidebar(false)-->
-<!--//         }-->
-<!--//       }-->
-<!--//     }-->
-<!--//   }-->
-<!--// }-->
-<!--</script>-->
+<style scoped lang="stylus">
+.error-page
+  padding 2rem 2.5rem
+  display flex
+  flex-direction column
+  justify-content center
+  align-items center
+  text-align center
+  gap 40px
+  width auto
+  height calc(100vh - 4rem)
+  & > img
+    filter grayscale()
+    width 200px
+    flex none
+  .content
+    display flex
+    flex-direction column
+    justify-content center
+    align-items center
+    gap 10px
+  h1
+    font-size 48px
+    margin 0
+  .description
+    width 100%
+    font-size 26px
+    line-height 1.3
+    color var(--text)
+    margin 0
+  .action-buttons
+    display flex
+    justify-content space-evenly
+    align-self center
+    flex-wrap wrap
+    gap 20px
+    .action-button
+      display inline-flex
+      align-items center
+      gap 10px
+      padding 15px 20px
+      font-size 20px
+      font-weight 500
+      flex-direction row
+      color var(--counterAccent)
+      background-color var(--tertiaryBG)
+      border-radius 8px
+      line-height 1
+      &:hover
+        background-color var(--secondaryBG)
+        text-decoration none
 
-<!--<template>-->
-<!--&lt;!&ndash;  <div&ndash;&gt;-->
-<!--&lt;!&ndash;    class="theme-container"&ndash;&gt;-->
-<!--&lt;!&ndash;    :class="pageClasses"&ndash;&gt;-->
-<!--&lt;!&ndash;    @touchstart="onTouchStart"&ndash;&gt;-->
-<!--&lt;!&ndash;    @touchend="onTouchEnd"&ndash;&gt;-->
-<!--&lt;!&ndash;  >&ndash;&gt;-->
-<!--&lt;!&ndash;    <Navbar&ndash;&gt;-->
-<!--&lt;!&ndash;      v-if="shouldShowNavbar"&ndash;&gt;-->
-<!--&lt;!&ndash;      @toggle-sidebar="toggleSidebar"&ndash;&gt;-->
-<!--&lt;!&ndash;    />&ndash;&gt;-->
+@media (max-width: $MQNarrow)
+  .error-page
+    padding 2rem
 
-<!--&lt;!&ndash;    <div&ndash;&gt;-->
-<!--&lt;!&ndash;      class="sidebar-mask"&ndash;&gt;-->
-<!--&lt;!&ndash;      @click="toggleSidebar(false)"&ndash;&gt;-->
-<!--&lt;!&ndash;    />&ndash;&gt;-->
-
-<!--&lt;!&ndash;    <Sidebar&ndash;&gt;-->
-<!--&lt;!&ndash;      :items="sidebarItems"&ndash;&gt;-->
-<!--&lt;!&ndash;      @toggle-sidebar="toggleSidebar"&ndash;&gt;-->
-<!--&lt;!&ndash;    >&ndash;&gt;-->
-<!--&lt;!&ndash;      <template #top>&ndash;&gt;-->
-<!--&lt;!&ndash;        <slot name="sidebar-top" />&ndash;&gt;-->
-<!--&lt;!&ndash;      </template>&ndash;&gt;-->
-<!--&lt;!&ndash;      <template #bottom>&ndash;&gt;-->
-<!--&lt;!&ndash;        <slot name="sidebar-bottom" />&ndash;&gt;-->
-<!--&lt;!&ndash;      </template>&ndash;&gt;-->
-<!--&lt;!&ndash;    </Sidebar>&ndash;&gt;-->
-
-<!--&lt;!&ndash;    <Home v-if="page.frontmatter.home" />&ndash;&gt;-->
-
-<!--&lt;!&ndash;    <Page&ndash;&gt;-->
-<!--&lt;!&ndash;      v-else&ndash;&gt;-->
-<!--&lt;!&ndash;      :sidebar-items="sidebarItems"&ndash;&gt;-->
-<!--&lt;!&ndash;    >&ndash;&gt;-->
-<!--&lt;!&ndash;      <template #top>&ndash;&gt;-->
-<!--&lt;!&ndash;        <slot name="page-top" />&ndash;&gt;-->
-<!--&lt;!&ndash;      </template>&ndash;&gt;-->
-<!--&lt;!&ndash;      <template #bottom>&ndash;&gt;-->
-<!--&lt;!&ndash;        <slot name="page-bottom" />&ndash;&gt;-->
-<!--&lt;!&ndash;      </template>&ndash;&gt;-->
-<!--&lt;!&ndash;    </Page>&ndash;&gt;-->
-
-<!--&lt;!&ndash;    <Footer v-if="page.frontmatter.footer" />&ndash;&gt;-->
-<!--&lt;!&ndash;&lt;!&ndash;     && $site.themeConfig.footer&ndash;&gt;&ndash;&gt;-->
-<!--&lt;!&ndash;  </div>&ndash;&gt;-->
-<!--&lt;!&ndash;  <DefaultTheme.Layout />&ndash;&gt;-->
-
-<!--  <Footer/>-->
-<!--</template>-->
-
-<!--&lt;!&ndash;<template>&ndash;&gt;-->
-<!--&lt;!&ndash;  <DefaultTheme.Layout/>&ndash;&gt;-->
-<!--&lt;!&ndash;</template>&ndash;&gt;-->
+@media (max-width: $MQMobile)
+  .error-page
+    gap 20px
+    & > img
+      width 150px
+    h1
+      font-size 24px
+    .description
+      font-size 20px
+    .action-buttons .action-button
+      gap 10px
+      padding 10px 15px
+      font-size 18px
+</style>
 
 <template>
-  <DefaultTheme.Layout>
-<!--    LAYOUT-->
-<!--    <template #home-hero-info>-->
-<!--      INSIDE TEMPLATE-->
-<!--    </template>-->
-  </DefaultTheme.Layout>
+  <div class="error-page" v-if="page.isNotFound">
+    <img alt="Logo" src="/logo-fit.svg">
+    <div class="content">
+      <h1>Oh no!</h1>
+      <p class="description">The page you have requested could not be found.</p>
+      <div class="action-buttons">
+        <a class="action-button" href="/">
+          <Icon icon="fa-solid:arrow-circle-left" />
+          <span>Go Back Home</span>
+        </a>
+      </div>
+    </div>
+  </div>
+  <DefaultTheme.Layout v-else/>
 </template>

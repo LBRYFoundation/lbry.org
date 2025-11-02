@@ -3,14 +3,16 @@ title: Downloads
 footer: true
 ---
 
-### Desktop
+# Downloads
+
+## Desktop
 
 Source code: <a href="https://github.com/LBRYFoundation/lbry-desktop">GitHub</a>
 
-### CLI
+## CLI
 
 Source code: <a href="https://github.com/LBRYFoundation/lbry-cli">GitHub</a>
 
-### Daemon
+## Daemon
 
 Source code: <a href="https://github.com/LBRYFoundation/lbry-sdk">GitHub</a>

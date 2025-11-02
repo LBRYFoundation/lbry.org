@@ -1,21 +1,15 @@
-<template>
-  <div class="color-card">
-    <div class="color" :style="cssVars">
-      <span>{{ color }}</span>
-    </div>
-    <p>{{ text }}</p>
-  </div>
-</template>
-
-
 <style scoped>
 .color-card {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
+  display: inline-block;
+  margin:0 20px;
 }
+
+.color-card>div{
+  text-align: center;
+}
+
 .color {
-  display: flex;
+  display: inline-flex;
   align-items: center;
   justify-content: center;
   text-shadow: 1px 1px 1px #111;
@@ -53,3 +47,14 @@ export default {
   }
 };
 </script>
+
+<template>
+  <div class="color-card">
+    <div>
+      <div class="color" :style="cssVars">
+        <span>{{ color }}</span>
+      </div>
+      <p>{{ text }}</p>
+    </div>
+  </div>
+</template>

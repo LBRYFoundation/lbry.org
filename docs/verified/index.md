@@ -1,7 +1,4 @@
 ---
-aliases:
-- /creators-council/
-- /verify/
 footer: true
 ---
 

@@ -1,55 +1,7 @@
 ---
-title: Branding Assets
+title: Branding
 footer: true
 ---
-
-<center>
-<h1>Branding Assets</h1>
-Download official LBRY Foundation branding assets✏️📏🖌️
-</center>
-
-<div class="assets">
-<h2>Foundation Branding</h2>
-<img src="/logo-vertical.svg" width="200px">
-<br/>
-<a class="download-button" target="_blank" rel="noopener" href="/branding/assets.zip">
-          <IconifyIcon name="Download" icon="fa-solid:arrow-alt-circle-down" />
-          <span>Download assets</span>
-        </a>
-</div>
-
-### Logo
-<center>
-<img src="/logo-horizontal.svg" width="200px">
-</center>
-
-### Colors
-<br/>
-<div style="display:flex; flex-wrap:wrap;gap:1rem;justify-content:center;">
-<Color color="#27E4EB" text="Brand Color" />
-<Color color="#072A46" text="Background Color" />
-<Color color="#051D31" text="Secondary Background" />
-<Color color="#041523" text="Tertiary Background" />
-<Color color="#FAFAFA" text="Header Text Color" />
-<Color color="#DDDDDD" text="Body Text Color" />
-</div>
-
-### Fonts & Typography
-<br/>
-<div class="fonts">
-<div class="card">
-<h1>H1 - Roboto 48px</h1>
-<h2>H2 - Roboto 40px</h2>
-<h3>H3 - Roboto 36px</h3>
-<h4>H4 - Roboto 30px</h4>
-<h5>H5 - Roboto 28px</h5>
-<h6>H6 - Roboto 24px</h6>
-</div>
-<div class="card">
-"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
-</div>
-</div>
-<center><br/>Fonts: Roboto</center>
 
 <style>
 .assets {
@@ -94,7 +46,7 @@ Download official LBRY Foundation branding assets✏️📏🖌️
 }
 
 .fonts .card {
-  max-width: 40%;
+  max-width: 80%;
   padding: 1rem;
   border-radius: 5%;
   background-color: var(--secondaryBG);
@@ -115,3 +67,46 @@ img {
   }
 }
 </style>
+
+# Branding
+
+Download official LBRY Foundation branding assets ✏️📏🖌️
+
+<div class="assets">
+  <a class="download-button" target="_blank" rel="noopener" href="/branding/assets.zip">
+    <IconifyIcon name="Download" icon="fa-solid:arrow-alt-circle-down" />
+    <span>Download assets</span>
+  </a>
+</div>
+
+## Logos
+
+### Horizontal
+
+<img src="/logo-horizontal.svg" style="height:100px;">
+
+### Vertical
+
+<img src="/logo-vertical.svg" style="height:200px;">
+
+## Colors
+
+<div>
+  <Color color="#27E4EB" text="Brand Color" />
+  <Color color="#072A46" text="Background Color" />
+  <Color color="#051D31" text="Secondary Background" />
+  <Color color="#041523" text="Tertiary Background" />
+  <Color color="#FAFAFA" text="Header Text Color" />
+  <Color color="#DDDDDD" text="Body Text Color" />
+</div>
+
+## Fonts & Typography
+
+<div class="fonts">
+<div class="card">
+"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+</div>
+</div>
+<br>
+
+<div style="text-align:center;">Fonts: Roboto</div>

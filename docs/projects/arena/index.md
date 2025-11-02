@@ -1,6 +1,4 @@
 ---
-aliases:
-- /arena/
 footer: true
 ---
 

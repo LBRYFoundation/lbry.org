@@ -162,8 +162,8 @@ and we will promptly remove you from ALL correspondence.
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
 
-> The LBRY Foundation
-> 30 N Gould St #43809
-> Sheridan, WY 82801
-> USA
+> The LBRY Foundation<br>
+> 30 N Gould St #43809<br>
+> Sheridan, WY 82801<br>
+> USA<br>
 > [board@lbry.org](mailto:board@lbry.org)
