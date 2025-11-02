@@ -7,7 +7,7 @@ export default defineConfig({
   title: 'The LBRY Foundation',
   description: 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
   sitemap: {
-    hostname: 'lbry.org',
+    hostname: 'https://lbry.org',
   },
   themeConfig: {
     editLink: {
