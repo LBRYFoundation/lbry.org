@@ -14,7 +14,7 @@ The Creator's Council is a group of active LBRY creators that helps the Foundati
 
 ## How to get in the council ?
 
-1. You must be a [verified creator](/verified) first
+1. You must be a [verified creator](/verified/) first
 2. **Request** or be nominated by the Creator's Council and voted on by the council
 3. Being active in LBRY Foundation Discord (participating in important discussions)
 
