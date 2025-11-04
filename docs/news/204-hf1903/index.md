@@ -5,7 +5,7 @@ date: '2019-02-19 10:00:00'
 category: technical
 ---
 
-**Update 2019-Mar-25 1pm EST**: The fork is live. Block 539941 occurred on March 24th about 1:40pm EST. The post-fork chain is now proceeding normally. Thank you for your cooperation and support in this. You can validate that you are on the correct fork using the command line: 
+**Update 2019-Mar-25 1pm EST**: The fork is live. Block 539941 occurred on March 24th about 1:40pm EST. The post-fork chain is now proceeding normally. Thank you for your cooperation and support in this. You can validate that you are on the correct fork using the command line:
 `./lbrycrd-cli getblockhash 539941` = 7d3034e02879c3224aa324063e22368cee28d5e791290caeaaa595e3b06d161b
 `./lbrycrd-cli getblockhash 540444` = c466452ad520a41b0d491e078eb3ec6f2529ce636b46b288c2c23992b8b5a09b
 
@@ -15,25 +15,25 @@ Also, please ensure that you have 4GB of RAM for running the current version of 
 
 ## What's Changing
 
-The LBRY blockchain will experience a hard fork (named HF1903) on March 21st to fix the way names are compared and claims are grouped. 
+The LBRY blockchain will experience a hard fork (named HF1903) on March 21st to fix the way names are compared and claims are grouped.
 
-When content is published to LBRY, the publisher selects a human-readable name to point to their content. Multiple claims for the same 
+When content is published to LBRY, the publisher selects a human-readable name to point to their content. Multiple claims for the same
 name compete with each other, and the claim with the most Credits supporting it determines what content is visible at the name.
 In order to use the system correctly, publishers need clarity on how the name they choose affects the visibility of their content.
 
 At present, every different combination of letters and symbols constitues a unique name. Unicode supports many different alphabets
 and there are a lot of symbols that are defined as different but that look very much the same. For example, Amélie and Amélie look like the
-same word at first glance. But your computer sees the first as having an `é` (`\xc3\xa9` in UTF8) character, while the second has a normal 
-`e` followed by a combining accent, which is shown as a single accented character (`\x65\xcc\x81` in UTF-8). Lower-case and 
+same word at first glance. But your computer sees the first as having an `é` (`\xc3\xa9` in UTF8) character, while the second has a normal
+`e` followed by a combining accent, which is shown as a single accented character (`\x65\xcc\x81` in UTF-8). Lower-case and
 upper-case letters are also treated as distinct, which creates even more gotchas.
 
 To prevent such confusion, the proposed fork will treat similar-looking names as the same when deciding what name a claim is competing
-for. When checking if two words correspond to the same name, the words will be normalized using standard Unicode string normalization (in 
-NFD mode) and then lowercased using case folding. The original text and casing will still be preserved and used for display purposes, 
+for. When checking if two words correspond to the same name, the words will be normalized using standard Unicode string normalization (in
+NFD mode) and then lowercased using case folding. The original text and casing will still be preserved and used for display purposes,
 but all comparisons will be done on normalized text.
 
-HF1903 will activate on the mainnet at height 539940, which should take place on March 21st, 2019. 
-The testnet activation will happen today, at block 993380. 
+HF1903 will activate on the mainnet at height 539940, which should take place on March 21st, 2019.
+The testnet activation will happen today, at block 993380.
 Regtest activates HF1903 at height 250.
 
 Please note that the block rewards, token distribution, hash algorithms, etc. are all staying the same. Normalization is the only change
@@ -46,15 +46,15 @@ For most people, nothing needs to be done. The fork will take effect transparent
 **If you are running a full node, upgrade to the latest version of lbrycrd as soon as possible**.
 Pre-built binaries are available on [the releases page](https://github.com/lbryio/lbrycrd/releases). You will need **version 0.12.4 or higher**.
 
-If you have published content to LBRY, there is a very small chance that the fork will cause your claims to experience more competition, 
-and they may stop being the highest-amount claims for their names. This affects less than 0.2% of claims (~1000 out of 640,000). 
+If you have published content to LBRY, there is a very small chance that the fork will cause your claims to experience more competition,
+and they may stop being the highest-amount claims for their names. This affects less than 0.2% of claims (~1000 out of 640,000).
 
-We will post updates about HF1903 to this page. If you want to be notified of news about this fork and future forks, please join the [fork mailing list](/forklist).
+We will post updates about HF1903 to this page. If you want to be notified of news about this fork and future forks, please join the [fork mailing list](/forklist/).
 
 ## Fork Details
 
-The fork has been discussed at length in [this pull request](https://github.com/lbryio/lbrycrd/pull/235), as well as the following issues: [1](https://github.com/lbryio/lbrycrd/issues/65), 
+The fork has been discussed at length in [this pull request](https://github.com/lbryio/lbrycrd/pull/235), as well as the following issues: [1](https://github.com/lbryio/lbrycrd/issues/65),
 [2](https://github.com/lbryio/lbrycrd/issues/204), [3](https://github.com/lbryio/lbrycrd/issues/208), [4](https://github.com/lbryio/lbrycrd/issues/234).
-Please review the details and the code if you are able to. We pay significant bounties for any bugs found in blockchain code, especially 
+Please review the details and the code if you are able to. We pay significant bounties for any bugs found in blockchain code, especially
 fork-related code.  Email [brannon@lbry.com](mailto:brannon@lbry.com) if you wish to discuss.
 

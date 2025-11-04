@@ -32,4 +32,4 @@ Known for his [bold predictions](https://www.youtube.com/watch?v=LfascZSTU4o) of
 - [*S&M Lawn Care*](https://open.lbry.com/smlawncare)
 - [*Cinema Six*](https://open.lbry.com/cinemasix)
 
-**Not on LBRY yet?** [Get an invite here](/get). Have a podcast to publish? Email [reilly@lbry.com](mailto:reilly@lbry.com) to get your show in the queue.
+**Not on LBRY yet?** [Get an invite here](/get/). Have a podcast to publish? Email [reilly@lbry.com](mailto:reilly@lbry.com) to get your show in the queue.

@@ -19,7 +19,7 @@ The next Development report will be posted towards the end of the month. Now, on
 
 To read all of our previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap).
+If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap/).
 
 # LBRY for Android launches! {#lbry-android}
 
@@ -27,7 +27,7 @@ If you want to see a condensed view of what we have completed recently and what'
 >
 > — LBRY (we never give away ETH) (@LBRYio) [September 19, 2018](https://twitter.com/lbrycom/status/1042399927345860608)
 
-We've passed a major milestone on our [roadmap](/roadmap) with the release of the LBRY mobile app to open beta! [Get the app for Android here.](https://play.google.com/store/apps/details?id=io.lbry.browser) For more details about other accomplishments, scroll down for full [roadmap update.](#roadmap)
+We've passed a major milestone on our [roadmap](/roadmap/) with the release of the LBRY mobile app to open beta! [Get the app for Android here.](https://play.google.com/store/apps/details?id=io.lbry.browser) For more details about other accomplishments, scroll down for full [roadmap update.](#roadmap)
 
 # Community Happenings {#com-updates}
 If you aren't part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users in order to grow the LBRY platform. Also follow us on [Twitter](https://twitter.com/lbrycom), [Facebook](https://facebook.com/lbrycom), [Reddit](https://www.reddit.com/r/lbry), [Instagram](https://www.instagram.com/lbryio), and [Telegram](https://t.me/lbryofficial).
@@ -76,7 +76,7 @@ Do you have an idea for a project using or promoting the LBRY Protocol? We may p
 ![LBRY.fund](https://spee.ch/2/lbry-fund.png)
 
 ### Roadmap Check-in {#roadmap}
-We've passed a major milestone on our [roadmap](/roadmap) with the release of the LBRY mobile app to open beta! We've also implemented wallet encryption inside the LBRY Desktop app and significantly improved content hosting - two more items checked off the list. We'll most likely need to shuffle around some of the other scheduled items based on new priorities and current workload, so stay tuned for an update in next month's community report.
+We've passed a major milestone on our [roadmap](/roadmap/) with the release of the LBRY mobile app to open beta! We've also implemented wallet encryption inside the LBRY Desktop app and significantly improved content hosting - two more items checked off the list. We'll most likely need to shuffle around some of the other scheduled items based on new priorities and current workload, so stay tuned for an update in next month's community report.
 
 ### LBRY is hiring!
 [Come join team Content Freedom!](/join-us) We have the following positions open: Blockchain Engineer, Protocol Engineer, and API Engineer. We'd love for you to join us, or if you have a friend you think would be interested, we pay a $5,000 bounty if we hire them.

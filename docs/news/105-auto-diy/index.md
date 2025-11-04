@@ -25,4 +25,4 @@ We agree, Mr. Smith.
 DIY Auto Body and Paint joined LBRY via the YouTube-LBRY API tool: /youtube
 Find more of Donnie's work and courses at: http://www.collisionblast.com
 
-**Not on LBRY yet?** [Get an invite here](/get). Want to share your DIY madness? Email [reilly@lbry.com](mailto:reilly@lbry.com) to spread your knowledge. And maybe humblebrag, too.
+**Not on LBRY yet?** [Get an invite here](/get/). Want to share your DIY madness? Email [reilly@lbry.com](mailto:reilly@lbry.com) to spread your knowledge. And maybe humblebrag, too.

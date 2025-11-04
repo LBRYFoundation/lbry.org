@@ -12,7 +12,7 @@ If you haven't heard yet, we are running a [12 Days of DevMas campaign on Twitte
 
 To read previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [Roadmap](/roadmap) ([2019 planning](#2019) is in progress!).
+If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [Roadmap](/roadmap/) ([2019 planning](#2019) is in progress!).
 
 # In This Update {#dev-updates}
 * [Desktop App and SDK Quick Summary](#summary)

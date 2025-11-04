@@ -10,7 +10,7 @@ Welcome to the June 2018 LBRY Development and Community update! In this post we'
 
 Scroll down to learn about new [rewards updates](#reward) as well as a couple contests where you can earn up to $300 USD in LBRY Credits. To read all of our previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap).
+If you want to see what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap/).
 
 ## UPDATE - LBRY Community Contests
 If you're a designer or 3D printing expert, we have two contests that might be right up your alley - read on for details!
@@ -119,7 +119,7 @@ We've had great response and progress on the LBRY Protocol site on Stack Exchang
 [Come join team Content Freedom!](/join-us) We have the following positions open: Blockchain Engineer, Protocol Engineer, and API Engineer. We'd love for you to join us, or if you have a friend you think would be interested, we pay a $5,000 bounty if we hire them.
 
 ### Roadmap Check-in
-We are happy to mark UI Redesign, URL embedding of free content, and LBRY.fund marked as completed on the [roadmap](/roadmap). We've recently added *LBRY Content Mirroring 2.0* to the Q3 roadmap, check the latest update [here](#reflector).
+We are happy to mark UI Redesign, URL embedding of free content, and LBRY.fund marked as completed on the [roadmap](/roadmap/). We've recently added *LBRY Content Mirroring 2.0* to the Q3 roadmap, check the latest update [here](#reflector).
 
 ### Youtube Sync Updates {#youtube-updates}
 Since we initiated our new YouTube Sync program, we've mirrored more than 500,000 videos to LBRY's decentralized content network! If your favorite creator hasn't joined the party yet, send them [this link](/youtube) and tell them to get on it!

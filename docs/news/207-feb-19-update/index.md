@@ -15,7 +15,7 @@ We’ve got a special bonus for readers of this update, enjoy some LBC via this 
 
 To read previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see a condensed view of what we have completed recently and what’s planned for LBRY, check out our [Roadmap](/roadmap)
+If you want to see a condensed view of what we have completed recently and what’s planned for LBRY, check out our [Roadmap](/roadmap/)
 
 # In This Update {#dev-updates}
 * [Desktop App and SDK Quick Recap](#summary)
@@ -101,7 +101,7 @@ With the help of two community members, we’ve been progressing on an API desig
 We’re excited to announce that the next LBRY Blockchain upgrade will be occurring on March 21, 2019 - you can find all the details in our [blog post](/news/hf1903). This update includes a large consensus change to how LBRY claim names are stored when it relates to characters and case sensitivity. Case will not be taken into account when competing for vanity URLs and we’ll be allow more characters in the URLs (these changes will come later to the SDK/Apps). We’ve been actively reaching out the miners and exchanges to ensure they update in order for a smooth hard fork to occur. We’ve also been actively working on bringing in upstream Bitcoin changes which offer many bug fixes, performance and stability improvements. There is also research being done on how to more efficiently store claim data in the blockchain and what aspects should be processed in memory vs on disk.
 
 ### 2019 Roadmap Update {#2019}
-At the end of January, we released our [roadmap for 2019](/roadmap) with what we consider our are top priorities across the LBRY ecosystem. Highlights include building creator relationships, community swarms, launching Android 1.0 Beta, commenting, Discovery, LBRY on the Web and cross device syncing. A bunch are these initiatives are already in progress and will span multiple months, whereas others are slated to start later this year. Were you hoping we’d work on something and don’t see it on the list or find something interesting you want to help with? Feel free to reach out to us on [chat](https://chat.lbry.com) - we’re always looking for feedback and help!.
+At the end of January, we released our [roadmap for 2019](/roadmap/) with what we consider our are top priorities across the LBRY ecosystem. Highlights include building creator relationships, community swarms, launching Android 1.0 Beta, commenting, Discovery, LBRY on the Web and cross device syncing. A bunch are these initiatives are already in progress and will span multiple months, whereas others are slated to start later this year. Were you hoping we’d work on something and don’t see it on the list or find something interesting you want to help with? Feel free to reach out to us on [chat](https://chat.lbry.com) - we’re always looking for feedback and help!.
 
 ![roadmap](https://spee.ch/6/roadmap-new.jpg)
 

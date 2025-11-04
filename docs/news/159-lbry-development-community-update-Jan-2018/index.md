@@ -66,7 +66,7 @@ LBRY's Content Creator and Director of Growth and Branding attended the Sundance
 The LBRY website was updated with the latest [team information](/team) which includes updated bios, new team members and Twitter/GitHub profile links. The updated YouTube sync page is still in progress as we finalize some of the backend changes needed to support it.
 
 ### LBRY Roadmap
-The LBRY business team worked alongside the tech team to provide the community with a [roadmap of enhancements, features and new undertakings for 2018](/roadmap). We hope this provides project supporters a transparent insight into what LBRY plans to accomplish in the mid to long-term future. Have any feedback; we'd love to hear it in the #ideas-and-feedback channel on [Discord](https://chat.lbry.com).
+The LBRY business team worked alongside the tech team to provide the community with a [roadmap of enhancements, features and new undertakings for 2018](/roadmap/). We hope this provides project supporters a transparent insight into what LBRY plans to accomplish in the mid to long-term future. Have any feedback; we'd love to hear it in the #ideas-and-feedback channel on [Discord](https://chat.lbry.com).
 
 ### Santatoshi LBC Tipping over the Holiday Season
 Our Discord server is armed with the almighty LBRY tipbot which allows us to reward our community members for their suggestions, feedback and other contributions. Over the holiday season, Santatoshi paid a visit on numerous occasions tipping LBC to innocent bystanders. To top things off on Christmas Day, Santa made it rain LBC with amounts up to 500 LBC to our most active community members. Over 12K LBC was given away!

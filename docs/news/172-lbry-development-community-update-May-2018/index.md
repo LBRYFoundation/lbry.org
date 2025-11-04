@@ -8,7 +8,7 @@ category: community-update
 
 Welcome to our LBRY Development and Community update! In this post we'll show you what we've been up to and review our progress for the month of May. This month we made progress on our desktop app redesign and Android app alpha, LBRY Protocol improvements (work in progress), LBRY tech resource website, and several community initiatives. Scroll down to learn about new rewards coming to the app as well as a couple contests for you to earn up to $300 USD in LBRY Credits. To read all of our updates, please visit [our Development and Community Update archive](/news/category/community-update).
 
-If you want to see what we have planned for LBRY, check out our [roadmap](/roadmap).
+If you want to see what we have planned for LBRY, check out our [roadmap](/roadmap/).
 
 To skip the tech stuff, see what's happened and what's next in the LBRY community, click the link below. Otherwise, read on!
 

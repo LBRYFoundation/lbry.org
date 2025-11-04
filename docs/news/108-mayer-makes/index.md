@@ -21,4 +21,4 @@ LBRY's first 3D printing and DIY electronics channel can be found at:
 
 You can meet Clemens in person on May 6th and 7th at the [Munich Maker Festival](http://make-munich.de). Maybe he'll have some free LBRY Credits to give away...
 
-**Not on LBRY yet?** [Download here](/get). Have cool content to publish? Email [reilly@lbry.com](mailto:reilly@lbry.com) to share your creations with everyone on planet Earth before you forget.
+**Not on LBRY yet?** [Download here](/get/). Have cool content to publish? Email [reilly@lbry.com](mailto:reilly@lbry.com) to share your creations with everyone on planet Earth before you forget.

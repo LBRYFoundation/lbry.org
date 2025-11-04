@@ -6,7 +6,7 @@ date: '2016-09-28 00:06:18'
 
 A few weeks ago, in conjunction with announcing a [$500,000 funding round](/news/500k-vc-funds-pillar), we hit #2 on Reddit's front page with [our first AMA](https://www.reddit.com/r/IAmA/comments/50tyub/were_the_nerds_behind_lbry_a_decentralized).
 
-While tens of thousands joined [our beta](/get), including hundreds of YouTube channels, our first major wave of attention outside of blockchain circles has taught us some hard lessons:
+While tens of thousands joined [our beta](/get/), including hundreds of YouTube channels, our first major wave of attention outside of blockchain circles has taught us some hard lessons:
 
 1. LBRY is hard to understand at first.
 2. We are not that great at explaining it.
@@ -144,7 +144,7 @@ Rest assured, we're implementing permanent URLs that are **always yours**. You w
 
 Using this approach, you can bypass the auction system entirely. You could even have a regular domain name, like www.jackscodingclass.com, point to all of your content on LBRY.
 
-More details on this update will be released shortly. [Subscribe to our mailing list](/get) to stay up to date.
+More details on this update will be released shortly. [Subscribe to our mailing list](/get/) to stay up to date.
 
 <a name="lbryinc"></a>
 **How does the company behind LBRY make money?**
@@ -168,7 +168,7 @@ LBRY is currently in invite-only beta, with desktop apps for Linux, MacOS, and a
 
 The waitlist to get into the beta is about 150K people long. This shocks even us, and we're racing to get the user experience and backend technologies to a level where we're comfortable opening the beta to everyone. The target for open beta is this winter. Mushy target, we know, but these things are hard to time.
 
-In the meantime, we could use your encouragement. This is a difficult project that cannot succeed without people demonstrating they want an alternative to Silicon Valley megacorp media services. So [join the beta](/get), [share our blog posts](/news), and [join our subreddit `/r/lbry`](https://www.reddit.com/r/lbry). Your excitement is like Red Bull to our weary coders!
+In the meantime, we could use your encouragement. This is a difficult project that cannot succeed without people demonstrating they want an alternative to Silicon Valley megacorp media services. So [join the beta](/get/), [share our blog posts](/news), and [join our subreddit `/r/lbry`](https://www.reddit.com/r/lbry). Your excitement is like Red Bull to our weary coders!
 
 <a name="whycare"></a>
 **Why should I care about LBRY if I can't even use it yet?**
@@ -182,4 +182,4 @@ Or get involved because it's rare to get an opportunity to be part of a project 
 
 *Did this FAQ address your concerns? Still think we're full of it? Sound off at [`/r/lbry`](https://www.reddit.com/r/lbry). Thank you for taking the time to learn about LBRY!*
 
-**Not on LBRY yet?** [Get an invite here](/get). Just can't wait? If you're a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](/publish).
+**Not on LBRY yet?** [Get an invite here](/get/). Just can't wait? If you're a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](/publish).

@@ -10,7 +10,7 @@ Welcome to the September 2018 LBRY Development update! As you may have read in o
 
 To read all of our previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap) (update to the roadmap planned for next month!).
+If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap/) (update to the roadmap planned for next month!).
 
 # In This Update {#dev-updates}
 * [Hacktoberfest at LBRY!](#hacktoberfest)

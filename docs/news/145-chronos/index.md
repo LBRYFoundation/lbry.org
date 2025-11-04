@@ -19,4 +19,4 @@ And another week, another new show from Jamie King.
 
 His long-standing series STEAL THIS SHOW presented by Torrent Freak has a new companion piece: the video podcast [STEAL THIS SIDESHOW](https://open.lbry.com/%40stealthisshow), streamable only on LBRY and spee.ch. Look for regular episodes every 1-2 weeks.
 
-[**Download LBRY today**](/get). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube
+[**Download LBRY today**](/get/). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube

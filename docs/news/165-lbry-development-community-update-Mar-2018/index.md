@@ -8,7 +8,7 @@ category: community-update
 
 Back in December, we published the [first ever LBRY Development and Community update](/news/lbry-development-community-update-1) and followed up with another for [January 2018](/news/lbry-development-community-update-jan-2018) and [February 2018](/news/lbry-development-community-update-feb-2018) - be sure to check them all out if you missed it! We will continue posting these updates at the beginning of each month to keep each and every LBRYian up to date on our quest to revolutionize content discovery, sharing and monetization! To read all of our updates, please visit [our Development and Community Update archive](/news/category/community-update).
 
-If you haven't already, please take a moment to read our [Looking Back and Moving Forward: LBRY in 2017/2018](/news/lbry-in-2017-2018) blog post and check out our [roadmap](/roadmap).
+If you haven't already, please take a moment to read our [Looking Back and Moving Forward: LBRY in 2017/2018](/news/lbry-in-2017-2018) blog post and check out our [roadmap](/roadmap/).
 
 To skip the tech stuff and see what's happened and what's next in the LBRY community, click the link below. Otherwise, read on!
 
@@ -79,7 +79,7 @@ The next change deals with [claim expiration](https://github.com/lbryio/lbrycrd/
 If you aren't part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users in order to grow the LBRY platform.
 
 ### Roadmap Check-in
-The Q1 coming to a close, we wanted to provide an update on our [roadmap objectives](/roadmap).
+The Q1 coming to a close, we wanted to provide an update on our [roadmap objectives](/roadmap/).
 
 The [YouTube Sync partner program is live and getting feedback from testers, see additional information below](#youtube-updates).
 

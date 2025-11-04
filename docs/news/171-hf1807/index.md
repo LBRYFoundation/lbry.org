@@ -31,7 +31,7 @@ For most people, nothing needs to be done. The fork will take effect transparent
 
 Pre-built binaries are available on [the releases page](https://github.com/lbryio/lbrycrd/releases). You will need version 0.12.2.0 or higher.
 
-We will post updates about this fork to this page. If you want to be notified of news about this fork and future forks, please join the [fork mailing list](/forklist).
+We will post updates about this fork to this page. If you want to be notified of news about this fork and future forks, please join the [fork mailing list](/forklist/).
 
 ## Fork Details
 

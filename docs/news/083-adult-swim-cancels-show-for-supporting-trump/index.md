@@ -25,4 +25,4 @@ At LBRY, we're proud to have [MDE's content available](/news/mde-on-lbry). Not b
 
 The great thing about publishing content on LBRY is that no one -- including us -- can remove it.
 
-If you support the ability for creators and consumers to be directly connected without interference from those who like to whine and prattle, please [check out LBRY](/get).
+If you support the ability for creators and consumers to be directly connected without interference from those who like to whine and prattle, please [check out LBRY](/get/).

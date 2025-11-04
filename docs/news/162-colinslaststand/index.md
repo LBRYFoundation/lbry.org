@@ -16,4 +16,4 @@ The prolific [Colin Moriarty](https://open.lbry.com/%40ColinsLastStand) (CLS, Si
 
 Become a subscriber to [Colin's Patreon here](https://www.patreon.com/colinslaststand/posts).
 
-[**Download LBRY today**](/get). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube
+[**Download LBRY today**](/get/). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube

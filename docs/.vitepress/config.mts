@@ -186,4 +186,12 @@ export default defineConfig({
       },
     ],
   },
+  cleanUrls: true,
+  rewrites(id: string): string {
+    if(id.startsWith('news/')){
+      return id.replace(/news\/\d+-/,'news/');
+    }
+    return id;
+  },
+  ignoreDeadLinks: true, //TODO temporary
 });

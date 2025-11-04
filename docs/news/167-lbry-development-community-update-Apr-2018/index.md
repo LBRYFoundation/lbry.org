@@ -8,7 +8,7 @@ category: community-update
 
 Welcome to our LBRY Development and Community update! In this post we'll show you what we've been up to and review our progress for the month of April. It was a busy month, starting off with the company All-Hands summit, and progress was made on our desktop and Android apps, LBRY Protocol improvements, several community updates, and team growth. To read all of our updates, please visit [our Development and Community Update archive](/news/category/community-update).
 
-If you haven't already, please take a moment to read our [Looking Back and Moving Forward: LBRY in 2017/2018](/news/lbry-in-2017-2018) blog post and check out our [roadmap](/roadmap).
+If you haven't already, please take a moment to read our [Looking Back and Moving Forward: LBRY in 2017/2018](/news/lbry-in-2017-2018) blog post and check out our [roadmap](/roadmap/).
 
 To skip the tech stuff, see what's happened and what's next in the LBRY community, click the link below. Otherwise, read on!
 
@@ -32,7 +32,7 @@ Our [Content](/faq/content) and [DMCA](/faq/dmca) FAQ pages cover what content i
 ### LBRY for Android Update
 We're getting closer to a feature-complete mobile app with search functionality recently added to the current alpha and wallet features in the pipeline. Once full wallet functionality is released with the next alpha, we will be transitioning to the Open Beta phase via Google Play Store. Open beta will allow us to release the Android app to a wider audience and get better feedback from testers. Rewards will be added in open beta and we may actually add some mobile-only rewards!
 
-Want to participate in LBRY for Android alpha testing? [Sign up here](/android-alpha) and you'll be added to the waitlist! Not interested in alpha yet but want to know when we are ready for the next phase, join our regular [Android mailing list](/android) instead. You can see the current status of testing and issues on our [Android GitHub repository](https://github.com/lbryio/lbry-android/issues).
+Want to participate in LBRY for Android alpha testing? [Sign up here](/android-alpha) and you'll be added to the waitlist! Not interested in alpha yet but want to know when we are ready for the next phase, join our regular [Android mailing list](/android/) instead. You can see the current status of testing and issues on our [Android GitHub repository](https://github.com/lbryio/lbry-android/issues).
 
 ![wallet-preview](https://spee.ch/9/wallet-android-preview.jpeg)
 
@@ -101,7 +101,7 @@ This year's all-hands schedule was full, and we accomplished just about everythi
 ![LBRY Team Growth](https://spee.ch/c/LBRYteam.jpeg)
 
 ### Roadmap Check-in
-We've recently made a few updates to our [Roadmap](/roadmap) which include a status indicator (Complete/In Progress/Planned), new items and updated timelines to reflect current priorities and goals. New items include `YouTube Sync Automation`, `Speech Multisite` and `Wallet Server/Client Improvements` - all of which are mentioned in this update. We've had to re-assess our priorities and updated future events on the roadmap respectively. This is and will continue to be an evolving roadmap so schedule/goal adjustments are to be expected.
+We've recently made a few updates to our [Roadmap](/roadmap/) which include a status indicator (Complete/In Progress/Planned), new items and updated timelines to reflect current priorities and goals. New items include `YouTube Sync Automation`, `Speech Multisite` and `Wallet Server/Client Improvements` - all of which are mentioned in this update. We've had to re-assess our priorities and updated future events on the roadmap respectively. This is and will continue to be an evolving roadmap so schedule/goal adjustments are to be expected.
 
 ![roadmap](https://spee.ch/f/roadmap-update.jpeg)
 

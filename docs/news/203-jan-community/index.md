@@ -50,7 +50,7 @@ Jeremy Kaufmann, our CEO, [penned a retrospective on 2018, and announced our goa
 * **Internationalization:** Add local language support to our web properties and applications.
 * **Robust Data Market:** Improve incentive for participation in the LBRY network and host data.
 
-You can check out the full details on our [Roadmap.](/roadmap)
+You can check out the full details on our [Roadmap.](/roadmap/)
 
 ![LBRY.tech](https://spee.ch/@lbrynews:0/lbrytech.png)
 ### LBRY.tech {#LBRY.tech}

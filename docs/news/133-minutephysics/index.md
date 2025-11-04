@@ -21,4 +21,4 @@ Donate LBRY Credits directly to the best MinutePhysics videos using the integrat
 
 And become a Patreon donor here: https://www.patreon.com/minutephysics
 
-[**Download LBRY today**](/get). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube
+[**Download LBRY today**](/get/). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube

@@ -67,7 +67,7 @@ Additionally, LBRY has already seen code contributions from over one hundred peo
 2. Launch lbry.tech as a technical resource, improve/revise other resources, and generally ensure the ecosystem is welcoming and easy to get started in as possible. (Q1/Q2 2018)
 3. Formalize and build awareness in the ability for developers to contribute and receive LBC. (All of 2018)
 4. Campaign and promote LBRY to technical communities, both online and in-person. (All of 2018)
-5. If you want to look at all of our development and business priorities in one place, take a look at our [updated roadmap](/roadmap).
+5. If you want to look at all of our development and business priorities in one place, take a look at our [updated roadmap](/roadmap/).
 
 ![Akinwale](https://spee.ch/e/Akinwale.jpeg)
 
@@ -78,7 +78,7 @@ LBRY is already one of the most popular consumer-targeted blockchain products. H
 ### Actions
 
 1. Release a redesigned app (Q1 2018).
-2. Release an Android app (Alpha Q1 2018, Public Q2 2018). Join the Android notification list [here](/android).
+2. Release an Android app (Alpha Q1 2018, Public Q2 2018). Join the Android notification list [here](/android/).
 3. Improve the first-run process, particularly around getting Credits in the hands of new users. (All of 2018)
 4. Continue to round out feature set (All of 2018)
 

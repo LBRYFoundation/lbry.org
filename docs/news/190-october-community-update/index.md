@@ -20,7 +20,7 @@ Welcome to the September/October 2018 LBRY Community update!
 
 To read all of our previous updates, please visit our [Development and Community Update archive](/news/category/community-update).
 
-If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap).
+If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [roadmap](/roadmap/).
 
 # Community Happenings {#com-updates}
 If you aren't part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users and grow the LBRY platform. If you don't already, follow us on [Twitter](https://twitter.com/lbrycom), [Facebook](https://facebook.com/lbrycom), [Reddit](https://www.reddit.com/r/lbry), [Instagram](https://www.instagram.com/lbryio), and [Telegram](https://t.me/lbryofficial).
@@ -59,7 +59,7 @@ If you made any submissions to LBRY during the past month, make sure send us an 
 ![LBRY Hacktoberfest t-shirt](https://spee.ch/4/hacktoberfest-t.jpg)
 
 ### Roadmap Check-in {#roadmap}
-We've got a few small updates on on our [roadmap](/roadmap) before the team revamps a new one for late 2018/2019. In October, the [lbry.tech](https://lbry.tech) technical resource website went live as part of Hacktoberfest, so this delayed Q2 item has been marked complete. With the official release of the 0.30 LBRY protocol completed, the new wallet client is now marked as complete (it will be included in the next app in early November). YouTube sync automation has also been completed as we are now syncing new and existing channels that come in through the [Sync Partner Program](/youtube). The last step, outside of the actual sync process, is to support sending this synced content to the creators' wallets, which was added to the roadmap under "YouTube Sync Channel Transfer" and to be completed in Q4. Stayed tuned for the next update for the 2019 roadmap revamp!
+We've got a few small updates on on our [roadmap](/roadmap/) before the team revamps a new one for late 2018/2019. In October, the [lbry.tech](https://lbry.tech) technical resource website went live as part of Hacktoberfest, so this delayed Q2 item has been marked complete. With the official release of the 0.30 LBRY protocol completed, the new wallet client is now marked as complete (it will be included in the next app in early November). YouTube sync automation has also been completed as we are now syncing new and existing channels that come in through the [Sync Partner Program](/youtube). The last step, outside of the actual sync process, is to support sending this synced content to the creators' wallets, which was added to the roadmap under "YouTube Sync Channel Transfer" and to be completed in Q4. Stayed tuned for the next update for the 2019 roadmap revamp!
 
 ### YouTube Sync Updates {#YouTube-updates}
 In October, we finally caught up with the YouTube sync queue. Over 300K videos have been published through the [program](/youtube)! The system automatically syncs new channels and keeps previously synced channels up to date with new content posted on YouTube. Within 24 hours of publishing to youtube, a content creator's video will be synced on LBRY as well.

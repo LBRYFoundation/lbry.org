@@ -23,4 +23,4 @@ Get lit on chemistry via spee.ch:
 
 Please support NileRed by tipping LBRY Credits in-app to your favorite chemical reactions. And also because tipping is a pretty, pretty, prettttty cool.
 
-[**Download LBRY today**](/get). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube
+[**Download LBRY today**](/get/). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube
