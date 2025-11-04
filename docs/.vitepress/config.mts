@@ -32,7 +32,7 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: metaColor }],
     ['meta', { name: 'msapplication-TileColor', content: metaColor }],
 
-    // Twitter
+    // Twitter Card
     ['meta', { name: 'twitter:card', content: 'summary' }],
     ['meta', { name: 'twitter:image', content: metaLogo }],
 

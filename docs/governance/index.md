@@ -70,7 +70,7 @@ The LBRY Foundation is a US-based non-profit organization governed by a board of
 
 ## Board of Directors
 
-<VPTeamMembers :members="members" size="medium" />
+<VPTeamMembers :members="members" size="small" />
 
 <!-- ## Board Elections
 The first board election was the December 2019 Board Election, won by Jon Ringo.
