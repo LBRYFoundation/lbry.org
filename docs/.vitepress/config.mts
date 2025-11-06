@@ -140,32 +140,6 @@ export default defineConfig({
       provider: 'local',
     },
     outline: false,
-    sidebar: {
-      '/projects/': [
-        {
-          title: 'Projects',
-          collapsed: false,
-          items: [
-            {
-              text:'Projects',
-              link:'/projects/',
-            },
-          ],
-        },
-      ],
-      '/governance/': [
-        {
-          title: 'Governance',
-          collapsed: false,
-          items: [
-            {
-              text:'Governance',
-              link:'/governance/',
-            },
-          ],
-        },
-      ],
-    },
     siteTitle: false,
     socialLinks: [
       {

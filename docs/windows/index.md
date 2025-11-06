@@ -1,3 +1,3 @@
-# Get
+# Windows
 
 See [Downloads](/downloads)

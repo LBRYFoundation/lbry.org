@@ -1,11 +1,11 @@
 ---
-title: "Quarterly Credit Report: First Quarter 2018"
+title: "quarterly Credit Report: First quarter 2018"
 sheet: https://docs.google.com/spreadsheets/d/17GIrc-cmoXEY9x3NYhtxd45g2mHnuJ7cjUy_TfmhLMA/edit?usp=sharing
 category: policy
 ---
 
 ## Summary
-This quarter we moved ~~no~~ 5,000,000 Credits from cold storage. We spent 393,585 total community Credits on line items detailed below. ~~No operational Credits were moved to markets.~~ 5,000,000 operational Credits were moved to markets to improve capitalization. 136,008 Credits were sold to a crypto education club.  No institutional Credits were moved or spent. We anticipate comparable or larger total outlays in Q2 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 500,000 to 3,000,000+ LBC. Additionally, LBRY has started a program for YouTubers that will scale up Credit outlays. Finally, as it has now become de rigueur to state, no institutional outlays are expected, but a pilot program could happen.
+This quarter we moved ~~no~~ 5,000,000 Credits from cold storage. We spent 393,585 total community Credits on line items detailed below. ~~No operational Credits were moved to markets.~~ 5,000,000 operational Credits were moved to markets to improve capitalization. 136,008 Credits were sold to a crypto education club.  No institutional Credits were moved or spent. We anticipate comparable or larger total outlays in q2 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 500,000 to 3,000,000+ LBC. Additionally, LBRY has started a program for YouTubers that will scale up Credit outlays. Finally, as it has now become de rigueur to state, no institutional outlays are expected, but a pilot program could happen.
 
 ## Overview By Fund
 

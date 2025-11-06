@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Credit Report: Third Quarter 2016"
+title: "quarterly Credit Report: Third quarter 2016"
 sheet: https://docs.google.com/spreadsheets/d/1zPG58YuLPqpB3yzypntRWouoEVc4saDOifpnvnwS8Rc/edit?ts=57f28d0e#gid=799352054
 category: policy
 ---
@@ -27,7 +27,7 @@ Over the next quarter we anticipate continued substantial use of the Community C
 
 ShapeShift required ownership over a pool of LBRY Credits to maintain their exchange services. These Credits were sold at near-market rates.
 
-We do not anticipate any expenditures from this fund through Q2 2017.
+We do not anticipate any expenditures from this fund through q2 2017.
 
 ### Institutional Fund
 

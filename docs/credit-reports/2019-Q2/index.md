@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: Second Quarter 2019"
-sheet: https://docs.google.com/spreadsheets/d/1CYQSj06imiDkPFGcVX0EpAoo42Y0oh4u2ZjSUCJFfw0/edit#gid=0
+title: "quarterly Credit Report: Second quarter 2019"
+sheet: https://docs.google.com/spreadsheets/d/1CYqSj06imiDkPFGcVX0EpAoo42Y0oh4u2ZjSUCJFfw0/edit#gid=0
 category: policy
 ---
 ## Summary

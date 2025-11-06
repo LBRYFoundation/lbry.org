@@ -1,3 +1,3 @@
-# Get
+# Linux
 
 See [Downloads](/downloads)

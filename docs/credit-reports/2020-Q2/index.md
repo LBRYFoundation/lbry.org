@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Credit Report: Second Quarter 2020"
+title: "quarterly Credit Report: Second quarter 2020"
 sheet: https://docs.google.com/spreadsheets/d/1Ckcba-AsoC1GuG6xGYR7LbpOiMAqLjdjhDywvt4MrdA/edit#gid=799352054
 category: policy
 ---
@@ -7,7 +7,7 @@ category: policy
 This quarter we moved 5MM operational, 30MM community Credits, and 50MM institutional Credits from master cold storage.  We spent 25,445,103 total community Credits on line items detailed below. 7,822,697 operational Credits were used for the LBRY team member LBC purchase program, contract obligations, and secondary market sales. 40MM institutional Credits were loaned to Altonomy for market liquidity.
 Community outlays this quarter were unprecedented due to tremendous growth in new users and views, especially in May (nearly 9M). Rewards were decreased accordingly in June, and are expected to be lowered to 2-3M per month. 
 
-Operational spending may increase or decrease at any time, but is not expected to increase significantly in Q3. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
+Operational spending may increase or decrease at any time, but is not expected to increase significantly in q3. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
 
 ## Overview By Fund
 

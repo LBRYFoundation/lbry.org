@@ -1,11 +1,11 @@
 ---
-title: "Quarterly Credit Report: Second Quarter 2018"
-sheet: https://docs.google.com/spreadsheets/d/1aRmrjTNfiKQwzW5WB_tcVJzHR-UXrCz6vHpINMfTVWs/edit?usp=sharing
+title: "quarterly Credit Report: Second quarter 2018"
+sheet: https://docs.google.com/spreadsheets/d/1aRmrjTNfiKqwzW5WB_tcVJzHR-UXrCz6vHpINMfTVWs/edit?usp=sharing
 category: policy
 ---
 
 ## Summary
-This quarter we moved no Credits from cold storage.  We spent 738,027 total community Credits on line items detailed below. No operational Credits were moved to markets.  We sold 327,352 Credits to a crypto education club.  No institutional Credits were moved or spent.  We anticipate comparable or larger total outlays in Q3 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. LBRY is also likely to form it's first institutional partnership, with spending anticipated to be around 500,000 LBC.
+This quarter we moved no Credits from cold storage.  We spent 738,027 total community Credits on line items detailed below. No operational Credits were moved to markets.  We sold 327,352 Credits to a crypto education club.  No institutional Credits were moved or spent.  We anticipate comparable or larger total outlays in q3 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. LBRY is also likely to form it's first institutional partnership, with spending anticipated to be around 500,000 LBC.
 
 ## Overview By Fund
 

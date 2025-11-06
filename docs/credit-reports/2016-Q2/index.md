@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: Second Quarter 2016"
-sheet: https://docs.google.com/spreadsheets/d/1r7puheE4Ut4c08R47uCDZbDdMHAoQa0WDqw470gjMIw/edit#gid=0
+title: "quarterly Credit Report: Second quarter 2016"
+sheet: https://docs.google.com/spreadsheets/d/1r7puheE4Ut4c08R47uCDZbDdMHAoqa0WDqw470gjMIw/edit#gid=0
 category: policy
 ---
 

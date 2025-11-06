@@ -1,13 +1,13 @@
 ---
-title: "Quarterly Credit Report: Fourth Quarter 2016"
-sheet: https://docs.google.com/spreadsheets/d/11nKwFXN3gIQHnE7jYjEK5AFClyAde9aFs6UlnGX3Uzg/edit#gid=799352054
+title: "quarterly Credit Report: Fourth quarter 2016"
+sheet: https://docs.google.com/spreadsheets/d/11nKwFXN3gIqHnE7jYjEK5AFClyAde9aFs6UlnGX3Uzg/edit#gid=799352054
 category: policy
 ---
 
 ## Summary
 
 This quarter we did not move any community Credits from cold storage.  We spent 293,604 already moved community Credits on line items detailed below. No operational Credits were moved or spent.  No institutional credits were moved or spent.
-As the LBRY protocol performance and reliability has increased, we anticipate increased outlays in Q1 2017. We will be redeeming many if not all beta invites, as well as launching a new program offering Credits to developers. We also may begin the first institutional outlays, but any outlays here will be pilot programs and come with spending restrictions.
+As the LBRY protocol performance and reliability has increased, we anticipate increased outlays in q1 2017. We will be redeeming many if not all beta invites, as well as launching a new program offering Credits to developers. We also may begin the first institutional outlays, but any outlays here will be pilot programs and come with spending restrictions.
 
 ## Overview By Fund
 

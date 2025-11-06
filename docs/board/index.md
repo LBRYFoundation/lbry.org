@@ -64,22 +64,18 @@ const members = [
 ];
 </script>
 
-# Foundation Board
-The LBRY Foundation is a US-based non-profit organization governed by a board of directors formed by members of the community. <!--  The Foundation currently has five board members and board members serve a three year term but can be re-elected. -->
-<!-- TODO probably add more about the governance here -->
+# Board
 
-## Board of Directors
+The LBRY Foundation is a non-profit organization governed by a board of directors formed by members of the community.
 
 <VPTeamMembers :members="members" size="small" />
 
-<!-- ## Board Elections
-The first board election was the December 2019 Board Election, won by Jon Ringo.
-The second board election was the December 2020 Board Election, won by Ralph Streb and Leo Rodrigues.
-The third board election was December 2021, won by Shroom.
-In the December 2022 board election, Pigges and Aryan both won as they were the only two candidates standing for the two board positions so they were both automatically elected.
- TODO more info? -->
+<!--
+  ## Previous elections
 
-<!-- ## Future Structure
-The Foundation is expected to integrate network organization principles through 2020.
-The intent is to decentralize decision making and management powers throughout the LBRY network and community as they develop.
- TODO more info? -->
+  The first board election was the December 2019 Board Election, won by Jon Ringo.
+  The second board election was the December 2020 Board Election, won by Ralph Streb and Leo Rodrigues.
+  The third board election was December 2021, won by Shroom.
+  In the December 2022 board election, Pigges and Aryan both won as they were the only two candidates standing for the two board positions so they were both automatically elected.
+  TODO more info?
+-->

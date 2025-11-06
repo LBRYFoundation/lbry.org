@@ -1,3 +1,3 @@
-# Get
+# iOS
 
 See [Downloads](/downloads)

@@ -1,12 +1,12 @@
 ---
-title: "Quarterly Credit Report: Third Quarter 2018"
+title: "quarterly Credit Report: Third quarter 2018"
 sheet: https://docs.google.com/spreadsheets/d/1SqRGHtfZ7-gokvaHk8w3_72aD9zR98Sf345tGX-a7K0/edit?usp=sharing
 category: policy
 ---
 
 ## Summary
 This quarter we moved no Credits from cold storage.  We spent 958,201 total community Credits on line items detailed below. Under 50,000 operational Credits were used for the LBRY employee LBC purchase program. 100,000 institutional Credits were spent from the institutional fund as part of a new partnership with a media organization.
-We anticipate comparable or larger total outlays in Q4 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. It is also possible that LBRY will continue to explore usage of it's institutional fund.
+We anticipate comparable or larger total outlays in q4 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. It is also possible that LBRY will continue to explore usage of it's institutional fund.
 
 ## Overview By Fund
 
@@ -26,7 +26,7 @@ We anticipate comparable or larger total outlays in Q4 2018. Operational spendin
 
 As reliability and interest has been increasing, we anticipate continuing to reward new users, community contributions, and other beneficial activity. This is likely to represent no more than 1-2 million LBC.
 
-LBRY also launched a more quantified and specific reward program for new YouTubers in Q2 2018. This is likely to represent an LBC outlay more substantial than previous programs.
+LBRY also launched a more quantified and specific reward program for new YouTubers in q2 2018. This is likely to represent an LBC outlay more substantial than previous programs.
 
 ### Operational Fund
 
@@ -40,4 +40,4 @@ LBRY does not anticipate moving Credits to market this quarter due to both marke
 
 100,000 LBC spent
 
-LBRY spent 100,000 LBC as part of a to-be-announced media partnership in this transaction. However, due to a miscommunication, these credits were from the community wallet rather than the institutional wallet. A subsequent transaction will be issued and this issue will be updated in the Q4 2018 report.
+LBRY spent 100,000 LBC as part of a to-be-announced media partnership in this transaction. However, due to a miscommunication, these credits were from the community wallet rather than the institutional wallet. A subsequent transaction will be issued and this issue will be updated in the q4 2018 report.

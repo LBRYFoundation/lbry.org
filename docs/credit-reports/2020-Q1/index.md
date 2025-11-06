@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: First Quarter 2020"
-sheet: https://docs.google.com/spreadsheets/d/12_4RFTiEjV1RVdhOOPURa724ZSS8RDBxfnn8MiOvEDQ/edit?usp=sharing
+title: "quarterly Credit Report: First quarter 2020"
+sheet: https://docs.google.com/spreadsheets/d/12_4RFTiEjV1RVdhOOPURa724ZSS8RDBxfnn8MiOvEDq/edit?usp=sharing
 category: policy
 ---
 ## Summary
@@ -37,7 +37,7 @@ It should be noted that LBRY funds staked are recoverable.
 * LBRY sold 2,971,644 LBC on the open market
 * LBRY issued 126,352 LBC to employees
 
-LBRY may move Credits to market if conditions allow. LBRY is likely to announce new ways to acquire LBC in Q2 2020.
+LBRY may move Credits to market if conditions allow. LBRY is likely to announce new ways to acquire LBC in q2 2020.
 
 ### Institutional Fund
 

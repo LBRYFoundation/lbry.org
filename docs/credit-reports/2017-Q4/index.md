@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: Fourth Quarter 2017"
-sheet: https://docs.google.com/spreadsheets/d/1MjzKv6Cr-Yj9x4dJgaHzi0YT51ib4FBje-3nPfUtQOg/edit?usp=sharing
+title: "quarterly Credit Report: Fourth quarter 2017"
+sheet: https://docs.google.com/spreadsheets/d/1MjzKv6Cr-Yj9x4dJgaHzi0YT51ib4FBje-3nPfUtqOg/edit?usp=sharing
 category: policy
 ---
 
@@ -8,9 +8,9 @@ category: policy
 
 This quarter we moved 5,000,000 Credits from cold storage.  We spent 645,021 total community Credits on line items detailed below. 5,000,000 operational Credits were moved to markets to improve capitalization. 639,869 Credits were sold to a crypto education club.  No institutional Credits were moved or spent.
 
-Q4 2017 operational token use was significantly above expectations set in the previous quarterly report, but was deemed a strong time to improve the capitalization of the company. LBRY will not hesitate to deviate from previous report predictions should the circumstances warrant it.
+q4 2017 operational token use was significantly above expectations set in the previous quarterly report, but was deemed a strong time to improve the capitalization of the company. LBRY will not hesitate to deviate from previous report predictions should the circumstances warrant it.
 
-We anticipate comparable total outlays in Q1 2018. Operational uses will be lower, but community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 500,000 to several million LBC. Additionally, LBRY is preparing a new program for YouTubers that will scale up credit outlays. Finally, as it has now become de riguer to state, no institutional outlays are expected, but a pilot program could happen.
+We anticipate comparable total outlays in q1 2018. Operational uses will be lower, but community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 500,000 to several million LBC. Additionally, LBRY is preparing a new program for YouTubers that will scale up credit outlays. Finally, as it has now become de riguer to state, no institutional outlays are expected, but a pilot program could happen.
 
 ## Overview By Fund
 
@@ -28,7 +28,7 @@ We anticipate comparable total outlays in Q1 2018. Operational uses will be lowe
 
 As reliability and interest has been increasing, we anticipate continuing to reward new users, community contributions, and other beneficial activity. This is likely to represent no more than 1-2 million LBC.
 
-LBRY is also exploring a more quantified and specific reward program for new YouTubers that will launch in Q1 2018. This is likely to represent an LBC outlay more substantial than previous programs.
+LBRY is also exploring a more quantified and specific reward program for new YouTubers that will launch in q1 2018. This is likely to represent an LBC outlay more substantial than previous programs.
 
 ### Operational Fund
 

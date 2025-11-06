@@ -1,5 +1,5 @@
 ---
-title: "Quarterly Credit Report: First Quarter 2017"
+title: "quarterly Credit Report: First quarter 2017"
 sheet: https://docs.google.com/spreadsheets/d/1c-8CR1ro7lKOANHhWhivF7bZ19_ppgCq-d-HD_u43vM/edit#gid=799352054
 category: policy
 ---
@@ -7,7 +7,7 @@ category: policy
 ## Summary
 
 This quarter we moved 3 million community Credits from cold storage.  We spent 1,186,244 total community Credits on line items detailed below. No operational Credits were moved or spent.  No institutional Credits were moved or spent.
-As the LBRY protocol performance and reliability has again increased, we anticipate increased outlays in Q2 2017. This will primarily be driven by the redemption of beta invites. We also may begin the first institutional outlays, but any outlays here will be pilot programs and come with spending restrictions.
+As the LBRY protocol performance and reliability has again increased, we anticipate increased outlays in q2 2017. This will primarily be driven by the redemption of beta invites. We also may begin the first institutional outlays, but any outlays here will be pilot programs and come with spending restrictions.
 
 ## Overview By Fund
 
@@ -16,7 +16,7 @@ As the LBRY protocol performance and reliability has again increased, we anticip
 Bounty 14,500 LBRY Credits
 Testing 181,243 LBRY Credits
 Invite Refill 15,955 LBRY Credits
-Quickstart 506,000 LBRY Credits
+quickstart 506,000 LBRY Credits
 Publishing 13,250 LBRY Credits
 Modpay 394,600 LBRY Credits
 Dev_Eval 5,000 LBRY Credits

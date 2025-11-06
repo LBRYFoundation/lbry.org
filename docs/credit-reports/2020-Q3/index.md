@@ -1,12 +1,12 @@
 ---
-title: "Quarterly Credit Report: Third Quarter 2020"
-sheet: https://docs.google.com/spreadsheets/d/1t3zVnBgXNy1fQLdEVw7jr7x5izVxZ3tlQvBgizqvcGE/edit?usp=sharing
+title: "quarterly Credit Report: Third quarter 2020"
+sheet: https://docs.google.com/spreadsheets/d/1t3zVnBgXNy1fqLdEVw7jr7x5izVxZ3tlqvBgizqvcGE/edit?usp=sharing
 category: policy
 ---
 ## Summary
 This quarter we moved 10MM operational, 20MM community Credits, and no institutional Credits from master cold storage.  We spent 13,455,301 total community Credits on line items detailed below. 10,217,739 operational Credits were used for the LBRY team member LBC purchase program, contract obligations, and secondary market sales.
 
-Operational spending may increase or decrease at any time, but is not expected to increase significantly in Q4. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
+Operational spending may increase or decrease at any time, but is not expected to increase significantly in q4. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
 
 ## Overview By Fund
 
@@ -26,7 +26,7 @@ Operational spending may increase or decrease at any time, but is not expected t
 | LBRY funds staked | 1,200,000 |
 
 
-We still anticipate spending around 12,000,000 LBC this quarter, with a wide range of possibilities. We’re trying to bring community spending under 3,000,000 LBC per month, but it may remain over this until YouTube monthly payouts end in Q1 2021.
+We still anticipate spending around 12,000,000 LBC this quarter, with a wide range of possibilities. We’re trying to bring community spending under 3,000,000 LBC per month, but it may remain over this until YouTube monthly payouts end in q1 2021.
 
 ### Operational Fund
 

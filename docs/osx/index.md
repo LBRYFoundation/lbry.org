@@ -1,3 +1,3 @@
-# Get
+# OSX
 
 See [Downloads](/downloads)

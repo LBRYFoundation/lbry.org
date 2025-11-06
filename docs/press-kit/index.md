@@ -42,3 +42,25 @@ On July 29th, 2017 the Pop-up Open Beta Was Announced.
 - Reddit: [https://www.reddit.com/r/lbry](https://www.reddit.com/r/lbry)
 - Mailing List: [/join-list](/join-list) - **Sign up to follow along as we build LBRY**
 - Discord Chat: [https://chat.lbry.com](https://chat.lbry.com) - **Get your questions answered and become a LBRYian**
+
+[//]: # (<?php if &#40;!isset&#40;$showHeader&#41; || $showHeader&#41;: ?>)
+
+[//]: # (<?php Response::setMetaDescription&#40;'description.press'&#41; ?>)
+
+[//]: # (<?php NavActions::setNavUri&#40;'/learn'&#41; ?>)
+
+[//]: # (<?php endif ?>)
+
+<main class="ancillary">
+<section class="hero hero--half-height">
+<div class="inner-wrap inner-wrap--center-hero">
+<h1>{{press.title}}</h1>
+</div>
+</section>
+
+<section>
+<div class="inner-wrap">
+<p>For a current press-kit, please <a href="https://open.lbry.com/@lbry:3f/LBRY_presskit:d" class="link-primary">see our post on LBRY.</a></p>
+</div>
+</section>
+</main>

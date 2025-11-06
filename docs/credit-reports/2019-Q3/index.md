@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: Third Quarter 2019"
-sheet: https://docs.google.com/spreadsheets/d/1MNUTEUdQNKKxumjvcpW56DcDhVqvdzfCZA0rzD0MTMI/edit#gid=799352054
+title: "quarterly Credit Report: Third quarter 2019"
+sheet: https://docs.google.com/spreadsheets/d/1MNUTEUdqNKKxumjvcpW56DcDhVqvdzfCZA0rzD0MTMI/edit#gid=799352054
 category: policy
 ---
 ## Summary

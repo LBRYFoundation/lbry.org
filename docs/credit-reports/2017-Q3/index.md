@@ -1,6 +1,6 @@
 ---
-title: "Quarterly Credit Report: Third Quarter 2017"
-sheet: https://docs.google.com/spreadsheets/d/15wm2cEVa9eQnHQVHDg7muRXm1dzFXJ6ftqEJBuNixGM/edit?usp=sharing
+title: "quarterly Credit Report: Third quarter 2017"
+sheet: https://docs.google.com/spreadsheets/d/15wm2cEVa9eqnHqVHDg7muRXm1dzFXJ6ftqEJBuNixGM/edit?usp=sharing
 category: policy
 ---
 
@@ -8,7 +8,7 @@ category: policy
 
 This quarter we did not move any Credits from cold storage.  We spent 867,956 total community Credits on line items detailed below. 1,000,000 operational Credits were moved to markets.  No institutional Credits were moved or spent.
 
-As the LBRY protocol performance and reliability has again increased, we anticipate similar or increased outlays in Q4 2017. We will continue to incentivize new users and other beneficial behavior, which could total several million LBC. Additionally, LBRY may move 1,000,000 LBC to market from operational funds. No institutional outlays are expected, but a pilot program could happen.
+As the LBRY protocol performance and reliability has again increased, we anticipate similar or increased outlays in q4 2017. We will continue to incentivize new users and other beneficial behavior, which could total several million LBC. Additionally, LBRY may move 1,000,000 LBC to market from operational funds. No institutional outlays are expected, but a pilot program could happen.
 
 ## Overview By Fund
 

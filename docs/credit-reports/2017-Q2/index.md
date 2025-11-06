@@ -1,13 +1,13 @@
 ---
-title: "Quarterly Credit Report: Second Quarter 2017"
-sheet: https://docs.google.com/spreadsheets/d/1APKXW-JIH6Wq-pWqiDaUfj0MTRKz01QL9yIDVZU7LZI/
+title: "quarterly Credit Report: Second quarter 2017"
+sheet: https://docs.google.com/spreadsheets/d/1APKXW-JIH6Wq-pWqiDaUfj0MTRKz01qL9yIDVZU7LZI/
 category: policy
 ---
 
 ## Summary
 
 This quarter we did not move any Credits from cold storage.  We spent 704,306 total community Credits on line items detailed below. No operational Credits were moved or spent.  No institutional Credits were moved or spent.
-As the LBRY protocol performance and reliability has again increased, we anticipate increased outlays in Q3 2017. We will continue to redeem many if not all beta invites, which could total several million LBC. Additionally, LBRY will begin move several hundred thousand LBC to market from operational funds. No institutional outlays are expected, but a pilot program could happen.
+As the LBRY protocol performance and reliability has again increased, we anticipate increased outlays in q3 2017. We will continue to redeem many if not all beta invites, which could total several million LBC. Additionally, LBRY will begin move several hundred thousand LBC to market from operational funds. No institutional outlays are expected, but a pilot program could happen.
 
 ## Overview By Fund
 
@@ -17,7 +17,7 @@ As the LBRY protocol performance and reliability has again increased, we anticip
 Bounty 126,592 LBRY Credits
 Testing 62,471 LBRY Credits
 Invite / API 255,805 LBRY Credits
-Quickstart 45,000 LBRY Credits
+quickstart 45,000 LBRY Credits
 Modpay 99,800 LBRY Credits
 Dev Eval / Salary 62,965 LBRY Credits
 Other 51,673 LBRY Credits
