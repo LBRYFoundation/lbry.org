@@ -3,8 +3,9 @@
 <main class="news ancillary">
 <section class="hero hero--news" style="background-image: url(/img/bangalore.jpg); background-position: center 15%;">
 <div class="inner-wrap inner-wrap--center-hero">
-<h1>{{news.desk}}</h1>
-<h2>{{news.musings}}</h2>
+
+[//]: # (<h1>{{news.desk}}</h1>)
+[//]: # (<h2>{{news.musings}}</h2>)
 </div>
 </section>
 

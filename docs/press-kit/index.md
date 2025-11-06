@@ -54,7 +54,8 @@ On July 29th, 2017 the Pop-up Open Beta Was Announced.
 <main class="ancillary">
 <section class="hero hero--half-height">
 <div class="inner-wrap inner-wrap--center-hero">
-<h1>{{press.title}}</h1>
+
+[//]: # (<h1>{{press.title}}</h1>)
 </div>
 </section>
 
