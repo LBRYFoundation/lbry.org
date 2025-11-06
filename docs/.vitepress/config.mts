@@ -5,6 +5,11 @@ const metaLogo = '/logo.png';
 
 /** @type {import('vitepress').DefaultTheme.Config} */
 export default defineConfig({
+  vite:{
+    build:{
+      chunkSizeWarningLimit: 5000,
+    },
+  },
   appearance: 'force-dark',
   lang: 'en-US',
   title: 'The LBRY Foundation',
