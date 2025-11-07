@@ -193,6 +193,6 @@ LBRY Inc.<br/>
 Manchester, New Hampshire 03101<br/>
 
 United States<br/>
-hello@lbry.com
+board@lbry.org
 
 </blockquote>

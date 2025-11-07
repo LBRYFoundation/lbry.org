@@ -56,7 +56,7 @@
 <section>
 <div class="inner-wrap">
 <h3>More Questions?</h3>
-<p>We're here to help. Say hi at <a href="mailto:hello@lbry.com" class="link-primary">hello@lbry.com</a> - and thanks for keeping journalism alive!</p>
+<p>We're here to help. Say hi at <a href="mailto:board@lbry.org" class="link-primary">board@lbry.org</a> - and thanks for keeping journalism alive!</p>
 </div>
 </section>
 </main>

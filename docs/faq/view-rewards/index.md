@@ -68,7 +68,7 @@ The following can disqualify a user from monetization:
 
 ## I'm eligible for earning per view but I'm not earning anything, what do I do? {#apply}
 
-If you've carefully read the 'Eligibility for earning per view' criteria and believe your channel has not been monetized when it should be, [please email us](mailto:hello@lbry.com) with a link and description of your channel. YouTube Sync program users with over 500 subscribers should be automatically opted in if their content qualifies.
+If you've carefully read the 'Eligibility for earning per view' criteria and believe your channel has not been monetized when it should be, [please email us](mailto:board@lbry.org) with a link and description of your channel. YouTube Sync program users with over 500 subscribers should be automatically opted in if their content qualifies.
 
 ## I'm in need of some assistance, can you help?
 

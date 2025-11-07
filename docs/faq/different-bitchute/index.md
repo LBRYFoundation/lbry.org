@@ -38,6 +38,6 @@ Here's how to get it:
 
 1. Make the video. You should show the experience within the applications to make the comparison. Any conclusions you reach are fine (that is, it doesn't have to be pro-LBRY), so long as it doesn't actively misstate anything about LBRY.
 1. Post it to LBRY and the platform you are comparing us to. Add the tag #lbryvs (you can also add #lbryvsbitchute, #lbryvsdlive, etc.)
-1. Tweet at @LBRYio and the platform you are comparing us to with a link to the video and using the same hashtag(s) mentioned above. If you don't use Twitter, you can email hello@lbry.com with a link to your video and a screenshot of you posting about it somewhere else.
+1. Tweet at @LBRYio and the platform you are comparing us to with a link to the video and using the same hashtag(s) mentioned above. If you don't use Twitter, you can email board@lbry.org with a link to your video and a screenshot of you posting about it somewhere else.
 
 LBRY reserves the right to not offer this reward if you attempt to abuse it (for example, by creating a brand new account and creating an extremely low-effort video).

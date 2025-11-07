@@ -15,6 +15,6 @@ LBRY.COM / LBRY.TV abides by the following procedures to ensure compliance:
 
 Requiring all users to be 18 years of age to upload videos.
 When uploading, user must verify the content; assure he/she is 18 years of age; certify that he/she keeps records of the models in the content and that they are over 18 years of age.
-For further assistance and/or information in finding the content's originating site, please contact hello@lbry.com
+For further assistance and/or information in finding the content's originating site, please contact board@lbry.org
 
 LBRY.COM / LBRY.TV allows content to be flagged as inappropriate. Should any content be flagged as illegal, unlawful, harassing, harmful, offensive or various other reasons, LBRY.COM / LBRY.TV shall remove it from the site without delay.

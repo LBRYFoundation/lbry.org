@@ -64,7 +64,7 @@ As of writing, current limitations are:
 
 1. If running the desktop app for the first time, you will be prompted during the first-run process to create an account, if you want to opt-in to the wallet sync check "Backup your account and wallet data." option.
 1. If you want to opt-in later, click the Settings button in the top right and enable Sync.
-1. If you previously had sync configured with a password (i.e on Android), you'll be prompted for this. If you do not remember, please [reach out to us](mailto:hello@lbry.com) so we can remove the existing synced account.
+1. If you previously had sync configured with a password (i.e on Android), you'll be prompted for this. If you do not remember, please [reach out to us](mailto:board@lbry.org) so we can remove the existing synced account.
 
 ### Android
 
