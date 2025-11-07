@@ -66,6 +66,8 @@ const members = [
 
 # Board
 
+[//]: # (![Team]&#40;https://spee.ch/@lbryteam/everyone-banner2.jpg&#41;)
+
 The LBRY Foundation is a non-profit organization governed by a board of directors formed by members of the community.
 
 <VPTeamMembers :members="members" size="small" />

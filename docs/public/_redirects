@@ -1,8 +1,14 @@
 /governance /board/ 301
 /governance/ /board/ 301
 
+/governance/marketing /branding/ 301
+/governance/marketing/ /branding/ 301
+
 /android /downloads/ 301
 /android/ /downloads/ 301
+
+/get /downloads/ 301
+/get/ /downloads/ 301
 
 /ios /downloads/ 301
 /ios/ /downloads/ 301
@@ -15,3 +21,9 @@
 
 /windows /downloads/ 301
 /windows/ /downloads/ 301
+
+/team /board/ 301
+/team/ /board/ 301
+
+/termsofservice /terms/ 301
+/termsofservice/ /terms/ 301

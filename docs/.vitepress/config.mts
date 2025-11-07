@@ -120,10 +120,10 @@ export default defineConfig({
     },
     logo: '/logo-horizontal.svg',
     nav: [
-      {
-        text: 'About us',
-        link: '/about-us/'
-      },
+      // {
+      //   text: 'About us',
+      //   link: '/about-us/'
+      // },
       {
         text: 'Roadmap',
         link: '/roadmap/'
