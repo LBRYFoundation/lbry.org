@@ -1,7 +1,3 @@
----
-footer: true
----
-
 # Creator Of The Week
 Every week The Creator’s Council votes a new LBRY Foundation Creator of The Week. If you wanna know more about this process, check out the [Creator's Council](https://odysee.com/@cc:c4) on Odysee.
 

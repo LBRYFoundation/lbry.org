@@ -1,7 +1,3 @@
----
-footer: true
----
-
 # 📻 Radio Foundation
 
 

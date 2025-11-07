@@ -1,7 +1,3 @@
----
-footer: true
----
-
 # 🐝 Swarm
 
 The swarm is a sub-network within the LBRY network. It utilizes open-source principles to focus on the development of community, engagement, and the voices and reputations of individuals and groups within the LBRY network.

@@ -1,6 +1,4 @@
 ---
-editLink: true
-footer: true
 title: Awesome LBRY Projects
 ---
 

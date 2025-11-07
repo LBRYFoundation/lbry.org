@@ -1,3 +1,0 @@
-# Android
-
-See [Downloads](/downloads)

@@ -1,5 +1,4 @@
 ---
-footer: true
 title: Hives
 ---
 

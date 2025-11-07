@@ -1,6 +1,5 @@
 ---
 title: Downloads
-footer: true
 ---
 
 # Downloads

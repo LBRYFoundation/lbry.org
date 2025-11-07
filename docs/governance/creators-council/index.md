@@ -1,8 +1,3 @@
----
-footer: true
----
-
-
 # 🎥 Creator's Council
 
 ## What is the Creator's Council ?

@@ -1,8 +1,3 @@
----
-footer: true
----
-
-
 # 🧲 Curators
 ---
 

@@ -1,6 +1,5 @@
 ---
 title: Branding
-footer: true
 ---
 
 <style>

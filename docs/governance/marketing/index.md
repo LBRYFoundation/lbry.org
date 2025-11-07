@@ -1,5 +1,1 @@
----
-footer: true
----
-
 # 🚀 Marketing
