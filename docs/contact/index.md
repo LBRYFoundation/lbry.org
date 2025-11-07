@@ -1,38 +1,23 @@
-[//]: # (<?php Response::setMetaDescription&#40;__&#40;'description.contact'&#41;&#41; ?>)
+# Contact
 
-[//]: # (<?php Response::setMetaTitle&#40;__&#40;'title.contact'&#41;&#41; ?>)
+Need to get in touch with the LBRY Foundation?
 
-<main class="ancillary">
-<section class="hero hero--half-height">
-<div class="inner-wrap inner-wrap--center-hero">
-<h1>Get in Touch</h1>
-</div>
-</section>
+## Address
 
-<section>
-<div class="inner-wrap">
-<h3>New School</h3>
-<p>We're available on a number of social networks.</p>
+To be announced.
 
-<ul>
-<li><a href="https://chat.lbry.com" title="LBRY's Discord channel">Discord</a></li>
-<li><a href="https://twitter.com/lbrycom" title="LBRY's Twitter page">Twitter</a></li>
-<li><a href="https://reddit.com/r/lbry" title="LBRY's subreddit">Reddit</a></li>
-<li><a href="https://facebook.com/lbrycom" title="LBRY's Facebook page">Facebook</a></li>
-<li><a href="https://t.me/lbryofficial" title="LBRY's Telegram channel">Telegram</a></li>
-</ul>
+## Email
 
-<h3>Old School</h3>
-<p>For long-form communication, just send us an email at <a href="mailto:hello@lbry.com">hello@lbry.com</a>.</p>
+For long-form communication, just email us at <a href="mailto:board@lbry.org">board@lbry.org</a>.
 
-<h3>Ye Olde School</h3>
-<p>
-LBRY, Inc. <br/>
-<a href="https://goo.gl/maps/YhTUwKA61s22" title="See where we work!">
-99 Hanover St.<br/>
-Manchester, NH 03101
-</a>
-</p>
-</div>
-</section>
-</main>
+## Social media
+
+We're available on a number of social networks:
+
+- [Discord](https://chat.lbry.org)
+- [Twitter/X](https://x.com/LBRYFoundation)
+- [Reddit](https://reddit.com/r/lbry)
+- [Telegram](https://t.me/lbryofficial)
+
+[//]: # (- [Twitter/X]&#40;https://x.com/lbrycom&#41;)
+[//]: # (- [Facebook]&#40;https://facebook.com/lbrycom&#41;)

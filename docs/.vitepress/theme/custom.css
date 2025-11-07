@@ -3,6 +3,7 @@
 :root{
   /*LBRY Colors*/
   --accent: #27E4EB;
+  --accent-darker: #12bec4;
 
   --primaryBG: #072A46;
   --secondaryBG: #051D31;
@@ -10,8 +11,9 @@
 
   /*VitePress customizations*/
   --vp-button-brand-bg: var(--accent);
-  --vp-button-brand-hover-bg: var(--secondaryBG);
+  --vp-button-brand-hover-bg: var(--accent-darker);
   --vp-button-brand-text: var(--secondaryBG);
+  --vp-button-brand-hover-text: var(--secondaryBG);
 
   --vp-button-alt-bg: var(--secondaryBG);
   --vp-button-alt-hover-bg: var(--accent);

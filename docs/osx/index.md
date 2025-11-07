@@ -1,3 +1,0 @@
-# OSX
-
-See [Downloads](/downloads)

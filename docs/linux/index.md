@@ -1,3 +1,0 @@
-# Linux
-
-See [Downloads](/downloads)

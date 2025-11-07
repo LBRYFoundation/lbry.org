@@ -121,25 +121,36 @@ export default defineConfig({
     logo: '/logo-horizontal.svg',
     nav: [
       {
+        text: 'About us',
+        link: '/about-us/'
+      },
+      {
+        text: 'Roadmap',
+        link: '/roadmap/'
+      },
+      {
         text: 'Downloads',
         link: '/downloads/'
       },
       {
-        text: 'Projects',
-        link: '/projects/'
-      },
-      // {
-      //   text: 'Verified',
-      //   link: '/verified/'
-      // },
-      {
-        text: 'Governance',
-        link: '/governance/'
+        text: 'Board',
+        link: '/board/'
       },
       {
-        text: 'LBRY Communities',
-        link: '/hives/'
-      }
+        text: 'FAQ',
+        link: '/faq/'
+      },
+      {
+        text: 'Contact',
+        link: '/contact/'
+      },
+      {
+        component: 'TechButton',
+        props: {
+          text: 'LBRY.tech',
+          link: 'https://lbry.tech',
+        },
+      },
     ],
     search: {
       provider: 'local',
