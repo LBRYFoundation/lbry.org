@@ -16,7 +16,7 @@ export default {
   display: inline;
   font-weight: bold;
   line-height: 30px;
-  margin: 14px 0;
+  margin: 14px 4px;
   padding: 0 12px;
 }
 
