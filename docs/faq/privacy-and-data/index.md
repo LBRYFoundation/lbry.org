@@ -6,7 +6,7 @@ order: 5
 
 LBRY takes privacy seriously and carefully considers the data it collects.
 
-Our official privacy policy is viewable at https://lbry.com/privacypolicy. This FAQ article attempts to explain our policy in plain English, but should not be considered an official policy document.
+Our official privacy policy is viewable at [lbry.com/privacy](/privacy/). This FAQ article attempts to explain our policy in plain English, but should not be considered an official policy document.
 
 LBRY collects data for a variety of reasons, including but not limited to:
 - debugging and improving the protocol

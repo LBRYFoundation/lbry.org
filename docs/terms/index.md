@@ -10,7 +10,7 @@ _Last Updated: February 2020_
 
 **PLEASE READ THESE TERMS OF SERVICE CAREFULLY. NOTE THAT SECTION 16 CONTAINS A BINDING ARBITRATION CLAUSE AND CLASS ACTION WAIVER, WHICH AFFECT YOUR LEGAL RIGHTS. IF YOU DO NOT AGREE TO THESE TERMS OF SERVICE, DO NOT ACCESS OR USE THE SERVICES.**
 
-By clicking to agree to these Terms of Service (**“Terms”**) when running/installing our software, publishing content to LBRY, or by otherwise accessing or using the network [via proxy or direct], mobile applications and online services (collectively, our **“Services”**) of the LBRY Foundation. (**“Organization,” “we,” or “us”**), you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services for any purpose. Please refer to our [Privacy Policy](https://lbry.com/privacypolicy/) for information about how we collect, use and disclose information about you.
+By clicking to agree to these Terms of Service (**“Terms”**) when running/installing our software, publishing content to LBRY, or by otherwise accessing or using the network [via proxy or direct], mobile applications and online services (collectively, our **“Services”**) of the LBRY Foundation. (**“Organization,” “we,” or “us”**), you agree to be bound by these Terms. If you do not agree to these Terms, you may not access or use the Services for any purpose. Please refer to our [Privacy Policy](/privacy/) for information about how we collect, use and disclose information about you.
 
 You and the Organization agree as follows:
 
