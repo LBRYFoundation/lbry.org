@@ -1,81 +1,127 @@
-[//]: # (<?php Response::addMetaImage&#40;Request::getHostAndProto&#40;&#41; . '/img/og-faq.png?_cache=' . date&#40;'Y-m-d'&#41;&#41; ?>)
+---
+outline: deep
+---
 
-[//]: # (<?php Response::setMetaDescription&#40;__&#40;'description.faq'&#41;&#41; ?>)
+<script setup>
+import { data } from './index.data';
+</script>
 
-<main class="ancillary">
-<section class="hero hero--half-height">
-<div class="inner-wrap inner-wrap--center-hero">
+# Frequently Asked Questions
 
-[//]: # (<h1>{{page.faq.header}}</h1>)
-</div>
-</section>
+![FAQ](/img/og-faq.png)
 
-<section>
-<div class="inner-wrap">
-<form method="get" action="/faq" id="faq-filter-form">
+## Categories
 
-[//]: # (<?php echo View::render&#40;'form/_select', [)
-
-[//]: # ('choices' => $categories,)
-
-[//]: # ('label' => 'Category',)
-
-[//]: # ('name' => 'category',)
-
-[//]: # ('selected' => $selectedCategory)
-
-[//]: # (]&#41; ?>)
-</form>
-
-[//]: # (<?php js_start&#40;&#41; ?>)
-
-[//]: # (if &#40;window.location.href.includes&#40;"/faq?category"&#41;&#41;)
-
-[//]: # (document.querySelector&#40;"select"&#41;.insertAdjacentHTML&#40;"afterbegin", "<option value='back-to-faq'>Back to FAQ</option>"&#41;;)
-
-[//]: # ()
-[//]: # (document.getElementById&#40;"faq-filter-form"&#41;.addEventListener&#40;"change", function&#40;&#41; {)
-
-[//]: # (this.submit&#40;&#41;;)
-
-[//]: # (}&#41;;)
-
-[//]: # (<?php js_end&#40;&#41; ?>)
-
-[//]: # (<?php foreach &#40;$postGroups as $category => $posts&#41;: ?>)
-
-[//]: # (<?php if &#40;count&#40;$posts&#41;&#41;: ?>)
-
-[//]: # (<h2><?php echo $categories[$category] ?></h2>)
+### Intro to LBRY
 
 <ul>
-
-[//]: # (<?php foreach &#40;$posts as $post&#41;: ?>)
-
-[//]: # (<li>)
-
-[//]: # (<a href="<?php echo $post->getRelativeUrl&#40;&#41; ?>">)
-
-[//]: # (<?php echo $post->getTitle&#40;&#41; ?>)
-
-[//]: # (</a>)
-
-[//]: # (</li>)
-
-[//]: # (<?php endforeach ?>)
-
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='LBRY 101'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
 </ul>
 
-[//]: # (<?php endif ?>)
+### Getting Started
 
-[//]: # (<?php endforeach ?>)
-</div>
-</section>
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='getstarted'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
 
-<section>
-<div class="inner-wrap">
-<h3>Ask A Question</h3>
-<p>See something not answered above? <a href="mailto:board@lbry.org?subject=Question%20for%20the%20FAQ" rel="noopener noreferrer" target="_blank" title="">Send us your question</a>!</p>
-</div>
-</section>
-</main>
+### LBRY Tutorials
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='tutorial'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### Publishers and Creators
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='publisher'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### Help and Troubleshooting
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='troubleshooting'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### LBRY for Power Users
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='powerusers'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### Wallet and Transactions
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='wallet'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### LBRY Bots
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='bots'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### Mining LBC
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='mining'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### What Makes LBRY Different?
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='differences'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+### Other Questions
+
+<ul>
+<template v-for="page in data">
+  <li v-if="page.frontmatter.category=='other'">
+    <a :href="page.url">{{ page.frontmatter.title }}</a>
+  </li>
+</template>
+</ul>
+
+## Ask A Question
+
+See something not answered above? [Send us your question](mailto:board@lbry.org?subject=Question%20for%20the%20FAQ)!

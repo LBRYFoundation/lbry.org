@@ -1,3 +1,12 @@
+/claim-wallet /youtube/ 301
+/claim-wallet/ /youtube/ 301
+
+/dmca /contact/ 301
+/dmca/ /contact/ 301
+
+/forklist /contact/ 301
+/forklist/ /contact/ 301
+
 /governance /board/ 301
 /governance/ /board/ 301
 
@@ -21,6 +30,15 @@
 
 /windows /downloads/ 301
 /windows/ /downloads/ 301
+
+/list/subscribe /contact/ 301
+/list/subscribe/ /contact/ 301
+
+/roadmap/2019 /roadmap/ 301
+/roadmap/2019/ /roadmap/ 301
+
+/roadmap/2020 /roadmap/ 301
+/roadmap/2020/ /roadmap/ 301
 
 /team /board/ 301
 /team/ /board/ 301
