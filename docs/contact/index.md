@@ -24,6 +24,8 @@ We're available on a number of social networks:
 
 ## Wanna Meet Up?
 
+![Meeting](/img/table2.jpg)
+
 LBRY is looking for ambassadors to spread the word to College campuses and Meetup groups worldwide!
 
 ### Interested in bringing LBRY to your local college campus or Meetup group?
