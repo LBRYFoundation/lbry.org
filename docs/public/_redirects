@@ -34,6 +34,9 @@
 /list/subscribe /contact/ 301
 /list/subscribe/ /contact/ 301
 
+/meet /contact/ 301
+/meet/ /contact/ 301
+
 /roadmap/2019 /roadmap/ 301
 /roadmap/2019/ /roadmap/ 301
 
