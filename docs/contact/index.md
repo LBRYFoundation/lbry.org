@@ -35,3 +35,5 @@ We're looking for folks to demonstrate our platform and latest technologies. Wha
 ### Okay. How do I get involved?
 
 Use above contact information to get in touch.
+
+[![Free Speech Flag](/img/flag-fs.svg)](https://en.wikipedia.org/wiki/Free_Speech_Flag)
