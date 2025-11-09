@@ -35,71 +35,90 @@ const config = {
 };
 </script>
 
-<style lang="stylus">
-.footer
-  background-color var(--tertiaryBG)
-  background-repeat no-repeat
-  background-size contain
-  background-position right
-  padding 1rem
-  width calc(100% - 2rem)
-  margin-top 5rem
-  .footer-main
-    display flex
-    flex-direction row
-    justify-content space-between
-    max-width $contentWidth
-    margin 0 auto
-    img
-      flex none
-      height 100px
-  .columns
-    display flex
-    gap 40px
-    .column-opener
-      max-width 200px
-    .column
-      display flex
-      flex-direction column
-      .col-title
-        font-weight 500
-        margin-bottom 5px
-        color var(--headerText)
-      .links
-        display flex
-        align-self center
-        flex-direction column
-        align-self flex-start
-        a
-          font-weight 400
-          color var(--text)
-          & svg
-            display none
-          &:hover
-            text-decoration underline
-  .fine-print
-    color var(--text)
-    font-size 10px
-    max-width $contentWidth
-    margin 0 auto
-    margin-top 30px
-    display flex
-    gap 10px
-@media (max-width: $MQMobile)
-  .footer
-    background-image none
-    .columns
-      flex-wrap wrap
-      gap 20px
-      .column-opener
-        max-width none
-        margin-bottom 2rem
-      .column
-        align-self flex-start
-        .links
-          justify-content center
-    .fine-print
-      margin-top 2rem
+<style>
+.footer {
+  background-color: var(--tertiaryBG);
+  background-repeat: no-repeat;
+  background-size: contain;
+  background-position: right;
+  padding: 1rem;
+  width: calc(100% - 2rem);
+  margin-top: 5rem;
+}
+.footer .footer-main {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  max-width: $contentWidth;
+  margin: 0 auto;
+}
+.footer .footer-main img {
+  flex: none;
+  height: 100px;
+}
+.footer .columns {
+  display: flex;
+  gap: 40px;
+}
+.footer .columns .column-opener {
+  max-width: 200px;
+}
+.footer .columns .column {
+  display: flex;
+  flex-direction: column;
+}
+.footer .columns .column .col-title {
+  font-weight: 500;
+  margin-bottom: 5px;
+  color: var(--headerText);
+}
+.footer .columns .column .links {
+  display: flex;
+  align-self: center;
+  flex-direction: column;
+  align-self: flex-start;
+}
+.footer .columns .column .links a {
+  font-weight: 400;
+  color: var(--text);
+}
+.footer .columns .column .links a svg {
+  display: none;
+}
+.footer .columns .column .links a:hover {
+  text-decoration: underline;
+}
+.footer .fine-print {
+  color: var(--text);
+  font-size: 10px;
+  max-width: $contentWidth;
+  margin: 0 auto;
+  margin-top: 30px;
+  display: flex;
+  gap: 10px;
+}
+@media (max-width: $MQMobile) {
+  .footer {
+    background-image: none;
+  }
+  .footer .columns {
+    flex-wrap: wrap;
+    gap: 20px;
+  }
+  .footer .columns .column-opener {
+    max-width: none;
+    margin-bottom: 2rem;
+  }
+  .footer .columns .column {
+    align-self: flex-start;
+  }
+  .footer .columns .column .links {
+    justify-content: center;
+  }
+  .footer .fine-print {
+    margin-top: 2rem;
+  }
+}
 </style>
 
 <template>

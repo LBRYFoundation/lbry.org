@@ -5,37 +5,49 @@ export default {
 };
 </script>
 
-<style lang="stylus">
-.person
-  border-radius .5em
-  background-color var(--secondaryBG)
-  padding .5em 1em
-  margin .5em
-  display flex
-  .title
-    font-size 24px
-    &.minimal
-      font-size 16px
-      font-weight normal
-  .title, .subtitle
-    margin 0
-  img
-    height 5em
-    & + .person-content
-      margin-left 1em
-    &.large
-      height 10em
-    &.rounded
-      border-radius 50%
-  .person-content
-    display flex
-    flex-direction column
-    flex auto
-    justify-content center
-    .subtitle
-      color var(--tertiaryText)
-    .buttons a
-      line-height 2
+<style>
+.person {
+  border-radius: 0.5em;
+  background-color: var(--secondaryBG);
+  padding: 0.5em 1em;
+  margin: 0.5em;
+  display: flex;
+}
+.person .title {
+  font-size: 24px;
+}
+.person .title.minimal {
+  font-size: 16px;
+  font-weight: normal;
+}
+.person .title,
+.person .subtitle {
+  margin: 0;
+}
+.person img {
+  height: 5em;
+}
+.person img + .person-content {
+  margin-left: 1em;
+}
+.person img.large {
+  height: 10em;
+}
+.person img.rounded {
+  border-radius: 50%;
+}
+.person .person-content {
+  display: flex;
+  flex-direction: column;
+  flex: auto;
+  justify-content: center;
+}
+.person .person-content .subtitle {
+  color: var(--tertiaryText);
+}
+.person .person-content .buttons a {
+  line-height: 2;
+}
 </style>
 
 <template>
