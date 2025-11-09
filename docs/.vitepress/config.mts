@@ -12,7 +12,7 @@ export default defineConfig({
   },
   appearance: 'force-dark',
   lang: 'en-US',
-  title: 'The LBRY Foundation',
+  title: 'LBRY Foundation',
   lastUpdated: true,
   description: 'The LBRY community invites everyone to join us in building a more free and open way to share content and information online.',
   transformHtml: (code: string): string => {
@@ -116,7 +116,7 @@ export default defineConfig({
     },
     footer: {
       message: 'With love for community',
-      copyright: '© '+(new Date().getFullYear())+' The LBRY Foundation',
+      copyright: '© '+(new Date().getFullYear())+' LBRY Foundation',
     },
     logo: '/logo-horizontal.svg',
     nav: [
