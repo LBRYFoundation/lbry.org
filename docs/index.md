@@ -20,17 +20,17 @@ features:
   - title: LBRY Desktop
     icon: 🖥️
     details: View LBRY content on your own computer, without the need of any central video platform.
-    link: /downloads/#desktop
+    link: /downloads/desktop/
     linkText: Download
   - title: LBRY Daemon
     icon: 🧠
     details: The brain powering the whole LBRY network. Without it, LBRY isn't anything.
-    link: /downloads/#daemon
+    link: /downloads/daemon/
     linkText: Download
   - title: LBRY CLI
     icon: 🛠️
     details: Get more control in the LBRY ecosystem by directly telling the daemon what to do from your terminal.
-    link: /downloads/#cli
+    link: /downloads/cli/
     linkText: Download
   - title: Odysee
     details: Use LBRY on the web with the well-known LBRY wrapper Odysee.
@@ -44,12 +44,12 @@ features:
   - title: LBRY Hub
     icon: 🏛️
     details: The SPV Electrum server with some extra LBRY commands to search claims with ease.
-    link: /downloads/#hub
+    link: /downloads/hub/
     linkText: Download
   - title: LBRY Blockchain
     icon: 🔗
     details: The base for the whole ecosystem. A specific blockchain to keep track on both the LBC and the claims.
-    link: /downloads/#blockchain
+    link: /downloads/blockchain/
     linkText: Download
   - title: LBRY.tech
     icon: ⚙️

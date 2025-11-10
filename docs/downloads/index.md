@@ -4,14 +4,10 @@ title: Downloads
 
 # Downloads
 
-## Desktop
+The LBRY network contains multiple components. Each of them can be downloaded here:
 
-Source code: <a href="https://github.com/LBRYFoundation/lbry-desktop">GitHub</a>
-
-## CLI
-
-Source code: <a href="https://github.com/LBRYFoundation/lbry-cli">GitHub</a>
-
-## Daemon
-
-Source code: <a href="https://github.com/LBRYFoundation/lbry-sdk">GitHub</a>
+- [LBRY Desktop](/downloads/desktop/)
+- [LBRY Daemon](/downloads/daemon/)
+- [LBRY CLI](/downloads/cli/)
+- [LBRY Hub](/downloads/hub/)
+- [LBRY Blockchain](/downloads/blockchain/)
