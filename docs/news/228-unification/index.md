@@ -1,6 +1,6 @@
 ---
 author: samuel-lbryian
-title: 'We Accomplished What The Physicists Couldn't: Unification'
+title: "We Accomplished What The Physicists Couldn't: Unification"
 date: '2019-10-18 10:00:00'
 cover: 'quantum.png'
 category: update

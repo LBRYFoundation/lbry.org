@@ -11,11 +11,11 @@ This document outlines LBRY, Inc. policies, disclosures and intentions in admini
 
 The initial 400m Credits are broken down as follows:
 
-| Name | Amount | Purpose | Wallet (Initial) | Wallet (Current) |
-| ---- | ------ | ---------------- | -------- | -------- |
-| Community | 200m | Rewards to early adopters, new users, and community contributions. | [link](https://explorer.lbry.com/address/rRmURzvpHTysU4xUSp9CXeosBTbYfKs7n5) | [link](https://explorer.lbry.com/address/rEqocTgdPdoD8NEbrECTUPfpquJ4zPVCJ8) |
-| Operational | 100m | To allow LBRY, Inc. to function and profit. | [link](https://explorer.lbry.com/address/rTZF9RvfkLJ6hwCwERwFd7dppRMeddKjpe) |[link](https://explorer.lbry.com/address/r7hj61jdbGXcsccxw8UmEFCReZoCWLRr7t) |
-| Institutional | 100m | For strategic partnerships or assistance with charities, non-profits, or other institutions. | [link](https://explorer.lbry.com/address/rVRMmGLZenVXpT1NwYMGcnwFc642kEgWTV) | [link](https://explorer.lbry.com/address/rKaAUDxr24hHNNTQuNtRvNt8SGYJMdLXo3) |
+| Name          | Amount | Purpose                                                                                      | Wallet (Initial)                                                             | Wallet (Current)                                                             |
+|---------------|--------|----------------------------------------------------------------------------------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------|
+| Community     | 200m   | Rewards to early adopters, new users, and community contributions.                           | [link](https://explorer.lbry.com/address/rRmURzvpHTysU4xUSp9CXeosBTbYfKs7n5) | [link](https://explorer.lbry.com/address/rEqocTgdPdoD8NEbrECTUPfpquJ4zPVCJ8) |
+| Operational   | 100m   | To allow LBRY, Inc. to function and profit.                                                  | [link](https://explorer.lbry.com/address/rTZF9RvfkLJ6hwCwERwFd7dppRMeddKjpe) | [link](https://explorer.lbry.com/address/r7hj61jdbGXcsccxw8UmEFCReZoCWLRr7t) |
+| Institutional | 100m   | For strategic partnerships or assistance with charities, non-profits, or other institutions. | [link](https://explorer.lbry.com/address/rVRMmGLZenVXpT1NwYMGcnwFc642kEgWTV) | [link](https://explorer.lbry.com/address/rKaAUDxr24hHNNTQuNtRvNt8SGYJMdLXo3) |
 
 ## Quarterly reports
 

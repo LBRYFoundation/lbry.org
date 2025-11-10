@@ -9,15 +9,14 @@ As the man in charge of publicizing the LBRY protocol, the two weeks since we an
 
 Here are some figures:
 
-Metric            | Launch                                      | Today                            | % Growth
-:---              | :---                                        | :---                             | :---
-Market Cap        | $140M (Early Bittrex trading at ~$0.35/LBC) | $1.2B (2 week high of $2.93/LBC) | 857%
-Hashing Power     | 1 MH/s                                      | 693 GH/s                         | 693,000%
-Beta Users        | 1,000                                       | 2,000                            | 100%
-Beta Waitlist     | 405                                         | 77,000                           | 1,900%
-Public Chat Members     | 160                                         | 670                              | 418%
-Twitter Follows | 616                                         | 1,095                            | 77%
-
+| Metric              | Launch                                      | Today                            | % Growth |
+|---------------------|---------------------------------------------|----------------------------------|----------|
+| Market Cap          | $140M (Early Bittrex trading at ~$0.35/LBC) | $1.2B (2 week high of $2.93/LBC) | 857%     |
+| Hashing Power       | 1 MH/s                                      | 693 GH/s                         | 693,000% |
+| Beta Users          | 1,000                                       | 2,000                            | 100%     |
+| Beta Waitlist       | 405                                         | 77,000                           | 1,900%   |
+| Public Chat Members | 160                                         | 670                              | 418%     |
+| Twitter Follows     | 616                                         | 1,095                            | 77%      |
 
 Now people who don't know our team very well likely assume we're seeing green, but that's not what we get from this at all. No, what we think is happening is that we were so busy working on the product over the past year that barely anyone knew LBRY existed. And now, as word is getting out, you're all feeling that intense rush of excitement that each of us did when we signed on to reshape the internet.
 

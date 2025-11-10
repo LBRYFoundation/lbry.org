@@ -13,16 +13,16 @@ We anticipate significantly larger community outlays throughout the rest of 2019
 
 7,959,189 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 385,100 |
-| User Engagement | 4,662,600 |
-| Community Engagement | 432,000 |
-| Publishing | 52,198 |
-| Acquisition | 378,286 |
-| Testing | 105 |
-| LBRY.fund | 332,900 |
-| Swarm | 1,725,000 |
+| Category             | Amount    |
+|----------------------|-----------|
+| Bounties             | 385,100   |
+| User Engagement      | 4,662,600 |
+| Community Engagement | 432,000   |
+| Publishing           | 52,198    |
+| Acquisition          | 378,286   |
+| Testing              | 105       |
+| LBRY.fund            | 332,900   |
+| Swarm                | 1,725,000 |
 
 As interest has been increasing, we anticipate continuing to reward new users, youtube channel owners, community contributions, and other beneficial activity. We are setting  7.5 million LBC as the expected spend this quarter, but it could easily be substantially lower or higher.
 ### Operational Fund

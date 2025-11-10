@@ -5,7 +5,7 @@ category: policy
 ---
 ## Summary
 This quarter we moved 5MM operational, 30MM community Credits, and 50MM institutional Credits from master cold storage.  We spent 25,445,103 total community Credits on line items detailed below. 7,822,697 operational Credits were used for the LBRY team member LBC purchase program, contract obligations, and secondary market sales. 40MM institutional Credits were loaned to Altonomy for market liquidity.
-Community outlays this quarter were unprecedented due to tremendous growth in new users and views, especially in May (nearly 9M). Rewards were decreased accordingly in June, and are expected to be lowered to 2-3M per month. 
+Community outlays this quarter were unprecedented due to tremendous growth in new users and views, especially in May (nearly 9M). Rewards were decreased accordingly in June, and are expected to be lowered to 2-3M per month.
 
 Operational spending may increase or decrease at any time, but is not expected to increase significantly in q3. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
 
@@ -16,19 +16,19 @@ Operational spending may increase or decrease at any time, but is not expected t
 
 25,445,103 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 570,380 |
-| User Engagement | 21,733,000 |
-| Community Engagement | 449,507 |
-| Publishing | 78,700 |
-| Acquisition | 1,702,033 |
-| Testing | 11,484 |
-| Swarm | 40,000 |
-| LBRY funds staked | 860,000 |
+| Category             | Amount     |
+|----------------------|------------|
+| Bounties             | 570,380    |
+| User Engagement      | 21,733,000 |
+| Community Engagement | 449,507    |
+| Publishing           | 78,700     |
+| Acquisition          | 1,702,033  |
+| Testing              | 11,484     |
+| Swarm                | 40,000     |
+| LBRY funds staked    | 860,000    |
 
 
-Several hundred thousand users received rewards and nearly 10,000 new YouTubers enrolled in our partner program. This resulted in a much more substantial outlay than anticipated. 
+Several hundred thousand users received rewards and nearly 10,000 new YouTubers enrolled in our partner program. This resulted in a much more substantial outlay than anticipated.
 
 Rewards were adjusted doward in June and are expected to continue to be adjusted downward. The view reward program will be adjusted to use a fixed size ([more](lbry://@lbry#3f/monetizationtwopointoh#5)), and rewards for new YouTube syncs based on audience size will also change.
 
@@ -40,7 +40,7 @@ We still anticipate spending over 10,000,000 LBC this quarter, with a wide range
 * LBRY issued 359,341 LBC to employees
 * LBRY sold 435,000 LBC via Moonpay.io
 
-LBRY may move Credits to market if conditions allow. 
+LBRY may move Credits to market if conditions allow.
 
 ### Institutional Fund
 

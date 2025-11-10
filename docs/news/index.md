@@ -1,5 +1,5 @@
 <script setup>
-import { data } from './index.data';
+import data from './index.data';
 </script>
 
 # The Front Desk

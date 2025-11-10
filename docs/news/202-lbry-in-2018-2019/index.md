@@ -54,37 +54,37 @@ However, most of these goals fall into one of several categories.
 
 1. Lower the friction to use LBRY, most relevantly by making the full desktop experience available over the web. [Sign up now at lbry.tv](https://lbry.tv)!
 
-1. Improve content discovery through the addition of a recommender system, playlists/search, improved search, and other features that will help users find what they like and keep coming back.
+2. Improve content discovery through the addition of a recommender system, playlists/search, improved search, and other features that will help users find what they like and keep coming back.
 
-1. Give the community more ability to categorize, organize, and recommend content.
+3. Give the community more ability to categorize, organize, and recommend content.
 
-1. Release a fully-featured [Android](/android/) application.
+4. Release a fully-featured [Android](/android/) application.
 
-1. Add commenting.
+5. Add commenting.
 
 ## B. Win Creators
 
 1. Build stronger, lasting partnerships with creators. Listen to creators and then listen some more.
 
-1. Build the features creators want to see, like more control over presentation and direct relationships with their fans.
+2. Build the features creators want to see, like more control over presentation and direct relationships with their fans.
 
-1. Improve onramps and offramps for LBC so it's easier to receive or spend the currency you prefer. This is huge for users, as well.
+3. Improve onramps and offramps for LBC so it's easier to receive or spend the currency you prefer. This is huge for users, as well.
 
 ## C. Build Community
 
 1. Launch the "LBRY Swarm", a plan to empower passionate LBRYians worldwide and bring in hundreds of thousands more. We're not ready to share all of the details on this yet, but you can sign up to learn more at [lbry.org](https://lbry.org). This plan will put tens of millions of LBC into the control of our most dedicated community members.
 
-1. Drop the beta from [lbry.tech](https://lbry.tech) and start <del>shouting about</del> politely introducing the technology more publicly. We have one of the few [detailed specifications](https://lbry.tech/spec) for a blockchain-based protocol in existence.
+2. Drop the beta from [lbry.tech](https://lbry.tech) and start <del>shouting about</del> politely introducing the technology more publicly. We have one of the few [detailed specifications](https://lbry.tech/spec) for a blockchain-based protocol in existence.
 
-1. Bring LBRY to more people by translating our applications and key materials into more languages.
+3. Bring LBRY to more people by translating our applications and key materials into more languages.
 
 ## D. Technical Improvements
 
 1. Continue to make LBRY faster and more reliable. We want a microscopic failure rate and sub-second stream times.
 
-1. Make blockchain improvements that lay the groundwork for future scaling and functionality.
+2. Make blockchain improvements that lay the groundwork for future scaling and functionality.
 
-1. Contingent on above, make our data marketplace features robust rather than a toy.
+3. Contingent on above, make our data marketplace features robust rather than a toy.
 
 For even more details on above, check out our [updated roadmap](/roadmap/).
 

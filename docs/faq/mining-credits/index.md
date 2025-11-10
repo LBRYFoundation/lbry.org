@@ -41,11 +41,11 @@ FPGA’s are a bit more specialized hardware that have higher mining efficiencie
 The following LBRY rigs are available on the market today:
 
 
-| Miner        | Hashrate    |Power Consumption (Watts)| Unit Power (W/Mh)|
-| -------------|:-----------:|:-----------------------:|:----------------:|
-| Baikal BK-D  | 80 GH/s     |500 W                    |0.006j/Mh         |
-| Baikal BK-B  | 40 GH/s     |400 W                    |0.01j/Mh          |
-| GoldShell LB1  | 86 GH/s     |80 W                    | NA         |
+| Miner         | Hashrate | Power Consumption (Watts) | Unit Power (W/Mh) |
+|---------------|----------|---------------------------|-------------------|
+| Baikal BK-D   | 80 GH/s  | 500 W                     | 0.006j/Mh         |
+| Baikal BK-B   | 40 GH/s  | 400 W                     | 0.01j/Mh          |
+| GoldShell LB1 | 86 GH/s  | 80 W                      | NA                |
 
 
 [GoldShell Purchase link](https://www.goldshell.com/lb1-lbry-miner/)

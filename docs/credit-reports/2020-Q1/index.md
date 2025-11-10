@@ -12,19 +12,19 @@ This quarter we moved 10MM operational, 23MM community Credits, and 3MM institut
 
 23,026,383 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 743,036 |
-| User Engagement | 9,056,100 |
-| Community Engagement | 370,847 |
-| Publishing | 70,100 |
-| Acquisition | 835,700 |
-| Testing | 100 |
-| Swarm | 664,000 |
-| LBRY funds staked | 4,115,000 |
+| Category                   | Amount    |
+|----------------------------|-----------|
+| Bounties                   | 743,036   |
+| User Engagement            | 9,056,100 |
+| Community Engagement       | 370,847   |
+| Publishing                 | 70,100    |
+| Acquisition                | 835,700   |
+| Testing                    | 100       |
+| Swarm                      | 664,000   |
+| LBRY funds staked          | 4,115,000 |
 | Special Creator USB Sticks | 7,000,000 |
 
-As interest has been increasing, we anticipate continuing to reward new users, YouTube channel owners, community contributions, and other beneficial activities. 
+As interest has been increasing, we anticipate continuing to reward new users, YouTube channel owners, community contributions, and other beneficial activities.
 
 Rewards are likely to be adjusted downwards, even if current growth flatlines rather than continues. Swarm funds are from a legacy program and are expected to be zero moving forward, and then removed.
 

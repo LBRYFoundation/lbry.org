@@ -82,11 +82,11 @@ Download official LBRY Foundation branding assets ✏️📏🖌️
 
 ### Horizontal
 
-<img src="/logo-horizontal.svg" style="height:100px;">
+<img alt="Horizontal logo" src="/logo-horizontal.svg" style="height:100px;">
 
 ### Vertical
 
-<img src="/logo-vertical.svg" style="height:200px;">
+<img alt="Vertical logo" src="/logo-vertical.svg" style="height:200px;">
 
 ## Colors
 

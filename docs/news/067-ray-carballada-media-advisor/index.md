@@ -1,6 +1,6 @@
 ﻿---
 author: samuel-lbryian
-title: 'LBRY's New Media Advisor: An Artist, A Businessman, A Gentleman'
+title: "LBRY's New Media Advisor: An Artist, A Businessman, A Gentleman"
 date: '2016-09-20 00:06:18'
 ---
 

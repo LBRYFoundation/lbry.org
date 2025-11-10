@@ -5,7 +5,7 @@ date: '2017-12-12 5:00:00'
 category: community-update
 ---
 
-<center><img src="https://spee.ch/53640dcec6744ce9da9b326fe44f9d6e7572be83/LBRYteam.jpg"/></center>
+<center><img alt="LBRY Team" src="https://spee.ch/53640dcec6744ce9da9b326fe44f9d6e7572be83/LBRYteam.jpg"/></center>
 
 <br/>
 

@@ -32,7 +32,7 @@ For instructions on how to publish to Android, please check out our [publishing 
 
 6. On your local machine, select the content you wish to upload to LBRY. For video content, LBRY works best with MP4 files in H264/AAC format which support proper streaming (see [video publishing guide for details](/faq/video-publishing-guide/)). Besides videos, other popular formats supported are MP3s, text documents like markdown (md)/HTML, PDF, CSV, and comic books (cbr, cbz). In the future, the in app player may support additional formats.
 
-Other file types can also be uploaded, but may not be streamable via third-party frontends (like Odysee). However, they can be opened via the LBRY Desktop/Android apps.
+   Other file types can also be uploaded, but may not be streamable via third-party frontends (like Odysee). However, they can be opened via the LBRY Desktop/Android apps.
 
 7. Enter a `Description` for your content.
 
@@ -82,7 +82,7 @@ The following images show the user interface for Odysee.com. Never fear! The pro
 
 3. Select `New Channel` in the dropdown menu.
 
-4. Fill in your your preffered channel name, title and description. Please ensure that you have enough LBRY Credits in your wallet to cover the bid amount. There is also a small network fee associated with the creation of a channel.
+4. Fill in your preffered channel name, title and description. Please ensure that you have enough LBRY Credits in your wallet to cover the bid amount. There is also a small network fee associated with the creation of a channel.
 
    ![Create Channel](https://spee.ch/6/30ecd0c691409d0f.png)
 
@@ -100,7 +100,7 @@ First, you need to access your channel by clicking on the channel art or the ast
 
 2. You can now upload your thumbnail and cover image by clicking the `camera icon`, select `Browse` to choose the thumbnail or banner for your channel or use the option for url to add an image link. The page will update once a valid URL is available.
 
-![edit2](https://spee.ch/e/ad430567d07974ac.png)
+   ![edit2](https://spee.ch/e/ad430567d07974ac.png)
 
 3. Add your title and description. If you need to update the deposit amount, you can do so by clicking on `Credit Deatils` (can stay the same, higher helps with discovery), same with `Tags` and `Other`  which includes website, email and language.
 4. Click Submit.
@@ -113,11 +113,11 @@ First, you need to access your channel by clicking on the channel art or the ast
 
 3. Click on the `Delete` icon.
 
-![delete content](https://spee.ch/b/5eb8de5a8ce56488.png)
+   ![delete content](https://spee.ch/b/5eb8de5a8ce56488.png)
 
 4. There will be an option for `Abandon on blockchain (reclaim your LBC)`. Check if that applies. Abandoning your claim will release the LBC back into your wallet (99% of the time you want to select this).
 
-**Warning: Deleting content is permanent. Please make sure this is what you want to do before confirming the deletion.**
+   **Warning: Deleting content is permanent. Please make sure this is what you want to do before confirming the deletion.**
 
 5. Click `Ok`. If you abandoned your claim, you should see the deposit back in your balance shortly.
 

@@ -14,15 +14,15 @@ We anticipate comparable or larger total outlays in q4 2018. Operational spendin
 
 958,201 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 102,030 |
-| User Engagement | 235,000 |
-| Community Engagement | 85,390 |
-| Publishing | 43,634 |
-| Acquisition | 105,955 |
-| Testing | 3,812 |
-| LBRY.fund | 382,380 |
+| Category             | Amount  |
+|----------------------|---------|
+| Bounties             | 102,030 |
+| User Engagement      | 235,000 |
+| Community Engagement | 85,390  |
+| Publishing           | 43,634  |
+| Acquisition          | 105,955 |
+| Testing              | 3,812   |
+| LBRY.fund            | 382,380 |
 
 As reliability and interest has been increasing, we anticipate continuing to reward new users, community contributions, and other beneficial activity. This is likely to represent no more than 1-2 million LBC.
 

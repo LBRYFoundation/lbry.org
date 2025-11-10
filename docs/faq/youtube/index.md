@@ -48,12 +48,12 @@ If you are signing into the LBRY for the first time, you'll be presented with an
 
 When you _enroll_, it means the content has been mirrored to LBRY and available on the network for anyone to view. You will get an email once this begins and once this is completed. The _transfer_ process is the final step that gives you actual and permanent control over your account (though LBRY will continue publishing content uploaded to YouTube directly to your account after transfer, retaining a permission to do this and only this).
 
-Feature | Enroll | Transfer |
-:------------ | :-------------| :-------------|
-Your YouTube publishes will be synced | yes |  yes |
-You can use the app to publish to the channel and your content shows in the app | no |  yes |
-You can receive LBC from tips and content payments | no |  yes |
-You are responsible for keeping your wallet safe | no |  maybe\* |
+| Feature                                                                         | Enroll | Transfer |
+|---------------------------------------------------------------------------------|--------|----------|
+| Your YouTube publishes will be synced                                           | yes    | yes      |
+| You can use the app to publish to the channel and your content shows in the app | no     | yes      |
+| You can receive LBC from tips and content payments                              | no     | yes      |
+| You are responsible for keeping your wallet safe                                | no     | maybe\*  |
 
 \*Yes if you do not turn on wallet sync in Settings on Desktop. Sync is on by default for lbry.tv.
 

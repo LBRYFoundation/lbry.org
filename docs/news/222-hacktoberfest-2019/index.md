@@ -27,12 +27,12 @@ If you are a capable reader (and if you’re a developer, we cannot recommend th
 
 For Hacktoberfest specifically, we’ve focused on making sure there are newcomer-friendly issues for the following repos:
 
-| Repo | Language | Description | Hacktoberfest Issues
---- | --- | --- | ---
-| [lbrycrd](https://github.com/lbryio/lbrycrd) | C++ | The LBRY blockchain daemon. | [Issues](https://github.com/lbryio/lbrycrd/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)  
-| [lbry-sdk](https://github.com/lbryio/lbry-sdk) | Python | The SDK used by most LBRY apps, includes SPV wallet, data network, and more. | [Issues](https://github.com/lbryio/lbry-sdk/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-| [lbry-desktop](https://github.com/lbryio/lbry-desktop) | JavaScript (React) | The official desktop client and soon-to-be lbry.tv frontend. | [Issues](https://github.com/lbryio/lbry-desktop/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
-| [lbry-android](https://github.com/lbryio/lbry-android) | JavaScript (React) | The official Android browser. | [Issues](https://github.com/lbryio/lbry-android/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)
+| Repo                                                   | Language           | Description                                                                  | Hacktoberfest Issues                                                                                 |
+|--------------------------------------------------------|--------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| [lbrycrd](https://github.com/lbryio/lbrycrd)           | C++                | The LBRY blockchain daemon.                                                  | [Issues](https://github.com/lbryio/lbrycrd/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)      |
+| [lbry-sdk](https://github.com/lbryio/lbry-sdk)         | Python             | The SDK used by most LBRY apps, includes SPV wallet, data network, and more. | [Issues](https://github.com/lbryio/lbry-sdk/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)     |
+| [lbry-desktop](https://github.com/lbryio/lbry-desktop) | JavaScript (React) | The official desktop client and soon-to-be lbry.tv frontend.                 | [Issues](https://github.com/lbryio/lbry-desktop/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
+| [lbry-android](https://github.com/lbryio/lbry-android) | JavaScript (React) | The official Android browser.                                                | [Issues](https://github.com/lbryio/lbry-android/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
 
 
 All of the above repos have user-friendly READMEs to get up and running because around here we’ve got [standards](https://lbry.tech/resources/repository-standards). And if you’re looking for some personal help, you can [join our chat](https://chat.lbry.com/), post on [our forum](http://forum.lbry.tech/), or join a [live session](#events).

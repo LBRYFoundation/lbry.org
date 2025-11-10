@@ -8,7 +8,7 @@ category: update
 ## LBRY Franklin is out now with an all new video player and much more!
 
 <p align="center">
-  <img width="705" height="556" src="https://spee.ch/4/playerresized.png">
+  <img alt="Player Resized" width="705" height="556" src="https://spee.ch/4/playerresized.png">
 </p>
 
 ### Coming hot on the heels of Erikson, the new LBRY Franklin takes the hard work we put into discovery and puts it to use to deliver the best yet incarnation of the LBRY app.

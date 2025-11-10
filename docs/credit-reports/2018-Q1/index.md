@@ -13,15 +13,15 @@ This quarter we moved ~~no~~ 5,000,000 Credits from cold storage. We spent 393,5
 
 393,585 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 37,130 LBRY Credits |
-| User Engagement | 70,000 LBRY Credits |
-| Community Management | 36,126 LBRY Credits |
+| Category                | Amount               |
+|-------------------------|----------------------|
+| Bounties                | 37,130 LBRY Credits  |
+| User Engagement         | 70,000 LBRY Credits  |
+| Community Management    | 36,126 LBRY Credits  |
 | Technical Contributions | 111,273 LBRY Credits |
-| New Publishers | 54,250 LBRY Credits |
-| Acquisition | 37,185 LBRY Credits |
-| Testing | 47,621 LBRY Credits |
+| New Publishers          | 54,250 LBRY Credits  |
+| Acquisition             | 37,185 LBRY Credits  |
+| Testing                 | 47,621 LBRY Credits  |
 
 
 ### Operational Fund

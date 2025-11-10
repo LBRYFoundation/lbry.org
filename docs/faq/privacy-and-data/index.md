@@ -25,29 +25,29 @@ As a first time user of LBRY applications you have the option of providing an em
 
 See below tables for a break-down of the types of data collected and associated applications.
 
-Scope of Data | Depends on   | Optional     | Visibility       | Details
-:------------ |:------------ |:------------ |:---------------- |:------------ |
-Email addresses | | Yes, if email provided | LBRY | Used to create and authenticate a LBRY account
-User preferences | Email | Yes, if email provided | LBRY | Subscriptions, tags, blocked channels, and application settings
-System information | | Yes, if Share Diagnostic Data enabled | LBRY | Operating system, application/SDK versions, and unique install identifier
-Identity verification | Email | Yes, if going through manual approval | LBRY | Phone number, credit card fingerprint (Stripe), and 3rd party services identifiers (i.e. YouTube, GitHub)
-Google Analytics | | Android only |  LBRY | User behavior and interactions within the applications are tracked anonymously. This is not linked to a LBRY account.
-Content access analytics | Email | Yes, if email provided | LBRY | Content views used for Rewards and internal analytics
-IP addresses | | No, use VPN to protect | Everyone | Any access to LBRY services are logged to prevent abuse and comply with legal requirements
-Blockchain metadata | Email | Yes, if email provided | LBRY| Wallet addresses and transactions related to Rewards are logged to prevent abuse and comply with tax requirements (above $600 yearly threshold)
-Blockchain transactions | | No, don’t create transactions | Everyone | Any actions taken that use LBRY Credits and create a permanent transaction on the blockchain. Not linked to any Account/User data.
+| Scope of Data            | Depends on | Optional                              | Visibility | Details                                                                                                                                         |
+|--------------------------|------------|---------------------------------------|------------|-------------------------------------------------------------------------------------------------------------------------------------------------|
+| Email addresses          |            | Yes, if email provided                | LBRY       | Used to create and authenticate a LBRY account                                                                                                  |
+| User preferences         | Email      | Yes, if email provided                | LBRY       | Subscriptions, tags, blocked channels, and application settings                                                                                 |
+| System information       |            | Yes, if Share Diagnostic Data enabled | LBRY       | Operating system, application/SDK versions, and unique install identifier                                                                       |
+| Identity verification    | Email      | Yes, if going through manual approval | LBRY       | Phone number, credit card fingerprint (Stripe), and 3rd party services identifiers (i.e. YouTube, GitHub)                                       |
+| Google Analytics         |            | Android only                          | LBRY       | User behavior and interactions within the applications are tracked anonymously. This is not linked to a LBRY account.                           |
+| Content access analytics | Email      | Yes, if email provided                | LBRY       | Content views used for Rewards and internal analytics                                                                                           |
+| IP addresses             |            | No, use VPN to protect                | Everyone   | Any access to LBRY services are logged to prevent abuse and comply with legal requirements                                                      |
+| Blockchain metadata      | Email      | Yes, if email provided                | LBRY       | Wallet addresses and transactions related to Rewards are logged to prevent abuse and comply with tax requirements (above $600 yearly threshold) |
+| Blockchain transactions  |            | No, don’t create transactions         | Everyone   | Any actions taken that use LBRY Credits and create a permanent transaction on the blockchain. Not linked to any Account/User data.              |
 
-Scope of Data | LBRY Desktop App | LBRY Android App | LBRY SDK |
-:------------ |:------------ | :-------------| :-------------|
-Email addresses | yes | yes | no |
-User preferences | yes | yes | no |
-System information | yes | yes | yes |
-Identity verification | yes | yes | no |
-Google Analytics | opt-in | yes | no |
-Content access analytics | yes | yes | yes |
-IP addresses | yes | yes | opt-out |
-Blockchain metadata | yes | yes | no |
-Blockchain transactions | yes | yes | yes |
+| Scope of Data            | LBRY Desktop App | LBRY Android App | LBRY SDK |
+|--------------------------|------------------|------------------|----------|
+| Email addresses          | yes              | yes              | no       |
+| User preferences         | yes              | yes              | no       |
+| System information       | yes              | yes              | yes      |
+| Identity verification    | yes              | yes              | no       |
+| Google Analytics         | opt-in           | yes              | no       |
+| Content access analytics | yes              | yes              | yes      |
+| IP addresses             | yes              | yes              | opt-out  |
+| Blockchain metadata      | yes              | yes              | no       |
+| Blockchain transactions  | yes              | yes              | yes      |
 
 ## What’s the difference between account data and cryptocurrency wallets?
 Each installable LBRY application also contains a cryptocurrency wallet that is stored locally on the respective device. The wallet allows you to store LBRY Credits and use them to [transact (spend, publish, purchase, and tip) on the network](/faq/transaction-types/). The private information, which is required to perform these actions, is under the sole control of the user.

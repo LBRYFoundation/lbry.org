@@ -14,14 +14,14 @@ As the LBRY protocol performance and reliability has again increased, we anticip
 
 ### Community Fund
 
-| Category | Amount |
-|---|---|
-| Bounties | 82,979 LBRY Credits |
-| Invites and Rewards | 452,999 LBRY Credits |
-| Community Management | 87,700 LBRY Credits |
+| Category                | Amount               |
+|-------------------------|----------------------|
+| Bounties                | 82,979 LBRY Credits  |
+| Invites and Rewards     | 452,999 LBRY Credits |
+| Community Management    | 87,700 LBRY Credits  |
 | Technical Contributions | 186,163 LBRY Credits |
-| New Publishers | 58,121 LBRY Credits |
-| Other / Tips | 9,050 LBRY Credits |
+| New Publishers          | 58,121 LBRY Credits  |
+| Other / Tips            | 9,050 LBRY Credits   |
 
 As reliability and interest has been increasing, we anticipate continuing to reward new users. This is likely to represent no more than 1-2 million LBC.
 

@@ -76,7 +76,7 @@ The Creator's Council hosts weekly internal meetings at 17:00 UTC every Sunday.
 ### Support
 
 1. Budget (50K LBC)
-- Used as 1 week support for the voted creator on the channel
+   - Used as 1 week support for the voted creator on the channel
 2. Creator's Council channel post
 3. Post on the Foundation reddit
 4. Post on Creator's Council Twitter (@lbrycreators) and Mastodon (@cc@lbry.world)

@@ -4,7 +4,7 @@ title: 'Stop Net Banality'
 date: '2017-12-14 12:30:00'
 ---
 
-<center><img src="https://spee.ch/1/stopnetbanality.png"/></center>
+<center><img alt="Stop Net Banality" src="https://spee.ch/1/stopnetbanality.png"/></center>
 
 <br/>
 

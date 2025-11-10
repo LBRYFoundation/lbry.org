@@ -16,15 +16,15 @@ We anticipate comparable total outlays in q1 2018. Operational uses will be lowe
 
 ### Community Fund
 
-| Category | Amount |
-|---|---|
-| Bounties | 36,925 LBRY Credits |
-| User Engagement | 75,000 LBRY Credits |
-| Community Management | 164,100 LBRY Credits |
+| Category                | Amount               |
+|-------------------------|----------------------|
+| Bounties                | 36,925 LBRY Credits  |
+| User Engagement         | 75,000 LBRY Credits  |
+| Community Management    | 164,100 LBRY Credits |
 | Technical Contributions | 216,319 LBRY Credits |
-| New Publishers | 36,543 LBRY Credits |
-| Acquisition | 54,850 LBRY Credits |
-| Testing | 61,284 LBRY Credits |
+| New Publishers          | 36,543 LBRY Credits  |
+| Acquisition             | 54,850 LBRY Credits  |
+| Testing                 | 61,284 LBRY Credits  |
 
 As reliability and interest has been increasing, we anticipate continuing to reward new users, community contributions, and other beneficial activity. This is likely to represent no more than 1-2 million LBC.
 

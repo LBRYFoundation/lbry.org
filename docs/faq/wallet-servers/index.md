@@ -16,10 +16,10 @@ Wallet servers are used to relay data to and from the LBRY blockchain. They also
 If you want...
 
 1.  to help decentralize LBRY's ecosystem.
-1.  better performance from a local server
-1.  to change trending and other discovery options.
-1.  to change what content is filtered and blocked (please consult the laws in your local jurisdiction).
-1.  to keep your transaction broadcasting private
+2.  better performance from a local server
+3.  to change trending and other discovery options.
+4.  to change what content is filtered and blocked (please consult the laws in your local jurisdiction).
+5.  to keep your transaction broadcasting private
 
 ## How do I run a wallet server?
 
@@ -42,5 +42,5 @@ lbryum_servers:
 ## What else do I need to know?
 
 1.  Join our [Discord chat](https://chat.lbry.com) and ask to be added to the wallet-server channel to stay up to date.
-1.  The client SDK may require a certain version of the wallet server to work properly. For best compatibility, keep them on the same version.
-1.  Keep your wallet server up to date with LBRY Desktop app releases. Best bet is to coordinate on Discord chat.
+2.  The client SDK may require a certain version of the wallet server to work properly. For best compatibility, keep them on the same version.
+3.  Keep your wallet server up to date with LBRY Desktop app releases. Best bet is to coordinate on Discord chat.

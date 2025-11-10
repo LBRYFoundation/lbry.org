@@ -1,6 +1,6 @@
 ﻿---
 author: samuel-lbryian
-title: 'BitTorrent's New Streaming Service: Close but No Cigar'
+title: "BitTorrent's New Streaming Service: Close but No Cigar"
 date: '2016-05-25 00:06:18'
 ---
 

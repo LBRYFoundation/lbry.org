@@ -14,16 +14,16 @@ Operational spending may increase or decrease at any time, but is not expected t
 
 13,455,301 Credits were spent from the community fund, in the following areas:
 
-| Category | Amount |
-|---|---|
-| Bounties | 693,065 |
-| User Engagement | 7,551,200 |
-| Community Engagement | 664,168 |
-| Publishing | 49,350 |
-| Acquisition | 3,295,018 |
-| Testing | 1,000 |
-| Swarm | 1,500 |
-| LBRY funds staked | 1,200,000 |
+| Category             | Amount    |
+|----------------------|-----------|
+| Bounties             | 693,065   |
+| User Engagement      | 7,551,200 |
+| Community Engagement | 664,168   |
+| Publishing           | 49,350    |
+| Acquisition          | 3,295,018 |
+| Testing              | 1,000     |
+| Swarm                | 1,500     |
+| LBRY funds staked    | 1,200,000 |
 
 
 We still anticipate spending around 12,000,000 LBC this quarter, with a wide range of possibilities. We’re trying to bring community spending under 3,000,000 LBC per month, but it may remain over this until YouTube monthly payouts end in q1 2021.
@@ -35,7 +35,7 @@ We still anticipate spending around 12,000,000 LBC this quarter, with a wide ran
 * LBRY sold 1,350,000 LBC via Moonpay.io
 * LBRY sold 500,000 LBC to CoinEx for liquidity
 
-LBRY may move Credits to market if conditions allow. 
+LBRY may move Credits to market if conditions allow.
 
 ### Institutional Fund
 

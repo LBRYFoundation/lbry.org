@@ -18,7 +18,7 @@ const { page } = useData();
   height: calc(100vh - 4rem);
 }
 .error-page > img {
-  filter: grayscale();
+  filter: grayscale(1);
   width: 200px;
   flex: none;
 }
@@ -98,7 +98,7 @@ const { page } = useData();
       <p class="description">The page you have requested could not be found.</p>
       <div class="action-buttons">
         <a class="action-button" href="/">
-          <Icon icon="fa-solid:arrow-circle-left" />
+          <IconifyIcon icon="fa-solid:arrow-circle-left" />
           <span>Go Back Home</span>
         </a>
       </div>

@@ -18,7 +18,7 @@ The full catalog is over 4 TB and will be synced over the next several days.
 ### How to Access
 
 1. Download and install the LBRY app from [here](/get/?auto=1) or use the web version at [https://lbry.tv](https://lbry.tv).
-1. Go to [lbry://@UCBerkeley](https://open.lbry.com/%40UCBerkeley) to access the UCBerkeley channel, or simply type `@UCBerkeley` into the search bar on top and hit enter.
+2. Go to [lbry://@UCBerkeley](https://open.lbry.com/%40UCBerkeley) to access the UCBerkeley channel, or simply type `@UCBerkeley` into the search bar on top and hit enter.
 
 Each entry on @UCBerkeley channel is the course video/audio claim page where the content can be streamed (and downloaded locally).
 

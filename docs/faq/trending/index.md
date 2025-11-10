@@ -17,11 +17,11 @@ At the *Following* tab, you can toggle between Trending, Top, and New for conten
 
 ## How do these views work?
 
-| View             |  What It Shows  |
-| --- | --- |
+| View       | What It Shows                                                                                                                                                                         |
+|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | _Trending_ | Trending shows the content that has had the greatest increase in tips and supports over the last few hours and days, compared to its baseline performance, and that of other content. |
-| _Top_ | Top shows the content published within the selected period that has received the largest total amount of tips and supports. |
-| _New_ | New shows the newest content by time. |
+| _Top_      | Top shows the content published within the selected period that has received the largest total amount of tips and supports.                                                           |
+| _New_      | New shows the newest content by time.                                                                                                                                                 |
 
 All of these views work the same whether you are viewing tags you follow, a single tag, channels you follow, or the whole LBRY network. Each of these views respects your Mature content setting and more options will be provided in a future release to filter out certain channels and tags.
 
@@ -41,7 +41,7 @@ There are two ways to find channels to follow:
 
 ![follow](https://spee.ch/5/6b670921539c1631.png)
 
-2. Click "Following" from your home screen to discover and find new channels to follow using the `Discover Channels` option.
+1. Click "Following" from your home screen to discover and find new channels to follow using the `Discover Channels` option.
 
 ![pic](https://spee.ch/2/f847156011ad616c.png)
 Scrolling down in the *Disover channels* view, will also show you the Trending, Top, and New listings for channels.

@@ -42,10 +42,10 @@ Account passwords are separate from wallet passwords. Users with encrypted walle
 ## How syncing of wallet and account data works
 
 1. Every user, whether on LBRY Desktop, mobile, or [Odysee.com](https://odysee.com), has a single wallet file. This file stores your private keys (like a password) that controls your channels and account balances. The keys in this file are the only way to move or spend LBC or publish to your channel.
-1. On an ongoing basis, your account preferences and other settings are written to your wallet file.
-1. If you create an email login on LBRY desktop app and turn on account sync (backup), your wallet file will be backed up to and from a LBRY, Inc. server each time you log in and at regular intervals.
-1. Each time this happens, your preferences, channels, subscriptions, and other data will be updated on the new device.
-1. If your wallet file has a password on it, LBRY, Inc. cannot see into your wallet or do anything with it, including reset your password.
+2. On an ongoing basis, your account preferences and other settings are written to your wallet file.
+3. If you create an email login on LBRY desktop app and turn on account sync (backup), your wallet file will be backed up to and from a LBRY, Inc. server each time you log in and at regular intervals.
+4. Each time this happens, your preferences, channels, subscriptions, and other data will be updated on the new device.
+5. If your wallet file has a password on it, LBRY, Inc. cannot see into your wallet or do anything with it, including reset your password.
 
 ## Using wallet sync
 
@@ -63,8 +63,8 @@ As of writing, current limitations are:
 ### Desktop
 
 1. If running the desktop app for the first time, you will be prompted during the first-run process to create an account, if you want to opt-in to the wallet sync check "Backup your account and wallet data." option.
-1. If you want to opt-in later, click the Settings button in the top right and enable Sync.
-1. If you previously had sync configured with a password (i.e on Android), you'll be prompted for this. If you do not remember, please [reach out to us](mailto:board@lbry.org) so we can remove the existing synced account.
+2. If you want to opt-in later, click the Settings button in the top right and enable Sync.
+3. If you previously had sync configured with a password (i.e on Android), you'll be prompted for this. If you do not remember, please [reach out to us](mailto:board@lbry.org) so we can remove the existing synced account.
 
 ### Android
 

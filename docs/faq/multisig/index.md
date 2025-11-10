@@ -65,6 +65,6 @@ LBRY Vault wallet files and blockchain data can be found in the App Data Roaming
 
 4. If you have problems connecting to LBRY servers try adding one of community hosted server by going to **Tools > Network > Server.**
 
-| Address   |      Region      |  Host |
-|----------|:-------------:|------:|
-| spv1.allaboutlbc.com:50001 |  EU | Madiator2011 |
+| Address                    | Region | Host         |
+|----------------------------|--------|--------------|
+| spv1.allaboutlbc.com:50001 | EU     | Madiator2011 |

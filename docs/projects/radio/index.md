@@ -12,9 +12,9 @@ You liked one of the songs, follow the artist's channel and check out the #freeb
 
 Radio Fundação is building a weekly schedule, participate by listening, commenting and recommending new channels.
 
-FRIDAY | FRIDAY |	SUNDAY | MONDAY | TUESDAY |	WEDNESDAY | THURSDAY
-|-|-|-|-|-|-|-|
-|Electronic Music|	FREE BEATS|	Instrumental Music|	Bands, Groups and Music (with vocals)|Musician Of The Week|	Reaction, interviews, podcast|	New to the Community|
+| FRIDAY           | FRIDAY     | SUNDAY             | MONDAY                                | TUESDAY              | WEDNESDAY                     | THURSDAY             |
+|------------------|------------|--------------------|---------------------------------------|----------------------|-------------------------------|----------------------|
+| Electronic Music | FREE BEATS | Instrumental Music | Bands, Groups and Music (with vocals) | Musician Of The Week | Reaction, interviews, podcast | New to the Community |
 
 ---
 
@@ -34,5 +34,5 @@ FRIDAY | FRIDAY |	SUNDAY | MONDAY | TUESDAY |	WEDNESDAY | THURSDAY
 <iframe id="odysee-iframe" width="560" height="315" src="https://odysee.com/$/embed/radiolive/dd7171cba17468f6eb5a61d2aa7c56d9e6436c08?r=Hj8HJeAgvN8hjjREuK4y7wq7wN5xorZG" allowfullscreen></iframe>
 ```
 
-|POWERED BY|[![](https://thumbnails.odycdn.com/optimize/s:0:0/quality:85/plain/https://i.imgur.com/wbHB5sU.png)](http://lbrylytics.com/)|
-|-|-|
+| POWERED BY | [![](https://thumbnails.odycdn.com/optimize/s:0:0/quality:85/plain/https://i.imgur.com/wbHB5sU.png)](http://lbrylytics.com/) |
+|------------|------------------------------------------------------------------------------------------------------------------------------|

@@ -24,13 +24,13 @@ Here's what a publisher and patron relationship looks like in LBRY:
 
 1. Filmmaker Jessica wants to release her new original documentary, Library of the Future.
 
-1. Jessica reserves a LBRY name – `lbry://futurelibraryfilm` – that points to her content. This LBRY name can also include a description and photos of her content.
+2. Jessica reserves a LBRY name – `lbry://futurelibraryfilm` – that points to her content. This LBRY name can also include a description and photos of her content.
 
-1. The film is encrypted and sliced into many pieces. These pieces are distributed to hosts. Jessica has now "published" her film in LBRY.
+3. The film is encrypted and sliced into many pieces. These pieces are distributed to hosts. Jessica has now "published" her film in LBRY.
 
-1. Patron John wants to watch the movie, so he visits `lbry://futurelibraryfilm` and pays 5 Credits to decrypt and watch the film. Those Credits go to compensate Jessica for publishing the work and the many hosts for storing the content.
+4. Patron John wants to watch the movie, so he visits `lbry://futurelibraryfilm` and pays 5 Credits to decrypt and watch the film. Those Credits go to compensate Jessica for publishing the work and the many hosts for storing the content.
 
-1. John's LBRY client seamlessly streams or downloads the film by collecting the pieces from the hosts and reassembling them.
+5. John's LBRY client seamlessly streams or downloads the film by collecting the pieces from the hosts and reassembling them.
 
 Every party to this transaction has had a better experience than they would have with ad-supported platforms like YouTube, subscription services like Netflix, or hunting for torrent links.
 

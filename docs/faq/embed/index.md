@@ -40,8 +40,8 @@ https://lbry.tv/befreeonlbry
 ## What else do I need to know?
 
 1. When an embedded video is played, it will count as a view for your content.
-1. If a user visiting the site has an Odysee.com account, their views may also [count as tips](/faq/rewards/#contentview).
-1. You'll be credited with an invite if the user signs up for an Odysee.com account later (and their first video play was from your embed).
+2. If a user visiting the site has an Odysee.com account, their views may also [count as tips](/faq/rewards/#contentview).
+3. You'll be credited with an invite if the user signs up for an Odysee.com account later (and their first video play was from your embed).
 
 ## I'm in need of some assistance, can you help?
 
