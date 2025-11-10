@@ -1,4 +1,5 @@
 import {Icon} from "@iconify/vue";
+import type {EnhanceAppContext} from "vitepress";
 import DefaultTheme from 'vitepress/theme';
 
 import Color from './components/Color.vue';
@@ -7,7 +8,6 @@ import TechButton from './components/TechButton.vue';
 import Layout from './Layout.vue';
 
 import './custom.css';
-import {EnhanceAppContext} from "vitepress/dist/client";
 
 import _redirects from "/_redirects?url&raw";
 const redirects = _redirects.split('\n').filter(String).map((item: string[]) => item.split(/\x20+/)).filter((item: string) => item[0].indexOf(':')===-1 && item[0].indexOf('*')===-1);

@@ -6,7 +6,7 @@ outline: deep
 import {data} from './index.data';
 </script>
 
-# Frequently Asked Questions
+# \[ARCHIVE\] Frequently Asked Questions
 
 ![FAQ](/img/og-faq.png)
 

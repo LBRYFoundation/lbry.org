@@ -136,9 +136,18 @@ export default defineConfig({
         text: 'Board',
         link: '/board/'
       },
+      // {
+      //   text: 'FAQ',
+      //   link: '/faq/'
+      // },
       {
-        text: 'FAQ',
-        link: '/faq/'
+        text: 'Archive',
+        items: [
+          {
+            text: 'FAQ',
+            link: '/faq/'
+          },
+        ],
       },
       {
         text: 'Contact',
