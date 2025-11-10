@@ -7,6 +7,8 @@
 /dmca /contact/ 301
 /dmca/ /contact/ 301
 
+/faq/* /archive/faq/:splat 301
+
 /forklist /contact/ 301
 /forklist/ /contact/ 301
 
