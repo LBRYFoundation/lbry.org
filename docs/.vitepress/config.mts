@@ -106,7 +106,7 @@ export default defineConfig({
   },
   themeConfig: {
     editLink: {
-      pattern: ({ filePath }) => {
+      pattern: ({ filePath }): string => {
         if(filePath==='projects/index.md'){
           return `https://github.com/LBRYFoundation/Awesome-LBRY/edit/main/README.md`;
         }
