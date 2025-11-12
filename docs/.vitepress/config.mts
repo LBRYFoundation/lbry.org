@@ -1,4 +1,6 @@
-import {defineConfig, TransformContext} from 'vitepress';
+import {readFileSync, writeFileSync} from "fs";
+import path from "path";
+import {defineConfig, PageData, SiteConfig, TransformContext} from 'vitepress';
 
 const metaColor = '#27E4EB';
 const metaLogo = '/logo.png';
@@ -104,13 +106,22 @@ export default defineConfig({
   sitemap: {
     hostname: 'https://lbry.org',
   },
+  buildEnd: async (siteConfig: SiteConfig): void => {
+    const sitemapFile: string = path.join(siteConfig.outDir,'sitemap.xml');
+
+    // Wait for sitemap.xml to be made
+    await new Promise(resolve => setTimeout(resolve, 1000));
+
+    // Modify sitemap.xml
+    writeFileSync(sitemapFile,readFileSync(sitemapFile).toString().replace('<?xml version="1.0" encoding="UTF-8"?>','<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet href="sitemap.xsl" type="text/xsl"?>'));
+  },
   themeConfig: {
     editLink: {
-      pattern: ({ filePath }): string => {
-        if(filePath==='projects/index.md'){
+      pattern: (payload: PageData): string => {
+        if(payload.filePath==='projects/index.md'){
           return `https://github.com/LBRYFoundation/Awesome-LBRY/edit/main/README.md`;
         }
-        return `https://github.com/LBRYFoundation/lbry.org/edit/master/docs/${filePath}`;
+        return `https://github.com/LBRYFoundation/lbry.org/edit/master/docs/${payload.filePath}`;
       },
       text: 'Improve this page on GitHub!',
     },
