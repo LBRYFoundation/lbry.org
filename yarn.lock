@@ -318,10 +318,10 @@
   resolved "https://registry.yarnpkg.com/@esbuild/win32-x64/-/win32-x64-0.21.5.tgz#acad351d582d157bb145535db2a6ff53dd514b5c"
   integrity sha512-tQd/1efJuzPC6rCFwEvLtci/xNFcTZknmXs98FYDfGE4wP9ClFV98nyKrzJKVPMhdDnjzLhdUyMX4PsQAPjwIw==
 
-"@fontsource-variable/roboto@^5.2.8":
-  version "5.2.8"
-  resolved "https://registry.yarnpkg.com/@fontsource-variable/roboto/-/roboto-5.2.8.tgz#5efdbb5f69200994fb81bfbb88d0614319507211"
-  integrity sha512-UBhCzUXpkZZqBhTnkIhkM3USlSuu2Da6k4mjiRaEnZtvMOMWcQVOV6oV2cY00plUuJZrsnTRtt3ZRRJF09gV5w==
+"@fontsource-variable/roboto@^5.2.9":
+  version "5.2.9"
+  resolved "https://registry.yarnpkg.com/@fontsource-variable/roboto/-/roboto-5.2.9.tgz#60e54f1d617586c29b235984235595dd2cc3d08e"
+  integrity sha512-uH58g1An9Z4Efiviu0YuN8lvYf22TXidCx2++ZPpEegviaPaYQUwNbQZyr5lO2ae3pM07AolUabngLrlYtuzfA==
 
 "@iconify-json/simple-icons@^1.2.21":
   version "1.2.59"
