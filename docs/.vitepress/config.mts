@@ -171,6 +171,13 @@ export default defineConfig({
           link: 'https://lbry.tech',
         },
       },
+      {
+        component: 'FundButton',
+        props: {
+          text: 'LBRY.fund',
+          link: 'https://lbry.fund',
+        },
+      },
     ],
     search: {
       provider: 'local',

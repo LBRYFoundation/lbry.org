@@ -5,12 +5,12 @@ export default {
 </script>
 
 <style>
-.tech-button{
+.fund-button{
   display:inline-flex;
 }
 
-.tech-button button{
-  background:var(--accent);
+.fund-button button{
+  background:#1EABB1;
   border-radius: 10px;
   color: var(--primaryBG);
   display: inline;
@@ -20,11 +20,11 @@ export default {
   padding: 0 12px;
 }
 
-.tech-button button:hover{
-  background-color: var(--accent-darker);
+.fund-button button:hover{
+  background-color: #147276;
 }
 </style>
 
 <template>
-  <a :href="link" class="tech-button"><button>{{text}}</button></a>
+  <a :href="link" class="fund-button"><button>{{text}}</button></a>
 </template>
