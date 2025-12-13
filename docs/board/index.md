@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts" setup>
 import { VPTeamMembers } from 'vitepress/theme';
 
 const aq = {

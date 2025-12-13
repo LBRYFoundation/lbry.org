@@ -7,8 +7,8 @@ import {
   TransformContext,
 } from "vitepress";
 
-const metaColor = "#27E4EB";
-const metaLogo = "/logo.png";
+const metaColor: string = "#27E4EB";
+const metaLogo: string = "/logo.png";
 
 /** @type {import('vitepress').DefaultTheme.Config} */
 export default defineConfig({
@@ -86,7 +86,7 @@ export default defineConfig({
     ["meta", { property: "og:image", content: metaLogo }],
   ],
   transformHead: (context: TransformContext): void => {
-    let path =
+    let path: string =
       "/" +
       context.pageData.relativePath
         .replace(/index\.md$/, "")

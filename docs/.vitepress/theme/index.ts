@@ -1,5 +1,5 @@
 import { Icon } from "@iconify/vue";
-import type { EnhanceAppContext } from "vitepress";
+import type { Awaitable, EnhanceAppContext } from "vitepress";
 import DefaultTheme from "vitepress/theme";
 
 import Color from "./components/Color.vue";
@@ -23,16 +23,16 @@ const redirects = _redirects
 /** @type {import('vitepress').Theme} */
 export default {
   Layout,
-  enhanceApp({ app, router }: EnhanceAppContext) {
+  enhanceApp({ app, router }: EnhanceAppContext): void {
     app.component("Color", Color);
     app.component("FundButton", FundButton);
     app.component("IconifyIcon", Icon);
     app.component("Person", Person);
     app.component("TechButton", TechButton);
 
-    router.onAfterRouteChange = async (to: string) => {
+    router.onAfterRouteChange = async (to: string): Promise<void> => {
       // Static redirects
-      redirects.forEach((item: string[]) => {
+      redirects.forEach((item: string[]): void => {
         if (
           to === item[0] ||
           to.startsWith(item[0] + "?") ||

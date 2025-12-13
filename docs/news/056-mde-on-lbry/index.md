@@ -14,7 +14,7 @@ cover: "mde.jpg"
 
 MDE is a comedy sketch group featuring Sam Hyde, Charles Carroll, and Nick Rochefort. Their signature, fast-paced style of random jump-cuts, meaningless text overlays, crude humor, and nonsensical characters pushed boundaries several years ago. Now it's practically internet gospel for cutting-edge satire and comedy.
 
-MDE has since exploded from extremely super humble origins on YouTube to Adult Swim darlings, following in the footsteps of _[Tim & Eric](https://en.wikipedia.org/wiki/Tim_%26_Eric)_ and _[Wonder Showzen](https://en.wikipedia.org/wiki/Wonder_Showzen)_.
+MDE has since exploded from extremely super humble origins on YouTube to Adult Swim darlings, following in the footsteps of _[Tim & Eric](https://en.wikipedia.org/wiki/Tim_%26*Eric)* and _[Wonder Showzen](https://en.wikipedia.org/wiki/Wonder_Showzen)_.
 
 In fact, tomorrow night you can catch episode two of their brand new Adult Swim series _[MillionDollarExtreme Presents: World Peace](http://www.adultswim.com/videos/schedule)_. Tune in at 9:15 PM PT on Friday and 12:45 AM PT on Saturday.
 

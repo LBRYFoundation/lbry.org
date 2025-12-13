@@ -34,11 +34,13 @@
 }
 </style>
 
-<script>
+<script lang="ts">
+import { StyleValue } from "vue";
+
 export default {
   props: ["color", "text"],
   computed: {
-    cssVars() {
+    cssVars(): StyleValue {
       return {
         "--color": this.color,
       };

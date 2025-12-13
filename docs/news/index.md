@@ -1,4 +1,4 @@
-<script setup>
+<script lang="ts" setup>
 import {data} from './index.data';
 </script>
 

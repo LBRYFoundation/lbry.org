@@ -1,4 +1,4 @@
-<script>
+<script lang="ts">
 export default {
   name: "person",
   props: ["avatar", "name", "subtitle", "imageClass"],
