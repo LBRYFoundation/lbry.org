@@ -1,13 +1,13 @@
 ---
 author: reilly-smith
-title: 'Strumming up a Storm'
-date: '2017-06-15 00:08:00'
-cover: 'acoustic-labs-banner.jpg'
+title: "Strumming up a Storm"
+date: "2017-06-15 00:08:00"
+cover: "acoustic-labs-banner.jpg"
 ---
 
 We've already seen the benefits of LBRY [for bands](/news/matt-sokol) and [solo artists](/news/whoiscapital).
 
-But there's so much more to the music world. What if you could not only listen to music but buy tabs or lessons or film scores for your *own* movie directly on LBRY?
+But there's so much more to the music world. What if you could not only listen to music but buy tabs or lessons or film scores for your _own_ movie directly on LBRY?
 
 ![Acoustic Labs](/img/news/acoustic-labs-inline.jpg)
 
@@ -16,6 +16,7 @@ Acoustic Labs, otherwise known as composer GC Johnson, publishes a variety of mu
 GC has scored many films and multiple Netflix series. And he has some of the most epic fingerpicking videos online. (The ronroco versions are my personal favorite).
 
 Check him out soon on LBRY at:
+
 - [lbry://@AcousticLabs](https://open.lbry.com/@AcousticLabs)
 
 If you're sick of Bandcamp or Spotify, LBRY could be your new outlet.

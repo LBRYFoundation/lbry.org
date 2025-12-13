@@ -16,9 +16,9 @@ You can start the sync process during sign up or from the Upload > Sync my Chann
 
 There are three main steps to this program:
 
-1. *[Enroll](#enroll)* - Provide authorization for us to begin syncing.
-2. *Sync* - During this step, we perform magic behind the scenes. It can take up to several days, your subscription count must be public at all times, and [some sync limitations apply](#limits).
-3. *[Transfer](#transfer)* - Claim ownership of your new LBRY channel and LBRY wallet, so that you and only you are in control. More [below](#transfer).
+1. _[Enroll](#enroll)_ - Provide authorization for us to begin syncing.
+2. _Sync_ - During this step, we perform magic behind the scenes. It can take up to several days, your subscription count must be public at all times, and [some sync limitations apply](#limits).
+3. _[Transfer](#transfer)_ - Claim ownership of your new LBRY channel and LBRY wallet, so that you and only you are in control. More [below](#transfer).
 
 ### Enrolling {#enroll}
 
@@ -49,7 +49,7 @@ If you are signing into the LBRY for the first time, you'll be presented with an
 When you _enroll_, it means the content has been mirrored to LBRY and available on the network for anyone to view. You will get an email once this begins and once this is completed. The _transfer_ process is the final step that gives you actual and permanent control over your account (though LBRY will continue publishing content uploaded to YouTube directly to your account after transfer, retaining a permission to do this and only this).
 
 | Feature                                                                         | Enroll | Transfer |
-|---------------------------------------------------------------------------------|--------|----------|
+| ------------------------------------------------------------------------------- | ------ | -------- |
 | Your YouTube publishes will be synced                                           | yes    | yes      |
 | You can use the app to publish to the channel and your content shows in the app | no     | yes      |
 | You can receive LBC from tips and content payments                              | no     | yes      |
@@ -58,6 +58,7 @@ When you _enroll_, it means the content has been mirrored to LBRY and available 
 \*Yes if you do not turn on wallet sync in Settings on Desktop. Sync is on by default for lbry.tv.
 
 ## Limitations {#limits}
+
 - **Subscription count must be public on YouTube**
 - Synced video limits: 80 under 600 subs, 200 under 800 subs, 250 under 1K subs, 400 under 5K subs, 500 under 10K, and 1K videos for all higher sub counts.
 - Video length limits: 30 minutes under 500 subs, 1hr under 1K subs, and 2hr for all higher sub counts. Longer videos will be skipped.

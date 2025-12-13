@@ -1,7 +1,7 @@
 ---
 author: jeremy-kauffman
-title: 'Testimony to the New Hampshire Statehouse on Virtual Currencies'
-date: '2017-01-26 00:16:13'
+title: "Testimony to the New Hampshire Statehouse on Virtual Currencies"
+date: "2017-01-26 00:16:13"
 ---
 
 [_As the governor-appointed industry expert on virtual currencies for New Hampshire, yesterday I testified on the regulation of virtual currencies. Below is the written form of the testimony._]

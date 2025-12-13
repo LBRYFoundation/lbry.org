@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
 title: Jack Robison Escaped 60 Years in Prison; Now He's Revolutionizing the Internet
-date: '2015-12-31 17:10:59'
+date: "2015-12-31 17:10:59"
 ---
 
 Today, we officially announce the addition of Jack Robison to the [LBRY team](/team) as Core Developer. Jack has been working on the project for some time, and we thought it was about time to recognize his growing role.

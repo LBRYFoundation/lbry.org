@@ -15,9 +15,9 @@ This is LBRY's second quarterly report. This quarter we outlaid only 267,778 of 
 - 10,600 LBRY Credits outlaid to community managers
 - 171,251 LBRY Credits outlaid to Alpha and Beta testers
 - 19,150 LBRY Credits outlaid to community members for completing bounties
-- 75,777 LBRY Credits outlaid in Slack tips*
+- 75,777 LBRY Credits outlaid in Slack tips\*
 
-*Some tip outlays were for bounties and to reward early people who stepped up to manage the community before we had a formal program. We have ceased using Slack tips for bounties and community management and will be able to better differentiate these moving forward.*
+_Some tip outlays were for bounties and to reward early people who stepped up to manage the community before we had a formal program. We have ceased using Slack tips for bounties and community management and will be able to better differentiate these moving forward._
 
 Over the next quarter we anticipate continued substantial use of the Community Credits to grow both the user base and the publishing base. We expect these outlays to match or exceed those of this quarter, but not to dramatically exceed these outlays.
 

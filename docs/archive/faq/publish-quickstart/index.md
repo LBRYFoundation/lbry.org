@@ -11,31 +11,30 @@ This tutorial is meant to provide a quick overview. Our [Publishing FAQ](/faq/ho
 We'll start with publishing on LBRY Desktop and Odysee.com. Scroll down or [click here](#android) for Android instructions.
 
 ## Publishing on LBRY desktop app and Odysee.com
+
 1. Click the **Upload** option from the Publish dropdown.
-  ![publish-menu](https://spee.ch/2/73d8c9c9e2267c62.png)
+   ![publish-menu](https://spee.ch/2/73d8c9c9e2267c62.png)
 2. From top left dropdown menu, you can choose channel you want to use for current publish.
-3. Choose *Name* for your publish. (This will become part of the URL of your publish and can't be edited later, learn more from here: [Naming](/faq/naming/))
-4. Set *Title* for your publish. (This is the title shown with thumbnail, when browsing the website or apps, and it can be edited later.)
+3. Choose _Name_ for your publish. (This will become part of the URL of your publish and can't be edited later, learn more from here: [Naming](/faq/naming/))
+4. Set _Title_ for your publish. (This is the title shown with thumbnail, when browsing the website or apps, and it can be edited later.)
 5. Select the file you want to publish by clicking **Browse**. On desktop app you may have option to [automatically transcode](/faq/video-publishing-guide/#automatic) video for better streaming performance.
-  ![choose-file&name](https://spee.ch/6/2b648d023e2bd64c.png)
+   ![choose-file&name](https://spee.ch/6/2b648d023e2bd64c.png)
 6. Fill in other details for the content you are uploading, including description, tags, thumbnail, possible price, etc.
-  ![desc+thumb](https://spee.ch/b/19415056ee007623.png)
-  For content not suitable for minors, use the pink "mature" tag.
-  ![tags](https://spee.ch/d/fbcd0d4f89caa300.png)
-7. Set *Deposit* for your publish. (This amount will be "locked" in your wallet. Deleting the publish will "unlock" the LBC back to your usable balance. You can edit this later. Higher amounts improve [discoverablility](/faq/trending/), but you can also use revocable [Boosts](/faq/tipping/) to support your publish afterwards.)
+   ![desc+thumb](https://spee.ch/b/19415056ee007623.png)
+   For content not suitable for minors, use the pink "mature" tag.
+   ![tags](https://spee.ch/d/fbcd0d4f89caa300.png)
+7. Set _Deposit_ for your publish. (This amount will be "locked" in your wallet. Deleting the publish will "unlock" the LBC back to your usable balance. You can edit this later. Higher amounts improve [discoverablility](/faq/trending/), but you can also use revocable [Boosts](/faq/tipping/) to support your publish afterwards.)
 8. You can set a price for your content, or make it available for free. Either way people will be able to tip your content. Setting currency to USD will scale the cost in LBC depending of it's current value in USD.
-  ![price](https://spee.ch/f/8c23145c5e15dad5.png)
+   ![price](https://spee.ch/f/8c23145c5e15dad5.png)
 9. In additional options you can set optionally a release time, language and license. Note that at the time, release time can only be set to the past or current time.
-  ![additional-settigns](https://spee.ch/3/c05592cc3d91e7a4.png)
+   ![additional-settigns](https://spee.ch/3/c05592cc3d91e7a4.png)
 10. Click **Upload** to submit your publish, confirm your choices and wait for the file to upload.
-  ![confirm-preview](https://spee.ch/d/231488c4ad3b01c1.png)
-  ![confirming...](https://spee.ch/4/52c8df708a73e2b5.png)
-
-
+    ![confirm-preview](https://spee.ch/d/231488c4ad3b01c1.png)
+    ![confirming...](https://spee.ch/4/52c8df708a73e2b5.png)
 
 Congratulations on publishing your first piece of content! Have any questions? Please see our [detailed Publishing FAQ](/faq/how-to-publish/).
 
-## Publishing on Android  {#android}
+## Publishing on Android {#android}
 
 1. Select the **New Publish** option from the left hand menu.
 2. Select from: record a new video, snap a photo, select a file manually, or click an item from the recent videos/GIFs list.

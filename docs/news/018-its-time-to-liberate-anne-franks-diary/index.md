@@ -1,19 +1,19 @@
 ﻿---
 author: samuel-lbryian
 title: It's Time To Liberate Anne Frank's Diary
-date: '2015-11-18 14:27:39'
-cover: 'anne-frank-diary.jpg'
+date: "2015-11-18 14:27:39"
+cover: "anne-frank-diary.jpg"
 ---
 
 It's time to liberate Anne Frank's diary, so it is available to all of humanity.
 
 But extreme US copyright law may keep that from happening. The current battle over the diary illustrates one of the biggest problems with centralized systems – their potential for abuse.
 
-You're probably familiar with *The Diary of Anne Frank*, also known as *The Diary of a Young Girl*. The book features the writings of a young teenage girl as she hid from the Nazis for two years in the occupied Netherlands.
+You're probably familiar with _The Diary of Anne Frank_, also known as _The Diary of a Young Girl_. The book features the writings of a young teenage girl as she hid from the Nazis for two years in the occupied Netherlands.
 
 Anne died in the Bergen-Belsen concentration camp in 1945 at the age of 15. Herein lies the roots of the copyright battle over her diary.
 
-The Anne Frank Fonds now holds the copyright. The foundation was set up by Anne's father, Otto Frank, before his death in 1980. Under the law, the diary should become public domain on January 1, 2016 – 70 years after Anne's death. But Anne Frank Fonds now claims Otto was a co-author, even though he was previously considered the "editor." The foundation now insists Otto's co-authorship extends the copyright to 2050 – 70 years after *his* death.
+The Anne Frank Fonds now holds the copyright. The foundation was set up by Anne's father, Otto Frank, before his death in 1980. Under the law, the diary should become public domain on January 1, 2016 – 70 years after Anne's death. But Anne Frank Fonds now claims Otto was a co-author, even though he was previously considered the "editor." The foundation now insists Otto's co-authorship extends the copyright to 2050 – 70 years after _his_ death.
 
 Of course, Anne Frank Fonds stands to collect a significant amount of money in royalties over that time.
 
@@ -32,7 +32,6 @@ An article on [BoingBoing](http://boingboing.net/2015/11/14/copyfraud-anne-frank
 As Rick Falkvinge argues, these archaic copyright laws simply [don't work in the Internet age](https://torrentfreak.com/anne-frank-scandal-an-underreported-copyright-monopoly-abuse-151115):
 
 > "The Internet is the single most important piece of infrastructure we have, and policymakers are letting an old printing monopoly decide how it can and cannot be used – which should be cause for revolts and uprisings. Instead, old media are collectively treating it with a yawn, while tech writers who understand the issue are calling a spade a spade."
-
 
 The real question is why should the distribution of Anne Frank's diary be limited to one or two players in a monopoly system? If information were set free, you could access the diary in formats and with commentary limited only by our collective creativity.
 

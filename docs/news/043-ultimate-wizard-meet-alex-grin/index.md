@@ -1,12 +1,12 @@
 ---
 author: samuel-lbryian
-title: 'New Core Teammate Is An Ultimate Wizard: Meet Grin'
-date: '2016-06-07 00:06:18'
+title: "New Core Teammate Is An Ultimate Wizard: Meet Grin"
+date: "2016-06-07 00:06:18"
 ---
 
 Alex Grintsvayg (aka "Grin") played ultimate frisbee with LBRY founders Jeremy Kauffman and Jimmy Kiselak in college. Now he's teaming up with them to create the ultimate decentralized digital marketplace.
 
-Grin has been named LBRY's *Chief Infrastructure Officer*, but *Wizard* is probably more descriptive of his role on the team. He will contribute to the technical side of the operation, ensuring LBRY's underlying infrastructure is rock-solid.
+Grin has been named LBRY's _Chief Infrastructure Officer_, but _Wizard_ is probably more descriptive of his role on the team. He will contribute to the technical side of the operation, ensuring LBRY's underlying infrastructure is rock-solid.
 
 ![alexgrin](https://spee.ch/@lbryteam:6/alex-grintsvayg.jpg)
 

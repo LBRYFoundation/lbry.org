@@ -6,7 +6,7 @@ category: policy
 
 ## Summary
 
-This quarter we did not move any Credits from cold storage.  We spent 867,956 total community Credits on line items detailed below. 1,000,000 operational Credits were moved to markets.  No institutional Credits were moved or spent.
+This quarter we did not move any Credits from cold storage. We spent 867,956 total community Credits on line items detailed below. 1,000,000 operational Credits were moved to markets. No institutional Credits were moved or spent.
 
 As the LBRY protocol performance and reliability has again increased, we anticipate similar or increased outlays in q4 2017. We will continue to incentivize new users and other beneficial behavior, which could total several million LBC. Additionally, LBRY may move 1,000,000 LBC to market from operational funds. No institutional outlays are expected, but a pilot program could happen.
 
@@ -15,7 +15,7 @@ As the LBRY protocol performance and reliability has again increased, we anticip
 ### Community Fund
 
 | Category                | Amount               |
-|-------------------------|----------------------|
+| ----------------------- | -------------------- |
 | Bounties                | 82,979 LBRY Credits  |
 | Invites and Rewards     | 452,999 LBRY Credits |
 | Community Management    | 87,700 LBRY Credits  |

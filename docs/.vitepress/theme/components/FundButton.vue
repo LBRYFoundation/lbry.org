@@ -1,16 +1,16 @@
 <script>
 export default {
-  props: ['link','text'],
+  props: ["link", "text"],
 };
 </script>
 
 <style>
-.fund-button{
-  display:inline-flex;
+.fund-button {
+  display: inline-flex;
 }
 
-.fund-button button{
-  background:#1EABB1;
+.fund-button button {
+  background: #1eabb1;
   border-radius: 10px;
   color: var(--primaryBG);
   display: inline;
@@ -20,11 +20,13 @@ export default {
   padding: 0 12px;
 }
 
-.fund-button button:hover{
+.fund-button button:hover {
   background-color: #147276;
 }
 </style>
 
 <template>
-  <a :href="link" class="fund-button"><button>{{text}}</button></a>
+  <a :href="link" class="fund-button"
+    ><button>{{ text }}</button></a
+  >
 </template>

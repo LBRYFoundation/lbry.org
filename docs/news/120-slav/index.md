@@ -1,11 +1,11 @@
 ---
 author: reilly-smith
-title: 'Throwback Throwdown'
-date: '2017-07-13 00:03:00'
-cover: 'slav-banner.jpg'
+title: "Throwback Throwdown"
+date: "2017-07-13 00:03:00"
+cover: "slav-banner.jpg"
 ---
 
-Ever find something you had no idea that you'd like it *so much*?
+Ever find something you had no idea that you'd like it _so much_?
 
 That's exactly how I feel about this conspicuously popular-yet-underground channel now on LBRY. If you love the soundscapes of synths, electronica, and EDM but are sick of the contemporary pop rehashes that all sound the same... you're in luck.
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Will the Real Slim Shady Please Sit Down'
-date: '2016-10-06 00:06:00'
-cover: 'sporthock-banner.jpg'
+title: "Will the Real Slim Shady Please Sit Down"
+date: "2016-10-06 00:06:00"
+cover: "sporthock-banner.jpg"
 ---
 
 One of the great things about working at LBRY is discovering entire worlds and niches that defy categorization.
@@ -21,9 +21,9 @@ Inspired by guys freestyling tricks with homemade stools in the German city of K
 
 This is a sport worth checking out. See the tour of Europe today:
 
-- [*Hock Tour Madrid*](https://open.lbry.com/sporthock-madrid)
-- [*Hock Tour Rome*](https://open.lbry.com/sporthock-rome)
-- [*Hock Tour Paris*](https://open.lbry.com/sporthock-paris)
-- [*Hock Tour Rotterdam*](https://open.lbry.com/sporthock-rotterdam)
+- [_Hock Tour Madrid_](https://open.lbry.com/sporthock-madrid)
+- [_Hock Tour Rome_](https://open.lbry.com/sporthock-rome)
+- [_Hock Tour Paris_](https://open.lbry.com/sporthock-paris)
+- [_Hock Tour Rotterdam_](https://open.lbry.com/sporthock-rotterdam)
 
 **Not on LBRY yet?** [Get an invite here](/get/). Want to share your niche with the world? Email [reilly@lbry.com](mailto:reilly@lbry.com) for a trip to the front of the line.

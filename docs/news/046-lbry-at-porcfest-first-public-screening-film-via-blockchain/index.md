@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
-title: 'History Is Made - First Public Film Screenings via Blockchain at PorcFest XIII'
-date: '2016-06-30 00:09:00'
+title: "History Is Made - First Public Film Screenings via Blockchain at PorcFest XIII"
+date: "2016-06-30 00:09:00"
 ---
 
 Yes, the rumors are true. Last week, a major independent Hollywood film was publicly screened via blockchain – for the first time in history!
@@ -28,5 +28,5 @@ If the suspense is killing you, then go ahead and start mining LBRY Credits (LBC
 
 Look at that! We received our first international coverage thanks to our appearance at PorcFest.
 
-* [Au festival des libertariens: revolvers, bitcoins et blockchain](http://rue89.nouvelobs.com/2016/06/27/festival-libertariens-revolvers-bitcoins-blockchains-264478), *L'Obs*, June 27th
-* [Technology and Choice #08, Porcfest Potpourri](https://letstalkbitcoin.com/blog/post/technology-and-choice-08-porcfest-potpourri), *Let's Talk Bitcoin*, June 29th
+- [Au festival des libertariens: revolvers, bitcoins et blockchain](http://rue89.nouvelobs.com/2016/06/27/festival-libertariens-revolvers-bitcoins-blockchains-264478), _L'Obs_, June 27th
+- [Technology and Choice #08, Porcfest Potpourri](https://letstalkbitcoin.com/blog/post/technology-and-choice-08-porcfest-potpourri), _Let's Talk Bitcoin_, June 29th

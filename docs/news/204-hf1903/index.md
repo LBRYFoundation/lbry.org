@@ -1,7 +1,7 @@
 ---
 author: alex-grintsvayg
-title: 'HF1903: A Hard Fork on March 21st, 2019'
-date: '2019-02-19 10:00:00'
+title: "HF1903: A Hard Fork on March 21st, 2019"
+date: "2019-02-19 10:00:00"
 category: technical
 ---
 
@@ -56,5 +56,4 @@ We will post updates about HF1903 to this page. If you want to be notified of ne
 The fork has been discussed at length in [this pull request](https://github.com/lbryio/lbrycrd/pull/235), as well as the following issues: [1](https://github.com/lbryio/lbrycrd/issues/65),
 [2](https://github.com/lbryio/lbrycrd/issues/204), [3](https://github.com/lbryio/lbrycrd/issues/208), [4](https://github.com/lbryio/lbrycrd/issues/234).
 Please review the details and the code if you are able to. We pay significant bounties for any bugs found in blockchain code, especially
-fork-related code.  Email [brannon@lbry.com](mailto:brannon@lbry.com) if you wish to discuss.
-
+fork-related code. Email [brannon@lbry.com](mailto:brannon@lbry.com) if you wish to discuss.

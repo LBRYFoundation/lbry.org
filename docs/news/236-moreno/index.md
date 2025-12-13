@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Is This Racism? Or Social Justice? A Debate in Debate'
-date: '2019-11-13 13:00:00'
-cover: '20191113-moreno.jpg'
+title: "Is This Racism? Or Social Justice? A Debate in Debate"
+date: "2019-11-13 13:00:00"
+cover: "20191113-moreno.jpg"
 category: featured-content
 ---
 

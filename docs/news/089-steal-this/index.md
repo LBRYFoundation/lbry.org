@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Art is Theft'
-date: '2017-01-12 00:03:00'
-cover: 'stealthis-banner.png'
+title: "Art is Theft"
+date: "2017-01-12 00:03:00"
+cover: "stealthis-banner.png"
 ---
 
 It's quite an honor to re-introduce Jamie King's podcast, [STEAL THIS SHOW](https://stealthisshow.com), to the LBRY faithful. Given the many insights the LBRY network borrows from BitTorrent and decentralized technologies, it's only fitting that we continue to carry some of its most treasured voices.

@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'LBRY In Your Pocket'
-date: '2018-09-17 15:00:00'
-cover: 'blog_whyandroid.png'
+title: "LBRY In Your Pocket"
+date: "2018-09-17 15:00:00"
+cover: "blog_whyandroid.png"
 category: update
 ---
 
@@ -22,16 +22,17 @@ In a nutshell, here's what's in the app and what's missing:
 
 We're working on it:
 
-* Publishing
-* Subscriptions
-* ShapeShift integration
-*  History
-* Wallet Features
-  * Wallet encryption
-  * Wallet sync
+- Publishing
+- Subscriptions
+- ShapeShift integration
+- History
+- Wallet Features
+  - Wallet encryption
+  - Wallet sync
 
 In the app:
-* Everything else!
+
+- Everything else!
 
 Ultimately, we want to offer a seamless transition between mobile and desktop, but right now, we're still figuring out some important features (like wallet sync) that will make that possible. Our sometimes-crazy commitment to decentralizing all the things can mean that we have to put in extra time on problems that centralized services deal with easily, but we're confident that you'll be happy with the end result.
 

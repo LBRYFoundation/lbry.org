@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Derivative Originality'
-date: '2017-11-10 00:20:30'
-cover: '3blue-banner-2.jpg'
+title: "Derivative Originality"
+date: "2017-11-10 00:20:30"
+cover: "3blue-banner-2.jpg"
 ---
 
 And now for something completely different: three new channels in one fell swoop.

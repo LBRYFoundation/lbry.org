@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Stand up to YouTube Crypto Crackdown and Support These Blockchain Creators'
-date: '2019-12-26 15:00:00'
-cover: 'youtube-crypto.png'
+title: "Stand up to YouTube Crypto Crackdown and Support These Blockchain Creators"
+date: "2019-12-26 15:00:00"
+cover: "youtube-crypto.png"
 category: update
 ---
 
@@ -11,7 +11,7 @@ category: update
 Yesterday, YouTube aggressively deleted and blocked a large number of channels focused on technology and blockchain.
 
 <blockquote class="twitter-tweet"><p lang="en" dir="ltr">50 of my videos just got removed for being harmful or dangerous content. Most of these weren&#39;t even crypto videos. Tutorials, explainers, educational videos, Australian housing market updates, economics &amp; negative interest rates. What a way to spend <a href="https://twitter.com/hashtag/Xmas?src=hash&amp;ref_src=twsrc%5Etfw">#Xmas</a>. Absolutely gutted 😢 <a href="https://t.co/SrGHaLW5na">pic.twitter.com/SrGHaLW5na</a></p>&mdash; Alex Saunders (@AlexSaundersAU) <a href="https://twitter.com/AlexSaundersAU/status/1209570483877765120?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote>
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice Christmas present from Youtube, 37 videos pulled and a strike. Ouch. <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/censorship?src=hash&amp;ref_src=twsrc%5Etfw">#censorship</a></p>&mdash; The Crypto Lark (@TheCryptoLark) <a href="https://twitter.com/TheCryptoLark/status/1209609546844393473?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote> 
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">Nice Christmas present from Youtube, 37 videos pulled and a strike. Ouch. <a href="https://twitter.com/hashtag/bitcoin?src=hash&amp;ref_src=twsrc%5Etfw">#bitcoin</a> <a href="https://twitter.com/hashtag/crypto?src=hash&amp;ref_src=twsrc%5Etfw">#crypto</a> <a href="https://twitter.com/hashtag/censorship?src=hash&amp;ref_src=twsrc%5Etfw">#censorship</a></p>&mdash; The Crypto Lark (@TheCryptoLark) <a href="https://twitter.com/TheCryptoLark/status/1209609546844393473?ref_src=twsrc%5Etfw">December 24, 2019</a></blockquote>
 
 ## Blockchain creator surge
 
@@ -29,7 +29,7 @@ The beauty of LBRY is that this kind of thing could never happen here. Even if e
 
 ## Help make this impossible by supporting these creators
 
-We’ve rounded up this list of blockchain-related creators publishing to LBRY. 
+We’ve rounded up this list of blockchain-related creators publishing to LBRY.
 
 Please follow them and show them LBRY love. The more creators adopt and see the value of LBRY, the faster we achieve true digital freedom.
 

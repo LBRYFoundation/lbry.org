@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Crypto, Crypto, Crypt0!'
-date: '2017-02-09 00:06:00'
-cover: 'crypt-zero-banner.png'
+title: "Crypto, Crypto, Crypt0!"
+date: "2017-02-09 00:06:00"
+cover: "crypt-zero-banner.png"
 ---
 
 A rising tide lifts all ships, and while LBRY continues to gain momentum and credibility, why not take a few more cryptocoins with us?

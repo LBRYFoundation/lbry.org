@@ -1,8 +1,8 @@
 ---
 author: mark-beamer
-title: 'What is Chainquery'
-date: '2018-05-24 14:20:00'
-cover: 'database2.jpg'
+title: "What is Chainquery"
+date: "2018-05-24 14:20:00"
+cover: "database2.jpg"
 category: technical
 ---
 
@@ -11,7 +11,7 @@ category: technical
 By default, data from the LBRY blockchain is basically a raw dump of data in a compressed format:
 
 ![Raw Data](https://spee.ch/@lbry/lbrycliexample.png)
-*In addition to extracting this data, you'd have to run several hundred thousand commands to get the same data returned by a single command below.*
+_In addition to extracting this data, you'd have to run several hundred thousand commands to get the same data returned by a single command below._
 
 Since blockchain data is raw, compressed, and not accessibly structured, most blockchains have specifically designed methods to create more usable forms of the data.
 
@@ -51,8 +51,8 @@ Additionally, at least for now, we've provided a public, readonly MySQL server y
 
 Get the latest block information:
 
-[https://chainquery.lbry.com/api/sql?query=SELECT * FROM block ORDER BY height DESC LIMIT 1](https://chainquery.lbry.com/api/sql?query=SELECT%20*%20FROM%20block%20ORDER%20BY%20height%20DESC%20LIMIT%201)
+[https://chainquery.lbry.com/api/sql?query=SELECT \* FROM block ORDER BY height DESC LIMIT 1](https://chainquery.lbry.com/api/sql?query=SELECT%20*%20FROM%20block%20ORDER%20BY%20height%20DESC%20LIMIT%201)
 
 Get all claims and their details for the name "lbry":
 
-[https://chainquery.lbry.com/api/sql?query=SELECT * FROM claim WHERE name = "lbry"](https://chainquery.lbry.com/api/sql?query=SELECT%20*%20FROM%20claim%20WHERE%20name%20=%20%27lbry%27)
+[https://chainquery.lbry.com/api/sql?query=SELECT \* FROM claim WHERE name = "lbry"](https://chainquery.lbry.com/api/sql?query=SELECT%20*%20FROM%20claim%20WHERE%20name%20=%20%27lbry%27)

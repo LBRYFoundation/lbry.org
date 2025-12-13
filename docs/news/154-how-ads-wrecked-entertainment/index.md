@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'How Ads Wrecked Entertainment (And What You Can Do About It)'
-date: '2018-01-16 15:30:00'
-cover: 'Draper2.jpg'
+title: "How Ads Wrecked Entertainment (And What You Can Do About It)"
+date: "2018-01-16 15:30:00"
+cover: "Draper2.jpg"
 category: content
 ---
 
@@ -44,7 +44,7 @@ In this new world, advertising concerns drove mass culture and the arts. Andy Wa
 
 <br/>
 
-That subtle shift completely changed the incentives for creators. Instead of creating art that pleased *their* audience, the biggest rewards went to whoever could create whatever was palatable to the most people at once - i.e., the lowest common denominator.
+That subtle shift completely changed the incentives for creators. Instead of creating art that pleased _their_ audience, the biggest rewards went to whoever could create whatever was palatable to the most people at once - i.e., the lowest common denominator.
 
 The movie industry managed to avoid the ad-supported mediocrity spiral that radio and TV fell into for a while. Early films saw plugs for [Hershey's chocolate](http://objectsinfilm.blogspot.com/2015/09/object-38-hersheys-chocolate-bar_42.html) and [Mobil gas](https://books.google.com/books?id=FzwvICZ92IQC&pg=PA183&lpg=PA183&dq=mobil+product+placement+in+love+happy&source=bl&ots=3eSRGp82rJ&sig=Y5CcpLrclDluIZ_oopf570sSA94&hl=en&sa=X&ved=0ahUKEwivkODv7dDYAhVIxoMKHQRJB9gQ6AEIOjAG#v=onepage&q=mobil%20product%20placement%20in%20love%20happy&f=false), but the practice was rarely blatant enough to jar the audience into feeling like they were watching advertising. Novels, underground music, and theatre continued to be bastions of ad-free originality and damn-the-crowds experimentation.
 

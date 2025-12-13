@@ -1,7 +1,7 @@
 ---
 author: jeremy-kauffman
 title: As Reddit Burns, It Powers The World
-date: '2015-06-11 11:34:52'
+date: "2015-06-11 11:34:52"
 ---
 
 As part of a company, [LBRY](https://lbry.com), that cares passionately about the freedom of information (in both the beer and information sense), I find myself incapable of keeping my mouth shut about what's going on at [reddit.com](http://reddit.com).
@@ -24,9 +24,9 @@ Aaron Swartz and Alexis Ohanian are two of the three people given credit for cre
 
 I never met Aaron Swartz, but I've read most of his blog. He seems honest, brilliant, open-minded and thoughtful. He passes the Fitzgerald test for the first-rate intelligence with flying colors.
 
-Even more important than his words, I've seen what he *did*. Attempting to share JSTOR with the world was a beautiful thing. It puts him in the ranks of Manning, Snowden, Ulbricht, and other modern martyrs. While reasonable people may disagree with some of their actions, no reasonable person can disagree that following your conscience at personal expense to yourself is tremendous. On balance, the world would be a far better place if everyone acted this way.
+Even more important than his words, I've seen what he _did_. Attempting to share JSTOR with the world was a beautiful thing. It puts him in the ranks of Manning, Snowden, Ulbricht, and other modern martyrs. While reasonable people may disagree with some of their actions, no reasonable person can disagree that following your conscience at personal expense to yourself is tremendous. On balance, the world would be a far better place if everyone acted this way.
 
-I have met Alexis Ohanian, briefly. I have read *Without Their Permission*. Alexis' words aren't bad. He encourages entrepreneurship, attacking problems, and improving the world. He also encourages going around those who would protect the entrenched, obstinate, and broken status quo.
+I have met Alexis Ohanian, briefly. I have read _Without Their Permission_. Alexis' words aren't bad. He encourages entrepreneurship, attacking problems, and improving the world. He also encourages going around those who would protect the entrenched, obstinate, and broken status quo.
 
 When I met Alexis a few years ago, I had the chance to ask him a question. I asked him something like: if you believe in the idea of routing around the rotten, why not put more energy into projects like that? Why not put resources into projects like Tor, Bitcoin, BitTorrent, or other technology that does the things he describes?
 
@@ -38,15 +38,15 @@ Alexis Ohanian is not Aaron Swartz. Swartz did what was right, regardless of con
 
 Reddit claims that the grounds for the bans is the violation of rules regarding the harassment of individuals. Like Alexis' words, this is commendable. However, we must always compare words and acts. When they contrast, we have found hypocrisy. We have found evil.
 
-* Reddit [claims that it cares about transparency](http://www.reddit.com/r/announcements/comments/35uyil/transparency_is_important_to_us_and_today_we_take), but refuses to provide any details or guidelines on its rules. Nor will it provide specific examples of the grounds on which it banned the targeted communities.
+- Reddit [claims that it cares about transparency](http://www.reddit.com/r/announcements/comments/35uyil/transparency_is_important_to_us_and_today_we_take), but refuses to provide any details or guidelines on its rules. Nor will it provide specific examples of the grounds on which it banned the targeted communities.
 
-* Reddit claims it banned communities on the grounds of targeted harassment, but users that have cited numerous specific examples of harassment from communities more politically favorable to Reddit's founders go ignored.
+- Reddit claims it banned communities on the grounds of targeted harassment, but users that have cited numerous specific examples of harassment from communities more politically favorable to Reddit's founders go ignored.
 
-* Reddit claims that it banned the communities on the grounds of targeted harassment, but has banned new subs created by unrelated users that have done no harassing.
+- Reddit claims that it banned the communities on the grounds of targeted harassment, but has banned new subs created by unrelated users that have done no harassing.
 
-* Reddit refuses to admit that advertising or public perception has anything to do with its actions. It insists that it is *only* about harassment.
+- Reddit refuses to admit that advertising or public perception has anything to do with its actions. It insists that it is _only_ about harassment.
 
-* Reddit claims that it is about "authentic conversations" and unrestricted speech, but has hired a CEO, Ellen Pao, who represents [the antithesis of those values](http://fortune.com/2015/06/05/ellen-paos-appeal-is-now-about-the-money).
+- Reddit claims that it is about "authentic conversations" and unrestricted speech, but has hired a CEO, Ellen Pao, who represents [the antithesis of those values](http://fortune.com/2015/06/05/ellen-paos-appeal-is-now-about-the-money).
 
 Reddit is truly an Ohanian company.
 

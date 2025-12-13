@@ -3,11 +3,12 @@ title: How does the invite program work?
 category: getstarted
 ---
 
-You can earn LBRY Credits (LBC) for inviting others to use LBRY as well as letting us know who invited you. Invite new users to LBRY via email or a customized link on the [Invites page of LBRY Desktop or lbry.tv](http://open.lbry.com/?invite). This page will also show the status of existing invites. Both the inviter and invitee are eligible for a reward. 
+You can earn LBRY Credits (LBC) for inviting others to use LBRY as well as letting us know who invited you. Invite new users to LBRY via email or a customized link on the [Invites page of LBRY Desktop or lbry.tv](http://open.lbry.com/?invite). This page will also show the status of existing invites. Both the inviter and invitee are eligible for a reward.
 
-*Note: Referral redemptions are typically limited to 20, but increases as your channel grows in popularity on LBRY. See the [limits section below](#limits)*
+_Note: Referral redemptions are typically limited to 20, but increases as your channel grows in popularity on LBRY. See the [limits section below](#limits)_
 
 ## Finding your invite link and status
+
 To get to the [Invites area](http://open.lbry.com/?invite), click the Account menu in the top right and select **Invites**. You can now customize your invite link by selecting one of your channels from the drop down. Any of them will work, but the email we send out will include your largest subbed channel. You can also invite a user directly via email.
 
 You will also see all of your invites, along with their status(es) - whether the user has accepted it (signed in) and if it is claimable or not (if the user is reward approved).
@@ -25,6 +26,7 @@ When a user clicks your invite link, they are greeted with a welcome message and
 If you have claimable invites, you will see a claim button with the total reward amount on the page. You will not receive rewards for each referral until those users join and use LBRY themselves (see below section regarding claimable invites). This is to combat invite fraud and abuse.
 
 ## Claiming your bonus for being invited and setting the inviter
+
 For a limited time, you can claim a reward for being invited and letting us know which channel did so (so they can earn also). You must set the inviter before claiming your reward.
 
 ![invitee](https://spee.ch/b/invite-5.jpg)

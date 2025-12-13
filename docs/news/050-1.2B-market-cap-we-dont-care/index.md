@@ -1,8 +1,8 @@
 ﻿---
 author: mike-vine
 title: "$1.2B Market Cap and We Don't Care"
-date: '2016-07-15 00:06:18'
-cover: 'lbcchart.JPG'
+date: "2016-07-15 00:06:18"
+cover: "lbcchart.JPG"
 ---
 
 As the man in charge of publicizing the LBRY protocol, the two weeks since we announced our beta have been breathtaking.
@@ -10,7 +10,7 @@ As the man in charge of publicizing the LBRY protocol, the two weeks since we an
 Here are some figures:
 
 | Metric              | Launch                                      | Today                            | % Growth |
-|---------------------|---------------------------------------------|----------------------------------|----------|
+| ------------------- | ------------------------------------------- | -------------------------------- | -------- |
 | Market Cap          | $140M (Early Bittrex trading at ~$0.35/LBC) | $1.2B (2 week high of $2.93/LBC) | 857%     |
 | Hashing Power       | 1 MH/s                                      | 693 GH/s                         | 693,000% |
 | Beta Users          | 1,000                                       | 2,000                            | 100%     |

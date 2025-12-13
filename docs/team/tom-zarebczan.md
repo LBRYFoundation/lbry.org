@@ -3,7 +3,7 @@ name: Tom Zarebczan
 role: Community Support & Engagement
 email: tom@lbry.com
 twitter: TomZarebczan
-github : tzarebczan
+github: tzarebczan
 ---
 
 Tom discovered LBRY, as many have, through mining. His time spent in the LBRY Slack channels quickly grew his interest in the concept that was being developed, and the team doing the development. Tom found his place on the team providing top-notch support for (and driving the growth of) the LBRY user community, in addition to many other invaluable functions.

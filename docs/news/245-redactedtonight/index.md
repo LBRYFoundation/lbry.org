@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Read this f***ing blog about C*** on Redacted Tonight'
-date: '2020-01-03 13:00:00'
-cover: '2020-0103redacted.png'
+title: "Read this f***ing blog about C*** on Redacted Tonight"
+date: "2020-01-03 13:00:00"
+cover: "2020-0103redacted.png"
 category: featured-content
 ---
 

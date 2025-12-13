@@ -1,4 +1,5 @@
 # 🧲 Curators
+
 ---
 
 ## What is the LBRY Foundation Curators Council?
@@ -18,7 +19,6 @@
 
 - Be active in the community
 - Fill the [Form](https://forms.gle/Vr9od8DnxyqohMSGA)
-
 
 ## How curatorship works?
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'r/JustRolledIntoTheShop'
-date: '2017-04-06 00:12:00'
-cover: 'auto-diy-banner.jpg'
+title: "r/JustRolledIntoTheShop"
+date: "2017-04-06 00:12:00"
+cover: "auto-diy-banner.jpg"
 ---
 
 They say you don't need to know how a car works in order to drive it.

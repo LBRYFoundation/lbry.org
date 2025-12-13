@@ -1,11 +1,11 @@
 ---
 author: reilly-smith
-title: 'Braaains!'
-date: '2016-10-20 00:06:00'
-cover: 'notld-banner.png'
+title: "Braaains!"
+date: "2016-10-20 00:06:00"
+cover: "notld-banner.png"
 ---
 
-*Night of the Living Dead* stands atop the mountain of great Hollywood films.
+_Night of the Living Dead_ stands atop the mountain of great Hollywood films.
 
 It's also the most downloaded public domain title of all-time. Except for one caveat: finding a good torrent or retrieving files from (the wonderful) Archive.org, and viewing them in your living room... isn't exactly user-friendly.
 

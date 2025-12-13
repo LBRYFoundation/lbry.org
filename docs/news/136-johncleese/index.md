@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'farting in our direction'
-date: '2017-10-19 00:22:30'
-cover: 'cleese-banner.jpg'
+title: "farting in our direction"
+date: "2017-10-19 00:22:30"
+cover: "cleese-banner.jpg"
 ---
 
 And now, the moment you've all been waiting for...
@@ -13,7 +13,7 @@ It's coming, any minute now.
 
 ![JohnCleese](/img/news/cleese-inline.jpg)
 
-The legend, the myth, the tall man: [@JohnCleese](https://open.lbry.com/%40JohnCleese) has joined LBRY. From *Fawlty Towers* and Monty Python to the objective best James Bond films starring John Cleese and Pierce Brosnan, to my personal favorite film of all-time, *Rat Race*, Mr. Cleese's comedic brilliance has graced every corner of entertainment for decades.
+The legend, the myth, the tall man: [@JohnCleese](https://open.lbry.com/%40JohnCleese) has joined LBRY. From _Fawlty Towers_ and Monty Python to the objective best James Bond films starring John Cleese and Pierce Brosnan, to my personal favorite film of all-time, _Rat Race_, Mr. Cleese's comedic brilliance has graced every corner of entertainment for decades.
 
 You can see John on tour right now [across the United States](http://www.montypython.com/news_jchg2017/422).
 

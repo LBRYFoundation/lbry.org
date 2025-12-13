@@ -1,12 +1,12 @@
 ﻿---
 author: samuel-lbryian
 title: "LBRY Gets Content Creators Out of Precarious Position - Daily Decrypt's Amanda B. Johnson"
-date: '2015-10-26 15:10:51'
+date: "2015-10-26 15:10:51"
 ---
 
-*This is a guest post from Amanda B. Johnson of [The Daily Decrypt](https://www.youtube.com/channel/UCqNCLd2r19wpWWQE6yDLOOQ).*
+_This is a guest post from Amanda B. Johnson of [The Daily Decrypt](https://www.youtube.com/channel/UCqNCLd2r19wpWWQE6yDLOOQ)._
 
-I am the host of *The Daily Decrypt*, a newscast about cryptocurrency and P2P tech. We publish our videos on YouTube, and our podcasts go on SoundCloud. These platforms allow us to potentially reach millions of people, which is great, but they also come with one glaring risk that hardly anyone talks about:
+I am the host of _The Daily Decrypt_, a newscast about cryptocurrency and P2P tech. We publish our videos on YouTube, and our podcasts go on SoundCloud. These platforms allow us to potentially reach millions of people, which is great, but they also come with one glaring risk that hardly anyone talks about:
 
 Our content could be taken down at any time.
 
@@ -30,4 +30,4 @@ This is what censorship-resistance looks like. As information itself becomes mor
 
 **Amanda B. Johnson** is the host of [The Daily Decrypt](https://www.youtube.com/channel/UCqNCLd2r19wpWWQE6yDLOOQ). She has written on cryptocurrencies for Bitcoin Magazine, CoinTelegraph, Bitcoin.com, and Liberty.me.
 
-*Are you a content creator who is tired of intermediaries standing between you and your audience? [Sign up](/get/) to be reminded when LBRY launches and we'll see you there!*
+_Are you a content creator who is tired of intermediaries standing between you and your audience? [Sign up](/get/) to be reminded when LBRY launches and we'll see you there!_

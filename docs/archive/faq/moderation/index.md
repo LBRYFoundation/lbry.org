@@ -12,11 +12,11 @@ Users can choose from three moderation options: Muting, Blocking, Comment remova
 
 ## Blocking
 
-When you block a user, the blocked user can no longer comment on any of your content, channel, or comment threads. You will also not be able to see their content on their channel page either unless you click past through the warning. 
+When you block a user, the blocked user can no longer comment on any of your content, channel, or comment threads. You will also not be able to see their content on their channel page either unless you click past through the warning.
 
-In addition to this, all comments and reactions left by the blocked user on your content, channel, or in the comments section, **will be filtered** for everyone. If you unblock, they will be restored. 
+In addition to this, all comments and reactions left by the blocked user on your content, channel, or in the comments section, **will be filtered** for everyone. If you unblock, they will be restored.
 
-Essentially, when you block a user, they're completely removed from your experience on Odysee and cannot engage with you, but can still view your content. Note: currently the blocked channel can still react to content, but we'll be limiting this soon as well. 
+Essentially, when you block a user, they're completely removed from your experience on Odysee and cannot engage with you, but can still view your content. Note: currently the blocked channel can still react to content, but we'll be limiting this soon as well.
 
 ## Muting
 
@@ -32,11 +32,10 @@ You can delete any comment on your channel and/or content by clicking the 3 dots
 
 ![](https://spee.ch/a/913c0a0a9b24ab09.png)
 
-
 ## Viewing Blocked and/or Muted users/channels (Unblocking and/or Unmuting)
 
-Under settings, navigate to the Blocked and Muted channels section. Click Manage to view users/channels you've Blocked and/or muted. 
-Here, you can unmute / unblock users, or change a user's status from blocked to muted, or vice versa. 
+Under settings, navigate to the Blocked and Muted channels section. Click Manage to view users/channels you've Blocked and/or muted.
+Here, you can unmute / unblock users, or change a user's status from blocked to muted, or vice versa.
 Refresh the page for changes to take effect.
 
 ![](https://spee.ch/c/84040915b6482d00.png)

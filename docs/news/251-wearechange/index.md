@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
 title: "What Did WeAreChange Find on Epstein's Private Island?"
-date: '2020-01-23 13:00:00'
-cover: 'wearechange.jpg'
+date: "2020-01-23 13:00:00"
+cover: "wearechange.jpg"
 category: featured-content
 ---
 

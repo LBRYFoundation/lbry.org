@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Creator @DadReviews Reviews Products From Dad Perspective; Is Reviewed By Dad In Turn'
-date: '2019-11-27 13:00:00'
-cover: 'dad-reviews.jpg'
+title: "LBRY Creator @DadReviews Reviews Products From Dad Perspective; Is Reviewed By Dad In Turn"
+date: "2019-11-27 13:00:00"
+cover: "dad-reviews.jpg"
 category: featured-content
 ---
 
@@ -16,7 +16,7 @@ So if you’re considering a purchase, check if it’s reviewed on @DadReviews. 
 
 - [Does GoPro's internal microphone suck?](https://open.lbry.com/@DadReviews:6/does-gopro-s-internal-microphone-suck:6) - GoPro Hero 7 Black Edition video & audio test
 - [How to sleep better](https://open.lbry.com/@DadReviews:6/how-to-sleep-better:9) - free ideas for a better night's sleep
-- [Trying the weirdest toothpaste ever](https://open.lbry.com/@DadReviews:6/trying-the-weirdest-toothpaste-ever-have:e) - Organic and exotic, how does dragonfruit toothpaste sound to you? Mint aloe neem? Coconut banana? 
+- [Trying the weirdest toothpaste ever](https://open.lbry.com/@DadReviews:6/trying-the-weirdest-toothpaste-ever-have:e) - Organic and exotic, how does dragonfruit toothpaste sound to you? Mint aloe neem? Coconut banana?
 
 If you’re a dad and want to review this email (thus performing a dad review of a dad review dad review), send it to [dads@lbry.com](mailto:dads@lbry.com).
 

@@ -1,15 +1,16 @@
 ---
 author: jeremy-kauffman
-title: 'Acryptypical: The CEO of LBRY on the Price of LBC'
-date: '2016-11-15 11:40:00'
+title: "Acryptypical: The CEO of LBRY on the Price of LBC"
+date: "2016-11-15 11:40:00"
 ---
 
 ### Background
+
 I've never been a market hawk.
 
 I don't read or watch time-sensitive news. It's more likely to make me confident but wrong than informed.
 
-*(Unless there's a natural disaster. If it's going to flood, please text me.)*
+_(Unless there's a natural disaster. If it's going to flood, please text me.)_
 
 My savings are primarily in broad-index mutual funds. I'm a [Benjamin Graham](https://en.wikipedia.org/wiki/The_Intelligent_Investor) man, not a [Jim Cramer](https://www.youtube.com/watch?v=NkytKDzCEeU&t=52s) devotee.
 
@@ -30,25 +31,26 @@ Yet here I am, running a company where people ask me to do the opposite every si
 So I've written this post as a canonical answer to questions about the price of LBC, as well as to give some insight into the way we think about things here at LBRY.
 
 ### Why Price So Low?
+
 The first-order answer to this question is trivial: there are more sellers than buyers.
 
 The second-order answer is only slightly less trivial: there is no reason to buy.
 
-LBRY launched in July 2016. It launched as the barest, minimum proof-of-concept possible. It supported streaming a few videos we had published ourselves, and that was it. When we started, the publishing process was *hand-typing JSON into the command line*.
+LBRY launched in July 2016. It launched as the barest, minimum proof-of-concept possible. It supported streaming a few videos we had published ourselves, and that was it. When we started, the publishing process was _hand-typing JSON into the command line_.
 
-That release showed that it was *possible* to provide a completely decentralized protocol that facilitates the discovery, access, and purchase of content.
+That release showed that it was _possible_ to provide a completely decentralized protocol that facilitates the discovery, access, and purchase of content.
 
 It showed that we don't have to accept government or corporate censorship of what we want to watch, read, or listen to.
 
 What it didn't show is that people are ready to change their habits immediately and **we didn't expect it to.**
 
-However, proving that the dream of LBRY is possible helped us raise a $500,000 seed round led by Pillar and joined by some other great people like the CEOs of [Dyn](https://dyn.com) and [Backupify](https://en.wikipedia.org/wiki/Datto_(company)).
+However, proving that the dream of LBRY is possible helped us raise a $500,000 seed round led by Pillar and joined by some other great people like the CEOs of [Dyn](https://dyn.com) and [Backupify](<https://en.wikipedia.org/wiki/Datto_(company)>).
 
 While that money isn't quite enough for long-term thinking, it's enough that we don't have to think for tomorrow or next week.
 
 ### When Price Go High?
 
-Let me start by talking about when the price *won't* go up.
+Let me start by talking about when the price _won't_ go up.
 
 It won't go up because we're spending our time optimizing for the thirty-second attention span of the blockchain news cycle.
 

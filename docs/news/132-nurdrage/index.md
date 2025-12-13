@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
 title: "React. Or don't."
-date: '2017-09-28 00:22:30'
-cover: 'nurdrage-banner.jpg'
+date: "2017-09-28 00:22:30"
+cover: "nurdrage-banner.jpg"
 ---
 
 Linux talk shows. Electrical engineering reviews. Experimental sci-fi movies. We like to think our taste at LBRY is understandably nerdy.

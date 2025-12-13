@@ -25,4 +25,3 @@ No binaries yet.
 ### Source code
 
 <a href="https://github.com/LBRYFoundation/lbrycrd">View at GitHub</a>
-

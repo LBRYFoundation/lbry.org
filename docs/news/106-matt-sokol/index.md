@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'He Did The Math'
-date: '2017-04-13 00:20:00'
-cover: 'mattsokol-banner.jpg'
+title: "He Did The Math"
+date: "2017-04-13 00:20:00"
+cover: "mattsokol-banner.jpg"
 ---
 
 Math and art allegedly don't go together.

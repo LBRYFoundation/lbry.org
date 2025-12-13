@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Meet Your Maker'
-date: '2017-04-27 00:19:30'
-cover: 'mayermakes-banner.png'
+title: "Meet Your Maker"
+date: "2017-04-27 00:19:30"
+cover: "mayermakes-banner.png"
 ---
 
 The [LBRY Chat community](http://chat.lbry.com) has welcomed its 4,000th member.

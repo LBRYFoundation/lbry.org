@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
-title: 'UI & Publishing Tools Upgrade with Reflector'
-date: '2016-08-25 00:06:18'
+title: "UI & Publishing Tools Upgrade with Reflector"
+date: "2016-08-25 00:06:18"
 ---
 
 Content publishers can now use a new feature called Reflector to upload files to LBRY, providing an easier, friendlier, and more permanent publishing experience. This coincides with a beautiful update to our user-interface – a big upgrade to the look and functionality of LBRY's front-end:
@@ -20,7 +20,7 @@ LBRY [publishing tools came online](/news/publish-tools-live-earn-1000-dollars) 
 
 ![Reflector screenshot](/img/news/reflector.png)
 
-Basically, Reflector ensures content is copied by other hosts before the data is ever requested by a user. Since this initial data is not paid for by the recipients, we want to be clear – *Reflector is non-mandatory.*
+Basically, Reflector ensures content is copied by other hosts before the data is ever requested by a user. Since this initial data is not paid for by the recipients, we want to be clear – _Reflector is non-mandatory._
 
 This feature is intended as a workaround for network and firewall issues.
 

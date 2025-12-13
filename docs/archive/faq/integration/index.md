@@ -13,7 +13,7 @@ They are reproduced here for convenience only. If there's any discrepancy, the s
 ## Parmeters
 
 | Name                              | Value                                                              |
-|-----------------------------------|--------------------------------------------------------------------|
+| --------------------------------- | ------------------------------------------------------------------ |
 | Genesis Block Hash                | `9c89283ba0f3227f6c03b70216b9f665f0118d5e0fa729cedf4fb34d6a34f463` |
 | Target Block Time                 | 150 seconds                                                        |
 | Default Port                      | `9246`                                                             |

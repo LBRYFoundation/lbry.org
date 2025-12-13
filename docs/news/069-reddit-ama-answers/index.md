@@ -1,7 +1,7 @@
 ﻿---
 author: mike-vine
-title: 'Answers to the Big Questions from Our Reddit AMA'
-date: '2016-09-28 00:06:18'
+title: "Answers to the Big Questions from Our Reddit AMA"
+date: "2016-09-28 00:06:18"
 ---
 
 A few weeks ago, in conjunction with announcing a [$500,000 funding round](/news/500k-vc-funds-pillar), we hit #2 on Reddit's front page with [our first AMA](https://www.reddit.com/r/IAmA/comments/50tyub/were_the_nerds_behind_lbry_a_decentralized).
@@ -36,7 +36,8 @@ Take a look, then give us your feedback on [our subreddit /r/lbry](https://www.r
 
 <a name="thename"></a>
 **What's with the name LBRY?**
-----
+
+---
 
 The very first question of newcomers is often, "How do you pronounce it?" Answer: library.
 
@@ -54,7 +55,8 @@ LBRY is working well as a brand so far. SEO is a top consideration for startup b
 
 <a name="makemoney"></a>
 **How does LBRY benefit content creators? Can I make money using LBRY?**
-----
+
+---
 
 In our AMA title, we pitched LBRY as a "community-driven" YouTube alternative that could "save the internet." That's a lot of big talks, but what does it mean for the people who care most about the changes happening at YouTube – content creators?
 
@@ -72,7 +74,8 @@ What's more, you can share content of any type – video, music, ebooks, images,
 
 <a name="consumers"></a>
 **How does LBRY benefit content consumers? Why should I bother caring?**
-----
+
+---
 
 Do you watch YouTube? Imagine paying a few cents to eliminate all ads. 100% of the payment will go directly to the content creator – and they'll still be earning more than YouTube offers, so they'll want to make even more of the content you love.
 
@@ -84,15 +87,16 @@ LBRY is a digital media library at your fingertips. It can store any kind of con
 
 <a name="whatis"></a>
 **What is LBRY exactly – is it a protocol, an app, a website, a company?**
-----
+
+---
 
 LBRY is many components working together. For most users, it will just be a place where they can find great videos, music, ebooks, and more. A vast digital library that is available on all of your devices.
 
 But behind that experience is an ecosystem that can be hard to understand at first – especially because we tend to refer to all the pieces and the system-as-a-whole as "LBRY". (We're working on clearing that up.)
 
-It might be easier to start with what LBRY is not: it is not just another corporate media service like YouTube or iTunes or Spotify. It is first and foremost a new *protocol* that allows artists to upload their content to a network of hosts (like BitTorrent) and set a price per stream or download (like iTunes) or give it away for free (like YouTube without ads). What makes this all possible is the blockchain technology developed by the founder of Bitcoin. Do you have to understand any of this to use and enjoy LBRY? No. Does it still matter to users? Yes!
+It might be easier to start with what LBRY is not: it is not just another corporate media service like YouTube or iTunes or Spotify. It is first and foremost a new _protocol_ that allows artists to upload their content to a network of hosts (like BitTorrent) and set a price per stream or download (like iTunes) or give it away for free (like YouTube without ads). What makes this all possible is the blockchain technology developed by the founder of Bitcoin. Do you have to understand any of this to use and enjoy LBRY? No. Does it still matter to users? Yes!
 
-Gmail has built an extremely popular email service on top of the near-universal *SMTP protocol* that everyone uses to exchange emails. Anyone sending an email with SMTP can communicate with Gmail addresses, no matter what email platform they use (Yahoo!, AOL, iCloud, etc.). Google can't interfere with someone emailing from an @yahoo.com address to an @aol.com address – and users are free to switch between services at any time, taking their emails with them. Users have a lot of power in open protocols that is often taken for granted.
+Gmail has built an extremely popular email service on top of the near-universal _SMTP protocol_ that everyone uses to exchange emails. Anyone sending an email with SMTP can communicate with Gmail addresses, no matter what email platform they use (Yahoo!, AOL, iCloud, etc.). Google can't interfere with someone emailing from an @yahoo.com address to an @aol.com address – and users are free to switch between services at any time, taking their emails with them. Users have a lot of power in open protocols that is often taken for granted.
 
 Compare this to a proprietary, centrally controlled service like Facebook Messenger. If you conduct all of your social communications via Messenger, you're stuck in that environment – you cannot move your messages or contacts over to Google Chat or Skype. And if Facebook changes the way Messenger functions by censoring conversations or sharing your information with advertisers or governments, tough luck.
 
@@ -100,13 +104,14 @@ Even platforms that are ostensibly designed with the user's control and privacy 
 
 There is no such risk of top-down corruption with the LBRY protocol. Content uploaded to the decentralized LBRY network remains publicly accessible so long as the community finds it valuable and continues to host it.
 
-Now, the LBRY project is more than just a revolutionary new protocol. It is also a company, *LBRY Inc.*, which is developing a *LBRY app* to allow users to easily interact with the protocol. So it's as if Google had developed the email protocol, released it to the world for free, and then built Gmail to help people make use of it. Not only is our app completely open-source, but others are welcome to create competing apps that also use the LBRY protocol. For a content creator, your uploaded content will be available to all of these apps at the same time.
+Now, the LBRY project is more than just a revolutionary new protocol. It is also a company, _LBRY Inc._, which is developing a _LBRY app_ to allow users to easily interact with the protocol. So it's as if Google had developed the email protocol, released it to the world for free, and then built Gmail to help people make use of it. Not only is our app completely open-source, but others are welcome to create competing apps that also use the LBRY protocol. For a content creator, your uploaded content will be available to all of these apps at the same time.
 
 Do you see the difference here? YouTube can afford to push around its creators and users because they've created tremendous lock-in. LBRY is challenging this model from the ground-up. Everything we've built is open-source, decentralized, and belongs to the community using it. LBRY Inc. could go bankrupt tomorrow, and the LBRY protocol will live on. Can YouTube say that?
 
 <a name="auction"></a>
 **LBRY's "auction-based" name system sounds unworkable. Why don't you just assign names the same way as internet domains?**
-----
+
+---
 
 First, it's important to know that assigning names in a decentralized system is one of the hardest problems in computer science. Just because we're all accustomed to certain solutions doesn't mean they aren't seriously flawed.
 
@@ -136,7 +141,8 @@ So, the short answer is that we're aware that this an experiment within an exper
 
 <a name="noauction"></a>
 **If I don't want to deal with name auctions at all, what are my options?**
-----
+
+---
 
 We don't want to see the naming system scare off potential users. And if it fails to work as planned, we don't want it to take down the whole LBRY project.
 
@@ -148,7 +154,8 @@ More details on this update will be released shortly. [Subscribe to our mailing 
 
 <a name="lbryinc"></a>
 **How does the company behind LBRY make money?**
-----
+
+---
 
 The LBRY protocol has a built-in digital currency that allows it to function, called LBRY Credits. These Credits are very similar to bitcoins. Having a built-in digital currency creates an opportunity for a new kind of business that has never existed: [the protocol-first enterprise](https://medium.com/the-coinbase-blog/app-coins-and-the-dawn-of-the-decentralized-business-model-8b8c951e734f#.6mr8znoiu). LBRY Inc. has reserved 10% of all LBRY Credits to fund continued development and provide profit for the founders. Since Credits only gain value as the use of the protocol grows, the company has an incentive to continue developing this open-source project. And we can do it all without taking a percentage of anyone's transactions.
 
@@ -162,9 +169,10 @@ We are also exploring ways to generate revenue above our credit reserve, includi
 
 <a name="status"></a>
 **What is LBRY's development status right now? Plans for the future?**
-----
 
-LBRY is currently in invite-only beta, with desktop apps for Linux, MacOS, and a pre-release version of Windows. There are approximately 5K active users and hundreds of content creators. The network already hosts big-name content like the [feature film *It's A Disaster*](/news/launch-a-disaster) and videos from [Adult Swim's MillionDollarExtreme](/news/mde-on-lbry). We announce new featured content every Thursday on our [blog](/news), [Twitter](https://twitter.com/lbrycom), and [Facebook](https://www.facebook.com/lbrycom).
+---
+
+LBRY is currently in invite-only beta, with desktop apps for Linux, MacOS, and a pre-release version of Windows. There are approximately 5K active users and hundreds of content creators. The network already hosts big-name content like the [feature film _It's A Disaster_](/news/launch-a-disaster) and videos from [Adult Swim's MillionDollarExtreme](/news/mde-on-lbry). We announce new featured content every Thursday on our [blog](/news), [Twitter](https://twitter.com/lbrycom), and [Facebook](https://www.facebook.com/lbrycom).
 
 The waitlist to get into the beta is about 150K people long. This shocks even us, and we're racing to get the user experience and backend technologies to a level where we're comfortable opening the beta to everyone. The target for open beta is this winter. Mushy target, we know, but these things are hard to time.
 
@@ -172,7 +180,8 @@ In the meantime, we could use your encouragement. This is a difficult project th
 
 <a name="whycare"></a>
 **Why should I care about LBRY if I can't even use it yet?**
-----
+
+---
 
 A lot of people won't care about LBRY until it can deliver them immediate benefits. That's fair, and we understand.
 
@@ -180,6 +189,6 @@ The advantage of getting involved right now is the same as following a local ban
 
 Or get involved because it's rare to get an opportunity to be part of a project that could reshape the fabric of the internet and creative media for years to come.
 
-*Did this FAQ address your concerns? Still think we're full of it? Sound off at [`/r/lbry`](https://www.reddit.com/r/lbry). Thank you for taking the time to learn about LBRY!*
+_Did this FAQ address your concerns? Still think we're full of it? Sound off at [`/r/lbry`](https://www.reddit.com/r/lbry). Thank you for taking the time to learn about LBRY!_
 
 **Not on LBRY yet?** [Get an invite here](/get/). Just can't wait? If you're a creator, skip our waiting list line for a chance to earn $1,000 in LBRY Credits at the same time. [Learn more here](/publish).

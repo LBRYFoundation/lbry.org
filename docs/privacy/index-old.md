@@ -8,7 +8,7 @@ This privacy policy has been compiled to better serve those who are concerned wi
 
 <strong>What personal information do we collect from the people that visit our blog, website or app?</strong>
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information  or other details to help you with your experience.
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number, credit card information or other details to help you with your experience.
 
 <strong>When do we collect information?</strong>
 
@@ -68,7 +68,7 @@ However, non-personally identifiable visitor information may be provided to othe
 Occasionally, at our discretion, we may include or offer third-party products or services on our website. These third-party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
 <strong>Google</strong>
- As part of LBRY Creator Verification, we will only use read-only access to verify the ownership of YouTube channels and will not transfer this data to others unless doing so is necessary to comply with applicable law, or as part of a merger, acquisition, or sale of assets.
+As part of LBRY Creator Verification, we will only use read-only access to verify the ownership of YouTube channels and will not transfer this data to others unless doing so is necessary to comply with applicable law, or as part of a merger, acquisition, or sale of assets.
 
 Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. <code>https://support.google.com/adwordspolicy/answer/1316548?hl=en</code>
 
@@ -124,7 +124,7 @@ It's also important to note that we do not allow third-party behavioral tracking
 
 <strong>COPPA (Children Online Privacy Protection Act)</strong>
 
-When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control.  The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+When it comes to the collection of personal information from children under the age of 13 years old, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, United States' consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
 
 We do not specifically market to children under the age of 13 years old.
 

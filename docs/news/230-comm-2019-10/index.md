@@ -1,8 +1,8 @@
 ---
 author: julie-sigwart
-title: 'October 2019 LBRY Community Report'
-date: '2019-10-25 18:00:00'
-cover: 'trick.jpg'
+title: "October 2019 LBRY Community Report"
+date: "2019-10-25 18:00:00"
+cover: "trick.jpg"
 category: community-update
 ---
 
@@ -11,13 +11,14 @@ category: community-update
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users and grow the LBRY platform. If you don't already, follow us on [Twitter](https://twitter.com/lbrycom), [Facebook](https://facebook.com/lbrycom), [Reddit](https://www.reddit.com/r/lbry), and [Telegram](https://t.me/lbryofficial).
 
 ## In This Update {#updates}
-* [What's new at LBRY?](#news)
-* [Hacktoberfest](#hacktoberfest)
-* [Help us Translate our App](#i18n)
-* [Join the Swarm!](#swarm)
-* [Hive Updates](#hives)
-* [LBRY App in More Languages](#i18n)
-* [Trick or Treat!](#treat)
+
+- [What's new at LBRY?](#news)
+- [Hacktoberfest](#hacktoberfest)
+- [Help us Translate our App](#i18n)
+- [Join the Swarm!](#swarm)
+- [Hive Updates](#hives)
+- [LBRY App in More Languages](#i18n)
+- [Trick or Treat!](#treat)
 
 ### What's New at LBRY? {#news}
 
@@ -30,18 +31,18 @@ Making our network easy to use is our main focus, and the LBRY Network has been 
 Some highlights of Heisenberg:
 
 - Unified experience across devices, installs, and computers.
-Sign in on any computer and have your balance, subscriptions, tags, and other settings follow you. Or for maximal privacy and security, manually copy your wallet file around: most user settings and preferences are now written to your wallet. You can read more in the Account Sync FAQ.
+  Sign in on any computer and have your balance, subscriptions, tags, and other settings follow you. Or for maximal privacy and security, manually copy your wallet file around: most user settings and preferences are now written to your wallet. You can read more in the Account Sync FAQ.
 - Comments on channel pages under Discussion tab.
 - Keyboard shortcuts for the following actions
-→ to Seek Forward
-← to Seek Backward
-f to Going Fullscreen
-m to Mute/Unmute
+  → to Seek Forward
+  ← to Seek Backward
+  f to Going Fullscreen
+  m to Mute/Unmute
 - Markdown preview for comments and richer commenting
-	- Basic text formatting (bold, italic, strike)
-	- URL embeds, LBRY URL previews and channel mentions
-	- Code blocks, inline code and blockquotes
-	- Embed images and gifs
+  - Basic text formatting (bold, italic, strike)
+  - URL embeds, LBRY URL previews and channel mentions
+  - Code blocks, inline code and blockquotes
+  - Embed images and gifs
 
 Highlights of Cartwheel for Android:
 
@@ -52,7 +53,7 @@ Highlights of Cartwheel for Android:
 - Added share button and functionality to content pages
 - Improved flow and notifications for new users and users with insufficient balances for channel creation and publishing
 - Upgraded LBRY SDK to 0.43.2, which improves performance, fixes bugs, and adds support for some of the above features.
-For the full
+  For the full
 
 Full details of the [Heisenberg/Cartwheel releases are here.](https://lbry.com/news/unification)
 
@@ -72,7 +73,7 @@ The process included converting all accounts to separate wallets, importing any 
 
 Eager to give lbry.tv a try now? Head over to [https://beta.lbry.tv](https://beta.lbry.tv) and sign up for an account.
 
-####  Content Creator Rewards
+#### Content Creator Rewards
 
 We’ll be rolling out tiered subscriber and publish rewards to content creators that use the LBRY app and those in the YouTube sync program. For example, this means if you get X subscribers, you’ll be eligible for a reward of Y LBC (specific amounts are still being worked out). For publishing, this will work in a similar way by counting the number of publishes made in the LBRY app.
 
@@ -142,7 +143,8 @@ This hive has been working on a beautiful new website home for [LBRY Poland](htt
 ![LBRYpoland home](https://spee.ch/@lbrynews:0/lbrypoland.jpg)
 
 #### Noob Team Hive
-Big thank you to Noob Team  -- and especially Roman Przybyła -- for completing the Polish language translation, and helping us hunt down all the missing strings and bugs. Because of their hard work, translating the LBRY app into many languages is much easier now.
+
+Big thank you to Noob Team -- and especially Roman Przybyła -- for completing the Polish language translation, and helping us hunt down all the missing strings and bugs. Because of their hard work, translating the LBRY app into many languages is much easier now.
 
 Also congratulations for Wiktor Kukulski and Roman Przybyła for completing internships with LBRY coordinated with their university. We look forward to having both of them back for another internship session.
 
@@ -163,6 +165,7 @@ One of our newer hives, LBRY Africa, is doing a phenomenal job at introducing LB
 Thanks for reading our update! Enter `lbry-halloween-treat` in your LBRY app and we'll give you a nice treat!
 
 ## Want to Develop on the LBRY Ecosystem?
+
 All of our code is open source and available on [GitHub](https://github.com/lbryio). Are you a developer and want to find out more? Check out our [contributing guide](https://lbry.tech/contribute) and our [LBRY App specific contributing document](https://github.com/lbryio/lbry-desktop/blob/master/CONTRIBUTING.md). Make sure you have turned on the Developer option in your email preferences (see app overview page), or sign up at [lbry.tech](https://lbry.tech). We also have a [LBRY Discourse Forum](https://discourse.lbry.com) where developers can interact with the team and ask questions across all our different projects.
 
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello!

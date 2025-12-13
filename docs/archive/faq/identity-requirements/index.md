@@ -13,7 +13,7 @@ This and only this, is the reason we require a credit card to participate in the
 
 **To be clear, no money will be charged to your card now or ever.** There is no fine print, and there is no trick.
 
-(*Some providers may see a $1 charge appear temporarily. This is only an authorization hold, no actual money will ever be charged or posted to your card.*)
+(_Some providers may see a $1 charge appear temporarily. This is only an authorization hold, no actual money will ever be charged or posted to your card._)
 
 Your card information is submitted directly to [Stripe](https://stripe.com), one of the largest credit card processors in the world.
 

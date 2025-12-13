@@ -1,4 +1,3 @@
-
 # Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their 'Personally Identifiable Information' (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
@@ -15,25 +14,25 @@ We collect information from you when you register on our site, place an order, s
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-* To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
-* To improve our website in order to better serve you.
-* To allow us to better service you in responding to your customer service requests.
-* To administer a contest, promotion, survey or other site feature.
-* To quickly process your transactions.
-* To send periodic emails regarding your order or other products and services.
-* To follow up with them after correspondence (live chat, email or phone inquiries)
+- To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+- To improve our website in order to better serve you.
+- To allow us to better service you in responding to your customer service requests.
+- To administer a contest, promotion, survey or other site feature.
+- To quickly process your transactions.
+- To send periodic emails regarding your order or other products and services.
+- To follow up with them after correspondence (live chat, email or phone inquiries)
 
 ## How do we protect your information?
 
-* Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+- Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
 
-* We use regular Malware Scanning.
+- We use regular Malware Scanning.
 
-* Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+- Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
 
-* We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+- We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
 
-* All transactions are processed through a gateway provider and are not stored or processed on our servers.
+- All transactions are processed through a gateway provider and are not stored or processed on our servers.
 
 ## Do we use "cookies"?
 
@@ -41,9 +40,9 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 We use cookies to:
 
-* Help remember and process the items in the shopping cart.
-* Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that * track this information on our behalf.
-* You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
+- Help remember and process the items in the shopping cart.
+- Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that \* track this information on our behalf.
+- You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser's Help Menu to learn the correct way to modify your cookies.
 
 ### If users disable cookies in their browser:
 
@@ -69,15 +68,17 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google's
 
 We have implemented the following:
 
-* Remarketing with Google AdSense
-* Google Display Network Impression Reporting
-* Demographics and Interests Reporting
-* We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
+- Remarketing with Google AdSense
+- Google Display Network Impression Reporting
+- Demographics and Interests Reporting
+- We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
 ## Opting out:
+
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.
 
 ## Google Forms
+
 We use Google Forms for manual input of data by users. Data input into Google Forms are subject to Google's Privacy policy listed [here](https://www.google.com/intl/en/policies/privacy/).
 
 ## California Online Privacy Protection Act
@@ -86,22 +87,21 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 According to CalOPPA, we agree to the following:
 
-* Users can visit our site anonymously.
+- Users can visit our site anonymously.
 
-* Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
+- Once this privacy policy is created, we will add a link to it on our home page or as a minimum, on the first significant page after entering our website.
 
-* Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
+- Our Privacy Policy link includes the word 'Privacy' and can easily be found on the page specified above.
 
 ### You will be notified of any Privacy Policy changes:
 
 Here, on our Privacy Policy Page.
 
-
 ## You can change your personal information:
 
-* By emailing us
-* By logging in to your account
-* By chatting with us or by sending us a support ticket
+- By emailing us
+- By logging in to your account
+- By chatting with us or by sending us a support ticket
 
 ## How does our site handle Do Not Track signals?
 

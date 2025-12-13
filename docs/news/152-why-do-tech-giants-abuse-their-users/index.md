@@ -1,7 +1,7 @@
 ﻿---
 author: jeremy-kauffman
-title: 'Why Do Tech Giants Abuse Their Users?'
-date: '2018-01-08 00:00:00'
+title: "Why Do Tech Giants Abuse Their Users?"
+date: "2018-01-08 00:00:00"
 cover: "ProtsNotPlats.jpg"
 category: technical
 ---

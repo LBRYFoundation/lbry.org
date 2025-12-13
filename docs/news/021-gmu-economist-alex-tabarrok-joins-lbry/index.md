@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
 title: GMU Economist Alex Tabarrok Joins LBRY
-date: '2015-12-07 17:33:37'
+date: "2015-12-07 17:33:37"
 ---
 
 LBRY Inc., the startup employing Bitcoin's blockchain technology to revolutionize how the world distributes and consumes digital media, has added another renowned advisor to its team.
@@ -16,7 +16,7 @@ LBRY is the first decentralized, open-source, encrypted content distribution ser
 >
 > As an economist, the opportunity to help engineer an open, decentralized, incentive-compatible institution with global reach is thrilling!
 
-His specialties align well with the effort. Tabarrok is a recognized expert in the study of entrepreneurship, the role of structural incentives in the functioning of markets, and patent system reform. These subjects were addressed at length in his most recent book, *Launching the Innovation Renaissance*.
+His specialties align well with the effort. Tabarrok is a recognized expert in the study of entrepreneurship, the role of structural incentives in the functioning of markets, and patent system reform. These subjects were addressed at length in his most recent book, _Launching the Innovation Renaissance_.
 
 Tabarrok's deep understanding of how markets function and his ability to apply timeless economic ideas to new technologies will help move LBRY Inc. forward as it prepares to launch its platform. Tabarrok said:
 

@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: 'Watch LBRY Program Live & Beta Updates'
-date: '2017-03-24 13:26:00'
-cover: 'ide.png'
+title: "Watch LBRY Program Live & Beta Updates"
+date: "2017-03-24 13:26:00"
+cover: "ide.png"
 ---
 
 # A Great Week for LBRY's Public Beta

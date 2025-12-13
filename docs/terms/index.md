@@ -4,7 +4,7 @@ outline: deep
 
 # Terms of Service
 
-[//]: # (![Team]&#40;/img/cover-team.jpg&#41;)
+[//]: # "![Team](/img/cover-team.jpg)"
 
 _Last Updated: February 2020_
 
@@ -16,7 +16,7 @@ You and the Organization agree as follows:
 
 ## 1. Overview of LBRY and the Services
 
-**“LBRY”** is a decentralized, consensus-driven protocol that enables the publication and viewing of information, videos, music, data and other materials (**“Content”**).  Content is distributed to LBRY by publishers and is stored in fragmented shards via a distributed network of third-party devices (**“Hosts”**) that utilize LBRY.  LBRY also allows publishers to bid on and reserve names (**“Names”**), which can be used as a unique identifier for Content.  Please consult lbry.tech to learn more about the technical architecture of LBRY.
+**“LBRY”** is a decentralized, consensus-driven protocol that enables the publication and viewing of information, videos, music, data and other materials (**“Content”**). Content is distributed to LBRY by publishers and is stored in fragmented shards via a distributed network of third-party devices (**“Hosts”**) that utilize LBRY. LBRY also allows publishers to bid on and reserve names (**“Names”**), which can be used as a unique identifier for Content. Please consult lbry.tech to learn more about the technical architecture of LBRY.
 
 The Services provide an interface for you to interact with LBRY, including to publish, access, or host Content through LBRY. The LBRY protocol is not owned, operated, or maintained by us. We have no responsibility or liability for LBRY, and the Organization has no ability to control third parties’ use of LBRY. We are not able to delete or remove Content that has been published through LBRY and that may be accessible via the Services.
 
@@ -28,7 +28,7 @@ You must be at least 13 years of age to access or use our Services. If you are u
 
 This section applies if you use the Services to publish Content through LBRY.
 
-a) You will make available via the Services a clear and accurate description of Content you publish, and provide the Content in accordance with any descriptions or representations you make available about the Content. You are solely responsible for resolving any disputes with users of your Content, including any chargebacks or refunds, and for any and all injuries, illnesses, damages, claims, liabilities and costs that are caused in whole or in part by you or your Content.  Publishing to a blockchain is permanent.  We cannot remove published content from the blockchain itself, although we can block content accessed via our app or other services on top of the blockchain.
+a) You will make available via the Services a clear and accurate description of Content you publish, and provide the Content in accordance with any descriptions or representations you make available about the Content. You are solely responsible for resolving any disputes with users of your Content, including any chargebacks or refunds, and for any and all injuries, illnesses, damages, claims, liabilities and costs that are caused in whole or in part by you or your Content. Publishing to a blockchain is permanent. We cannot remove published content from the blockchain itself, although we can block content accessed via our app or other services on top of the blockchain.
 
 b) LBRY enables publishers to offer Content for sale to other users by setting contract terms within the metadata of the Content. Organization, in its sole discretion, may from time to time impose limits on the ability to sell Content via the Services. Upon the purchase of Content, you and the purchaser of your Content will enter into a separate agreement, pursuant to which that purchaser agrees to pay the specified fees for the Content and you agree to enable access to your Content. You are solely responsible for providing refunds as required to comply with applicable law. You are responsible for determining what, if any, taxes apply to your sale of Content, including, for example, sales, use, value added, and similar taxes. It is also your responsibility to withhold, collect, report and remit the correct taxes to the appropriate tax authorities. The Organization is not responsible for withholding, collecting, reporting, or remitting any sales, use, value added, or similar tax arising from any transaction completed via the Services.
 
@@ -57,7 +57,7 @@ a) In using our Services, you may view or otherwise interact with Content provid
 
 b) In certain instances, your access to Content may be subject to sale terms set forth in the metadata of the Content. Organization, in its sole discretion, may from time to time impose limits on the ability to purchase Content via the Services. Upon your access of any purchased Content, you and the publisher will enter into a separate agreement, pursuant to which you agree to pay the specified fees for the Content and the publisher agrees to make such Content available to you. THE ORGANIZATION DOES NOT HAVE THE POWER OR RESPONSIBILITY TO PROVIDE ANY REFUNDS. You agree to look solely to the publisher to resolve any disputes regarding Content, and that publishers are solely responsible for providing any refunds.
 
-c) All payments for content will be made using LBC and occur on the LBRY blockchain.  Purchaser is buying the right to access content for personal non-commercial use unless content creator provides a license for commercial use or remixing.
+c) All payments for content will be made using LBC and occur on the LBRY blockchain. Purchaser is buying the right to access content for personal non-commercial use unless content creator provides a license for commercial use or remixing.
 
 ## 5. Hosting Content
 
@@ -120,11 +120,11 @@ We have a policy of limiting access to our Services and terminating the accounts
 
 TO BE ANNOUNCED
 
-[//]: # (TODO)
-[//]: # (Designated Agent: LBRY INC)
-[//]: # (Address: 99 Hanover St, Manchester, NH 03101)
-[//]: # (Telephone Number: 907-318-5956)
-[//]: # (Fax Number: 801-327-6808)
+[//]: # "TODO"
+[//]: # "Designated Agent: LBRY INC"
+[//]: # "Address: 99 Hanover St, Manchester, NH 03101"
+[//]: # "Telephone Number: 907-318-5956"
+[//]: # "Fax Number: 801-327-6808"
 
 E-Mail Address: board@lbry.org
 

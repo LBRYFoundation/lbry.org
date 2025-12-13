@@ -1,16 +1,16 @@
 <script>
 export default {
-  props: ['link','text'],
+  props: ["link", "text"],
 };
 </script>
 
 <style>
-.tech-button{
-  display:inline-flex;
+.tech-button {
+  display: inline-flex;
 }
 
-.tech-button button{
-  background:var(--accent);
+.tech-button button {
+  background: var(--accent);
   border-radius: 10px;
   color: var(--primaryBG);
   display: inline;
@@ -20,11 +20,13 @@ export default {
   padding: 0 12px;
 }
 
-.tech-button button:hover{
+.tech-button button:hover {
   background-color: var(--accent-darker);
 }
 </style>
 
 <template>
-  <a :href="link" class="tech-button"><button>{{text}}</button></a>
+  <a :href="link" class="tech-button"
+    ><button>{{ text }}</button></a
+  >
 </template>

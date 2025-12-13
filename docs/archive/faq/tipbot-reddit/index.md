@@ -14,19 +14,23 @@ It is important to note that the LBC stored as a result of a tip is tied to your
 Use the following commands to make amazing things happen.
 
 ## Available commands
+
 ### Balance
+
 Displays the balance of your Reddit LBRY wallet. Performed via Reddit messaging.
 
 - **Example:** `balance`
 - **Request:** [Request Balance](https://reddit.com/message/compose?to=lbryian&subject=Balance&message=balance)
 
 ### Deposit
+
 Displays your Reddit LBRY wallet address. Useful if you want to receive LBC directly to your wallet. Performed via Reddit messaging.
 
 - **Example:** `Deposit`
 - **Request:** [Request Wallet Address](https://www.reddit.com/message/compose?to=lbryian&subject=Deposit&message=deposit)
 
 ### Withdraw
+
 Use this to withdraw your balance from your LBRY Reddit wallet to another LBRY wallet such as the wallet in your LBRY app, or to a LBRY exchange wallet. Performed via Reddit messaging.
 
 - **Arguments:** `withdraw <amount> <address>`
@@ -34,6 +38,7 @@ Use this to withdraw your balance from your LBRY Reddit wallet to another LBRY w
 - **Example:** `withdraw bLXasdadsa32432soas2sadsa 10`
 
 ### Tip
+
 Want to tip someone? This will send a tip to a chosen username from within a replying comment.
 
 - **Arguments:**
@@ -47,6 +52,7 @@ Want to tip someone? This will send a tip to a chosen username from within a rep
 **Note**: Only USD and LBC are currently supported.
 
 ### Gild
+
 Want to gild a post? This will command will gild the post you are replying to.
 
 - **Examples:**

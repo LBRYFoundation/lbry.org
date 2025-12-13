@@ -23,8 +23,8 @@ We're available on a number of social networks:
 - [Reddit](https://reddit.com/r/lbry)
 - [Telegram](https://t.me/lbryofficial)
 
-[//]: # (- [Twitter/X]&#40;https://x.com/lbrycom&#41;)
-[//]: # (- [Facebook]&#40;https://facebook.com/lbrycom&#41;)
+[//]: # "- [Twitter/X](https://x.com/lbrycom)"
+[//]: # "- [Facebook](https://facebook.com/lbrycom)"
 
 ## Press
 
@@ -66,14 +66,14 @@ On July 29th, 2017 the Pop-up Open Beta Was Announced.
 - [LBRY: The Lovechild of Bitcoin, BitTorrent & Storj](http://cointelegraph.com/news/lbry-the-lovechild-of-bitcoin-bittorrent-storj), **CoinTelegraph, October 2015**
 - [This New Hampshire Startup's Plan to Fight Netflix is Equal Parts BitTorrent and Bitcoin](http://bostinno.streetwise.co/2015/09/18/bitcoin-startups-lbry-combines-bittorrent-and-bitcoin-to-fight-netflix), **BostInno, September 2015**
 
-[//]: # (### Contact & Social Media)
-[//]: # ()
-[//]: # (- Website: [https://lbry.com]&#40;https://lbry.com&#41;)
-[//]: # (- Facebook: [https://www.facebook.com/lbrycom]&#40;https://www.facebook.com/lbrycom&#41;)
-[//]: # (- Twitter: [https://twitter.com/lbrycom]&#40;https://twitter.com/lbrycom&#41;)
-[//]: # (- Reddit: [https://www.reddit.com/r/lbry]&#40;https://www.reddit.com/r/lbry&#41;)
-[//]: # (- Mailing List: [/join-list]&#40;/join-list&#41; - **Sign up to follow along as we build LBRY**)
-[//]: # (- Discord Chat: [https://chat.lbry.com]&#40;https://chat.lbry.com&#41; - **Get your questions answered and become a LBRYian**)
+[//]: # "### Contact & Social Media"
+[//]: #
+[//]: # "- Website: [https://lbry.com](https://lbry.com)"
+[//]: # "- Facebook: [https://www.facebook.com/lbrycom](https://www.facebook.com/lbrycom)"
+[//]: # "- Twitter: [https://twitter.com/lbrycom](https://twitter.com/lbrycom)"
+[//]: # "- Reddit: [https://www.reddit.com/r/lbry](https://www.reddit.com/r/lbry)"
+[//]: # "- Mailing List: [/join-list](/join-list) - **Sign up to follow along as we build LBRY**"
+[//]: # "- Discord Chat: [https://chat.lbry.com](https://chat.lbry.com) - **Get your questions answered and become a LBRYian**"
 
 For a current press-kit, please [see our post on LBRY](https://open.lbry.com/@lbry:3f/LBRY_presskit:d).
 

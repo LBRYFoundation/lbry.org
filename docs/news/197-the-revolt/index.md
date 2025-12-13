@@ -1,10 +1,11 @@
 ---
 author: rob-smith
-title: 'Join The Revolt'
-date: '2019-1-7 8:00:00'
-cover: 'zucksafety.png'
+title: "Join The Revolt"
+date: "2019-1-7 8:00:00"
+cover: "zucksafety.png"
 category: users
 ---
+
 #In 2019, Say “No” To The Robber Barons Of The Internet
 
 A lot of people want to look back at last year, and set short term goals for this year.
@@ -27,6 +28,6 @@ It requires that you make a choice today, right now.
 
 You choose you. You choose your rights. You choose your favorite content.
 
-This is a revolt, and people have already started. They are shutting off their Facebook account, or they are parking their Twitter permanently. They are using ProtonMail instead of Gmail.  They are sharing content on Spee.ch.
+This is a revolt, and people have already started. They are shutting off their Facebook account, or they are parking their Twitter permanently. They are using ProtonMail instead of Gmail. They are sharing content on Spee.ch.
 
 [They are using LBRY.](/get/)

@@ -39,7 +39,7 @@ At the highest level, LBRY does something extraordinarily simple. LBRY creates a
 ![LBRY demo](https://spee.ch/7/home-demo.gif)
 _Screenshots from the LBRY app in action. Try it out for yourself at [lbry.org/downloads](/downloads/)._
 
-However, LBRY does this not through a proprietary service or network, but as a _protocol_, or a method of doing things, much like HTTP, DNS and other specifications that make up the internet itself. Just as many different domains owned by many different companies all speak a shared language, so too can any person or company speak LBRY.  No special access or permission is needed.
+However, LBRY does this not through a proprietary service or network, but as a _protocol_, or a method of doing things, much like HTTP, DNS and other specifications that make up the internet itself. Just as many different domains owned by many different companies all speak a shared language, so too can any person or company speak LBRY. No special access or permission is needed.
 
 LBRY differs from the status quo in three big ways:
 
@@ -141,7 +141,7 @@ Services are what actually make the LBRY protocol _useful_. While the LBRY proto
 
 While the protocol is determined, open, and fixed, the service layer is much more flexible. It is far easier to redesign a website than it is to revise the HTTP protocol itself. The same is true here.
 
-Additionally, just as in the early days of the internet, imagining the later direction of the web would have been unfathomable, so too may the best uses of LBRY's namespace or technology be undiscovered.  However, there are some clear use cases:
+Additionally, just as in the early days of the internet, imagining the later direction of the web would have been unfathomable, so too may the best uses of LBRY's namespace or technology be undiscovered. However, there are some clear use cases:
 
 #### Applications and Devices
 

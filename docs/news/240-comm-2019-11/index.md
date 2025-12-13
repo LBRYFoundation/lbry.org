@@ -1,8 +1,8 @@
 ---
 author: julie-sigwart
-title: 'November 2019 LBRY Community Report'
-date: '2019-12-09 18:00:00'
-cover: 'fall-leaves.jpg'
+title: "November 2019 LBRY Community Report"
+date: "2019-12-09 18:00:00"
+cover: "fall-leaves.jpg"
 category: community-update
 ---
 
@@ -11,11 +11,12 @@ category: community-update
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users and grow the LBRY platform. If you don't already, follow us on [Twitter](https://twitter.com/lbrycom), [Facebook](https://facebook.com/lbrycom), [Reddit](https://www.reddit.com/r/lbry), and [Telegram](https://t.me/lbryofficial).
 
 ## In this update {#updates}
-* [What's new at LBRY?](#news)
-* [Internationalization Update](#i18n)
-* [LBRY Foundation and the Swarm](#swarm)
-* [Hive updates](#hives)
-* [Giving thanks to our community](#treat)
+
+- [What's new at LBRY?](#news)
+- [Internationalization Update](#i18n)
+- [LBRY Foundation and the Swarm](#swarm)
+- [Hive updates](#hives)
+- [Giving thanks to our community](#treat)
 
 ![Clement in Ghana](https://spee.ch/3/clement-ghana-trip-hsm.jpg)
 
@@ -24,6 +25,7 @@ _Clement and crew journey to Ghana to spread the news about LBRY_
 ### What's new at LBRY? {#news}
 
 #### Desktop and lbry.tv
+
 Since our last release, the team has been working to polish up the sign in process, publishing, and account syncing on lbry.tv. This includes the ability to sync encrypted accounts from previous Desktop installations or Android - users will be prompted for their password which may have been set either on their Android device or encrypted Desktop wallet. By default, the passwords will be cached for 2 weeks and users will be re-prompted.
 
 You may have also noticed that lbry.tv had a facelift in terms of color scheme and other minor design elements - this will be coming to the next Desktop release also. You can now also view PDF, markdown, text, html, and other documents files on the web. We now also show the profile picture associated with comments on content/channel pages. Lastly, we've fixed up a few bugs related to channel pages not showing any content - please let us know if you see any issues!
@@ -33,6 +35,7 @@ You may have also noticed that lbry.tv had a facelift in terms of color scheme a
 Our last LBRY Desktop update added an autostart option (Windows/Linux only) to the LBRY app so users can benefit from it launching automatically on startup. This will allow faster access of content when coming across a URL and help support the LBRY network by hosting data in the background. You an now also search through your Downloads in the Library section.
 
 #### SDK
+
 On the SDK side of the house, we’ve shipped updates bringing numerous new features and bug fixes to support cross device syncing scenarios that are currently used by the apps and lbry.tv.
 
 This includes:
@@ -45,6 +48,7 @@ This includes:
 - We confirmed the IPV6 download fix for Android users.
 
 #### Purchase transactions and history
+
 Prior to version 0.45, content purchases were regular transactions not directly linked to a claim and information was missing for both the seller and purchaser. This also would prevent the purchaser from viewing the paid content on another device.
 
 To fix this, we implemented a basic purchase history mechanism.
@@ -52,11 +56,13 @@ To fix this, we implemented a basic purchase history mechanism.
 ![purchase](https://spee.ch/b/purchase-list.png)
 
 #### Wallet server installation streamlined
+
 LBRY's strength is in its decentralization. in an effort to further decentralize wallet servers run by LBRY and give users more choice in server selection/access in their region, we’ve been simplifying the entire wallet server setup and deployment process. Running a wallet server requires a full node to be accessible to populate claim/trending data and provide wallet address transaction history.
 
-While this is a bit technical, this equates to more choices for LBRY network users, and increases the robustness of the  overall network.
+While this is a bit technical, this equates to more choices for LBRY network users, and increases the robustness of the overall network.
 
 #### SDK next steps
+
 The SDK team has been focusing on tasks related to supporting the lbry.tv use case which including troubleshooting wallet syncing issues and performance concerns with concurrent usage.
 
 Other items in the pipeline include:
@@ -79,9 +85,11 @@ If your language is not listed above, please consider helping us with translatio
 If you have been helping translate, we ask you please continue to [check Transifex for new strings](https://www.transifex.com/lbry/). We are continually updating and adding new features to both the Desktop/Web app and the Mobile app.
 
 ### LBRY Foundation and the Swarm {#swarm}
+
 There are some big changes coming to the LBRY community and the Swarm in 2020!
 
 #### Introducing the LBRY Foundation
+
 The LBRY Foundation has been established as a US-based not-for-profit entity that is legally separate from LBRY, Inc.The organization has been granted the following:
 
 - 5 million LBC
@@ -93,6 +101,7 @@ The LBRY Foundation has been established as a US-based not-for-profit entity tha
 Assuming the organization proves successful, more funds will be provided by LBRY, Inc.
 
 #### Changes to the swarm
+
 As part of this transition, there are two major changes happening to the swarm:
 
 - The level-based Hive grants will be discontinued on December 31st, 2019. The new foundation may choose to keep these, or it may choose to go in other directions (like project-based funding). We think it’s likely that simply counting heads isn’t the right incentive, and we want the foundation to be able to start with a blank slate.
@@ -100,6 +109,7 @@ As part of this transition, there are two major changes happening to the swarm:
 - The Swarm separate swarm chat be merged into the main chat. As part of this, we’ll be revamping the chat rooms, roles, and rooms to start from a neutral place for everyone.
 
 #### Participate in determining Foundation governance
+
 1. After joining the main Discord at chat.lbry.com, type "!addrole lbryian" in #bots-and-roles channel to be added to the Swarm governance channel.
 
 2. Edit your email preferences (click the link in the footer of every email LBRY has sent you) and ensure the lbry.org box is checked.
@@ -123,7 +133,7 @@ Here are some interviews promoting individual creators:
 Regarding their statistical applications, LBRY Social had this to say:
 
 _"[LBRYnomics Top 100 LBRY channels](https://lbry.social/lbrynomics/top-lbry-channels)
- is our most popular page. We get around 1,500 per 30 days at the moment mostly from social media, which is good considering we've not really done anything in terms of SEO/SEM for it, which means this will become even more popular when we concentrate on that part."_
+is our most popular page. We get around 1,500 per 30 days at the moment mostly from social media, which is good considering we've not really done anything in terms of SEO/SEM for it, which means this will become even more popular when we concentrate on that part."_
 
 _"Electron is in the process of programming an independent trending page using [Brendon Brewer's](https://brendonbrewer.com/cv.html) new trending algorithm. He's an award winning academic who holds senior positions. So We think articles with this type of info help show how LBRY is taken seriously by serious people."_
 
@@ -140,7 +150,7 @@ Hive Champion Clement visited Ghana funded in part by a LBRY.fund grant. He give
 _"I got to meet some good creators and discussed LBRY with them on how they can start benefiting from the platform. They found LBRY interesting and said they’ll take some time to explore and learn more about it.
 We discussed how youtube is becoming hard on content creators and how they can take advantage of LBRY to make the best out of it._
 
-_I’ve been able to get some solid creators that can drive more Ghanaian content creators to LBRY. They are still exploring the platform, some have already synced and some others with over 50k+ subs will be syncing soon.  They will help us drive more creators and users to LBRY as they also do organise content creators meet-ups."_
+_I’ve been able to get some solid creators that can drive more Ghanaian content creators to LBRY. They are still exploring the platform, some have already synced and some others with over 50k+ subs will be syncing soon. They will help us drive more creators and users to LBRY as they also do organise content creators meet-ups."_
 
 ![Clement in Ghana](https://spee.ch/7/clement-ghana4-sm.jpg)
 
@@ -206,6 +216,7 @@ Also this month, Kerala hive completed translation of the LBRY desktop app into 
 Thanks for reading our update! Enter `thanksgiving-pie` in the desktop app and we'll give you a nice treat!
 
 ## Want to develop on the LBRY ecosystem?
+
 All of our code is open source and available on [GitHub](https://github.com/lbryio). Are you a developer and want to find out more? Check out our [contributing guide](https://lbry.tech/contribute) and our [LBRY App specific contributing document](https://github.com/lbryio/lbry-app/blob/master/CONTRIBUTING.md). Make sure you have turned on the Developer option in your email preferences (see app overview page), or sign up at [lbry.tech](https://lbry.tech). We also have a [LBRY Discourse Forum](https://discourse.lbry.io) where developers can interact with the team and ask questions across all our different projects.
 
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello!
@@ -213,4 +224,3 @@ If you aren’t part of our Discord community yet, [join us](https://chat.lbry.c
 [Back to **Community Updates**](#updates)
 
 Thanks for supporting LBRY - stay tuned for more news and updates! And if you haven’t downloaded the [LBRY app](https://lbry.com/get/?auto=1) yet, what are you waiting for?
-

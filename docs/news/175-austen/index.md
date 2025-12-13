@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'A is for Austen'
-date: '2018-06-25 17:00:00'
-cover: 'austen-min.jpg'
+title: "A is for Austen"
+date: "2018-06-25 17:00:00"
+cover: "austen-min.jpg"
 category: update
 ---
 
@@ -40,11 +40,11 @@ It's nice to know the status of your published content. Beneath the title you'll
 
 ### 6. Subscription Page Redesign
 
-People like to keep *up to date* with their favorite creators, so we've redesigned the Subscription page to show the latest content from their subscriptions instead of showing them per channel. Don't worry, if you want to look at the latest content from each channel all you do is click on the channel name: channel pages work the same way.
+People like to keep _up to date_ with their favorite creators, so we've redesigned the Subscription page to show the latest content from their subscriptions instead of showing them per channel. Don't worry, if you want to look at the latest content from each channel all you do is click on the channel name: channel pages work the same way.
 
 ### 7. Improved Markdown Support
 
-Although a video is worth a million words, we made some improvements that allow creators to enhance their descriptions with enhanced markdown syntax. **Pretty** *cool* [right?](http://commonmark.org/help)
+Although a video is worth a million words, we made some improvements that allow creators to enhance their descriptions with enhanced markdown syntax. **Pretty** _cool_ [right?](http://commonmark.org/help)
 
 ### 8. Confirmation Prompt
 
@@ -58,7 +58,7 @@ We've included a major upgrade to the LBRY daemon in this app release. The LBRY 
 
 **So why Austen?**
 
-Jane Austen is one of the most prolific novelists of all time, best known for her works *Pride and Prejudice* and *Sense and Sensibility.*
+Jane Austen is one of the most prolific novelists of all time, best known for her works _Pride and Prejudice_ and _Sense and Sensibility._
 
 Austen's literature was controversial in 19th century England - as a woman in a time when women couldn't own property let alone enter public conversations about culture, morals, and rights, Austen raised her contemporaries' hackles by suggesting that maybe women can be more than roommates owned by their husband.
 
@@ -68,7 +68,7 @@ They were banned. If YouTube existed at the time, they would have helped, but in
 
 Jane Austen's father George believed in education for all of his children. Pushing back against the status quo, his daughters were encouraged to explore his library and immerse themselves in the great works. This early education and respect led Austen to become one of the most well-known novelists in history.
 
-Austen once said, *"What is right to be done cannot be done too soon."*
+Austen once said, _"What is right to be done cannot be done too soon."_
 
 Decentralizing content to provide controversial ideas with the freedom to flourish is the right thing to do, and it's never too soon to do it.
 

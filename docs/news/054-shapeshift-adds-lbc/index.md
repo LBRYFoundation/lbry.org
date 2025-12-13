@@ -1,10 +1,10 @@
 ﻿---
 author: samuel-lbryian
-title: 'ShapeShift Adds LBRY Credits! Instant Conversion to Bitcoin, Ethereum, and More'
-date: '2016-08-08 00:06:18'
+title: "ShapeShift Adds LBRY Credits! Instant Conversion to Bitcoin, Ethereum, and More"
+date: "2016-08-08 00:06:18"
 ---
 
-*LBC now traded on the fastest, safest digital asset exchange in the world.*
+_LBC now traded on the fastest, safest digital asset exchange in the world._
 
 As of today, LBRY Credits (LBC) are now available for exchange with other digital assets on [ShapeShift.io](https://shapeshift.io/#/coins). Using the groundbreaking service, anyone can exchange their preferred digital currency for LBRY Credits (LBC) instantly with no account, no emails, and no passwords.
 
@@ -20,7 +20,7 @@ Listing on ShapeShift is expected to bring additional depth and liquidity to LBC
 
 **While this is big news for LBC as a digital asset, it also has a bearing on LBRY's core purpose to enable content creators to connect with their fans.**
 
-One of LBRY's hurdles to mainstream acceptance – a barrier the founders have anticipated from the beginning – is making LBC a handy method of payment. *You're a brilliant filmmaker who has just released his feature-length film on LBRY, and it's a hit! The LBC are flowing into your wallet. Now what do you do with them?*
+One of LBRY's hurdles to mainstream acceptance – a barrier the founders have anticipated from the beginning – is making LBC a handy method of payment. _You're a brilliant filmmaker who has just released his feature-length film on LBRY, and it's a hit! The LBC are flowing into your wallet. Now what do you do with them?_
 
 With ShapeShift, anyone who holds LBC will be able to quickly and securely exchange them for another cryptocurrency, such as Bitcoin. From there, creators can spend them anywhere Bitcoin is accepted – including Overstock, Amazon (via Purse), Gyft, Expedia, and a rapidly increasing number of brick-and-mortar stores.
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Supergreen'
-date: '2017-05-04 00:19:30'
-cover: 'growgreens-banner.png'
+title: "Supergreen"
+date: "2017-05-04 00:19:30"
+cover: "growgreens-banner.png"
 ---
 
 We've been toiling away building LBRY for eighteen months now.
@@ -11,7 +11,7 @@ So, we decided it was time to step outside. We've never been outside before but 
 
 ![Growing Your Greens](/img/news/growgreens-inline2.png)
 
-Growing Your Greens is one of the oldest online gardening shows. John Kohler has been helping people cultivate their urban gardens for more than *eight years.* That's like, O.G. YouTube days... back when YouTube was... a happier place.
+Growing Your Greens is one of the oldest online gardening shows. John Kohler has been helping people cultivate their urban gardens for more than _eight years._ That's like, O.G. YouTube days... back when YouTube was... a happier place.
 
 But he's moving onto greener pastures right here on LBRY.
 

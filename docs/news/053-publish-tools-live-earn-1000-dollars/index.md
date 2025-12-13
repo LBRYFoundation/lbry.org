@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
-title: 'You Can Now Publish on LBRY (& Earn $1,000)'
-date: '2016-08-04 00:09:00'
+title: "You Can Now Publish on LBRY (& Earn $1,000)"
+date: "2016-08-04 00:09:00"
 ---
 
 **Today, we released a new version of LBRY beta with tools to publish your own original content!**
@@ -10,9 +10,9 @@ date: '2016-08-04 00:09:00'
 
 Now anyone with access to LBRY beta can reserve [LBRY names](https://lbry.com/what#naming) and publish their own original, digital content.
 
-We've *finally* come around and have to admit that LBRY has the potential to be much more than the world's most efficient [media player of *It's a Wonderful Life*](https://lbry.com/news/our-christmas-surprise).
+We've _finally_ come around and have to admit that LBRY has the potential to be much more than the world's most efficient [media player of _It's a Wonderful Life_](https://lbry.com/news/our-christmas-surprise).
 
-First, we launched with [*It's a Disaster*](lbry://itsadisaster) and [*Fight of the Century: Keynes vs. Hayek Rap Battle*](lbry://keynesvhayek). That was pretty cool, and we're stoked to be the first protocol in the world to stream a Hollywood feature film via blockchain.
+First, we launched with [_It's a Disaster_](lbry://itsadisaster) and [_Fight of the Century: Keynes vs. Hayek Rap Battle_](lbry://keynesvhayek). That was pretty cool, and we're stoked to be the first protocol in the world to stream a Hollywood feature film via blockchain.
 
 Then July happened.
 

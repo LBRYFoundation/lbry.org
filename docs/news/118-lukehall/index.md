@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Young Gun'
-date: '2017-06-29 00:10:00'
-cover: 'lukehall-banner.jpg'
+title: "Young Gun"
+date: "2017-06-29 00:10:00"
+cover: "lukehall-banner.jpg"
 ---
 
 Continuing with our slate of indie musicians is a young, entrepreneurial artist we found on Twitter.

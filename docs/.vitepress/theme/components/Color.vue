@@ -1,10 +1,10 @@
 <style scoped>
 .color-card {
   display: inline-block;
-  margin:0 20px;
+  margin: 0 20px;
 }
 
-.color-card>div{
+.color-card > div {
   text-align: center;
 }
 
@@ -18,7 +18,7 @@
   border-radius: 10%;
   outline: 1px solid #fff;
   background-color: var(--color);
-  transition: .2s;
+  transition: 0.2s;
 }
 
 .color span {
@@ -34,17 +34,16 @@
 }
 </style>
 
-
 <script>
 export default {
-  props: ['color', 'text'],
+  props: ["color", "text"],
   computed: {
-    cssVars () {
-      return{
-        '--color': this.color,
-      }
-    }
-  }
+    cssVars() {
+      return {
+        "--color": this.color,
+      };
+    },
+  },
 };
 </script>
 

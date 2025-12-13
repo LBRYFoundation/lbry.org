@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'The Root of All Good'
-date: '2017-06-23 00:10:00'
-cover: 'jordan-banner.jpg'
+title: "The Root of All Good"
+date: "2017-06-23 00:10:00"
+cover: "jordan-banner.jpg"
 ---
 
 People do strange things for seemingly mystical reasons.

@@ -1,7 +1,7 @@
 ---
 author: jeremy-kauffman
 title: Introducing lbry.tech and the LBRY Spec
-date: '2019-02-20 10:00:00'
+date: "2019-02-20 10:00:00"
 category: technical
 ---
 
@@ -9,12 +9,12 @@ category: technical
 _Hello..._
 _Allow me to introduce myself... My name is, lbry.tech_
 _It's so nice to meet you...It's been a long time... Sorry it took so long..._
-_My name is, lbry.tech... We never meant to leave you...  without documentation_
+_My name is, lbry.tech... We never meant to leave you... without documentation_
 🎶 🎶 🎶
 
 Enough with the parodies. This post is _serious_.
 
-*Assumes deep Hollywood blockbuster movie trailer voice.*
+_Assumes deep Hollywood blockbuster movie trailer voice._
 
 In a world where most blockchain companies create psuedo-scientific whitepapers that more resemble an investment prospectus...
 
@@ -28,7 +28,7 @@ One company was brave enough - bold enough - to create a true technical resource
 
 ### What is lbry.tech?
 
-[lbry.tech](https://lbry.tech) contains technical resources, a protocol specification, API documentation, and more. 
+[lbry.tech](https://lbry.tech) contains technical resources, a protocol specification, API documentation, and more.
 
 Here are some of the things you can find on lbry.tech:
 
@@ -50,6 +50,6 @@ But that's not all! See everything for yourself at [lbry.tech](https://lbry.tech
 
 ### Get Developer Updates
 
-We've started segmenting our email communications so that we can communicate specifically with developers. 
+We've started segmenting our email communications so that we can communicate specifically with developers.
 
 If you want to receive monthly developer updates and other developer specific news, enter your email address in the footer of [lbry.tech](https://lbry.tech).

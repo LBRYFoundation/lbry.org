@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'LBRY.fund is Live'
-date: '2018-06-14 12:00:00'
-cover: 'gradient.png'
+title: "LBRY.fund is Live"
+date: "2018-06-14 12:00:00"
+cover: "gradient.png"
 category: content
 ---
 

@@ -16,9 +16,9 @@ Let’s look at the differences through an example, Bitchute.
 
 For each video, BitChute creates a corresponding torrent, that is supposed to decentralize the hosting of the data (though this is [disputed](https://www.dailydot.com/layer8/bitchute-decentralization-claims/)).
 
-However, let’s assume that there are magically enough people who download and continue to host these torrents, for free. All of the metadata and the entire user-experience is still *entirely* wrapped up in BitChute.
+However, let’s assume that there are magically enough people who download and continue to host these torrents, for free. All of the metadata and the entire user-experience is still _entirely_ wrapped up in BitChute.
 
-There is no alternative client. There is no data network that users are actively participating in (unless the video is open). If BitChute goes down, closes, or is taken over by censorious scolds (or the rent-extractors), *the whole thing is gone*. No one can even make another copy of it, because the source is closed.
+There is no alternative client. There is no data network that users are actively participating in (unless the video is open). If BitChute goes down, closes, or is taken over by censorious scolds (or the rent-extractors), _the whole thing is gone_. No one can even make another copy of it, because the source is closed.
 
 Additionally, a single point of censorship means those around the world who would attempt to ban facts because they find them inconvenient have a clear place to go and ban them.
 
@@ -28,7 +28,7 @@ In the case of LBRY:
 
 - You can access and use LBRY in a truly decentralized, peer-to-peer way. Via [LBRY Desktop](https://lbry.com/get/), anyone in the world can access the LBRY network without relying on LBRY Inc. servers or machinery.
 - If LBRY ever turns evil, all code is open-source and anyone in the world (okay, mainly nerds) could develop and release their own version with minimal effort. Hundreds of people have contributed to LBRY, the vast majority as volunteers.
-- *Anyone in the world* can run their own version of lbry.tv or make their own LBRY app, completely separate from us and without our permission.
+- _Anyone in the world_ can run their own version of lbry.tv or make their own LBRY app, completely separate from us and without our permission.
 
 ## I'm a creator that wants to make a comparative video between LBRY and another platform.
 

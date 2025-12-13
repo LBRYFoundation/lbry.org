@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'This Game of Yours'
-date: '2017-03-30 00:12:00'
-cover: 'blesshay_banner.png'
+title: "This Game of Yours"
+date: "2017-03-30 00:12:00"
+cover: "blesshay_banner.png"
 ---
 
 There's only one thing harder than a Dark Souls game: making a Dark Souls game.

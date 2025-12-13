@@ -1,14 +1,14 @@
 ﻿---
 author: brinck-slattery
-title: 'The Birth Of Entertainment'
-date: '2018-01-17 15:30:00'
-cover: 'muses.jpg'
+title: "The Birth Of Entertainment"
+date: "2018-01-17 15:30:00"
+cover: "muses.jpg"
 category: content
 ---
 
 The arts have always been a difficult business. In the 1600s, the arts were so competitive that poets and producers hired professional applauders called [claques](https://en.wikipedia.org/wiki/Claque). Shakespeare's plays have literally [caused riots](https://culturacolectiva.com/books/history-of-riot-at-the-astor-place-shakespeare). Managing fans and haters have always been a challenge, and our modern mass media culture has been forged in the birth and death of a thousand fandoms.
 
-While fan culture seems to be an enduring part of the human experience, the production of art and entertainment has radically changed since we started scribbling on cave walls. It's easy to assume that things have always been the way they are, but people in the past approached entertainment in a very different way than we do today.  
+While fan culture seems to be an enduring part of the human experience, the production of art and entertainment has radically changed since we started scribbling on cave walls. It's easy to assume that things have always been the way they are, but people in the past approached entertainment in a very different way than we do today.
 
 # Art and Entertainment In Ye Olden Times Of Yore
 
@@ -53,7 +53,7 @@ In 1599, Shakespeare's theater company (the Lord Chamberlain's Men) built the Gl
 <div style="font-size:small; text-align: center">Foreshadowing that time Michael Jackson caught on fire?</div>
 <br/>
 
-The Renaissance was a literal rebirth for entertainment. Entertainment became "what people are willing to pay money to see" instead of "a thing which makes the king laugh" or "a production that displays appropriate solemnity and moral attitudes for the Bishop." This happened at the same time that the novel was becoming a thing (a *hated* thing that authorities believed would [irreparably damage women's minds](https://books.google.com/books?id=Gs5PRR9-8BcC&pg=PA208&lpg=PA208&dq=The+existence+of+so+many+authors+has+produced+a+host+of+readers,+and+continued+reading+generates+every+nervous+complaint;+perhaps+of+all+the+causes+that+have+harmed+women%E2%80%99s+health,+the+principal+one+has+been+the+infinite+multiplication+of+novels+in+the+last+hundred+years+%E2%80%A6+a+girl+who+at+ten+reads+instead+of+running+will,+at+twenty,+be+a+woman+with+the+vapors+and+not+a+good+nurse.&source=bl&ots=t9qT8DGVBF&sig=QlJ6vr3SxozjyqxdgS9T9rvuX3Q&hl=en&sa=X&ved=0ahUKEwiFwKPR09DYAhXp1IMKHSV5C84Q6AEIJjAA#v=onepage&q=The%20existence%20of%20so%20many%20authors%20has%20produced%20a%20host%20of%20readers%2C%20and%20continued%20reading%20generates%20every%20nervous%20complaint%3B%20perhaps%20of%20all%20the%20causes%20that%20have%20harmed%20women%E2%80%99s%20health%2C%20the%20principal%20one%20has%20been%20the%20infinite%20multiplication%20of%20novels%20in%20the%20last%20hundred%20years%20%E2%80%A6%20a%20girl%20who%20at%20ten%20reads%20instead%20of%20running%20will%2C%20at%20twenty%2C%20be%20a%20woman%20with%20the%20vapors%20and%20not%20a%20good%20nurse.&f=false) and drive people mad). Widespread use of the printing press made it possible for writers to make enough copies of their work to distribute it widely.
+The Renaissance was a literal rebirth for entertainment. Entertainment became "what people are willing to pay money to see" instead of "a thing which makes the king laugh" or "a production that displays appropriate solemnity and moral attitudes for the Bishop." This happened at the same time that the novel was becoming a thing (a _hated_ thing that authorities believed would [irreparably damage women's minds](https://books.google.com/books?id=Gs5PRR9-8BcC&pg=PA208&lpg=PA208&dq=The+existence+of+so+many+authors+has+produced+a+host+of+readers,+and+continued+reading+generates+every+nervous+complaint;+perhaps+of+all+the+causes+that+have+harmed+women%E2%80%99s+health,+the+principal+one+has+been+the+infinite+multiplication+of+novels+in+the+last+hundred+years+%E2%80%A6+a+girl+who+at+ten+reads+instead+of+running+will,+at+twenty,+be+a+woman+with+the+vapors+and+not+a+good+nurse.&source=bl&ots=t9qT8DGVBF&sig=QlJ6vr3SxozjyqxdgS9T9rvuX3Q&hl=en&sa=X&ved=0ahUKEwiFwKPR09DYAhXp1IMKHSV5C84Q6AEIJjAA#v=onepage&q=The%20existence%20of%20so%20many%20authors%20has%20produced%20a%20host%20of%20readers%2C%20and%20continued%20reading%20generates%20every%20nervous%20complaint%3B%20perhaps%20of%20all%20the%20causes%20that%20have%20harmed%20women%E2%80%99s%20health%2C%20the%20principal%20one%20has%20been%20the%20infinite%20multiplication%20of%20novels%20in%20the%20last%20hundred%20years%20%E2%80%A6%20a%20girl%20who%20at%20ten%20reads%20instead%20of%20running%20will%2C%20at%20twenty%2C%20be%20a%20woman%20with%20the%20vapors%20and%20not%20a%20good%20nurse.&f=false) and drive people mad). Widespread use of the printing press made it possible for writers to make enough copies of their work to distribute it widely.
 
 In a new way, people were able to seek out other people who created art they enjoyed and then pay them for it.
 

@@ -1,8 +1,8 @@
 ﻿---
 author: samuel-lbryian
-title: 'Content Without Borders'
-date: '2016-08-31 00:06:18'
-cover: 'berlinwall.png'
+title: "Content Without Borders"
+date: "2016-08-31 00:06:18"
+cover: "berlinwall.png"
 ---
 
 National borders shouldn't stop the flow of digital content. But they often do.

@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
-title: 'LBRY Credits Listed on First Exchange! Liquidity Ensues!'
-date: '2016-07-06 00:06:18'
+title: "LBRY Credits Listed on First Exchange! Liquidity Ensues!"
+date: "2016-07-06 00:06:18"
 ---
 
 US-based cryptocoin exchange Bittrex has become the first to list LBRY Credits (LBC) for trade to/from Bitcoin. In the first day of trading, LBC went from no established value to roughly 50¢ each! Taking into account all the LBC in existence, this would put LBC's market cap at roughly $200 million – higher than Dash, MaidSafeCoin, Dogecoin (wow!), and on par with Litecoin. Amazingly, some 1/3 of all outstanding Credits were traded on the first day. [Visit the LBC Bittrex page here](https://www.bittrex.com/Market/Index?MarketName=BTC-LBC).

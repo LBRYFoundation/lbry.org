@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'It turns out the intellectual dark web isn’t as cool as the other dark web, but is still pretty okay'
-date: '2019-12-18 13:00:00'
-cover: '2019-1218boyce.jpg'
+title: "It turns out the intellectual dark web isn’t as cool as the other dark web, but is still pretty okay"
+date: "2019-12-18 13:00:00"
+cover: "2019-1218boyce.jpg"
 category: featured-content
 ---
 

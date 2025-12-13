@@ -1,10 +1,11 @@
 ---
 author: brinck-slattery
 title: Bring a Friend to LBRY!
-date: '2019-2-5 15:00:00'
-cover: 'opensourcegames.jpg'
+date: "2019-2-5 15:00:00"
+cover: "opensourcegames.jpg"
 category: content
 ---
+
 Have you been waiting for just the right time to tell your friends about LBRY? The newest version is faster, prettier, and full of more content than ever, and we have an extra cherry on top of the sundae for you - we’ve opened up [referral rewards](/faq/referrals)!
 
 ### You can now redeem up to 10 invite rewards!
@@ -24,5 +25,3 @@ We need your feedback to make LBRY even better - upgrade in-app or [head to this
 If you’re a developer and want to dive a bit deeper into the process, take a look at the [release notes here](https://github.com/lbryio/lbry-desktop/releases/latest). Want to learn more or help us build out the LBRY ecosystem? Jump right into our [GitHub repos](https://github.com/lbryio/) and check out [lbry.tech](https://lbry.tech).
 
 Thanks for helping us build the decentralized internet of the future - we can’t do it without you!
-
-

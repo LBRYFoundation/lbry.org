@@ -1,13 +1,13 @@
 ---
 author: reilly-smith
-title: 'Pew Pew Bang Bang'
-date: '2017-03-16 00:18:00'
-cover: 'airsoft-banner.png'
+title: "Pew Pew Bang Bang"
+date: "2017-03-16 00:18:00"
+cover: "airsoft-banner.png"
 ---
 
 One of the biggest perks of the early days of LBRY continues to be the discovery of content creators that never even occurred to me as a thing.
 
-A niche stumbles into our inbox (this time with the [LBRY-YouTube sync tool here](/youtube)) and what you *thought* was a niche reveals itself as an entire world to explore.
+A niche stumbles into our inbox (this time with the [LBRY-YouTube sync tool here](/youtube)) and what you _thought_ was a niche reveals itself as an entire world to explore.
 
 We're going off the grid and the rails. Gear up, soldier, and enter Amped Airsoft.
 

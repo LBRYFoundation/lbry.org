@@ -1,6 +1,5 @@
 # 📻 Radio Foundation
 
-
 <iframe text-align="center" id="odysee-iframe" width="100%" height="315" src="https://odysee.com/$/embed/radiolive/dd7171cba17468f6eb5a61d2aa7c56d9e6436c08?r=Hj8HJeAgvN8hjjREuK4y7wq7wN5xorZG" allowfullscreen></iframe>
 
 > Half of the tips donated go to the artists showing in the Stream other half goes to community and its builders
@@ -13,12 +12,10 @@ You liked one of the songs, follow the artist's channel and check out the #freeb
 Radio Fundação is building a weekly schedule, participate by listening, commenting and recommending new channels.
 
 | FRIDAY           | FRIDAY     | SUNDAY             | MONDAY                                | TUESDAY              | WEDNESDAY                     | THURSDAY             |
-|------------------|------------|--------------------|---------------------------------------|----------------------|-------------------------------|----------------------|
+| ---------------- | ---------- | ------------------ | ------------------------------------- | -------------------- | ----------------------------- | -------------------- |
 | Electronic Music | FREE BEATS | Instrumental Music | Bands, Groups and Music (with vocals) | Musician Of The Week | Reaction, interviews, podcast | New to the Community |
 
 ---
-
-
 
 > We started the first stage of our Radio Foundation with this live link where we will present a curatorship of music channels,
 >
@@ -35,4 +32,4 @@ Radio Fundação is building a weekly schedule, participate by listening, commen
 ```
 
 | POWERED BY | [![](https://thumbnails.odycdn.com/optimize/s:0:0/quality:85/plain/https://i.imgur.com/wbHB5sU.png)](http://lbrylytics.com/) |
-|------------|------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ---------------------------------------------------------------------------------------------------------------------------- |

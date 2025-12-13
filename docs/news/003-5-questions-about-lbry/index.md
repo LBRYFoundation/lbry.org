@@ -1,7 +1,7 @@
 ---
 author: jeremy-kauffman
 title: 5 Questions About LBRY
-date: '2015-07-01 13:09:20'
+date: "2015-07-01 13:09:20"
 published: true
 ---
 
@@ -21,7 +21,6 @@ As we recently Tweeted, we're extremely close to releasing a POC client:
 
 To make sure you hear as soon as it is available, [join our mailing list](/list/subscribe) or [follow us](https://twitter.com/lbrycom) on Twitter.
 
-
 ### 2. What happens if someone uploads infringing content to LBRY?
 
 LBRY changes the way information is shared. LBRY's decentralized nature makes it impossible for LBRY Inc. to control any information
@@ -37,7 +36,6 @@ and is required in the production of LBRY Credits. Hosts only store tiny pieces 
 of their content nor, from a technical perspective, do they possess it. However, we are not your lawyers and this is neither
 legal advice nor a promise.
 
-
 ### 3. If LBRY is Bitcoin + BitTorrent, why does it not use the Bitcoin blockchain?
 
 We spent a lot of time debating whether it was possible to build LBRY on top of Bitcoin. We certainly wanted to, as Bitcoin
@@ -52,7 +50,6 @@ Bitcoin holders.
 
 We will also be releasing the source of LBRY so that others may stand upon us.
 
-
 ### 4. What's the difference between LBRY and MaidSafe (or X)?
 
 There are several attempts to build a decentralized computing platform. LBRY is not one of them; it exists only for information.
@@ -61,16 +58,15 @@ under their own weight at the worst and not approach LBRY's performance at their
 inside of a larger decentralized platform is guaranteed at a fundamental level to result in worse performance, greater expense,
 or both.
 
-Other crypto-data solutions are about providing reliable and known data-access methods for *publishers* (i.e. they give you a name,
+Other crypto-data solutions are about providing reliable and known data-access methods for _publishers_ (i.e. they give you a name,
 frequently gibberish, and attempt to promise that data will remain available at that name). LBRY is about creating the best experience
-for *consumers*, who care less if names change than if a name gives them the information they desire.
+for _consumers_, who care less if names change than if a name gives them the information they desire.
 
 LBRY's reservation-based approach to names means unlike any other existing solution. We've leveraged Nobel Prize-winning economics
-to create a system in which names are extremely likely to resolve to what user's desire *as well as* be owned by the proper content
+to create a system in which names are extremely likely to resolve to what user's desire _as well as_ be owned by the proper content
 creator. Greater user experience + greater creator experience = WNNNG<sup>1</sup>.
 
 <small><sup>1</sup> New LBRY policy: when disemvoweling, aim for maximum confusion. </small>
-
 
 ### 5. **Allowing anyone to bid a higher price for a name is insane|brilliant.**
 
@@ -96,7 +92,6 @@ to their content.
 
 The end-result of LBRY's reservation scheme is two-fold: 1) names will almost always resolve to what user's desire and 2) content
 creators will economically benefit from publishing content via LBRY.
-
 
 ## What No One Said
 

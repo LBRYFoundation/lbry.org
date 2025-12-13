@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'LBRY Desktop App Has Leveled Up'
-date: '2018-07-25 13:00:00'
-cover: 'lbryopoly-min.jpg'
+title: "LBRY Desktop App Has Leveled Up"
+date: "2018-07-25 13:00:00"
+cover: "lbryopoly-min.jpg"
 category: update
 ---
 
@@ -13,7 +13,6 @@ We heard your feedback, and we think you'll love the new LBRY v0.23! View all th
 > LBRY v0.23 is live! Check out our new 3D file previews, revamped settings for NSFW videos, and newly added emoji in descriptions - get all the details in this post! [https://t.co/DEj4y9jfwl](https://t.co/DEj4y9jfwl) [pic.twitter.com/t2xrS2Kd2Z](https://t.co/t2xrS2Kd2Z)
 >
 > — LBRY (we never give away ETH) (@LBRYio) [July 25, 2018](https://twitter.com/lbrycom/status/1022188758970654722)
-
 
 ### More than just video
 
@@ -40,6 +39,7 @@ Our developers have been spending a lot of time and effort on speeding up the in
 ### Other Additions/Changes
 
 There are a number of other changes in this update as well, including:
+
 - Abandons transactions now show in wallet history
 - Download failure errors no longer show up if you leave the claim page
 - Emoji text support has been enabled in claim descriptions

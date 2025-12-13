@@ -20,6 +20,7 @@ If you are logging back in or from another device, you can do so with your accou
 ![](https://spee.ch/9/944f70da8357d672.png)
 
 ### Existing accounts without a password
+
 Users can set a password for existing accounts via the Settings page if password log in is preferred over email confirmation.
 
 ![](https://spee.ch/6/passwords-add.png)
@@ -37,6 +38,7 @@ You can update your account password on the Settings page. You'll be prompted fo
 ![](https://spee.ch/7/3378478fa7bb3b36.png)
 
 ### Account vs encrypted wallet passwords
+
 Account passwords are separate from wallet passwords. Users with encrypted wallets will still be required to enter their wallet password when logging in to Odysee.com and about every 2 weeks when the passwords expire. Setting wallet passwords is a [current limitation](#limitations) of our wallet sync process.
 
 ## How syncing of wallet and account data works

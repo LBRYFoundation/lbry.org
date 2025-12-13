@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Howl With Us'
-date: '2017-11-24 00:20:30'
-cover: ''
+title: "Howl With Us"
+date: "2017-11-24 00:20:30"
+cover: ""
 ---
 
 ![](https://spee.ch/5/Howl-theatrical-poster.jpg "Howl theatrical poster")

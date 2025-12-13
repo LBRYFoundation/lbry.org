@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'Verified Awesome'
-date: '2018-01-30 15:45:00'
-cover: ''
+title: "Verified Awesome"
+date: "2018-01-30 15:45:00"
+cover: ""
 category: update
 ---
 

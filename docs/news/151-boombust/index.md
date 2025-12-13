@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'The Boom Bust Boom'
-date: '2017-12-21 00:20:00'
-cover: 'boombust-banner.jpg'
+title: "The Boom Bust Boom"
+date: "2017-12-21 00:20:00"
+cover: "boombust-banner.jpg"
 category: content
 ---
 

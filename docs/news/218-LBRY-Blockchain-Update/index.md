@@ -1,12 +1,12 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Blockchain Update'
-date: '2019-9-10 09:00:00'
-cover: 'blockchaintech.jpg'
+title: "LBRY Blockchain Update"
+date: "2019-9-10 09:00:00"
+cover: "blockchaintech.jpg"
 category: update
 ---
 
-On August 16, 2019, the LBRY chain experienced an unexpected fork between the current version of lbrycrd (v0.17.2) and previous versions. Block height of the fork: 617743. We might have favored the older build, but older versions of lbrycrd would crash when receiving data from the newer version after that block. v0.17.1 was able to proceed down its own chain, but there was little mining power behind this;  the main pools were already mining with majority of hash on the correct (v0.17.2) chain.
+On August 16, 2019, the LBRY chain experienced an unexpected fork between the current version of lbrycrd (v0.17.2) and previous versions. Block height of the fork: 617743. We might have favored the older build, but older versions of lbrycrd would crash when receiving data from the newer version after that block. v0.17.1 was able to proceed down its own chain, but there was little mining power behind this; the main pools were already mining with majority of hash on the correct (v0.17.2) chain.
 
 This was middle of the night for most LBRY engineers, but the event was fortunately detected by a LBRY engineer three hours after the occurrence. In response to the incident, miners and other critical systems were immediately upgraded to v0.17.2. We appreciate the immediate and dedicated response from the various mining pools, exchanges, and others.
 

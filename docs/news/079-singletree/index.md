@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Crudely Satisfying'
-date: '2016-11-03 00:06:00'
-cover: 'singletree.png'
+title: "Crudely Satisfying"
+date: "2016-11-03 00:06:00"
+cover: "singletree.png"
 ---
 
 Last week, [one feature film](/news/bellflower-movie). This week 100% more.
@@ -11,17 +11,17 @@ It's a classic indie comedy double feature that's actually funny. If you haven't
 
 ![S&M Lawn Care](/img/news/singletree-inline1.jpg)
 
-[*S&M Lawn Care*](https://open.lbry.com/smlawncare) has a ridiculous yet effective premise: two local lawnmowers have their neighborhood business displaced by a chiseled-jaw competitor and his band of hot lawn-mowing babes.
+[_S&M Lawn Care_](https://open.lbry.com/smlawncare) has a ridiculous yet effective premise: two local lawnmowers have their neighborhood business displaced by a chiseled-jaw competitor and his band of hot lawn-mowing babes.
 
 It won the Special Jury Prize in 2010 at the legendary Friar's Club in New York. On the heels of success, director Mark Potts immediately went into production on his next film...
 
 ![Cinema Six](/img/news/singletree-inline3.jpg)
 
-> *Cinema Six* also exceeds my expectations in terms of incredibly creative uses of excessive profanity.
+> _Cinema Six_ also exceeds my expectations in terms of incredibly creative uses of excessive profanity.
 
 > -Don Simpson, [Smells Like Screen Spirit](http://smellslikescreenspirit.com/2012/04/cinema-six-review)
 
-[*Cinema Six*](https://open.lbry.com/cinemasix) is a rare film that foreshadowed many career explosions since its 2011 opening: [*It's a Disaster*](https://open.lbry.com/itsadisaster) producer-actor [Kevin Brennan](http://www.imdb.com/name/nm1059821), former SNL and *Trainwreck* star [Bill Hader](http://newsok.com/article/5388514), multi-Sundance selected character actors [John Merriman](http://www.imdb.com/name/nm1332470) and [Chris Doubek](http://www.imdb.com/name/nm1953775), and many more behind the camera.
+[_Cinema Six_](https://open.lbry.com/cinemasix) is a rare film that foreshadowed many career explosions since its 2011 opening: [_It's a Disaster_](https://open.lbry.com/itsadisaster) producer-actor [Kevin Brennan](http://www.imdb.com/name/nm1059821), former SNL and _Trainwreck_ star [Bill Hader](http://newsok.com/article/5388514), multi-Sundance selected character actors [John Merriman](http://www.imdb.com/name/nm1332470) and [Chris Doubek](http://www.imdb.com/name/nm1953775), and many more behind the camera.
 
 **About Singletree Productions**
 

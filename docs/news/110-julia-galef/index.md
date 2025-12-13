@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Rationale'
-date: '2017-05-11 00:19:30'
-cover: 'juliagalef-banner3.jpg'
+title: "Rationale"
+date: "2017-05-11 00:19:30"
+cover: "juliagalef-banner3.jpg"
 ---
 
 Like many internet technologies, the LBRY network was born not only as a response to economic incentives but as a philosophical and ethical answer to the status quo.
@@ -15,7 +15,7 @@ Now and then, some high-level reflection can be a powerful tool. And there is no
 
 Julia Galef's podcast [Rationally Speaking](http://rationallyspeakingpodcast.org) and vlogs were some of the first content series we sought to share on LBRY.
 
-One of the most critical minds of our day, Julia co-founded the non-profit Center for Applied Rationality in 2012, and has written about rationality and philosophy for *Scientific American*, Slate, *Popular Science*, and more.
+One of the most critical minds of our day, Julia co-founded the non-profit Center for Applied Rationality in 2012, and has written about rationality and philosophy for _Scientific American_, Slate, _Popular Science_, and more.
 
 Her vlog lectures, covering paradoxes, beliefs, morality, and everything under the philosophical sun, can be found on LBRY at:
 

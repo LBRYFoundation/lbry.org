@@ -1,8 +1,8 @@
 ---
 author: julie-sigwart
-title: 'September 2019 LBRY Community Report'
-date: '2019-09-26 13:00:00'
-cover: 'leaves.jpg'
+title: "September 2019 LBRY Community Report"
+date: "2019-09-26 13:00:00"
+cover: "leaves.jpg"
 category: community-update
 ---
 
@@ -11,16 +11,17 @@ category: community-update
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! Our community allows LBRYians to interact with the team directly and for us to engage users and grow the LBRY platform. If you don't already, follow us on [Twitter](https://twitter.com/lbrycom), [Facebook](https://facebook.com/lbrycom), [Reddit](https://www.reddit.com/r/lbry), and [Telegram](https://t.me/lbryofficial).
 
 ## In This Update: {#updates}
-* [What's new at LBRY?](#news)
-* [LBRY.tv is nearly here](#web)
-* [LBRY Android Butterfly Released](#android)
-* [New Daily Rewards!](#rewards)
-* [Hacktoberfest](#hacktoberfest)
-* [We're looking to create new hives!](#new)
-* [Hive Updates](#hives)
-* [LBRY App in More Languages](#i18n)
-* [Community Block Explorer](#explorer)
-* [Yummy Dessert!](#dessert)
+
+- [What's new at LBRY?](#news)
+- [LBRY.tv is nearly here](#web)
+- [LBRY Android Butterfly Released](#android)
+- [New Daily Rewards!](#rewards)
+- [Hacktoberfest](#hacktoberfest)
+- [We're looking to create new hives!](#new)
+- [Hive Updates](#hives)
+- [LBRY App in More Languages](#i18n)
+- [Community Block Explorer](#explorer)
+- [Yummy Dessert!](#dessert)
 
 ### What's New at LBRY? {#news}
 
@@ -28,12 +29,12 @@ If you aren’t part of our Discord community yet, [join us](https://chat.lbry.c
 
 Since our last update, progress has been made on a number of our Roadmap items, including:
 
-* Software app for Android, desktop, and the web. the app team shipped our next named release, 0.35, under codename Franklin as well as a few patches. Franklin enhances the app experience with a brand new videojs-based video player.
+- Software app for Android, desktop, and the web. the app team shipped our next named release, 0.35, under codename Franklin as well as a few patches. Franklin enhances the app experience with a brand new videojs-based video player.
 
-* Other new features in Franklin include:
-   - The ability to continue watching videos in pop out mode
-   - Support of range requests (streaming)
-   - The ability to block channels app-wide
+- Other new features in Franklin include:
+  - The ability to continue watching videos in pop out mode
+  - Support of range requests (streaming)
+  - The ability to block channels app-wide
 
 ![franklin](https://spee.ch/9/35.gif)
 
@@ -77,19 +78,19 @@ The LBRY Swarm is a community program to promote awareness, use, and development
 
 We need your help to grow the Swarm program. There are a number of potential hive focus areas, and we're interested in new hives or for existing hives to curate content in these areas:
 
-* Fine Art
-* Photography
-* Fan Art (think DeviantArt)
-* Science topics
-* Craft How-tos
-* Life Hacks/How-tos
-* News
-* Free Speech
-* Activism
-* Environment
-* Arabic
-* French
-* Gaming
+- Fine Art
+- Photography
+- Fan Art (think DeviantArt)
+- Science topics
+- Craft How-tos
+- Life Hacks/How-tos
+- News
+- Free Speech
+- Activism
+- Environment
+- Arabic
+- French
+- Gaming
 
 If you’re interested in finding out more about the Swarm program, how to start a hive, or join one, [please check out this link.](https://docs.google.com/forms/d/e/1FAIpQLSfDabPptaLx7TI7DeT_dAOZgeulSRD1A-VnYYypbuc_r4wlhA/viewform?usp=sf_link)
 
@@ -166,6 +167,7 @@ He’d appreciate any feedback on the GitHub issue and current prototype - you c
 We appreciate your attention and now we have a little dessert for you. Enter `lbry-ice-cream` in the desktop app and get a few sprinkles of LBCs!
 
 ## Want to Develop on the LBRY Ecosystem?
+
 All of our code is open source and available on [GitHub](https://github.com/lbryio). Are you a developer and want to find out more? Check out our [contributing guide](https://lbry.tech/contribute) and our [LBRY App specific contributing document](https://github.com/lbryio/lbry-app/blob/master/CONTRIBUTING.md). Make sure you have turned on the Developer option in your email preferences (see app overview page), or sign up at [lbry.tech](https://lbry.tech). We also have a [LBRY Discourse Forum](https://discourse.lbry.io) where developers can interact with the team and ask questions across all our different projects.
 
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello!
@@ -173,4 +175,3 @@ If you aren’t part of our Discord community yet, [join us](https://chat.lbry.c
 [Back to **Community Updates**](#updates)
 
 Thanks for supporting LBRY - stay tuned for more news and updates! And if you haven’t downloaded the [LBRY app](https://lbry.com/get/?auto=1) yet, what are you waiting for?
-

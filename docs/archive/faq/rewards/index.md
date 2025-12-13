@@ -17,7 +17,7 @@ A reward is intended to be earned no more than one time by each real person. As 
 
 To be eligible for rewards, you must **sign up for an account** and **verify your email**. Many users are required to **complete** [**additional verification**](#additional-verification); this is common if using LBRY from VPN or a fraud-prone network. You may not be eligible if there is already another verified account in your household/location. Users on shared connections will typically not be eligible for rewards. You will be able to receive tips from other users, even if you aren't eligible for rewards.
 
- **Eligibility may be revoked by LBRY Inc. if abuse is suspected.** Your eligibility may be revoked if:
+**Eligibility may be revoked by LBRY Inc. if abuse is suspected.** Your eligibility may be revoked if:
 
 - you use a VPN or shared network to access LBRY.
 - you try to artificially inflate follow counts or view counts (with "follow for follow" or "view for view" activity or purchased traffic) on LBRY or in other groups.
@@ -32,12 +32,11 @@ All rewards can be seen by clicking your [Rewards page](https://open.lbry.com/?r
 
 Rewards that you have earned will be marked in your [wallet](/faq/transaction-types/).
 
- [Learn more about **Referrals**.](/faq/referrals/). |
+[Learn more about **Referrals**.](/faq/referrals/). |
 
 ## Followers reward {#followers}
 
 You receive additional rewards as you build a following on LBRY. Only verified LBRY users count, so there may be a discrepancy between what you see on your rewards page and on your invites page. Share your channel with the world to earn more LBC!
-
 
 ## Views reward and tips {#contentview}
 

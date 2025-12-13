@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
-title: 'Coinomi Wallet Integration'
-date: '2017-06-02 00:14:00'
+title: "Coinomi Wallet Integration"
+date: "2017-06-02 00:14:00"
 ---
 
 # You can now store your LBRY Credits (LBC) in the Coinomi wallet!

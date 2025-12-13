@@ -5,7 +5,8 @@ category: policy
 ---
 
 ## Summary
-This quarter we moved no Credits from cold storage.  We spent 958,201 total community Credits on line items detailed below. Under 50,000 operational Credits were used for the LBRY employee LBC purchase program. 100,000 institutional Credits were spent from the institutional fund as part of a new partnership with a media organization.
+
+This quarter we moved no Credits from cold storage. We spent 958,201 total community Credits on line items detailed below. Under 50,000 operational Credits were used for the LBRY employee LBC purchase program. 100,000 institutional Credits were spent from the institutional fund as part of a new partnership with a media organization.
 We anticipate comparable or larger total outlays in q4 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. It is also possible that LBRY will continue to explore usage of it's institutional fund.
 
 ## Overview By Fund
@@ -15,7 +16,7 @@ We anticipate comparable or larger total outlays in q4 2018. Operational spendin
 958,201 Credits were spent from the community fund, in the following areas:
 
 | Category             | Amount  |
-|----------------------|---------|
+| -------------------- | ------- |
 | Bounties             | 102,030 |
 | User Engagement      | 235,000 |
 | Community Engagement | 85,390  |
@@ -30,11 +31,10 @@ LBRY also launched a more quantified and specific reward program for new YouTube
 
 ### Operational Fund
 
-* LBRY sold no LBC on the open market
-* LBRY issued 38,000 LBC to employees
+- LBRY sold no LBC on the open market
+- LBRY issued 38,000 LBC to employees
 
 LBRY does not anticipate moving Credits to market this quarter due to both market conditions and our favorable cash position. However, should market conditions or our needs change, we reserve the right to move Credits to market as needed.
-
 
 ### Institutional Fund
 

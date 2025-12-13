@@ -1,10 +1,10 @@
 ---
 author: mike-vine
 title: Mike Vine Joins LBRY as Technology Evangelist
-date: '2015-10-22 15:55:07'
+date: "2015-10-22 15:55:07"
 ---
 
-*Manchester NH (October 22, 2015)* - LBRY Inc., creator of a new blockchain-based content distribution platform, announced Mike Vine has signed on as the first addition to its executive team. As LBRY's Technology Evangelist, Vine will be charged with explaining the value proposition of what looks to be among the first-released of a new generation of "cryptoapps" based on Bitcoin's blockchain architecture.
+_Manchester NH (October 22, 2015)_ - LBRY Inc., creator of a new blockchain-based content distribution platform, announced Mike Vine has signed on as the first addition to its executive team. As LBRY's Technology Evangelist, Vine will be charged with explaining the value proposition of what looks to be among the first-released of a new generation of "cryptoapps" based on Bitcoin's blockchain architecture.
 
 ![Mike Vine](https://spee.ch/@move:b/SY0Th7W.jpg)
 

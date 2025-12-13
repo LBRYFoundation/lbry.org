@@ -1,13 +1,14 @@
 ---
 author: reilly-smith
-title: 'Listen Up'
-date: '2016-12-01 00:06:00'
-cover: 'podcast-banner.png'
+title: "Listen Up"
+date: "2016-12-01 00:06:00"
+cover: "podcast-banner.png"
 ---
 
 One of our most requested genres of content is the comedy. So we're hitting a few birds with one stone: comedy + podcasts.
 
 The first three podcasts to ever join LBRY are:
+
 - You Should Have Planned Better with Jay Light and Leah Lemarr
 - Inappropriate Earl with Earl Skakel
 - Why Do You Care?! with Katie Allinson and Will Moyer

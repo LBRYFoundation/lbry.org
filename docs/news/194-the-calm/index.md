@@ -1,8 +1,8 @@
 ---
 author: rob-smith
-title: 'A Thankful New Year'
-date: '2018-12-17 8:00:00'
-cover: 'bc-calm.jpg'
+title: "A Thankful New Year"
+date: "2018-12-17 8:00:00"
+cover: "bc-calm.jpg"
 category: users
 ---
 

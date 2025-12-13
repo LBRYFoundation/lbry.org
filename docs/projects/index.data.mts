@@ -1,4 +1,4 @@
-import {createMarkdownRenderer} from "vitepress";
+import { createMarkdownRenderer } from "vitepress";
 
 export default {
   async load() {
@@ -6,9 +6,13 @@ export default {
 
     const md = await createMarkdownRenderer(config.srcDir);
 
-    const content = await (await fetch('https://raw.githubusercontent.com/LBRYFoundation/Awesome-LBRY/master/README.md')).text();
+    const content = await (
+      await fetch(
+        "https://raw.githubusercontent.com/LBRYFoundation/Awesome-LBRY/master/README.md",
+      )
+    ).text();
 
     // fetch remote data
     return md.render(content);
-  }
-}
+  },
+};

@@ -15,6 +15,7 @@ The first area to check for start-up issues is the [LBRY log file](/faq/how-to-f
 If you are having issues syncing or displaying your balance correctly, please see [Stuck at blockchain sync](#sync).
 
 ## Connectivity and ports
+
 LBRY operates on a couple of different ports, and if there are conflicts/firewall rules/security settings that prevent them from being utilized, the app/daemon will experience start-up issues. LBRY tries to employ port forwarding through the use of UPnP, which may be disabled on some routers. Either UPnP must be enabled, or you have to manually forward the ports below (3333 TCP and 4444 UDP) in order to fully take advantage of the LBRY network. Only 1 PC on a network can have an open outside port, so if you are running multiple PCs with LBRY, they will need to be configured manually.
 
 - Port 3333 - LBRY daemon runs and shares data on port 3333 (TCP) by default. Often times, this port can be already in use to due to mining software or other applications/services.
@@ -23,6 +24,7 @@ LBRY operates on a couple of different ports, and if there are conflicts/firewal
 - Port 5567 - LBRY rehosts content on this port. If it's blocked, you will only be able to download from the P2P network.
 
 ## This is my first time running LBRY, and it won't start
+
 - If don't see the LBRY app starting up at all on Windows, run LBRY.exe with CMD (command prompt) to further debug the problem. Navigate to the installation path e.g. `C:\Program Files\LBRY` for x64 and `C:\Program Files (x86)\LBRY` for x86, type `LBRY.exe` and hit enter for the app to launch. This will show any errors the app has starting up. The most common issue [is related to incorrect Windows environment variables](https://superuser.com/questions/1178674/wmic-is-not-recognized-as-an-internal-or-external-command-operable-program-or/1178758).
 - Windows users who have trouble starting up the [SDK manually](/faq/how-to-run-lbry/), you may need to reinstall [Visual C++ Redistributable for Visual Studio 2015](https://www.microsoft.com/en-US/download/details.aspx?id=48145)
 - Port 3333 already in use. This issue would reveal itself in the log file. You can see how to change this port [here](/faq/how-to-change-port/). If the port is properly forwarding, you are able to successfully see port 3333 open on this [port checker tool](http://www.canyouseeme.org).
@@ -31,6 +33,7 @@ LBRY operates on a couple of different ports, and if there are conflicts/firewal
 - On Mac, LBRY may fail to start if your MacOS version is too old - only 10.12.4 (Sierra) and higher supported.
 
 ## LBRY used to work previously, but now it won't start
+
 First and foremost, please ensure you are on the [latest version](/get/) of LBRY. Reinstalling the latest version may alleviate some start-up issues. Before installing, either make sure there are no running LBRY/lbrynet processes or simply reboot your computer.
 
 - Try clearing your blockchain data and headers in the [lbryum/lbc_mainnet folder](/faq/lbry-directories/)
@@ -44,11 +47,15 @@ First and foremost, please ensure you are on the [latest version](/get/) of LBRY
 ## Known startup issues and workarounds
 
 ### Previous download location unavailable
+
 The app will fail to start if you had set a download location that is no longer available. To fix this, it must be removed or edited from the daemon_settings.yml file in the [lbrynet](/faq/lbry-directories/) folder.
+
 ### Stuck at blockchain sync or wallet issues {#sync}
+
 If you are stuck on the blockchain sync step or it shows a block count that doesn't decrease, you may need to clear your blockchain headers and/or synced data. To do so, Shut LBRY down completely by closing it from the system tray (check for running LBRY/lbrynet-daemon processes), delete the `headers` and `blockchain.db` files in the [lbryum/lbc_mainnet folder](/faq/lbry-directories/) and then start LBRY again.
 
 ### SDK could not start because port is in use (IPV6 / debian)
+
 If the newly installed or re-installed LBRY has the start up issue with SDK not being able to bind, check the .local/share/lbry/lbrynet folder for `daemon_settings.yml` file.
 If the file doesn't exist, create one and settings inside should be:
 

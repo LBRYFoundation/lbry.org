@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'Something Wicked Cool This Way Comes'
-date: '2018-08-29 17:00:00'
-cover: 'Bradbury.jpg'
+title: "Something Wicked Cool This Way Comes"
+date: "2018-08-29 17:00:00"
+cover: "Bradbury.jpg"
 category: update
 ---
 
@@ -17,37 +17,39 @@ LBRY is faster, more reliable, and easier to use than ever with the release of o
 ![LBRY Bradbury](https://spee.ch/2c249b33d9f6564acb4555d5fe4e97f5901e4657/lbry-bradbury.gif)
 
 ## What's in the box?
+
 LBRY Bradbury comes with some major feature upgrades, including:
 
-* **Improved search and suggested content.** Our navigation bar now defaults to a (significantly improved) search rather than assuming that you're putting in a claim location. In addition to the improved search, the LBRY app now suggests other content you might enjoy based on what you're watching.
+- **Improved search and suggested content.** Our navigation bar now defaults to a (significantly improved) search rather than assuming that you're putting in a claim location. In addition to the improved search, the LBRY app now suggests other content you might enjoy based on what you're watching.
 
-* **Multi-level rewards.** You can now dive much deeper into LBRY's reward system, with new cumulative and multi-level rewards in-app. Keep watching videos, publishing content, and tipping creators to discover all the new rewards!
+- **Multi-level rewards.** You can now dive much deeper into LBRY's reward system, with new cumulative and multi-level rewards in-app. Keep watching videos, publishing content, and tipping creators to discover all the new rewards!
 
 ![rewards](https://spee.ch/34dee02a49fefd7301307f4b95948a0cd8ae7990/rewards-sub-download.jpeg)
 
-* **Wallet encryption.** Users can now [encrypt their wallets](/faq/wallet-encryption) to enhance security.
+- **Wallet encryption.** Users can now [encrypt their wallets](/faq/wallet-encryption) to enhance security.
 
-* **Subscriptions and auto download settings for subscriptions.** Subscriptions have been reworked - go to the "subscriptions" page in your app to check it out! When you subscribe to a channel on LBRY, the newest content from that channel will now download automatically when the app starts up so you can watch it right away. You can also turn this feature off in your settings or on the subscriptions page.
+- **Subscriptions and auto download settings for subscriptions.** Subscriptions have been reworked - go to the "subscriptions" page in your app to check it out! When you subscribe to a channel on LBRY, the newest content from that channel will now download automatically when the app starts up so you can watch it right away. You can also turn this feature off in your settings or on the subscriptions page.
 
 ![subscriptions](https://spee.ch/ea67ed430188092d70af405d05425dd97288124f/subscriptions-page.jpeg)
 
-* **A total daemon overhaul.** LBRY's upgraded daemon (the program that allows the app to communicate with other computers on the LBRY network) has been completely revamped, which means much faster load times on content in the LBRY app.
+- **A total daemon overhaul.** LBRY's upgraded daemon (the program that allows the app to communicate with other computers on the LBRY network) has been completely revamped, which means much faster load times on content in the LBRY app.
 
-* **Thumbnail previews.** When you choose a thumbnail picture for a video you've uploaded to LBRY, you will now be able to see a preview of what the thumbnail looks like. Users will also notice significant improvements to the upload speed once they've decided on their thumbnail preview.
+- **Thumbnail previews.** When you choose a thumbnail picture for a video you've uploaded to LBRY, you will now be able to see a preview of what the thumbnail looks like. Users will also notice significant improvements to the upload speed once they've decided on their thumbnail preview.
 
 ![thumbnails](https://spee.ch/64d74fe70b627fff863d54b6204ee9ff7fb91baf/thumb-preview.jpeg)
 
-* **Improved content previews.** We've reworked the way the LBRY app displays content (particularly .txt, .html, .docx, .pdf, and other human-readable file formats) previews for a better user experience. This also includes code formatting in source files for languages like [Javascript (.js), Python (.py) and many more](https://codemirror.net/mode).
+- **Improved content previews.** We've reworked the way the LBRY app displays content (particularly .txt, .html, .docx, .pdf, and other human-readable file formats) previews for a better user experience. This also includes code formatting in source files for languages like [Javascript (.js), Python (.py) and many more](https://codemirror.net/mode).
 
 ![pdf-preview](https://spee.ch/b78059549b8059d42dab5e8dce14cf46581e37fa/pdf-preview.jpeg)
 
-* **Improved adult content filters.** If you don't want to see adult content, you don't have to - with our new NSFW settings, adult content in the "community bids" section is now hidden by default, and search will now filter out adult content unless you have chosen to display it in your app settings.
+- **Improved adult content filters.** If you don't want to see adult content, you don't have to - with our new NSFW settings, adult content in the "community bids" section is now hidden by default, and search will now filter out adult content unless you have chosen to display it in your app settings.
 
-* **New 3D file viewer.** All our 3D printing fanatics can now view previews of 3D objects right in the LBRY app.
+- **New 3D file viewer.** All our 3D printing fanatics can now view previews of 3D objects right in the LBRY app.
 
 You can read all the in-depth details on the [new features in Bradbury here](https://github.com/lbryio/lbry-desktop/releases/tag/v0.24.0). We can talk all day about how much better the LBRY experience is, but the only way to really understand is to [download the app](/get/) and try it out!
 
 ## Why Bradbury?
+
 ![Ray Bradbury](https://spee.ch/604a76fefad6fbebaf14d7926f62324ff46de3c5/BradburyWide.jpeg)
 
 Ray Bradbury was a pioneering American writer whose books and short stories brought Sci-Fi, a genre that was previously confined to pulp fiction and B movies, to a mainstream audience. With work like The Martian Chronicles, Fahrenheit 451, and Dandelion Wine, he's earned his place in the pantheon of speculative fiction. Bradbury was also an unstoppable autodidact who had little use for schools and formal learning - in his words:

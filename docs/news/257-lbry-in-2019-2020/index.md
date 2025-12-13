@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: 'Looking Back and Moving Forward: LBRY in 2019/2020'
-date: '2020-02-07 17:17:17'
-cover: 'wooden-letters-banner.jpg'
+title: "Looking Back and Moving Forward: LBRY in 2019/2020"
+date: "2020-02-07 17:17:17"
+cover: "wooden-letters-banner.jpg"
 category: update
 ---
 
@@ -40,4 +40,4 @@ As lbry.tv has made it easier to embed and show video content to everyone, we're
 
 ## Now spread LBRY love
 
-We're only going to [give away 5,000,000 LBC, but only if you f*&(@# your friends](https://lbry.tv/@lbry:3f/downtofollowfebruary:b).
+We're only going to [give away 5,000,000 LBC, but only if you f\*&(@# your friends](https://lbry.tv/@lbry:3f/downtofollowfebruary:b).

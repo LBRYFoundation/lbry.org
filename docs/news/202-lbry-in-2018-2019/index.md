@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: 'Looking Back and Moving Forward: LBRY in 2018/2019'
-date: '2019-02-06 14:14:14'
-cover: 'wooden-letters-banner.jpg'
+title: "Looking Back and Moving Forward: LBRY in 2018/2019"
+date: "2019-02-06 14:14:14"
+cover: "wooden-letters-banner.jpg"
 category: update
 ---
 
@@ -24,25 +24,24 @@ Here’s a look at the past year as well as what’s up next.
 
 Here’s some of what we accomplished in 2018:
 
-* Protocol performance has improved dramatically. What used to take minutes, takes just a few seconds, and what used to take seconds, takes milliseconds. Key actions like resolves and stream starts are over 500% faster with substantially lower failure rates.
-* We added major features like subscriptions, trending, a dramatically improved search, and a brand new rewards program.
-* We launched a [YouTube partnership program](/youtube) that has brought in nearly 10,000 publishers, including 45 with 250,000+ subscribers.  There are too many standouts to list all of them, but a few are: [@MinutePhysics](https://open.lbry.com/@MinutePhysics), [@MothersBasement](https://open.lbry.com/@MothersBasement), and [@GaminGHD](https://open.lbry.com/@GaminGHD).
-* Our desktop app was completely redesigned as well as upgraded to support new protocol features. It had over 100,000 installs.
-* LBRY released a [mobile alpha](/android/) that saw more than 20,000 installs.
-* The amount of content available via LBRY more than quadrupled to over 600,000 items.
-* spee.ch launched a multi-site feature, currently in production usage by [The Anti-Media](https://theantimedia.com) and supporting hundreds of thousands of visitors.
-* In _just the last month_, well over 250,000 people accessed a piece of content via LBRY.
-* We debuted [lbry.fund](https://lbry.fund), which awarded over $60,000 worth of grants to community projects promoting or using the LBRY platform. This included projects like: _The Anti-Media_ news on LBRY, Jelly-Beats audio project, LBRY devices for television, and informational videos.
-* [lbry.tech](https://lbry.tech), a portal specifically for developers, had a soft launch. Hundreds of developers contributed to [LBRY's code](https://github.com/lbryio) from every continent except Antarctica (we'll work on it).
-* LBRY's social following continued to grow. About 60,000 people follow LBRY across [Facebook](https://facebook.com/lbrycom), [Twitter](https://twitter.com/lbrycom), and [Reddit](https://reddit.com/r/lbry). If you joined our [chat](https://chat.lbry.com) at the time of writing this post, you could talk to over 500 LBRYians immediately!
-* We saw major press coverage from [Bloomberg](https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals), [Forbes](https://www.forbes.com/sites/jonathanchester/2018/10/25/democratizing-media-in-the-era-of-blockchain/), the [Boston Globe](https://www3.bostonglobe.com/magazine/2018/06/12/will-blockchain-change-way-buy-everything-and-even-way-vote/E1uqZ2AscszM9FmcCxgIsK/story.html?arc404=true) and many other outlets.
+- Protocol performance has improved dramatically. What used to take minutes, takes just a few seconds, and what used to take seconds, takes milliseconds. Key actions like resolves and stream starts are over 500% faster with substantially lower failure rates.
+- We added major features like subscriptions, trending, a dramatically improved search, and a brand new rewards program.
+- We launched a [YouTube partnership program](/youtube) that has brought in nearly 10,000 publishers, including 45 with 250,000+ subscribers. There are too many standouts to list all of them, but a few are: [@MinutePhysics](https://open.lbry.com/@MinutePhysics), [@MothersBasement](https://open.lbry.com/@MothersBasement), and [@GaminGHD](https://open.lbry.com/@GaminGHD).
+- Our desktop app was completely redesigned as well as upgraded to support new protocol features. It had over 100,000 installs.
+- LBRY released a [mobile alpha](/android/) that saw more than 20,000 installs.
+- The amount of content available via LBRY more than quadrupled to over 600,000 items.
+- spee.ch launched a multi-site feature, currently in production usage by [The Anti-Media](https://theantimedia.com) and supporting hundreds of thousands of visitors.
+- In _just the last month_, well over 250,000 people accessed a piece of content via LBRY.
+- We debuted [lbry.fund](https://lbry.fund), which awarded over $60,000 worth of grants to community projects promoting or using the LBRY platform. This included projects like: _The Anti-Media_ news on LBRY, Jelly-Beats audio project, LBRY devices for television, and informational videos.
+- [lbry.tech](https://lbry.tech), a portal specifically for developers, had a soft launch. Hundreds of developers contributed to [LBRY's code](https://github.com/lbryio) from every continent except Antarctica (we'll work on it).
+- LBRY's social following continued to grow. About 60,000 people follow LBRY across [Facebook](https://facebook.com/lbrycom), [Twitter](https://twitter.com/lbrycom), and [Reddit](https://reddit.com/r/lbry). If you joined our [chat](https://chat.lbry.com) at the time of writing this post, you could talk to over 500 LBRYians immediately!
+- We saw major press coverage from [Bloomberg](https://www.bloomberg.com/news/articles/2018-04-10/youtube-and-facebook-are-losing-creators-to-blockchain-powered-rivals), [Forbes](https://www.forbes.com/sites/jonathanchester/2018/10/25/democratizing-media-in-the-era-of-blockchain/), the [Boston Globe](https://www3.bostonglobe.com/magazine/2018/06/12/will-blockchain-change-way-buy-everything-and-even-way-vote/E1uqZ2AscszM9FmcCxgIsK/story.html?arc404=true) and many other outlets.
 
 ![LBRY in Bloomberg](https://spee.ch/@lbryblog:e/inbloomberg.png)
 
 LBRY remains well capitalized and could operate throughout 2019 and well into 2020 at it's current expenditure rate with no token sales or outside capital.
 
 However, 2018 was far from a complete success. We still have substantial improvements to make in creator features, discovery / engagement, usability, performance, and more.
-
 
 # LBRY in 2019
 

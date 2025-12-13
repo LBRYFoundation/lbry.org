@@ -1,12 +1,12 @@
 ---
 author: reilly-smith
-title: 'Clash Cash'
-date: '2018-02-22 00:20:00'
-cover: 'nickatnyte-banner.jpg'
+title: "Clash Cash"
+date: "2018-02-22 00:20:00"
+cover: "nickatnyte-banner.jpg"
 category: content
 ---
 
-Are casual mobile games *really* casual?
+Are casual mobile games _really_ casual?
 
 [@nickatnyte](https://open.lbry.com/%40nickatnyte) will reframe how seriously you can take the Clash series.
 

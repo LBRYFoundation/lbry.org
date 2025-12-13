@@ -48,8 +48,6 @@ All you need to do to make your own hive is to set up a chat room or forum and a
 
 The easiest way to do this is to join the LBRY discord #makeahive channel and ask for you own hive role and channel. After a brief chat with a friendly moderator, you’ll have your own room and role made right on the LBRY discord. The LBRY discord is already a buzzing place so this is probably the best way to find more people for your new hive.
 
-
-
 ## How should hives operate?
 
 However you want! Well, mostly.

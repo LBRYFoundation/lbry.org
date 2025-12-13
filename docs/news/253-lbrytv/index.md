@@ -1,14 +1,15 @@
---- 
-author: samuel-lbryian
-title: 'Introducing lbry.tv'
-date: '2020-01-31 12:00:00'
-cover: 'https://spee.ch/2/Y6AsYIS338Q8khyhdLJgcVga.png'
 ---
+author: samuel-lbryian
+title: "Introducing lbry.tv"
+date: "2020-01-31 12:00:00"
+cover: "https://spee.ch/2/Y6AsYIS338Q8khyhdLJgcVga.png"
+---
+
 We are thrilled to announce the public launch of lbry.tv, the most free way to share, follow, and support digital content.
 
 Via lbry.tv, you can create a secure publishing account that you and only you (not even us) have the ability to update or modify. You can also watch content from top creators, stream Hollywood films, and browse a quirky digital wonderland while earning a stake in a community-controlled protocol.
 
-If a picture is worth a thousand words, then a personal experience is worth like... a billion? So one option is that rather continue to read this, you simply [go over to lbry.tv and try it out](https://lbry.tv/). 
+If a picture is worth a thousand words, then a personal experience is worth like... a billion? So one option is that rather continue to read this, you simply [go over to lbry.tv and try it out](https://lbry.tv/).
 
 Still here, huh? You must want more moving pictures and more words. We shall supply them.
 
@@ -24,7 +25,7 @@ LBRY is an open-source, censorship-resistant protocol that facilitates the disco
 
 OK. LBRY is a YouTube-like service but instead of it being owned by a single company (Google), we created an open, distributed, and inter-operable standard (like HTTP).
 
-This means that when you use LBRY, you as a creator or viewer are left in complete control. Your account is truly yours, funds you earn are truly yours, and not only is there not a middleman taking a cut or putting thumbs on scales, *LBRY makes it impossible for that middleman to ever exploit you.*
+This means that when you use LBRY, you as a creator or viewer are left in complete control. Your account is truly yours, funds you earn are truly yours, and not only is there not a middleman taking a cut or putting thumbs on scales, _LBRY makes it impossible for that middleman to ever exploit you._
 
 ## Hot stuff. So what is LBRY.tv?
 

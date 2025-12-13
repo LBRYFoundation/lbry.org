@@ -1,12 +1,13 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Doppler Brings Notifications to Android'
-date: '2019-11-04 10:00:00'
-cover: 'doppler.jpg'
+title: "LBRY Doppler Brings Notifications to Android"
+date: "2019-11-04 10:00:00"
+cover: "doppler.jpg"
 category: update
 ---
 
 ## LBRY Doppler is LIVE in the Android Play Store
+
 Today, LBRY releases LBRY Doppler, which brings notifications to the LBRY Android app.
 
 [Download from Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser) / [Direct download](https://github.com/lbryio/lbry-android/releases/download/0.11.0/browser-0.11.0-release__arm64.apk)

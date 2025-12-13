@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
-title: 'BraveNewCoin Compares LBRY to Alexandria: Who Will Be the First to Supplant BitTorrent?'
-date: '2015-12-17 21:55:57'
+title: "BraveNewCoin Compares LBRY to Alexandria: Who Will Be the First to Supplant BitTorrent?"
+date: "2015-12-17 21:55:57"
 ---
 
 If you haven't heard, LBRY has a little competition – Alexandria, "The People's Library". Now don't get us wrong; LBRY welcomes competition! In fact, we're enthusiastic supporters of anyone who wants to put more power in the hands of individuals by building more effective markets for information. Heck, we even engaged in some innocent crypto-flirting with Alexandria this week:
@@ -16,7 +16,7 @@ But to the point. [BraveNewCoin published the first side-by-side comparison of L
 >
 > LBRY in much the same way you would register a domain name for your website that starts with an `http://`, in LBRY, you would register a name for each piece of content that you want to share, and those start with `lbry://`.
 
-> The idea is that web browsers will eventually read those links automatically so that you can simply click on an URL like `lbry://wonderfullife`  in order to watch the movie "It's a wonderful life."
+> The idea is that web browsers will eventually read those links automatically so that you can simply click on an URL like `lbry://wonderfullife` in order to watch the movie "It's a wonderful life."
 
 There's just one detail BraveNewCoin gets wrong in their conclusion:
 

@@ -6,7 +6,7 @@ category: policy
 
 ## Summary
 
-This quarter we moved 5,000,000 Credits from cold storage.  We spent 645,021 total community Credits on line items detailed below. 5,000,000 operational Credits were moved to markets to improve capitalization. 639,869 Credits were sold to a crypto education club.  No institutional Credits were moved or spent.
+This quarter we moved 5,000,000 Credits from cold storage. We spent 645,021 total community Credits on line items detailed below. 5,000,000 operational Credits were moved to markets to improve capitalization. 639,869 Credits were sold to a crypto education club. No institutional Credits were moved or spent.
 
 q4 2017 operational token use was significantly above expectations set in the previous quarterly report, but was deemed a strong time to improve the capitalization of the company. LBRY will not hesitate to deviate from previous report predictions should the circumstances warrant it.
 
@@ -17,7 +17,7 @@ We anticipate comparable total outlays in q1 2018. Operational uses will be lowe
 ### Community Fund
 
 | Category                | Amount               |
-|-------------------------|----------------------|
+| ----------------------- | -------------------- |
 | Bounties                | 36,925 LBRY Credits  |
 | User Engagement         | 75,000 LBRY Credits  |
 | Community Management    | 164,100 LBRY Credits |

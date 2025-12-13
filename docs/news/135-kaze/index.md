@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'modular thought'
-date: '2017-10-12 00:21:30'
-cover: 'kaze-banner.png'
+title: "modular thought"
+date: "2017-10-12 00:21:30"
+cover: "kaze-banner.png"
 ---
 
 Some of the greatest works of art today build upon and remix yesterday's creations, bringing new perspectives to timeless classics.

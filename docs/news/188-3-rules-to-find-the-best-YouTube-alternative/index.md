@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: '3 Rules To Find The Best YouTube Alternative'
-date: '2018-10-30 15:10:00'
-cover: 'YTerror.jpg'
+title: "3 Rules To Find The Best YouTube Alternative"
+date: "2018-10-30 15:10:00"
+cover: "YTerror.jpg"
 category: content
 ---
 

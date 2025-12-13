@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'To Hacktoberfest and Beyond!'
-date: '2018-11-01 14:10:00'
-cover: 'Hacktoverfest.jpg'
+title: "To Hacktoberfest and Beyond!"
+date: "2018-11-01 14:10:00"
+cover: "Hacktoverfest.jpg"
 category: users
 ---
 

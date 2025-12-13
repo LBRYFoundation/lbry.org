@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Real Particles Ride Waves'
-date: '2017-10-05 00:20:30'
-cover: 'minutephysics-banner.jpg'
+title: "Real Particles Ride Waves"
+date: "2017-10-05 00:20:30"
+cover: "minutephysics-banner.jpg"
 ---
 
 The science marathon continues with one of the biggest scientific series on the internet.

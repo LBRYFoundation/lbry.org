@@ -1,8 +1,8 @@
 ﻿---
 author: samuel-lbryian
-title: '#NewKidsOnTheBlockchain Thursday: Indie Rockers from Ukraine & Classical Singing de la Spain'
-date: '2016-09-01 00:06:18'
-cover: 'joaquin-pixan2.jpg'
+title: "#NewKidsOnTheBlockchain Thursday: Indie Rockers from Ukraine & Classical Singing de la Spain"
+date: "2016-09-01 00:06:18"
+cover: "joaquin-pixan2.jpg"
 ---
 
 It's amazing to watch full resolution films with no ads on LBRY, but the protocol is also built to carry music, ebooks, and more. On today's #NewKids Thursday, we're announcing something sweet for your auditory nerves.
@@ -14,7 +14,7 @@ It's amazing to watch full resolution films with no ads on LBRY, but the protoco
 The true treat of LBRY is finding brilliant gems from corners of the globe, like Spanish master vocalist Joaquín Pixán.
 
 > "...The special qualities of our singer's voice, the attractive color of his timbre, adapt wonderfully to the texts and notes and in particular seem tailor-made to bring out the passages which hint at or openly display a Spanishness of the greatest pedigree; a forthrightness even verging on the rustic or even a refined degree of stylization of the popular Spanish copla."
-**– Arturo Reverter**
+> **– Arturo Reverter**
 
 His live performances and catalog of studio recordings will keep you coming back again and again. Search "joaquin pixan" for his all-time greats. And then mix it up a bit with...
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Pass the Juice'
-date: '2017-06-08 00:08:00'
-cover: 'juicemedia-banner.png'
+title: "Pass the Juice"
+date: "2017-06-08 00:08:00"
+cover: "juicemedia-banner.png"
 ---
 
 Mainstream news can be agonizingly dry at best and dishonest at worst.
@@ -17,7 +17,7 @@ Donate to [their Patreon here](https://www.patreon.com/TheJuiceMedia), and look 
 
 - [lbry://@thejuicemedia](https://open.lbry.com/@thejuicemedia)
 
-And add your channel to the LBRY queue like Juice Media,  in a single click using this tool:
+And add your channel to the LBRY queue like Juice Media, in a single click using this tool:
 
 - /youtube
 

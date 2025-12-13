@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
 title: "I̶t̶'̶s̶ ̶a̶b̶o̶u̶t̶ ̶e̶t̶h̶i̶c̶s̶ ̶i̶n̶ ̶g̶a̶m̶e̶ ̶j̶o̶u̶r̶n̶a̶l̶i̶s̶m̶  Aw who knows just watch The Quartering"
-date: '2020-01-30 13:00:00'
-cover: '2020-0130quartering.jpg'
+date: "2020-01-30 13:00:00"
+cover: "2020-0130quartering.jpg"
 category: featured-content
 ---
 
@@ -16,7 +16,7 @@ No.
 
 No, stop.
 
-We have to fight about this sh*t now too?
+We have to fight about this sh\*t now too?
 
 I’ve learned three things this week:
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
 title: "The Maker's Mark"
-date: '2017-07-21 00:03:00'
-cover: 'makestuff-banner.png'
+date: "2017-07-21 00:03:00"
+cover: "makestuff-banner.png"
 ---
 
 LBRY is all about sharing your creations with the world.
@@ -15,7 +15,7 @@ Bob of <a href='https://open.lbry.com/@ILikeToMakeStuff'>@ILikeToMakeStuff</a> b
 
 If you're like us, you spend a lot of time building things indoors. Not moving. At a desk.
 
-Bob shows you just how fun building cool things that you *actually* want to make can be, all while getting your blood pumping.
+Bob shows you just how fun building cool things that you _actually_ want to make can be, all while getting your blood pumping.
 
 Bob, LBRY. LBRYians, Bob.
 

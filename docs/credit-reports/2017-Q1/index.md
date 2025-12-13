@@ -6,7 +6,7 @@ category: policy
 
 ## Summary
 
-This quarter we moved 3 million community Credits from cold storage.  We spent 1,186,244 total community Credits on line items detailed below. No operational Credits were moved or spent.  No institutional Credits were moved or spent.
+This quarter we moved 3 million community Credits from cold storage. We spent 1,186,244 total community Credits on line items detailed below. No operational Credits were moved or spent. No institutional Credits were moved or spent.
 As the LBRY protocol performance and reliability has again increased, we anticipate increased outlays in q2 2017. This will primarily be driven by the redemption of beta invites. We also may begin the first institutional outlays, but any outlays here will be pilot programs and come with spending restrictions.
 
 ## Overview By Fund

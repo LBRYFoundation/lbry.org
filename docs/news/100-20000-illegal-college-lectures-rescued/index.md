@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: '20,000 World-class University Lectures Made Illegal, So We Irrevocably Mirrored Them'
-date: '2017-03-15 00:09:00'
-cover: 'berkeley-banner.jpg'
+title: "20,000 World-class University Lectures Made Illegal, So We Irrevocably Mirrored Them"
+date: "2017-03-15 00:09:00"
+cover: "berkeley-banner.jpg"
 ---
 
 **Update 12/21/2019: just looking to access these videos? Check out the [@UCBerkeley channel on lbry.tv](https://lbry.tv/@UCBerkeley:d) or [download the app](https://lbry.com/get) and go to [lbry://@UCBerkeley:d](lbry://@UCBerkeley:d).**

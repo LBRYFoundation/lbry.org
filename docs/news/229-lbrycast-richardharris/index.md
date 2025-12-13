@@ -1,10 +1,11 @@
 ---
 author: samuel-lbryian
-title: 'Hands Off Your ****, Even If You Trip'
-date: '2019-10-23 14:30:00'
-cover: 'richardharris-blog2.jpg'
+title: "Hands Off Your ****, Even If You Trip"
+date: "2019-10-23 14:30:00"
+cover: "richardharris-blog2.jpg"
 category: featured-content
 ---
+
 Welcome to this week's creator spotlight!
 
 ### Richard Harris Says Vote No on Fapping, Yes on Tiny Bits of LSD

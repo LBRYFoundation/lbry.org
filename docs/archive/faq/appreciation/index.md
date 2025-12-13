@@ -3,7 +3,7 @@ title: Appreciation for contributing
 category: other
 ---
 
-If you've been linked or directed to this page, it's most likely because we've noticed you made a contribution to LBRY. So first of all, ***THANK YOU*** from the LBRY team and all other LBRYians (of which you should now count yourself!).
+If you've been linked or directed to this page, it's most likely because we've noticed you made a contribution to LBRY. So first of all, **_THANK YOU_** from the LBRY team and all other LBRYians (of which you should now count yourself!).
 
 Public contributions are crucial for the development and continued success of the LBRY application and network. Whether it's a good suggestion, a code submission, a thorough bug report or just raising awareness of LBRY, it all strengthens the community and network.
 

@@ -11,6 +11,7 @@ However, some pools are in a partnership with the independent community initiati
 The current breakdown of mining hash rates can be found on [Mining Pool Stats](https://miningpoolstats.stream/lbry)
 
 ## Pools
+
 - [LBRYpool](https://lbrypool.net/) ⬅ Support the LBRY community with this pool!
 - [zPool](https://www.zpool.ca/) ⬅ minority pool, no signup needed!
 - [Mining Dutch](https://www.mining-dutch.nl/pools/lbrycredits.php)

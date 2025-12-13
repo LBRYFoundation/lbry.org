@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Kernels of Truth'
-date: '2017-08-24 00:22:00'
-cover: 'lunduke-banner.jpg'
+title: "Kernels of Truth"
+date: "2017-08-24 00:22:00"
+cover: "lunduke-banner.jpg"
 ---
 
 Sometimes, the best way to summarize LBRY is thusly: what's the most irritatingly nerdy way that we can deliver streaming content to your computer, and how much Ubuntu is too much?

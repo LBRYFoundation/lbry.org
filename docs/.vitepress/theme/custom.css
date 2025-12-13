@@ -1,12 +1,12 @@
-@import '@fontsource-variable/roboto';
+@import "@fontsource-variable/roboto";
 
-:root{
+:root {
   /*LBRY Colors*/
-  --accent: #27E4EB;
+  --accent: #27e4eb;
   --accent-darker: #12bec4;
 
-  --primaryBG: #072A46;
-  --secondaryBG: #051D31;
+  --primaryBG: #072a46;
+  --secondaryBG: #051d31;
   --tertiaryBG: #041523;
 
   /*VitePress customizations*/
@@ -32,17 +32,16 @@
 
   --vp-sidebar-bg-color: var(--secondaryBG);
 
-
   --vp-c-divider: var(--accent);
   /*--vp-c-text-1: white;*/
 
   --vp-nav-logo-height: 2.6rem;
 
-  --vp-font-family-base: 'Roboto Variable', sans-serif;
+  --vp-font-family-base: "Roboto Variable", sans-serif;
 
   /*--counterAccent:#fff;*/
 }
 
-:root .home.top{
+:root .home.top {
   --vp-c-bg-alt: var(--tertiaryBG);
 }

@@ -16,7 +16,6 @@ In this guide we cover:
 - Choosing and Configuring a Mining Pool
 - Setting up an LBRY wallet
 
-
 ### Overview of LBRY Mining
 
 Mining is a process where computing power is used to verify transactions on the LBRY network and add them to the public ledger (LBRY blockchain). It is also the process of how new LBRY Credits (LBC) are created as a reward for the successful miners (see details below). The process uses the mining software to calculate complex mathematical puzzles in order to secure the transactions. Both CPU and GPU hardware can be used for mining, but the current market is dominated by GPU and ASIC mining. LBRY uses a mix of SHA512, SHA256 and RIPEMD hash functions in its algorithm. To put it in the most simple terms: mining enables secure and fast LBC transactions.
@@ -31,7 +30,6 @@ For revenue, you can go to a public mining calculator to check the [current prof
 
 In regards to operating expenses, this is in largely determined by your [cost of electricity](https://hashrateindex.com/blog/energy-consumption-to-hashrate). As of 2020 you ideally want to pay less than 7-8 cents USD per kWh.
 
-
 ### Sourcing Mining Equipment
 
 LBRY mining is dominated by the ASIC/FPGA market. GPU & CPU mining is not viable at this point given the network difficulty.
@@ -40,20 +38,18 @@ FPGA’s are a bit more specialized hardware that have higher mining efficiencie
 
 The following LBRY rigs are available on the market today:
 
-
 | Miner         | Hashrate | Power Consumption (Watts) | Unit Power (W/Mh) |
-|---------------|----------|---------------------------|-------------------|
+| ------------- | -------- | ------------------------- | ----------------- |
 | Baikal BK-D   | 80 GH/s  | 500 W                     | 0.006j/Mh         |
 | Baikal BK-B   | 40 GH/s  | 400 W                     | 0.01j/Mh          |
 | GoldShell LB1 | 86 GH/s  | 80 W                      | NA                |
 
-
 [GoldShell Purchase link](https://www.goldshell.com/lb1-lbry-miner/)
 
 Resellers may also have miners available:
+
 - [Blockware Mining](https://www.blockwaresolutions.com)
 - [Kaboom Racks](http://kaboomracks.com)
-
 
 ### Colocating your FPGAs
 
@@ -65,11 +61,9 @@ Please make sure to do your own research before making any decision on engaging 
 
 If you are self-hosting a farm you can check out various [ASIC management software](https://hashrateindex.com/blog/asic-miner-management-guide) to make your life easier.
 
-
 ### Setting up your FPGA
 
 For this guide, we will set up a Baikal but the process is pretty similar for any rig.
-
 
 **Powering up the Miner**
 Connect your machine to the power outlet via the built-in PSU. Then connect your miner to your internet-connected router or switch using a standard network cable. You are now ready to power up your miner.
@@ -78,7 +72,6 @@ Connect your machine to the power outlet via the built-in PSU. Then connect your
 To get started, navigate to your dashboard by finding your miners’ IP address using your router or scanner. Your page will look something like this:
 
 ![LBRY FPGA Setup](https://lbry.tv/$/download/ASIC-Setup-Dashboard/0ce0b653611c31cbcef380cffcf83661e6339214)
-
 
 #### Choosing and Configuring a Mining Pool
 
@@ -92,13 +85,11 @@ In this guide, we will set up an FPGA with [Luxor](https://mining.luxor.tech/), 
 
 Once you have filled out the details, click Save & Apply. Setup is now complete.
 
-
 **Monitoring Results**
 
 It will take about 5 minutes for your workers to appear on the stats page. To find your user, simply go to Luxor, login to your account and navigate to the Workers tab. You should see something like this:
 
 ![LBRY Monitoring Dashboard](https://lbry.tv/$/download/Luxor-LBRY-Dashboard/a0eca1075193c1d8ec7486015bef5e1bcaf19112)
-
 
 ### Setting up a LBRY Wallet
 

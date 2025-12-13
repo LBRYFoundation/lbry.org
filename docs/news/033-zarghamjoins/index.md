@@ -1,8 +1,8 @@
 ﻿---
 author: samuel-lbryian
 title: LBRY Exposes Itself to World; Adds Mad Scientist to Team
-date: '2016-03-02 18:12:13'
-cover: 'zargham-joins.jpg'
+date: "2016-03-02 18:12:13"
+cover: "zargham-joins.jpg"
 tags: ["big data", team, events]
 ---
 

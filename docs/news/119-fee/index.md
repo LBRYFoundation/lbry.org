@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Inspire. Educate. Connect.'
-date: '2017-07-06 00:20:30'
-cover: 'fee-banner.jpg'
+title: "Inspire. Educate. Connect."
+date: "2017-07-06 00:20:30"
+cover: "fee-banner.jpg"
 ---
 
 The tenets of FEE, or the Foundation for Economic Education, are pretty similar to our own: to inspire, educate and connect.

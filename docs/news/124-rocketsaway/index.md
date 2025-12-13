@@ -1,17 +1,17 @@
 ---
 author: reilly-smith
-title: '#LBRYcast Evolution'
-date: '2017-08-03 00:17:30'
-cover: 'lbryui-banner.png'
+title: "#LBRYcast Evolution"
+date: "2017-08-03 00:17:30"
+cover: "lbryui-banner.png"
 ---
 
 With the launch of [open beta](/news/popup-open-beta) on July 31st, we're officially entering LBRY Year Two. So we figured it was time to update #LBRYcast as well.
 
-*(Haven't grabbed the beta yet? Do it [here](/get/).)*
+_(Haven't grabbed the beta yet? Do it [here](/get/).)_
 
 LBRYcast will now be a weekly spotlight on new and great content available on the network. Each week, we'll spotlight one or more creators that are available via LBRY.
 
-LBRY users who watch this content will earn a reward *every week*. If you've entered your email in the LBRY app, you'll receive a notification each week with the new content. You can also look for a post on this blog.
+LBRY users who watch this content will earn a reward _every week_. If you've entered your email in the LBRY app, you'll receive a notification each week with the new content. You can also look for a post on this blog.
 
 Or you could just look for the content in the app itself, which is marked with a bright red rocketship.
 
@@ -20,7 +20,6 @@ Or you could just look for the content in the app itself, which is marked with a
 So that's #LBRYcast. Here's this week's great stuff...
 
 ### Recollection
-
 
 As you can tell from [several](/news/slav) [previous](/news/whoiscapital) [LBRYcast posts](/news/acousticlabs), I like to find the best sounds on LBRY. And this week is another chart topper.
 

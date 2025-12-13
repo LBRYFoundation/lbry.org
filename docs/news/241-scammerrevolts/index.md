@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Scammer Revolts gives us raging justice boners as he turns the table on would be swindlers.'
-date: '2019-12-12 13:00:00'
-cover: '2019-1212scammer.jpg'
+title: "Scammer Revolts gives us raging justice boners as he turns the table on would be swindlers."
+date: "2019-12-12 13:00:00"
+cover: "2019-1212scammer.jpg"
 category: featured-content
 ---
 

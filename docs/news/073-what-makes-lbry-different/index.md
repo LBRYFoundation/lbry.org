@@ -1,8 +1,8 @@
 ﻿---
 author: jeremy-kauffman
-title: 'How Is LBRY different from iTunes, Storj, YouTube, BitTorrent and Others?'
-date: '2016-10-11 00:06:18'
-cover: 'lbry-desk.png'
+title: "How Is LBRY different from iTunes, Storj, YouTube, BitTorrent and Others?"
+date: "2016-10-11 00:06:18"
+cover: "lbry-desk.png"
 ---
 
 LBRY is a revolutionary technology that is poised to challenge a remarkable number of businesses – YouTube, Netflix, iTunes, Kindle Store, Audible, Steam, and so on.
@@ -21,7 +21,7 @@ IPFS and BitTorrent are wonderful technologies from which LBRY has drawn a lot o
 
 - Lack of discovery. BitTorrent and IPFS provide decentralized ways to access a unique piece of data or information, but they do not provide an overall catalog that lists all of the available data or information to consume.
 - Ugly URLs. BitTorrent only provides access via long, complex magnet URLs. IPFS supports human-friendly naming via IPNS, but this is an after-the-fact hack and does not provide a single, authoritative, user-friendly namespace with the way the LBRY does.
-- Lack of monetization. Neither BitTorrent nor IPFS support payments to publishers for the content or data they create and publish to the network; LBRY *does*.
+- Lack of monetization. Neither BitTorrent nor IPFS support payments to publishers for the content or data they create and publish to the network; LBRY _does_.
 - Incentive problems. BitTorrent and IPFS rely on people being generous with their own resources for data to continue to be available. LBRY creates market incentives for data to be as widespread and available as possible.
 
 **Yes, there are attempts to add this via a layer on top, but LBRY bakes it in.**
@@ -48,7 +48,7 @@ Finally, unlike almost every blockchain company, we've never sold coins to the p
 
 Toasters transfer heat via radiative EM waves in the infrared spectrum to brown bread and make people happy.
 
-LBRY transfers data via EM waves in the infrared spectrum* to deliver content and make people happy.
+LBRY transfers data via EM waves in the infrared spectrum\* to deliver content and make people happy.
 
 LBRY is also brave and little. So we're basically, fundamentally the same as a toaster.
 

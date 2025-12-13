@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
 title: "LBRY's Content Curator Is An Indie Kid Who Will Show You What's Good"
-date: '2016-06-21 00:06:18'
+date: "2016-06-21 00:06:18"
 ---
 
 Peel away the high-tech shell and digital-age innovation, and you'll find that at its core, LBRY is all about something as old as humanity itself - telling stories.
@@ -12,7 +12,7 @@ LBRY is excited to announce the addition of Reilly Smith to the team as in-house
 
 ![reillysmith](/img/reillysmith.jpg)
 
-Reilly is an impressive indie filmmaker in his own right. He earned a degree in Film and Media Studies from the University of Oklahoma, and has produced two feature films, along with short-form content of all stripes. His films have shown at many of the major festivals, including Sundance, SXSW, Dallas IFF, and LA Film Fest. Reilly has also produced series for Zero Day Fox and Disney. [Check out the trailer for *Cinema Six*](https://www.youtube.com/watch?v=4SIASWxfwWc), a feature film on which he served as Executive Producer.
+Reilly is an impressive indie filmmaker in his own right. He earned a degree in Film and Media Studies from the University of Oklahoma, and has produced two feature films, along with short-form content of all stripes. His films have shown at many of the major festivals, including Sundance, SXSW, Dallas IFF, and LA Film Fest. Reilly has also produced series for Zero Day Fox and Disney. [Check out the trailer for _Cinema Six_](https://www.youtube.com/watch?v=4SIASWxfwWc), a feature film on which he served as Executive Producer.
 
 Reilly is a rare breed - an artist who also fully embraces business and technology. He leads business development and product strategy for WIFI Metropolis, a wifi networking startup, and started investing in cryptocurrency from the early days of bitcoin.
 

@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Ragequit the NoobTube'
-date: '2017-03-23 00:16:00'
-cover: 'montage-banner.png'
+title: "Ragequit the NoobTube"
+date: "2017-03-23 00:16:00"
+cover: "montage-banner.png"
 ---
 
 itshappening.jpg
@@ -11,11 +11,12 @@ At least something's happening. And that something is a surge of new channels jo
 
 We made our own statue of liberty. She's planted firmly at /youtube, and she welcomes all comers to the promised land of LBRY. Automatically. Without lifting a right trigger finger--or in most cases some WASD + left click.
 
-[//]: # (!TODO[Montage of Gamers]&#40;/img/news/montage-inline.png&#41;)
+[//]: # "!TODO[Montage of Gamers](/img/news/montage-inline.png)"
 
 We welcome Caveman Gaming, EmRatThic, Zed Gaming, Gaming Sicness, and Wingheaven to LBRY. When categories roll out in April, you'll find them in "Gaming."
 
 What does this seemingly gibberish string of words have to do with "Gaming?" They've graciously brought games from AAA and indie to LBRY, including:
+
 - GTAV
 - Rainbox 6 Siege
 - Warcraft III

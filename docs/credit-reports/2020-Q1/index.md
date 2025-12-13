@@ -3,8 +3,10 @@ title: "quarterly Credit Report: First quarter 2020"
 sheet: https://docs.google.com/spreadsheets/d/12_4RFTiEjV1RVdhOOPURa724ZSS8RDBxfnn8MiOvEDq/edit?usp=sharing
 category: policy
 ---
+
 ## Summary
-This quarter we moved 10MM operational, 23MM community Credits, and 3MM institutional Credits from master cold storage.  We spent 16,026,383 total community Credits on line items detailed below. 126,352 operational Credits were used for the LBRY team member LBC purchase program. 3MM institutional Credits were granted to lbry.org. We anticipate similar community outlays throughout 2020.  Operational spending may increase at any time, but is not expected to increase significantly. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules.
+
+This quarter we moved 10MM operational, 23MM community Credits, and 3MM institutional Credits from master cold storage. We spent 16,026,383 total community Credits on line items detailed below. 126,352 operational Credits were used for the LBRY team member LBC purchase program. 3MM institutional Credits were granted to lbry.org. We anticipate similar community outlays throughout 2020. Operational spending may increase at any time, but is not expected to increase significantly. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules.
 
 ## Overview By Fund
 
@@ -13,7 +15,7 @@ This quarter we moved 10MM operational, 23MM community Credits, and 3MM institut
 23,026,383 Credits were spent from the community fund, in the following areas:
 
 | Category                   | Amount    |
-|----------------------------|-----------|
+| -------------------------- | --------- |
 | Bounties                   | 743,036   |
 | User Engagement            | 9,056,100 |
 | Community Engagement       | 370,847   |
@@ -34,8 +36,8 @@ It should be noted that LBRY funds staked are recoverable.
 
 ### Operational Fund
 
-* LBRY sold 2,971,644 LBC on the open market
-* LBRY issued 126,352 LBC to employees
+- LBRY sold 2,971,644 LBC on the open market
+- LBRY issued 126,352 LBC to employees
 
 LBRY may move Credits to market if conditions allow. LBRY is likely to announce new ways to acquire LBC in q2 2020.
 

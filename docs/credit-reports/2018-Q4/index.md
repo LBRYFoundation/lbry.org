@@ -3,8 +3,10 @@ title: "quarterly Credit Report: Fourth quarter 2018"
 sheet: https://docs.google.com/spreadsheets/d/1PSDn5igtZ51ml2Bd4lNlq9fSYgDbb-z1jePf7G-Ae6s/edit#gid=0
 category: policy
 ---
+
 ## Summary
-This quarter we moved 118,635 operational and 240,000 institutional Credits from cold storage.  We spent 1,084,796 total community Credits on line items detailed below. 118,635 operational Credits were used for the LBRY employee LBC purchase program. 100,000 institutional Credits were spent from the institutional fund as a second payment of a new media partnership.
+
+This quarter we moved 118,635 operational and 240,000 institutional Credits from cold storage. We spent 1,084,796 total community Credits on line items detailed below. 118,635 operational Credits were used for the LBRY employee LBC purchase program. 100,000 institutional Credits were spent from the institutional fund as a second payment of a new media partnership.
 We anticipate comparable or larger total outlays in q1 2019. Operational spending may increase, but not significantly. Community spending is likely to be comparable or higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 1,000,000+ LBC from our community fund. Institutional spending is expected to be less than 1,000,000 LBC.
 
 ## Overview By Fund
@@ -14,7 +16,7 @@ We anticipate comparable or larger total outlays in q1 2019. Operational spendin
 1,084,796 Credits were spent from the community fund, in the following areas:
 
 | Category             | Amount  |
-|----------------------|---------|
+| -------------------- | ------- |
 | Bounties             | 176,550 |
 | User Engagement      | 210,000 |
 | Community Engagement | 177,000 |
@@ -27,14 +29,12 @@ As reliability and interest has been increasing, we anticipate continuing to rew
 
 ### Operational Fund
 
-* LBRY sold no LBC on the open market
-* LBRY issued 118,635 LBC to employees
+- LBRY sold no LBC on the open market
+- LBRY issued 118,635 LBC to employees
 
 LBRY does not anticipate moving Credits to market this quarter due to both market conditions and our favorable cash position. However, should market conditions or our needs change, we reserve the right to move Credits to market as needed.
 
-
 ### Institutional Fund
 
-* 100,000 LBC re-issued for a 3q transaction sent from the wrong fund
-* 140,000 LBC issued for our media partnership with Anti-Media
-
+- 100,000 LBC re-issued for a 3q transaction sent from the wrong fund
+- 140,000 LBC issued for our media partnership with Anti-Media

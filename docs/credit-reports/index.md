@@ -5,6 +5,7 @@ description: Quarterly reports regarding usage of LBRY Credits by LBRY Inc.
 # Quarterly Credit Reports
 
 ::: warning
+
 <p>LBRY Inc has ceased issuing Credit reports due to regulatory uncertainty around communication of this information. We will resume these reports if and when the SEC provides clear guidance that these reports are legal to produce.</p>
 <p>Please visit <a href="https://helplbrysavecrypto.com">helplbrysavecrypto.com</a> for more.</p>
 :::
@@ -12,7 +13,7 @@ description: Quarterly reports regarding usage of LBRY Credits by LBRY Inc.
 <p>LBRY issues a quarterly report every 3 months in January, April, July, and October, covering the preceding 3 full months. These reports outline the corresponding transaction history as well as the current state of LBRY, Inc.'s balance sheet and anticipated future expenditures.</p>
 
 | Date    | Report                             | Balance Sheet                                                                                     |
-|---------|------------------------------------|---------------------------------------------------------------------------------------------------|
+| ------- | ---------------------------------- | ------------------------------------------------------------------------------------------------- |
 | 2016-Q2 | [Report](/credit-reports/2016-q2/) | [Sheet](https://docs.google.com/spreadsheets/d/1r7puheE4Ut4c08R47uCDZbDdMHAoQa0WDqw470gjMIw/view) |
 | 2016-Q3 | [Report](/credit-reports/2016-q3/) | [Sheet](https://docs.google.com/spreadsheets/d/1zPG58YuLPqpB3yzypntRWouoEVc4saDOifpnvnwS8Rc/view) |
 | 2016-Q4 | [Report](/credit-reports/2016-q4/) | [Sheet](https://docs.google.com/spreadsheets/d/11nKwFXN3gIQHnE7jYjEK5AFClyAde9aFs6UlnGX3Uzg/view) |

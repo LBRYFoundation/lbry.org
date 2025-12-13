@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
 title: Why Doesn't LBRY Just Use Bitcoin?
-date: '2016-03-17 13:31:10'
-cover: 'why-not-bitcoin2.jpg'
+date: "2016-03-17 13:31:10"
+cover: "why-not-bitcoin2.jpg"
 cover-light: true
 ---
 
@@ -14,7 +14,7 @@ There are three important reasons why we must use LBC instead of Bitcoin. Some o
 
 ### Reason #1 – Using LBC instead of Bitcoin makes verifying content ownership possible for lightweight clients.
 
-In blockchain-based systems, data (in the case of Bitcoin, transactions) are grouped into multiple packages called blocks. These blocks are "chained" one after another to form the public ledger known as the blockchain. Each block starts with a block header, a comparatively tiny piece of data, which has some metadata about the block such as the time it was mined and a reference to the block that came before it. That metadata also includes a cryptographic value which can be used to prove to someone who doesn't have (or want) the whole block, but has all of the block headers, that a given transaction was included in that block and therefore into the blockchain. This is used by so-called *lightweight clients*, which make it possible for people to use bitcoin on devices that wouldn't be able to handle the full blockchain, like web browsers and smartphones.
+In blockchain-based systems, data (in the case of Bitcoin, transactions) are grouped into multiple packages called blocks. These blocks are "chained" one after another to form the public ledger known as the blockchain. Each block starts with a block header, a comparatively tiny piece of data, which has some metadata about the block such as the time it was mined and a reference to the block that came before it. That metadata also includes a cryptographic value which can be used to prove to someone who doesn't have (or want) the whole block, but has all of the block headers, that a given transaction was included in that block and therefore into the blockchain. This is used by so-called _lightweight clients_, which make it possible for people to use bitcoin on devices that wouldn't be able to handle the full blockchain, like web browsers and smartphones.
 
 LBC block headers contain an additional piece of information: a value which can be used to cryptographically prove to lightweight clients that a particular name maps to a particular value, according to LBRY's unique naming system. For example, when a lightweight client asks, "What content does the name 'wonderfullife' refer to?", a client with a full copy of the LBC blockchain can send back the answer and prove using cryptography that it has given the correct answer. Without that additional piece of information in the block header, lightweight clients (web browsers and smartphones) would not be able to securely use LBRY.
 

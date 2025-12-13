@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
 title: LBRY Means Business With Addition of Josh Finer, MBA
-date: '2016-01-06 15:11:11'
+date: "2016-01-06 15:11:11"
 ---
 
 Every team needs a guy who can do stuff.
@@ -36,5 +36,4 @@ Mike Vine, LBRY's Technology Evangelist, said that he is thrilled to have a prof
 
 > "We've only just started working together, and I already see what Josh brings to the project. I am anxious to tell the world about using a blockchain to deliver content into every living room, and Josh is going to make sure that message reaches key audiences. We're looking for developers, artists, and investors to come together to make this work. We're already moving forward, but Josh will turn our steps into leaps."
 
-
-***<p style="text-align: center;">[Become a LBRY Alpha Tester and earn 1,000 LBRY Credits (LBC)](/get/).</p>***
+**_<p style="text-align: center;">[Become a LBRY Alpha Tester and earn 1,000 LBRY Credits (LBC)](/get/).</p>_**

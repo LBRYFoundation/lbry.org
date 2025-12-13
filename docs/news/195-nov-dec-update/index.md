@@ -1,8 +1,8 @@
 ---
 author: tom-zarebczan
-title: 'Development Update for November/December 2018'
-date: '2018-12-18 17:00:00'
-cover: 'holiday-bc.jpg'
+title: "Development Update for November/December 2018"
+date: "2018-12-18 17:00:00"
+cover: "holiday-bc.jpg"
 category: community-update
 ---
 
@@ -15,20 +15,21 @@ To read previous updates, please visit our [Development and Community Update arc
 If you want to see a condensed view of what we have completed recently and what's planned for LBRY, check out our [Roadmap](/roadmap/) ([2019 planning](#2019) is in progress!).
 
 # In This Update {#dev-updates}
-* [Desktop App and SDK Quick Summary](#summary)
-* [LBRY Desktop App Next Steps and Design Preview](#app)
-* [LBRY for Android Updates](#android)
-* [spee.ch Updates, Memes and Multisite](#speech)
-* [Subscription Email Digest](#sub)
-* [Email Verification on Web](#email)
-* [open.lbry.com Redesign](#open)
-* [LBRY on the Web Preview](#lbry-web)
-* [LBRY White Paper Update](#paper)
-* [LBRY on a Hardware Wallet](#hw)
-* [LBRY Streaming](#stream)
-* [LBRY SDK Updates](#sdk)
-* [Blockchain Team Updates](#blockchain)
-* [2019 Tech Planning Preview](#2019)
+
+- [Desktop App and SDK Quick Summary](#summary)
+- [LBRY Desktop App Next Steps and Design Preview](#app)
+- [LBRY for Android Updates](#android)
+- [spee.ch Updates, Memes and Multisite](#speech)
+- [Subscription Email Digest](#sub)
+- [Email Verification on Web](#email)
+- [open.lbry.com Redesign](#open)
+- [LBRY on the Web Preview](#lbry-web)
+- [LBRY White Paper Update](#paper)
+- [LBRY on a Hardware Wallet](#hw)
+- [LBRY Streaming](#stream)
+- [LBRY SDK Updates](#sdk)
+- [Blockchain Team Updates](#blockchain)
+- [2019 Tech Planning Preview](#2019)
 
 ### Desktop App and SDK Quick Summary {#summary}
 
@@ -61,6 +62,7 @@ Recently, spee.ch went live with the content page facelift previewed in our last
 Interested in running your own spee.ch server or clone? We've recently revamped this process to include Chainquery and are offering 5,000 LBC for semi technical users to run through the setup and provide feedback, [check out the details here](https://www.reddit.com/r/lbry/comments/a34io1/run_your_own_speech_site_lbry_needs_feedback_on).
 
 ### Subscription Email Digest {#sub}
+
 A awesome new feature rolling out this week to beta users is a weekly digest email! Based on content from your subscribed channels and new items posted in the last week, we'll email you with up to 5 latest pieces of content from your channels. The 5-item parameter may be tweaked later on based on initial beta user feedback. This feature can be disabled (enabled by default) by going to your mailing preferences, accessible through the Help page of the LBRY apps or at the bottom of your latest email from LBRY. Keep an eye on your inbox if you've subscribed to content in the past week! This will be turned on for all users after a round of initial feedback.
 
 ![email](https://spee.ch/@lbry:3f/digest.jpg)
@@ -70,6 +72,7 @@ A awesome new feature rolling out this week to beta users is a weekly digest ema
 We're in the process of making it even easier to verify your email and LBRY app installation by allowing it to happen solely on the web, without having to input a long verification code or clicking the "Magic Link" button. This will allow you to start the verification process on your desktop, and open/confirm email on your mobile device, or vice versa. This also paves the way to be able to painlessly link your accounts from the email management page, which will help YouTube sync users who currently require manual intervention if they already signed up for LBRY. This will be rolling out with both the Android and Desktop app updates in the next couple of weeks.
 
 ### open.lbry.com Redesign {#open}
+
 If you have visited [open.lbry.com](https://open.lbry.com) recently, you may have noticed an aesthetically pleasing redesign! Anyone can use this site to hyperlink content so that it opens in the LBRY app. We also use it on spee.ch and in the share options inside the LBRY app (or if you right click on a tile). What's great about this new site is that if you don't have LBRY installed, you'll be able to download it via the link provided - previously this would just be a blank page without any instructions for new users.
 
 ![open.lbry.com](https://spee.ch/@lbry:3f/open.jpg)
@@ -97,6 +100,7 @@ If you have a Ledger hardware wallet, you can now store your LBC on it! This doe
 One negative aspect of LBRY we hear about is the need to download content in order to view it. We're taking the initial steps to improve this experience by creating a new API that allows for streaming of blob data directly to a web server, where our apps can listen and render content from. You can check out the [initial spec on GitHub](https://github.com/lbryio/lbry/issues/1634) for details. The first iteration will still require the file to be downloaded locally, but will allow the App team to integrate a new video player that's capable of reading data at certain chunks of the file. After this is fully tested and working, we'll be moving to a streaming only solution for files types that support it (mainly video/audio and images). Other files will still need to be downloaded locally, but we'll also be including disk management settings to help users allocate how much data they want LBRY to store.
 
 ### SDK Progress {#sdk}
+
 The SDK team is thrilled to have its months long of development and testing come into fruition with the 0.30.1 SDK release that shipped with the LBRY Desktop and Android apps! This was a complex release because it includes a brand new wallet, written from scratch in accordance with industry best practices, an upgrade to Python 3.7.1, and a custom UPNP module to replace MiniUPNP (which was a pain to build on Windows) to help users host data. The new wallet includes a migration to process existing wallets, including making a backup first! It inspects the old wallet for all receiving and change addresses, populates them in a new database/syncing transaction data, and migrates the format to a simpler file that doesn't include all transaction data that would bloat the previous wallet format.
 
 The wallet is much smarter, more efficient, and better at reconnecting during server or internet problems. It will look ahead when new addresses are created, subscribing to those transactions, enabling cross device syncing. This is a feature we plan to roll out slowly over the next few months. If you have multiple LBRY installations today, you can try this out by copying the default_wallet file from one device to the other. As transactions occur on one device, they'll be synced automatically on the other (and vice versa). This still does not include the ability to sync channels. We're still looking for the best way to proceed with this in the future. Currently channels are created with a key outside of the seed, and thus can't be re-created automatically on the other wallet.
@@ -110,9 +114,11 @@ The next steps for the team is to refactor more of the code using asyncio, which
 The blockchain team released a couple of updates to the full blockchain client, including the latest [patch version 0.12.3.1](https://github.com/lbryio/lbrycrd/releases/tag/v0.12.3.1) building on top of a previous mandatory release which mitigates a potential, but rare, hardfork condition. This has not actually occured in the wild, but we can never be too safe! We've reached out to miners and exchanges to update to this latest version to ensure maximum security of the LBRY blockchain. The majority of other work has been in finalizing and testing the [upcoming normalization hardfork](https://github.com/lbryio/lbrycrd/pull/235) and reviewing/planning for upstream changes from Bitcoin Core. We should have a testnet version of the hardfork within the next week or two. The blockchain team will coordinate with the SDK and App teams to ensure a smooth transition after claim names are normalized.
 
 ### 2019 Tech Planning Preview {#2019}
+
 We are in the process of planning what's in store for the LBRY ecosystem for 2019, so stay tuned on our Discord/Social media pages for updates. Some areas we plan to tackle include cross device syncing (wallets, subscriptions, purchases, history), LBC<>USD on/off ramps, community metadata overlays (tags, categories, etc), comments, creator features, internationalization, and using the power of community swarms to increase LBRY adoption.
 
 # Want to Develop on the LBRY ecosystem?
+
 All of our code is open source and available on [GitHub](https://github.com/lbryio). Are you a developer and want to find out more? A great place to start is [lbry,tech](https://lbry.tech) to learn more about what makes LBRY work under the hood. Be sure to check out our [contributing guide](https://lbry.tech/contribute) and our [LBRY App specific contributing document](https://github.com/lbryio/lbry-app/blob/master/CONTRIBUTING.md) to find the area best suited for your skillset. We also recently launched our [LBRY Discourse Forum](https://discourse.lbry.com) where developers can interact with the team and ask questions across all our different projects.
 
 If you aren't part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello! For a short time, Santa Yerbil will be visiting our Discord to give lots of presents!

@@ -49,9 +49,7 @@ To have these Credits show in your available balance, they must be unlocked. Tip
 
 You can unlock tips across all your published content and channels with a single transaction by clicking the unlock button from the **View More** section of your wallet. For creators with large amounts of tips, this may take a few minutes to process. The balance may not be spendable until a block confirmation occurs. Once unlocked, we encourage you to re-support your channel or recent content, as having an available balance means your Credits aren't being put to good use!
 
-
 ![ShowContentTips](https://spee.ch/a/f50b49582b951eb2.png)
-
 
 ### 2. Unlocking tips by publish
 
@@ -75,6 +73,7 @@ Unlock tip:
 
 Confirmation box:
 ![ConfirmTipUnlock](https://spee.ch/f/4321c72b6833d43b.png)
+
 ## Revoking a support {#revoke}
 
 Similar to unlocking tips, you can revoke supports you've created via the wallet page. Filter on Supports + Active to see the currently staked ones. Click the trash can icon to revoke.
@@ -93,4 +92,3 @@ If you're feeling uncertain, some easy advice to follow is:
 - Never go below 10 LBC on a piece of content you want to continue to get views
 
 But these rules are just suggestions and may change as LBRY evolves.
-

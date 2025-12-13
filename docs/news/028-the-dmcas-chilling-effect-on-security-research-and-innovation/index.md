@@ -1,10 +1,10 @@
 ---
 author: jack-robison
 title: "The DMCA's Chilling Effect on Security Research and Innovation"
-date: '2016-01-14 16:31:51'
+date: "2016-01-14 16:31:51"
 ---
 
-You walk into a Barnes and Noble, pick up a copy of [*Look Me in the Eye*](https://www.amazon.com/Look-Me-Eye-Life-Aspergers/dp/0307396185), hand the cashier money, and leave the store. The book now belongs to you, right? Of course, it does. You are free to write notes in the margins, sell it second-hand to a friend, or even rip it up if you felt so inclined. What you can't do is copy portions of it and claim them as your own work; you own your copy of the book, but not the copyright.
+You walk into a Barnes and Noble, pick up a copy of [_Look Me in the Eye_](https://www.amazon.com/Look-Me-Eye-Life-Aspergers/dp/0307396185), hand the cashier money, and leave the store. The book now belongs to you, right? Of course, it does. You are free to write notes in the margins, sell it second-hand to a friend, or even rip it up if you felt so inclined. What you can't do is copy portions of it and claim them as your own work; you own your copy of the book, but not the copyright.
 
 <p style="text-align: center;"><img src="https://spee.ch/@move:b/9n0MQwP.jpg" alt="The Battle of Copyright"></p>
 

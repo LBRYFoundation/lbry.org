@@ -1,11 +1,11 @@
 ---
 author: samuel-lbryian
-title: 'Be Like Boba Fett – Earn Bounties for Helping LBRY Grow'
-date: '2016-08-18 00:06:18'
-cover: 'boba-fett.png'
+title: "Be Like Boba Fett – Earn Bounties for Helping LBRY Grow"
+date: "2016-08-18 00:06:18"
+cover: "boba-fett.png"
 ---
 
-The [LBRY Bounty Program](https://lbry.com/bounty) is now open to the public. Anyone in the world can now improve the future of the internet and digital content, and *earn money at the same time*!
+The [LBRY Bounty Program](https://lbry.com/bounty) is now open to the public. Anyone in the world can now improve the future of the internet and digital content, and _earn money at the same time_!
 
 LBRY has already benefited from significant community contributions, including basic debugging, content testing, publishing improvements... the list goes on and on. It's now time to formalize our relationship with this awesome community by offering significant LBRY Credit (LBC) rewards for helping LBRY grow.
 
@@ -26,9 +26,9 @@ The bounty list will be constantly growing, so bookmark it and check in regularl
 - [Custom Project](https://lbry.com/bounty/custom-project) – 250-50,000+ LBC
 - [Typos and Edits](https://lbry.com/bounty/typos-and-edits) – 5-10 LBC
 
-You can even [pitch us your own custom project](https://lbry.com/bounty/custom-project) and earn as much as *20,000 LBC* (reward determined by LBRY team).
+You can even [pitch us your own custom project](https://lbry.com/bounty/custom-project) and earn as much as _20,000 LBC_ (reward determined by LBRY team).
 
-**Please note:** These bounties are intended for LBRY updates our official team does not plan on addressing in the immediate future. The bounties you see are *not representative of all desired changes to LBRY*.
+**Please note:** These bounties are intended for LBRY updates our official team does not plan on addressing in the immediate future. The bounties you see are _not representative of all desired changes to LBRY_.
 
 All bounties are funded through genesis block LBRY Credits – [get the details here](https://lbry.com/news/lbry-blockchain-live-mine-lbc-now).
 

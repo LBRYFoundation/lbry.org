@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
 title: Open a Valve to Gush Classic Movies
-date: '2015-12-02 19:04:36'
+date: "2015-12-02 19:04:36"
 ---
 
 Hundreds of classic films remain locked away in musty movie studio vaults, just waiting for somebody to make them available to the public.
@@ -10,7 +10,7 @@ Hundreds of classic films remain locked away in musty movie studio vaults, just 
 
 Movie history experts estimate some 700 films from the 1930s and 40s are sequestered in the vaults of Universal Pictures alone. As the LA Times points out in a recent article, [a lot of people would love to have access to these classics](https://www.latimes.com/business/hiltzik/la-fi-hiltzik-20151025-column.html):
 
->"Will McKinley, a New York film writer, is dying to get his hands on a copy of 'Alias Nick Beal,' a 1949 film noir starring Ray Milland as a satanic gangster. For classic film blogger Nora Fiore, the Grail might be 'The Wild Party' (1929), the first talkie to star 1920's 'It' girl Clara Bow, directed by the pioneering female director Dorothy Arzner. Film critic Leonard Maltin says he'd like to score a viewing of 'Hotel Haywire,' a 1937 screwball comedy written by the great comic director Preston Sturges."
+> "Will McKinley, a New York film writer, is dying to get his hands on a copy of 'Alias Nick Beal,' a 1949 film noir starring Ray Milland as a satanic gangster. For classic film blogger Nora Fiore, the Grail might be 'The Wild Party' (1929), the first talkie to star 1920's 'It' girl Clara Bow, directed by the pioneering female director Dorothy Arzner. Film critic Leonard Maltin says he'd like to score a viewing of 'Hotel Haywire,' a 1937 screwball comedy written by the great comic director Preston Sturges."
 
 Universal and other movie studios recognize the marketable value in classic films, as well as publicity value in serving as responsible stewards of cultural assets. But studios still face a daunting question: how do they make their treasure trove of films accessible to the public in an economically viable way?
 

@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Joule for Desktop'
-date: '2020-01-22 10:00:00'
-cover: 'joule-lightning.jpg'
+title: "LBRY Joule for Desktop"
+date: "2020-01-22 10:00:00"
+cover: "joule-lightning.jpg"
 category: update
 ---
 

@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Two Scoops of Linux Keeps You Full of Freedom All Day Long'
-date: '2019-11-06 13:00:00'
-cover: 'keyboard.jpg'
+title: "Two Scoops of Linux Keeps You Full of Freedom All Day Long"
+date: "2019-11-06 13:00:00"
+cover: "keyboard.jpg"
 category: featured-content
 ---
 
@@ -10,9 +10,9 @@ category: featured-content
 
 Yeah, it’s a blog about that stupid nerd software, Linux. Sorry, we’re not sorry. OK, we’re kind of sorry? But you guys keep subscribing to Linux content, so we’re back with more.
 
-Have you ever considered playing a video game, so you go to watch videos of the video game, but despite all of these videos about the game, none of the videos just show the ******** game?
+Have you ever considered playing a video game, so you go to watch videos of the video game, but despite all of these videos about the game, none of the videos just show the **\*\*\*\*** game?
 
-You will never have that problem watching Linux Scoops videos. 
+You will never have that problem watching Linux Scoops videos.
 
 They pick a brand of Linux. Then they show you it. These videos do not obey the Wadsworth constant.
 

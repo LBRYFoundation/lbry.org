@@ -3,8 +3,10 @@ title: "quarterly Credit Report: Third quarter 2020"
 sheet: https://docs.google.com/spreadsheets/d/1t3zVnBgXNy1fqLdEVw7jr7x5izVxZ3tlqvBgizqvcGE/edit?usp=sharing
 category: policy
 ---
+
 ## Summary
-This quarter we moved 10MM operational, 20MM community Credits, and no institutional Credits from master cold storage.  We spent 13,455,301 total community Credits on line items detailed below. 10,217,739 operational Credits were used for the LBRY team member LBC purchase program, contract obligations, and secondary market sales.
+
+This quarter we moved 10MM operational, 20MM community Credits, and no institutional Credits from master cold storage. We spent 13,455,301 total community Credits on line items detailed below. 10,217,739 operational Credits were used for the LBRY team member LBC purchase program, contract obligations, and secondary market sales.
 
 Operational spending may increase or decrease at any time, but is not expected to increase significantly in q4. Institutional spending could be substantial at any time, but would be expected to be coupled with sensible and sensitive distribution rules
 
@@ -15,7 +17,7 @@ Operational spending may increase or decrease at any time, but is not expected t
 13,455,301 Credits were spent from the community fund, in the following areas:
 
 | Category             | Amount    |
-|----------------------|-----------|
+| -------------------- | --------- |
 | Bounties             | 693,065   |
 | User Engagement      | 7,551,200 |
 | Community Engagement | 664,168   |
@@ -25,15 +27,14 @@ Operational spending may increase or decrease at any time, but is not expected t
 | Swarm                | 1,500     |
 | LBRY funds staked    | 1,200,000 |
 
-
 We still anticipate spending around 12,000,000 LBC this quarter, with a wide range of possibilities. We’re trying to bring community spending under 3,000,000 LBC per month, but it may remain over this until YouTube monthly payouts end in q1 2021.
 
 ### Operational Fund
 
-* LBRY sold 8,000,000 LBC on the open market
-* LBRY issued 367,739 LBC to employees
-* LBRY sold 1,350,000 LBC via Moonpay.io
-* LBRY sold 500,000 LBC to CoinEx for liquidity
+- LBRY sold 8,000,000 LBC on the open market
+- LBRY issued 367,739 LBC to employees
+- LBRY sold 1,350,000 LBC via Moonpay.io
+- LBRY sold 500,000 LBC to CoinEx for liquidity
 
 LBRY may move Credits to market if conditions allow.
 

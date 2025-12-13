@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Trailer Park Punks'
-date: '2017-06-01 00:19:00'
-cover: 'trailers-banner.png'
+title: "Trailer Park Punks"
+date: "2017-06-01 00:19:00"
+cover: "trailers-banner.png"
 ---
 
 One of my favorite parts of the movie experience is the anticipation. No story is more powerful than the one in your mind's eye. Trailers and teasers play right into that primal feeling.

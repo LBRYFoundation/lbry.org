@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Real Talk'
-date: '2017-08-31 00:19:00'
-cover: 'redactedtonight-banner.jpg'
+title: "Real Talk"
+date: "2017-08-31 00:19:00"
+cover: "redactedtonight-banner.jpg"
 ---
 
 The hallmarks of good news media are honesty and integrity. Telling the true story without sugarcoating or redaction or revisionist history is paramount.

@@ -50,11 +50,11 @@ For instructions on how to publish to Android, please check out our [publishing 
 
 12. You should have an option to set a price on on your content or make it free.
 
-   ![Set a price](https://spee.ch/f/8c23145c5e15dad5.png)
+![Set a price](https://spee.ch/f/8c23145c5e15dad5.png)
 
 13. Next, there is `Additional Option` which gives you an option to select language and license. Default language is set to `English`, and the license is set to `None`. If a change is needed, click the dropdown menus and select the appropriate choice.
 
-   ![Choose addtitional settings for content](https://spee.ch/3/c05592cc3d91e7a4.png)
+![Choose addtitional settings for content](https://spee.ch/3/c05592cc3d91e7a4.png)
 
 14. Please review our [terms of service](/termsofservice) before publishing.
 
@@ -62,15 +62,15 @@ For instructions on how to publish to Android, please check out our [publishing 
 
 16. Read the summary in the `Confirm Upload` box to make sure the data is accurate. If you want to change anything, then click `Cancel`, otherwise, if you are satisfied with what you see, click `Upload`.
 
-   ![Finish the upload process](https://spee.ch/d/231488c4ad3b01c1.png)
+![Finish the upload process](https://spee.ch/d/231488c4ad3b01c1.png)
 
 The file will process in the background and will be added to the LBRY Blockchain. Please leave LBRY open while your content is in the "pending confirmation" mode. This page will automatically refresh and you will be notified when the publish is completed. After this, your content will be available to other LBRY users.
 
-   ![File pending on LBRY](https://spee.ch/4/52c8df708a73e2b5.png)
+![File pending on LBRY](https://spee.ch/4/52c8df708a73e2b5.png)
 
-*It is a good idea to leave LBRY open for a while after this to make sure the app is able to share your file to at least one peer on the data network. Larger files will take longer to upload depending on your network speed.
+\*It is a good idea to leave LBRY open for a while after this to make sure the app is able to share your file to at least one peer on the data network. Larger files will take longer to upload depending on your network speed.
 
-*You can continue to use LBRY while the upload completes.
+\*You can continue to use LBRY while the upload completes.
 
 ## How do I create a channel?
 
@@ -102,7 +102,7 @@ First, you need to access your channel by clicking on the channel art or the ast
 
    ![edit2](https://spee.ch/e/ad430567d07974ac.png)
 
-3. Add your title and description. If you need to update the deposit amount, you can do so by clicking on `Credit Deatils` (can stay the same, higher helps with discovery), same with `Tags` and `Other`  which includes website, email and language.
+3. Add your title and description. If you need to update the deposit amount, you can do so by clicking on `Credit Deatils` (can stay the same, higher helps with discovery), same with `Tags` and `Other` which includes website, email and language.
 4. Click Submit.
 
 ## How do I delete my content and reclaim my deposit?

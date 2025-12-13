@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'C is For Clarke'
-date: '2018-12-11 15:00:00'
-cover: 'space.jpg'
+title: "C is For Clarke"
+date: "2018-12-11 15:00:00"
+cover: "space.jpg"
 category: update
 ---
 
@@ -18,23 +18,25 @@ So what's in this goodie bag of a release? You can [read all the details in this
 
 ### Desktop
 
-* **New custom reward codes for users.** Be on the lookout for contests and promotions for your opportunity to earn rewards! Reading this post and recently upgraded? Here's one for the first 100 users to claim: `clarke-blogpost`
-* **Major improvements to subscriptions.** Meet YRBL the Gerbil - he'll suggest some awesome channels to check out on LBRY! We're also making sure that you see the newest content from your favorite creators as soon as it's available with new notifications to alert you to fresh content. A weekly email digest with new content from subscribed channels is also launching soon!
-* **Content tiles now show posting age.** No more wondering how old the video that you're about to watch is - the explore page now displays how long ago videos were posted.
-* **A brand new "history" page.** In the "My LBRY" menu you can now view your watch history to revisit and share old favorites.
-* **More ways to share LBRY content.** In the past, it's been a bit of a pain to share something from LBRY on the web. With new sharing options, it's easier than ever.
-* **Want to see commenting on LBRY?** Help us gauge interest in commenting by clicking the option at the bottom of any content page! You'll be added to our notification waitlist.
-* **Minor design updates** You'll notice a few cosmetic/styling changes as our app evolves, let us know what you think!
+- **New custom reward codes for users.** Be on the lookout for contests and promotions for your opportunity to earn rewards! Reading this post and recently upgraded? Here's one for the first 100 users to claim: `clarke-blogpost`
+- **Major improvements to subscriptions.** Meet YRBL the Gerbil - he'll suggest some awesome channels to check out on LBRY! We're also making sure that you see the newest content from your favorite creators as soon as it's available with new notifications to alert you to fresh content. A weekly email digest with new content from subscribed channels is also launching soon!
+- **Content tiles now show posting age.** No more wondering how old the video that you're about to watch is - the explore page now displays how long ago videos were posted.
+- **A brand new "history" page.** In the "My LBRY" menu you can now view your watch history to revisit and share old favorites.
+- **More ways to share LBRY content.** In the past, it's been a bit of a pain to share something from LBRY on the web. With new sharing options, it's easier than ever.
+- **Want to see commenting on LBRY?** Help us gauge interest in commenting by clicking the option at the bottom of any content page! You'll be added to our notification waitlist.
+- **Minor design updates** You'll notice a few cosmetic/styling changes as our app evolves, let us know what you think!
 
 ### Android
-* **Tipping!** In-app tipping is now available in the Android app.
-* **Reward codes** Just like the app, you can redeem reward codes on mobile too!
-* **An all new wallet.** We've overhauled our mobile wallet to make it faster and lays the foundation for cross device syncing (to be enabled later)
+
+- **Tipping!** In-app tipping is now available in the Android app.
+- **Reward codes** Just like the app, you can redeem reward codes on mobile too!
+- **An all new wallet.** We've overhauled our mobile wallet to make it faster and lays the foundation for cross device syncing (to be enabled later)
 
 ### Android
-* **Tipping!** In-app tipping is now available in the Android app.
-* **Reward codes** Just like the app, you can redeem reward codes on mobile too!
-* **An all new wallet.** We’ve overhauled our mobile wallet to make it faster and lays the foundation for cross device syncing (to be enabled later)
+
+- **Tipping!** In-app tipping is now available in the Android app.
+- **Reward codes** Just like the app, you can redeem reward codes on mobile too!
+- **An all new wallet.** We’ve overhauled our mobile wallet to make it faster and lays the foundation for cross device syncing (to be enabled later)
 
 Most of all, you should see significant increases in load speed and reliability across the entire LBRY network.
 

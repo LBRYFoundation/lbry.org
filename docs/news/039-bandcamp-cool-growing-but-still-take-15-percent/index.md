@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
 title: Bandcamp Is Cool & Growing – But They Still Take 15%
-date: '2016-05-06 12:11:11'
+date: "2016-05-06 12:11:11"
 ---
 
 Bandcamp, the online music store and platform for artist promotion, has a been a boon to independent musicians.

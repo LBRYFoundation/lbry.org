@@ -2,6 +2,7 @@
 title: How does LBRY handle COPPA and child-directed content?
 category: other
 ---
+
 Some video publishing platforms, like YouTube, require you to explicitly designate your content as for children, with the threat of fines and/or legal sanction if you do so improperly. This article covers how LBRY covers these things.
 
 <span class="img--constrained">
@@ -10,7 +11,7 @@ Some video publishing platforms, like YouTube, require you to explicitly designa
 
 ## Are creators legally or otherwise required to designate content as for children on LBRY?
 
-No.  While you have the option of tagging your content as for children or child-friendly, there is no specific requirement to do so. Whether you tag your content or not, you will not face sanction from us or the United States government if you do not designate your content properly in this regard.
+No. While you have the option of tagging your content as for children or child-friendly, there is no specific requirement to do so. Whether you tag your content or not, you will not face sanction from us or the United States government if you do not designate your content properly in this regard.
 
 _Note that tagging your content improperly can result in it being negatively weighted or filtered, especially failing to tag mature content._
 

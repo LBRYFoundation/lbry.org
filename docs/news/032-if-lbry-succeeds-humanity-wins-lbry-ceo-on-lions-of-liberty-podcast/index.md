@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
-title: 'If LBRY Succeeds, Humanity Wins: LBRY CEO on Lions of Liberty Podcast'
-date: '2016-02-17 17:45:37'
+title: "If LBRY Succeeds, Humanity Wins: LBRY CEO on Lions of Liberty Podcast"
+date: "2016-02-17 17:45:37"
 ---
 
 Marc Clair interviewed LBRY founder and CEO Jeremy Kauffman on the [Lions of Liberty Podcast](http://lionsofliberty.com/2016/02/17/185) this week. The concise, 1/2-hour conversation covers everything you need to know about LBRY in accessible, non-tech-geek language. From the basics of Bitcoin and the blockchain to the trouble with corporate media monopolies, Kauffman explains LBRY from the ground up:

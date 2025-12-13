@@ -16,24 +16,24 @@ Please see these MoonPay FAQs for more information about using their services:
 
 [Moonpay Support - any issues with purchasing](mailto:support@moonpay.io)
 
-*Note: Currently, this service may not be available in all countries. LBRY will continue working on expanding availability.*
+_Note: Currently, this service may not be available in all countries. LBRY will continue working on expanding availability._
 
 ## Step by step LBC purchase
 
 1. Access your wallet page by clicking your LBC balance in the top right and then click the Buy button.
-  ![](https://thumbs.spee.ch/view/3/9a4e88a9aebb684a.jpg)
+   ![](https://thumbs.spee.ch/view/3/9a4e88a9aebb684a.jpg)
 2. Enter the amount of LBC you wish to purchase, either in your currency or LBC. The exchange rate and total purchase amount will be shown at the bottom. Click **Buy** to continue.
-  ![](https://thumbs.spee.ch/view/0/b0546f6c1e3b3a87.jpg)
+   ![](https://thumbs.spee.ch/view/0/b0546f6c1e3b3a87.jpg)
 3. Your LBC address will be shown, click **Buy Now**.
-  ![](https://spee.ch/1/60bea6ac27272827.jpg)
+   ![](https://spee.ch/1/60bea6ac27272827.jpg)
 4. MoonPay will now ask you to verify your email. By default, this will be sent to your app email. Enter the code from your email and click **Continue**.
-  ![](https://spee.ch/7/05b8bdf951d111d6.jpg)
+   ![](https://spee.ch/7/05b8bdf951d111d6.jpg)
 5. You'll be asked to provide additional information about yourself, click **Continue** to proceed.
-  ![](https://spee.ch/1/d4c442e57190db74.jpg)
+   ![](https://spee.ch/1/d4c442e57190db74.jpg)
 6. Add a credit/debit card to use for the purchase and then review the purchase amount and fee (min of ~5 USD, or 4.5% typically). Click **Buy Now**.
-  ![](https://spee.ch/d/5da930c09b1cf715.jpg)
+   ![](https://spee.ch/d/5da930c09b1cf715.jpg)
 7. You may be prompted for additional information for your credit card and/or identity, and then you'll see your confirmation.
-  ![](https://spee.ch/a/885ea8e9184bf2a8.jpg)
+   ![](https://spee.ch/a/885ea8e9184bf2a8.jpg)
 8. The LBC should appear in your balance shortly. Thank you for purchasing LBC!
 
 ## Trouble with cookies or want to purchase outside of the app?

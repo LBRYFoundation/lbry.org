@@ -5,6 +5,7 @@ order: 3
 ---
 
 ## What is censorship-resistance?
+
 At the risk of tautology, censorship-resistance is the ability to resist censorship. Less tautologically, censorship-resistance is the degree to which a system is tamper proof. That is, a censorship-resistant system means a third party cannot modify or remove content created by someone else.
 
 Just as nothing in the world is theft proof, nothing in the world is censorship proof. When a bank builds twenty foot walls around a vault with 3-foot-thick steel door that is monitored by security cameras, it does not do so to make theft literally impossible. It does so to make theft of the goods inside sufficiently challenging that it is extraordinarily improbable. When we speak of censorship-resistance, we speak the same as of the bank vault. A system can never be literally censorship proof, but it can be made extremely censorship resistant.

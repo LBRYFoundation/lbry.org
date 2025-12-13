@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'The Rubin Report and LBRY present YouTube Week'
-date: '2017-12-14 00:22:00'
-cover: 'rubin-banner.png'
+title: "The Rubin Report and LBRY present YouTube Week"
+date: "2017-12-14 00:22:00"
+cover: "rubin-banner.png"
 category: content
 ---
 

@@ -13,6 +13,7 @@ Click the search bar, and enter a search term. Typically, you'll see a list of s
 ![desktop-search](https://spee.ch/3/9c5875eca8e638e4.png)
 
 After performing a search, you'll have access to additional filters to help narrow down the results.
+
 - Filtering to _files_ will return content published according to the selected file types.
 - Filtering to _channels_ will return only channel results.
 
@@ -21,6 +22,7 @@ After performing a search, you'll have access to additional filters to help narr
 ## Searching on Android {#android}
 
 Select the top bar and begin typing. Once you pause, the search results will appear. Currently there are no filtering options on this platform.
+
 1. **Search** - Clicking "Enter" will default to this. This is your typical search option, it will return all matching results.
 2. **Exact URL** - Select this to navigate directly to the content published at `lbry://comics`
 3. **Tag** - Select this to navigate to the tag page to browse all content tagged `comics`

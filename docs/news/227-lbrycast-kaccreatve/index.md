@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'When Life Gives You Lemons, Make Bespoke Artisanal Lemonade While Listening To Hip Indie Beats'
-date: '2019-10-16 13:00:00'
-cover: '20191016-kaccreative.jpg'
+title: "When Life Gives You Lemons, Make Bespoke Artisanal Lemonade While Listening To Hip Indie Beats"
+date: "2019-10-16 13:00:00"
+cover: "20191016-kaccreative.jpg"
 category: featured-content
 ---
 

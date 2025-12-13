@@ -1,8 +1,8 @@
 ---
 author: kay-kurokawa
-title: 'Forking for ASIC Resistance: A Monero Case Study'
-date: '2018-05-31 13:45:00'
-cover: 'ASICS.jpg'
+title: "Forking for ASIC Resistance: A Monero Case Study"
+date: "2018-05-31 13:45:00"
+cover: "ASICS.jpg"
 ---
 
 # Forking for ASIC Resistance: A Monero Case Study
@@ -23,7 +23,7 @@ The goals of this article is to look at verifiable data instead of speculating a
 
 First, let's look at Monero's hash rate before and after the hard fork. In the below graph, you can see the hashrate for Monero in green. The black line is the hashrate for the various alt-coin splinter projects that took over Monero's old chain after the hard fork (from henceforth called Monero Original).
 
-*Note that according to GPU miners that I've talked to, the pre-fork and post-fork Monero POW algorithm is equivalent in computational difficulty thus the hash rate before and after the fork should be comparable.*
+_Note that according to GPU miners that I've talked to, the pre-fork and post-fork Monero POW algorithm is equivalent in computational difficulty thus the hash rate before and after the fork should be comparable._
 
 ![Monero hash rates](/img/monero_hash.png)
 
@@ -41,8 +41,8 @@ Regardless of what the total hashrate of Bitmain's ASIC miners is, losing almost
 
 The primary argument for an AAHF is that ASIC manufacturing results in more mining centralization by pushing out the commodity hardware miners. To verify this claim, we need to look at the capability of these ASIC miners and compare them to commodity hardware. Below are the respective specs for the Bitmain Monero miner and a top of the line AMD GPU miner:
 
-* Bitmain X3: 220 KH/s, 550 Watts, 0.4KH/s per Watt, Retail value: 1900$
-* AMD HD 7990: 1.1 KH/s, 110 Watts, 0.01 KH/s per Watt, Retail value: 900$
+- Bitmain X3: 220 KH/s, 550 Watts, 0.4KH/s per Watt, Retail value: 1900$
+- AMD HD 7990: 1.1 KH/s, 110 Watts, 0.01 KH/s per Watt, Retail value: 900$
 
 We see that the Bitmain miner is 220 times more powerful than a single top of the line AMD GPU unit. More importantly, it is 40 times more energy efficient at mining. It is clear that commodity GPUs are outclassed by these custom miners, but it's also important to note that there are a whole lot of GPUs out there in the world. Consider that AMD shipped 19.6 million discrete GPUs in[ 2017 alone](https://www.extremetech.com/gaming/264836-cryptocurrency-miners-bought-776m-gpus-2017-mostly-amd). AMD does not release sale numbers for specific models, but if we assume that all 19.6 million of the GPUs sold were of the cheap 400 series variety, this adds up to 7.84 GH/s (a 400 series runs about 0.4 KH/s on the Monero network). This is 15 times larger than the 0.5 GH/s that we estimated to be the Bitmain ASICs total hashrate and the current Monero hashrate.
 

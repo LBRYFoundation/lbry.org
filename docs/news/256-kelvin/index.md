@@ -1,14 +1,14 @@
 ---
 author: samuel-lbryian
-title: 'Shining warm (and cool) lights on LBRY Kelvin'
-date: '2020-02-05 10:00:00'
-cover: 'kelvin.jpg'
+title: "Shining warm (and cool) lights on LBRY Kelvin"
+date: "2020-02-05 10:00:00"
+cover: "kelvin.jpg"
 category: update
 ---
 
 ## Reposts, content type icons, comment editing and more are here in the coolest LBRY Desktop release ever.
 
-Look, we get paid by how ridiculous our titles are, okay? You’ll probably live. But, *caveat emptor* and all.
+Look, we get paid by how ridiculous our titles are, okay? You’ll probably live. But, _caveat emptor_ and all.
 
 Let’s look at what’s in LBRY Kelvin.
 

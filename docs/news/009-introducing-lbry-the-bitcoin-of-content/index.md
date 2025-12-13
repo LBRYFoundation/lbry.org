@@ -1,7 +1,7 @@
 ﻿---
 author: mike-vine
-title: 'Introducing LBRY: The Bitcoin of Content'
-date: '2015-09-09 13:28:35'
+title: "Introducing LBRY: The Bitcoin of Content"
+date: "2015-09-09 13:28:35"
 ---
 
 ### New Startup Applies Blockchain Technology to Music, Movies, and More
@@ -14,7 +14,7 @@ File sharing went mainstream with Napster. For the first time, content could be 
 >
 > LBRY solves the problem using blockchain technology, encryption, and a built-in marketplace. What Bitcoin is doing for money, LBRY will do for content.
 >
-> *— Jeremy Kauffman, co-founder of LBRY*
+> _— Jeremy Kauffman, co-founder of LBRY_
 
 Content in LBRY is encrypted by its publisher, then cut apart and distributed to a decentralized network of host servers. LBRY hosts do not know the content of the encrypted files they store, and nobody can access the complete content without the publisher's unique decryption key. The publisher can exchange the key for a specified number of LBRY Credits – a cryptocurrency native to the LBRY protocol.
 
@@ -40,4 +40,4 @@ Meanwhile, patrons get more available content due to better incentives and a sea
 
 LBRY is the latest of a series of crypto-apps released over the past year that utilize the blockchain to provide maximum decentralization of services, and certainly the first designed for users outside the tech community. When it goes to full release in Q4:15, LBRY's founders expect it to immediately improve the lives of any user who produces or consumes content. It may be the vehicle that takes blockchain tech to the masses.
 
-*The creators of LBRY are extending members of the press a first-peek preview and demonstration of the system. You are invited to a live demo hosted by co-creator Jeremy Kauffman on Tuesday, September 15th at 11 am ET. Please RSVP by contacting press liaison Mike Vine at 917-719-6333 or mike@lbry.com.*
+_The creators of LBRY are extending members of the press a first-peek preview and demonstration of the system. You are invited to a live demo hosted by co-creator Jeremy Kauffman on Tuesday, September 15th at 11 am ET. Please RSVP by contacting press liaison Mike Vine at 917-719-6333 or mike@lbry.com._

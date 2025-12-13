@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: 'Looking Back and Moving Forward: LBRY in 2017/2018'
-date: '2018-01-31 14:00:00'
-cover: 'recap-cover.jpg'
+title: "Looking Back and Moving Forward: LBRY in 2017/2018"
+date: "2018-01-31 14:00:00"
+cover: "recap-cover.jpg"
 category: update
 ---
 
@@ -22,16 +22,16 @@ LBRY entered 2017 with a live blockchain, a private alpha product, and just a fe
 
 Here's some of what we accomplished in 2017:
 
-* LBRY released its first stand-alone graphical app in February of 2017. This app was a closed beta (though the miner and network tools were publicly available).
-* The LBRY App began a public beta in August 2017. It has been downloaded over 100,000 times since then and is used by tens of thousands of users weekly.
-* Over 5,000 YouTubers have made their content available on LBRY, including dozens of top creators, including fantastic ones like [Casually Explained](https://open.lbry.com/%40CasuallyExplained), [The Rubin Report](https://open.lbry.com/%40TheRubinReport), [3Blue1Brown](https://open.lbry.com/%403Blue1Brown), and [NurdRage](https://open.lbry.com/%40nurdrage).
-* We launched [spee.ch](https://spee.ch), a web-based way of accessing and publishing free content to the LBRY network. Over 200,000 people have already used this site, and it grows more popular every day.
-* Around 50,000 people follow LBRY on social media, and about 10,000 regularly hang out in our online [chat room](https://chat.lbry.com). Funny story: our chat room was originally on Slack, but Slack shut us down for being too popular!
-* Over 150,000 pieces of content are available on the network currently, including everything from major motion pictures, crypto retirement guides, top streamers, and LBRY originals like [Cop Chronicles](https://www.prunderground.com/lbry-brings-first-ever-original-series-to-the-blockchain/00107742).
-* Over 100 developers have contributed to the LBRY codebase, over 4,000 developers follow the project, and LBRY is continually rated one of the most active projects in the blockchain. For example, we're in the top 20 on CoinGecko, despite it only counting one of several core codebases!
-* We grew from a lean 5 employees to [14 employees](/team) on five continents.
-* We [saved over 20,000 college lectures](https://www.youtube.com/watch?v=RNj-dZdQulE) from the government memory hole.
-* We saw major press coverage from [NASDAQ](http://www.nasdaq.com/article/video-streamers-have-more-options-with-these-new-blockchain-startups-cm881579), [VentureBeat](https://venturebeat.com/2018/01/28/how-blockchain-could-kill-both-cable-and-netflix), [Fox News](http://www.foxnews.com/opinion/2017/09/27/john-stossel-incredible-threat-to-free-speech-that-no-one-is-talking-about.html), [RussiaToday](https://www.youtube.com/watch?v=dElFiI-5SuE), [John Stossel](https://spee.ch/7/LBRYonStossel.mp4), and many other outlets.
+- LBRY released its first stand-alone graphical app in February of 2017. This app was a closed beta (though the miner and network tools were publicly available).
+- The LBRY App began a public beta in August 2017. It has been downloaded over 100,000 times since then and is used by tens of thousands of users weekly.
+- Over 5,000 YouTubers have made their content available on LBRY, including dozens of top creators, including fantastic ones like [Casually Explained](https://open.lbry.com/%40CasuallyExplained), [The Rubin Report](https://open.lbry.com/%40TheRubinReport), [3Blue1Brown](https://open.lbry.com/%403Blue1Brown), and [NurdRage](https://open.lbry.com/%40nurdrage).
+- We launched [spee.ch](https://spee.ch), a web-based way of accessing and publishing free content to the LBRY network. Over 200,000 people have already used this site, and it grows more popular every day.
+- Around 50,000 people follow LBRY on social media, and about 10,000 regularly hang out in our online [chat room](https://chat.lbry.com). Funny story: our chat room was originally on Slack, but Slack shut us down for being too popular!
+- Over 150,000 pieces of content are available on the network currently, including everything from major motion pictures, crypto retirement guides, top streamers, and LBRY originals like [Cop Chronicles](https://www.prunderground.com/lbry-brings-first-ever-original-series-to-the-blockchain/00107742).
+- Over 100 developers have contributed to the LBRY codebase, over 4,000 developers follow the project, and LBRY is continually rated one of the most active projects in the blockchain. For example, we're in the top 20 on CoinGecko, despite it only counting one of several core codebases!
+- We grew from a lean 5 employees to [14 employees](/team) on five continents.
+- We [saved over 20,000 college lectures](https://www.youtube.com/watch?v=RNj-dZdQulE) from the government memory hole.
+- We saw major press coverage from [NASDAQ](http://www.nasdaq.com/article/video-streamers-have-more-options-with-these-new-blockchain-startups-cm881579), [VentureBeat](https://venturebeat.com/2018/01/28/how-blockchain-could-kill-both-cable-and-netflix), [Fox News](http://www.foxnews.com/opinion/2017/09/27/john-stossel-incredible-threat-to-free-speech-that-no-one-is-talking-about.html), [RussiaToday](https://www.youtube.com/watch?v=dElFiI-5SuE), [John Stossel](https://spee.ch/7/LBRYonStossel.mp4), and many other outlets.
 
 Perhaps most impressively, LBRY has accomplished all of this for approximately $600,000 and a few million LBC. We will be expanding significantly into 2018 and expect to deliver commensurate results.
 
@@ -103,7 +103,6 @@ As always, you can keep up with how we spend LBC by looking at our [quarterly Cr
 
 Having thousands of YouTubers adopt LBRY, including dozens of top streamers (despite the early stage of the product), shows the massive demand for content freedom.
 
-
 By improving and streamlining the onboarding and publishing process for creators, we can attract a massive amount of content.
 
 We expect to onboard more than ten times the creators we did last year and to get approximately ten million LBRY Credits into the hands of creators in 2018.
@@ -131,7 +130,7 @@ We want to continue to grow the number of people engaged and excited about conte
 
 ## Expecting the Unexpected
 
-You can't be prepared for *everything*, but you can build processes and principles to figure out the right direction when you know you're headed into the unknown. The crypto space is changing rapidly, and there's no way to tell exactly what the future holds. Whatever we face, we'll maintain our open, decentralized mode of operation and commitment to our community.
+You can't be prepared for _everything_, but you can build processes and principles to figure out the right direction when you know you're headed into the unknown. The crypto space is changing rapidly, and there's no way to tell exactly what the future holds. Whatever we face, we'll maintain our open, decentralized mode of operation and commitment to our community.
 
 # We Need You To Build LBRY
 
@@ -140,4 +139,3 @@ Want to help LBRY build a free and open internet? Here's how:
 1. [Download the LBRY app](/get/) and try it out.
 2. If you have an idea that could make the app better (or if something breaks while you're using it!) [open a new issue on GitHub](https://github.com/lbryio/lbry-desktop/issues) and tell us about it.
 3. Tell your friends and family about LBRY. With SMS Rewards verification in the [newest version of the app](/news/verified-awesome), it's easier than ever to earn LBC which can then be used to publish, view paid content or tip your favorite creators on LBRY.
-

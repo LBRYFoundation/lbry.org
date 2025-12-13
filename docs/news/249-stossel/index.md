@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'Broadcaster Saves World from Fake News'
-date: '2020-01-15 13:00:00'
-cover: 'stossel.jpg'
+title: "Broadcaster Saves World from Fake News"
+date: "2020-01-15 13:00:00"
+cover: "stossel.jpg"
 category: featured-content
 ---
 
@@ -12,7 +12,7 @@ category: featured-content
 
 Sure, you’ll find the fake stuff. Or the real stuff, but cut with baking soda and Beyoncé facts. But raw, uncut, actual real-reporting? It’s nearly been eliminated.
 
-John Stossel has been producing it for decades. First with CBS, later ABC’s 20/20 and Fox Business, and currently Reason magazine (plus other stuff, the dude has made a lot of news). 
+John Stossel has been producing it for decades. First with CBS, later ABC’s 20/20 and Fox Business, and currently Reason magazine (plus other stuff, the dude has made a lot of news).
 
 With so many news manufactures moving on to ersatz alternatives, it’s been left to a small number of craftsmen like John Stossel to continue the production of this nearly extinct product.
 

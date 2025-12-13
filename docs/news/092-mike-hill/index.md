@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Masterclass Blast'
-date: '2017-01-26 00:17:00'
-cover: 'mikehill-banner.png'
+title: "Masterclass Blast"
+date: "2017-01-26 00:17:00"
+cover: "mikehill-banner.png"
 ---
 
 Being a repository of educational material is one of LBRY's fundamental goals.

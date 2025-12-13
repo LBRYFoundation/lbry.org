@@ -15,6 +15,7 @@ To find your wallet address in our apps to withdraw to, go to the **Wallet** pag
 Use the following commands to make amazing things happen!
 
 ### Help
+
 This displays a list of tip commands and how to use them.
 
 **Example:** `!tip help` or `!tips`
@@ -22,46 +23,54 @@ This displays a list of tip commands and how to use them.
 ![Tips](https://spee.ch/0/update-screenshot.jpeg)
 
 ### Balance
+
 Displays the balance of your Discord LBC wallet.
 
 **Example:** `!tip balance`
 
 ### Deposit
+
 Displays your Discord LBC wallet address. Useful if you want to receive LBC directly to your Discord wallet.
 
 **Example:** `!tip deposit`
 
 ### Withdraw
+
 Use this to withdraw a chosen amount from your LBC Discord wallet to another LBC wallet such as the wallet in any LBRY app, Coinomi or to an LBC wallet on an exchange.
 
 - **Arguments:** `!tip withdraw <address> <amount>`
 - **Example:** `!tip withdraw bQ8N2xbbityGNyiijaUtZVHkN3KZys2ci 10`
 
 ### Private Tips
+
 Want to tip someone privately in a personal message? This will send a tip to your chosen username in a private personal message.
 
 - **Arguments:** `!tip private <username> <amount>`
 - **Example:** `!tip private @Electron#1111 10`
 
 ### Multi Tips
+
 This will send your set tip amount to all the users you list.
 
 - **Arguments:** `!multitip <usernames> <amount>`
 - **Example:** `!multitip @Electron#1111 @Proton#2222 10`
 
 ### Multi Tip Private
+
 This will privately send your set tip amount to all the users you list in personal messages.
 
 - **Arguments:** `!multitip private <usernames> <amount>`
 - **Example:** `!multitip private @Electron#1111 @Proton#2222 10`
 
 ### Role Tips
+
 Want to tip a Discord role? This will send a tip to your chosen role.
 
 - **Arguments:** `!roletip <role> <amount>`
 - **Example:** `!roletip @LBRY Team 10`
 
 ### Private Role Tips
+
 Want to tip a Discord role privately? This will send a tip to your chosen role in a private message.
 
 - **Arguments:** `!roletip private <role> <amount>`

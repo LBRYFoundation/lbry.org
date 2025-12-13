@@ -1,19 +1,20 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Fireworks For Android Works Like Fire'
-date: '2020-01-08 13:13:13'
-cover: 'fireworks.jpg'
+title: "LBRY Fireworks For Android Works Like Fire"
+date: "2020-01-08 13:13:13"
+cover: "fireworks.jpg"
 category: update
 ---
 
 ## Fireworks release of LBRY for Android is LIVE in the Play Store
+
 Today, LBRY releases LBRY Fireworks, which brings improved search, rich text support, a better video play experience, and more.
 
 [Download from Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser) or [direct download](http://lbry.com/releases/lbry-android.apk).
 
 ![fireworks](https://spee.ch/@lbrynews:0/fireworks-android.jpeg)
 
-Fireworks upgrades performance and includes a number of bug fixes and other usability improvements. 
+Fireworks upgrades performance and includes a number of bug fixes and other usability improvements.
 
 ### More about LBRY Fireworks
 

@@ -11,14 +11,15 @@ LBRY apps support dynamic trending and top discovery based on your interests and
 **Please note: Content publishers are responsible for ensuring appropriate and valid tags are used. If posting content for mature audiences, the Mature tag MUST be specified. Tag abuse and failure to apply appropriate tags will not be tolerated. Your channel may be filtered and rewards revoked.**
 
 ## How do I use it?
-At the *Following* tab, you can toggle between Trending, Top, and New for content from the channels you follow. On *Discovery* tab you can browse the whole LBRY network. When Top is selected, you can also choose the relevant time frame. You can also browse these same options for specific tags by clicking on the tag name anywhere in the app or by searching for one.
+
+At the _Following_ tab, you can toggle between Trending, Top, and New for content from the channels you follow. On _Discovery_ tab you can browse the whole LBRY network. When Top is selected, you can also choose the relevant time frame. You can also browse these same options for specific tags by clicking on the tag name anywhere in the app or by searching for one.
 
 ![pic](https://spee.ch/4/61575f258acdc408.png)
 
 ## How do these views work?
 
 | View       | What It Shows                                                                                                                                                                         |
-|------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ---------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | _Trending_ | Trending shows the content that has had the greatest increase in tips and supports over the last few hours and days, compared to its baseline performance, and that of other content. |
 | _Top_      | Top shows the content published within the selected period that has received the largest total amount of tips and supports.                                                           |
 | _New_      | New shows the newest content by time.                                                                                                                                                 |
@@ -29,7 +30,7 @@ All of these views work the same whether you are viewing tags you follow, a sing
 
 ### Customizing tags
 
-To customize the tags you follow, click "Your Tags" in the sidebar and click `Manage` near the top right corner. You can set tags used for showing content in *Your tags* category. You can even type in a tag that has never been used before, and follow it in case someone publishes content with that tag in the future.
+To customize the tags you follow, click "Your Tags" in the sidebar and click `Manage` near the top right corner. You can set tags used for showing content in _Your tags_ category. You can even type in a tag that has never been used before, and follow it in case someone publishes content with that tag in the future.
 
 ![yourtags](https://spee.ch/8/73ef9c8d156db359.png)
 
@@ -44,9 +45,8 @@ There are two ways to find channels to follow:
 1. Click "Following" from your home screen to discover and find new channels to follow using the `Discover Channels` option.
 
 ![pic](https://spee.ch/2/f847156011ad616c.png)
-Scrolling down in the *Disover channels* view, will also show you the Trending, Top, and New listings for channels.
+Scrolling down in the _Disover channels_ view, will also show you the Trending, Top, and New listings for channels.
 ![top-channels](https://spee.ch/6/a9e254f61d10ff25.png)
-
 
 ### Exploring tags
 

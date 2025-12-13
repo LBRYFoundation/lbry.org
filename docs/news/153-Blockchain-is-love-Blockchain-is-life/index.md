@@ -1,8 +1,8 @@
 ﻿---
 author: jeremy-kauffman
-title: 'Blockchain Is Love, Blockchain Is Life'
-date: '2018-01-10 09:45:00'
-cover: 'Sunrise1.jpg'
+title: "Blockchain Is Love, Blockchain Is Life"
+date: "2018-01-10 09:45:00"
+cover: "Sunrise1.jpg"
 category: technical
 ---
 
@@ -13,6 +13,7 @@ Blockchain technology currently has a hype to substance ratio rapidly approachin
 But there's one area where we think it's plausible, if not likely, that blockchain will improve the world: the development of open standards and protocols, and consequently more user-friendly technology.
 
 # The Status Quo
+
 In Part 1, we covered how existing tech companies demonstrate active hostility towards users. If you haven't read this or are not already convinced of this problem, [start here](/news/why-do-tech-giants-abuse-their-users).
 
 To recap:
@@ -24,6 +25,7 @@ The reason for that is the incentives in place. Building great technology takes 
 Tim Berners-Lee, who is widely credited as the father of the web, made a lot of people rich. But Tim wasn't one of them. That's because Tim created HTTP as a protocol. That meant Tim didn't own it, and Tim never profited from his amazing invention. So while protocols create better experiences, they often never get developed or deployed, because there is no funding or capital to drive the creation of them.
 
 # The What and Why Of Protocols
+
 Just what do we mean when we say protocol? And how is it different from a platform? A platform is built on proprietary code running on servers controlled and managed by the company that created and owns the platform. It leaves the company fully in control.
 
 Suppose I wanted to build my own interface for Facebook. Perhaps because I want actual control over what shows up on my news feed, rather than leaving it to Facebook's algorithms. Currently, it would be legally questionable for me to do this, and even it was legal, it would also be legal for Facebook to block my interface from loading "its" data.
@@ -33,6 +35,7 @@ But if Facebook was implemented as a protocol, it would be an open standard that
 To be clear: this is possible today. It's been possible for decades. There's no technological barrier to creating a Facebook Protocol, but barriers of economics and incentives that discourage people from doing so.
 
 # Enter Blockchain
+
 Now, suppose we wanted to create Facebook Protocol in a world where blockchain exists. Let's call it PeopleChain.
 
 PeopleChain is a blockchain database that stores the same data that Facebook would (i.e. it stores profiles, posts, user friendships, groups, etc.) But because it is a public blockchain database, no one owns it.

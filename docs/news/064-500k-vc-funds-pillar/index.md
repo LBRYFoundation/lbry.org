@@ -1,7 +1,7 @@
 ---
 author: samuel-lbryian
-title: '$500K in VC Funds from Pillar et al'
-date: '2016-09-07 00:06:18'
+title: "$500K in VC Funds from Pillar et al"
+date: "2016-09-07 00:06:18"
 ---
 
 We've hinted at this news in the past week, but now it's official: [Pillar VC](http://pillar.vc) is leading a $500,000 seed funding round for LBRY!

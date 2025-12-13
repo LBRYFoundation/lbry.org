@@ -1,15 +1,15 @@
 ---
 author: jeremy-kauffman
-title: 'Hacktoberfest 2019!'
-date: '2019-10-01 11:37:00'
-cover: 'Hacktoberfest.jpg'
-og: 'https://spee.ch/@lbryblog:e/hacktoberfest2019.png'
+title: "Hacktoberfest 2019!"
+date: "2019-10-01 11:37:00"
+cover: "Hacktoberfest.jpg"
+og: "https://spee.ch/@lbryblog:e/hacktoberfest2019.png"
 category: developers
 ---
 
 It's fall and...
 
-*Hoot hoot!*
+_Hoot hoot!_
 
 Do you hear that? Is it an owl?
 
@@ -28,24 +28,23 @@ If you are a capable reader (and if you’re a developer, we cannot recommend th
 For Hacktoberfest specifically, we’ve focused on making sure there are newcomer-friendly issues for the following repos:
 
 | Repo                                                   | Language           | Description                                                                  | Hacktoberfest Issues                                                                                 |
-|--------------------------------------------------------|--------------------|------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
+| ------------------------------------------------------ | ------------------ | ---------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------- |
 | [lbrycrd](https://github.com/lbryio/lbrycrd)           | C++                | The LBRY blockchain daemon.                                                  | [Issues](https://github.com/lbryio/lbrycrd/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)      |
 | [lbry-sdk](https://github.com/lbryio/lbry-sdk)         | Python             | The SDK used by most LBRY apps, includes SPV wallet, data network, and more. | [Issues](https://github.com/lbryio/lbry-sdk/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest)     |
 | [lbry-desktop](https://github.com/lbryio/lbry-desktop) | JavaScript (React) | The official desktop client and soon-to-be lbry.tv frontend.                 | [Issues](https://github.com/lbryio/lbry-desktop/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
 | [lbry-android](https://github.com/lbryio/lbry-android) | JavaScript (React) | The official Android browser.                                                | [Issues](https://github.com/lbryio/lbry-android/issues?q=is%3Aopen+is%3Aissue+label%3Ahacktoberfest) |
 
-
 All of the above repos have user-friendly READMEs to get up and running because around here we’ve got [standards](https://lbry.tech/resources/repository-standards). And if you’re looking for some personal help, you can [join our chat](https://chat.lbry.com/), post on [our forum](http://forum.lbry.tech/), or join a [live session](#events).
 
-Note: the chat link goes to LBRY’s main public chat. Post a message in binary* to let everyone know you are a developer and you will be whisked away to secret lairs.
+Note: the chat link goes to LBRY’s main public chat. Post a message in binary\* to let everyone know you are a developer and you will be whisked away to secret lairs.
 
-*You don’t have to do this and as far as I know no one ever has, but it would presumably work.
+\*You don’t have to do this and as far as I know no one ever has, but it would presumably work.
 
 ## Swagtoberfest and Token Giveaways
 
 Anyone who makes any contribution at all, even a one line typo fix, will receive a LBRY sticker.
 
-Anyone who contributes anything of any substance* will receive a sticker, LBRY t-shirt, and more.
+Anyone who contributes anything of any substance\* will receive a sticker, LBRY t-shirt, and more.
 
 And as always, anyone who contributes will receive LBC as [appreciation](https://lbry.com/faq/appreciation).
 
@@ -53,7 +52,7 @@ Additionally, this month only, every contributor, new or returning, will receive
 
 T-shirts and stickers will be the above Hacktoberfest image.
 
-*We’re going to be very inclusive as counting PRs as substantive, but due to some people making drive-by PRs to earn shirts, we’ve introduced this additional qualifier.
+\*We’re going to be very inclusive as counting PRs as substantive, but due to some people making drive-by PRs to earn shirts, we’ve introduced this additional qualifier.
 
 ## <a name="events"></a>Events
 

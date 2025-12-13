@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'LBRY Isaac Gravitates to a Browser Near You'
-date: '2019-12-20 10:00:00'
-cover: '2019-12-apples.jpg'
+title: "LBRY Isaac Gravitates to a Browser Near You"
+date: "2019-12-20 10:00:00"
+cover: "2019-12-apples.jpg"
 category: update
 ---
 
@@ -10,7 +10,7 @@ category: update
 
 Today, LBRY announces Isaac, a release of much gravity. Isaac brings an updated search service, new rewards, a mobile view for lbry.tv, and a ton of interface and performance improvements for lbry.tv and LBRY desktop.
 
-- [Download Isaac for desktop](https://lbry.com/get) 
+- [Download Isaac for desktop](https://lbry.com/get)
 - [Use LBRY in your browser](https://lbry.tv)
 
 Search improvements and new rewards are live for everyone, regardless of how you use LBRY. They are described in more detail below.
@@ -41,7 +41,7 @@ Isaac for Desktop improves decentralization through wallet server settings, enab
 
 - Introduces beta mobile view for https://lbry.tv
 - Automatic text file rendering and improved text and HTML rendering.
-Ability to set your own wallet server in settings. More on this feature in the FAQ.
+  Ability to set your own wallet server in settings. More on this feature in the FAQ.
 - Dedicated Channel creation option from Channels page
 - Overall design improvements, especially for dark mode. Also includes channel thumbnails next to comments.
 - Adds language support for: Dutch, Portuguese, Italian, Russian, Spanish, Gujarati, Hindi, Malay, Marathi, Panjabi, and Swedish

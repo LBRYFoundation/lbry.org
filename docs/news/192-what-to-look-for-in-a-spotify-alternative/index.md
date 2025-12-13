@@ -1,8 +1,8 @@
 ---
 author: brinck-slattery
-title: 'What To Look For In a Spotify Alternative'
-date: '2018-12-07 15:00:00'
-cover: 'headphones.jpg'
+title: "What To Look For In a Spotify Alternative"
+date: "2018-12-07 15:00:00"
+cover: "headphones.jpg"
 category: content
 ---
 
@@ -47,18 +47,23 @@ Some Spotify alternative platforms allow users to send additional funds to artis
 Now that you've got a bit of background on the features to look out for in your next Spotify alternative, take the time to explore some of these popular options!
 
 ### YouTube Music
+
 [YouTube Music](https://music.youtube.com) has a huge collection of music, all available from the popular YouTube app or their website. There's one catch though - out of all the services out there, artists get the smallest per-stream payment on YouTube Music. It's been a godsend for record labels, but not so much for artists.
 
 ### Apple Music
+
 [Apple Music](https://www.apple.com/music) and its attendant iTunes music player have become incredibly popular over the years. Apple has a large catalogue of content, and allows users to purchase songs and albums in the iTunes app on an a la carte basis. One caveat - Apple has been known to make content appear and disappear on their users' devices, and they claim ownership of any files you index with the iTunes app. If you're big on your own personal catalogue, this Spotify alternative may be fraught with some danger.
 
 ### Pandora
+
 [Pandora](https://www.pandora.com) works a bit differently than most Spotify alternatives - instead of searching for specific songs or albums to listen to, Pandora creates radio stations based on your likes and dislikes, starting with you putting in a single band, song, or album. Pandora is great for discovering new artists, but it can be frustrating if you know exactly what you want to listen to and can't get it.
 
 ### Last.fm
+
 [Last.fm](https://www.last.fm) is another breath of fresh air - their "scrobbling" system that first became popular in the days of Winamp delivers stellar recommendations based on your listening history. You can plug the service into a number of Spotify alternatives and start getting recommendations right away.
 
 ### LBRY
+
 [LBRY](/get/) is a new entry into the world of Spotify alternatives. Instead of putting a centralized service in charge of hosting, curating, and delivering music to users, LBRY lets creators upload their work to a decentralized network where listeners can download it for free or purchase it, depending on the settings the creator wants. While services like Spotify and YouTube Music take the vast majority of revenue per stream and leave the artist with a pittance, LBRY removes the middleman and lets fans support artists directly.
 
 Do you have a favorite Spotify alternative that we missed in this list? Tell us about it [on Twitter](https://twitter.com/lbrycom)!

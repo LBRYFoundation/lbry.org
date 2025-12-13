@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Play No Evil'
-date: '2017-03-09 00:19:00'
-cover: 'censored-banner.png'
+title: "Play No Evil"
+date: "2017-03-09 00:19:00"
+cover: "censored-banner.png"
 ---
 
 One of the pillars of LBRY, and in fact cryptocurrencies on the whole, is censorship resistance.

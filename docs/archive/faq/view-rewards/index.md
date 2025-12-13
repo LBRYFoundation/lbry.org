@@ -5,6 +5,7 @@ order: 2
 ---
 
 Creators that produce quality content that other users enjoy are monetized in a number of ways not limited to:
+
 - Earnings per view from us (Rewards based on validated views from users that are signed in and hold validated accounts).
 - Tips from users.
 - Site/app promotions.

@@ -1,7 +1,7 @@
 ---
 author: jeremy-kauffman
-title: 'LBRY now on Windows. Bringing Blockchain Video to the Masses.'
-date: '2016-10-25 00:06:18'
+title: "LBRY now on Windows. Bringing Blockchain Video to the Masses."
+date: "2016-10-25 00:06:18"
 ---
 
 The LBRY beta app is now available for Windows! This has been the #1 request from users since our launch in July. Now the future of digital content distribution is available on the world's most popular desktop operating system.

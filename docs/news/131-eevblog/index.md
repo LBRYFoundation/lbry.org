@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'buy it, use it, break it, fix it'
-date: '2017-09-21 00:20:30'
-cover: 'eev-banner.jpg'
+title: "buy it, use it, break it, fix it"
+date: "2017-09-21 00:20:30"
+cover: "eev-banner.jpg"
 ---
 
 If there was a channel to perfectly embody the lyrics of Daft Punk's Technologic, its David L Jones' years-long adventure in electrical and hardware engineering.

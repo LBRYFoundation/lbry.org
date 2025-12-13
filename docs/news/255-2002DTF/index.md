@@ -1,8 +1,8 @@
---- 
+---
 author: jeremy-kauffman
-title: 'Down to F*&%@# February'
-date: '2020-02-05 12:00:00'
-cover: 'https://spee.ch/6/5M-lbc.png'
+title: "Down to F*&%@# February"
+date: "2020-02-05 12:00:00"
+cover: "https://spee.ch/6/5M-lbc.png"
 ---
 
 ## Five million LBC for fifty thousand people, because February is a month for people who like to F…
@@ -26,7 +26,7 @@ The program has three parts.
 
 ### 15 LBC for Everyone
 
-If five hundred thousand new follows happen and fifty thousand new users join LBRY in February, **everyone who participates* in DTF February gets 15 LBC**.
+If five hundred thousand new follows happen and fifty thousand new users join LBRY in February, **everyone who participates\* in DTF February gets 15 LBC**.
 
 Participation is defined as: inviting a user, making a video about LBRY, or joining LBRY this month as a new user and following five creators.
 
@@ -34,7 +34,7 @@ This is an ambitious but easily achievable goal. Have you told a friend or favor
 
 ### 50,000 LBC for 5 Creators
 
-**The number one way LBRY grows is by creators talking about it.** 
+**The number one way LBRY grows is by creators talking about it.**
 
 Whether you’re a LBRY-exclusive creator or you post your content elsewhere, we’re asking you to encourage your audience to check you out and follow you on LBRY this month. That can be either by making a video about LBRY specifically, or mentioning LBRY in your other videos or other communications.
 
@@ -48,7 +48,7 @@ We’ll also be giving rewards and tips to any creator who makes a good-faith ef
 
 Please make sure to link to your invite page so you receive the 20 bonus LBC immediately after someone joins. If a new user does not visit your invite page, channel page, or a video of yours first, they become difficult to attribute.
 
-*Note that unlike invite bonuses, creator rewards will be granted even if we do not hit the overall goal.*
+_Note that unlike invite bonuses, creator rewards will be granted even if we do not hit the overall goal._
 
 ### Invite Bonuses
 
@@ -74,7 +74,7 @@ The second week we’ll be releasing features to facilitate more following (and 
 
 ### Week 3: Privacy and Education
 
-We want to make sure **everyone understands how their data is stored, when it is shared with others, and how to not share data you want private or inaccessible** to third parties. 
+We want to make sure **everyone understands how their data is stored, when it is shared with others, and how to not share data you want private or inaccessible** to third parties.
 
 In addition to some new features and changes here, we’ll be reaching out to privacy-oriented creators and communities.
 
@@ -90,7 +90,7 @@ This one would be spoiled if we announced it today, but it’s as big or bigger 
 - Up to 5 million LBC if we come together to hit goals. Participate by inviting someone or making a video.
 - Big rewards for creators who mention LBRY or make videos about LBRY. Big high fives, too.
 - A feature each week this month:
-    - DTF February and 2020 Roadmap
-    - Reposts and revamped following
-    - Privacy and education
-    - Top-secret mystery
+  - DTF February and 2020 Roadmap
+  - Reposts and revamped following
+  - Privacy and education
+  - Top-secret mystery

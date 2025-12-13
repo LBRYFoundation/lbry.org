@@ -1,8 +1,8 @@
 ---
 author: rob-smith
-title: 'Why Is LBRY Mobile Only On Android?'
-date: '2018-09-12 12:00:00'
-cover: 'blog_whyandroid.png'
+title: "Why Is LBRY Mobile Only On Android?"
+date: "2018-09-12 12:00:00"
+cover: "blog_whyandroid.png"
 category: users
 ---
 

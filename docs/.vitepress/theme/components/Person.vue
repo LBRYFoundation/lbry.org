@@ -1,7 +1,7 @@
 <script>
 export default {
-  name: 'person',
-  props: ['avatar', 'name', 'subtitle', 'imageClass'],
+  name: "person",
+  props: ["avatar", "name", "subtitle", "imageClass"],
 };
 </script>
 
@@ -53,15 +53,19 @@ export default {
 <template>
   <div class="person">
     <img
-      v-if="!!avatar" no-zoom
+      v-if="!!avatar"
+      no-zoom
       draggable="false"
       :alt="`${name}'s Avatar`"
       :src="avatar"
-      :class="imageClass ? `image-title ${imageClass}` : 'image-title'">
+      :class="imageClass ? `image-title ${imageClass}` : 'image-title'"
+    />
     <div class="person-content">
-      <h4 :class="avatar || subtitle ? 'title' : 'title minimal'">{{ name }}</h4>
+      <h4 :class="avatar || subtitle ? 'title' : 'title minimal'">
+        {{ name }}
+      </h4>
       <p v-if="!!subtitle" class="subtitle">{{ subtitle }}</p>
-      <div class="buttons"><slot/></div>
+      <div class="buttons"><slot /></div>
     </div>
   </div>
 </template>

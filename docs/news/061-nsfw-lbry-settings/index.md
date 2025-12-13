@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
-title: 'NSFW: LBRY Bares All (Then Quickly Covers Up)'
-date: '2016-08-29 00:06:18'
-cover: 'nude.png'
+title: "NSFW: LBRY Bares All (Then Quickly Covers Up)"
+date: "2016-08-29 00:06:18"
+cover: "nude.png"
 ---
 
 The internet abhors a vacuum, and by that we mean any open forum without boobs. LBRY is apparently no different.
@@ -27,4 +27,4 @@ If you are of legal age and don't mind seeing NSFW content, you can disable this
 
 ![NSFW LBRY Settings](/img/news/nsfwsettings.png)
 
-Still don't like the idea of NSFW content showing up on LBRY's home screen even in a moderated way? *Then go bid on those names!* LBRY is a neutral platform: it responds to the market. You can steer LBRY your way by getting involved. If you'd rather not bid, you can still get your original content featured on the homepage by [applying to be a publishing partner](/publish) (and earn $1,000 in LBC at the same time!). Or [join our Discord chat](http://chat.lbry.com) to talk with content publishers, ask questions of our developers, or just hang out in a friendly online community.
+Still don't like the idea of NSFW content showing up on LBRY's home screen even in a moderated way? _Then go bid on those names!_ LBRY is a neutral platform: it responds to the market. You can steer LBRY your way by getting involved. If you'd rather not bid, you can still get your original content featured on the homepage by [applying to be a publishing partner](/publish) (and earn $1,000 in LBC at the same time!). Or [join our Discord chat](http://chat.lbry.com) to talk with content publishers, ask questions of our developers, or just hang out in a friendly online community.

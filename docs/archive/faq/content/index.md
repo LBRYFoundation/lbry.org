@@ -13,11 +13,11 @@ This includes Public Domain content, Creative Commons or Open Source content sha
 
 We ask you to follow these simple rules:
 
-1) The content is yours, you have permission to post it, or it's public domain / fair use / license allows re-use. If re-use is allowed, the original source and any other licensing rules must be followed.
+1. The content is yours, you have permission to post it, or it's public domain / fair use / license allows re-use. If re-use is allowed, the original source and any other licensing rules must be followed.
 
-2) The content is tagged properly, especially with mature content. Do not abuse tags with ones that don't pertain to your content.
+2. The content is tagged properly, especially with mature content. Do not abuse tags with ones that don't pertain to your content.
 
-3) The content is not illegal in your jurisdiction.
+3. The content is not illegal in your jurisdiction.
 
 Failure to follow these rules may result in the filtering of your content/channel and the ability to earn rewards will be revoked.
 

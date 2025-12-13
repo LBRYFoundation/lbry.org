@@ -21,24 +21,25 @@ Eventually 1,083,202,000<sup>1</sup> LBRY Credits will exist.
 
 They are awarded on the following schedule:
 
-* The genesis block created 400,000,000 Credits to be administered by LBRY, Inc. 300,000,000 of these will be strategically allocated to partners, many of whom have a direct interest in the naming layer.  It also includes 100,000,000 earmarked for charity. Additionally, some may be given directly to the public in ways that add value and make sense. 100,000,000 are owned by LBRY directly.
+- The genesis block created 400,000,000 Credits to be administered by LBRY, Inc. 300,000,000 of these will be strategically allocated to partners, many of whom have a direct interest in the naming layer. It also includes 100,000,000 earmarked for charity. Additionally, some may be given directly to the public in ways that add value and make sense. 100,000,000 are owned by LBRY directly.
 
-* The remaining 600,000,000 are mined in 3 stages:
-
+- The remaining 600,000,000 are mined in 3 stages:
   1. The first stage went from block 1 to block 5100 and took roughly 9 days. Every block in this stage had a reward of 1 credit. This was the testing stage, to ensure that there were no glaring problems with the blockchain.
 
   2. The second stage was the ramp-up. It went from block 5101 to block 55000 (roughly 3 months of mining). During this stage, the block reward increased linearly from 2 to 500. 500 was the largest block reward available.
 
   3. The final and current stage is the "normal" mining stage. From block 55001 onward, the block reward decreases logarithmically over the course of 20 years.
 
-* Block rewards ramped up slowly because we wanted to ensure that users were given some time to get LBRY up and running, and to avoid unfairly benefiting the earliest users.
+- Block rewards ramped up slowly because we wanted to ensure that users were given some time to get LBRY up and running, and to avoid unfairly benefiting the earliest users.
 
-* To see the current block reward, visit the [LBRY Blockchain Explorer](https://explorer.lbry.com) and explore the latest block details.
+- To see the current block reward, visit the [LBRY Blockchain Explorer](https://explorer.lbry.com) and explore the latest block details.
 
 ## Other Information
+
 The LBRY blockchain has a targeted block time of 2.5 minutes. This doesn't mean that a block will be confirmed exactly every 2.5 minutes, just that the average time between blocks is about that length.
 
 The max size of each block is currently around 2 MB. In an average block, this translates to around 1800 transactions.
 
 ## Where can I see this visually?
+
 The [Stats page on the Explorer](https://explorer.lbry.com/stats) has this information, including inflation rates and emission schedule. It can be exported to CSV.

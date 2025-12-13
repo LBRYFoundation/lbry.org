@@ -1,8 +1,8 @@
 ---
 author: samuel-lbryian
 title: Wikimedia Forced to Remove Anne Frank's Diary
-date: '2016-02-12 19:21:53'
-cover: 'anne-frank-2.png'
+date: "2016-02-12 19:21:53"
+cover: "anne-frank-2.png"
 cover-light: true
 tags: ["copyright", "public domain", "freedom of information"]
 ---
@@ -13,7 +13,7 @@ When the copyright in the Netherlands for this seminal autobiographical work on 
 
 According to Jacob Rogers, counsel for the Wikimedia Foundation:
 
->"Today, in an unfortunate example of the overreach of the United States' current copyright law, the Wikimedia Foundation removed the Dutch-language text of The Diary of a Young Girl."
+> "Today, in an unfortunate example of the overreach of the United States' current copyright law, the Wikimedia Foundation removed the Dutch-language text of The Diary of a Young Girl."
 
 [We previously mentioned](/news/its-time-to-liberate-anne-franks-diary) how, through a twisted abuse of copyright law, Anne Frank Fonds, the foundation holding the copyright for The Diary of Anne Frank, hopes to keep it out of the public domain for **another 34 years**. The foundation made a last-minute claim that Otto Frank, Anne Frank's father, co-authored the book, rather than simply serving as an editor. Instead of entering the public domain in 2016, 70 years after Anne's passing, this would extend the copyright until 70 years after Otto's death (2050 AD) – allowing Anne Frank Fonds to continue to rake in royalty checks for another few decades.
 

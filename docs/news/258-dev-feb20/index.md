@@ -1,8 +1,8 @@
 ---
 author: tom-zarebczan
-title: 'Development Update for February 2020'
-date: '2020-02-24 16:00:00'
-cover: 'wooden-letters-banner.jpg'
+title: "Development Update for February 2020"
+date: "2020-02-24 16:00:00"
+cover: "wooden-letters-banner.jpg"
 category: community-update
 ---
 
@@ -17,20 +17,23 @@ Let’s start with some GitHub stats across all our repos since our last update 
 Thanks to everyone who took time from their busy days to help LBRY out!
 
 ## In this report
-* [Desktop app](#summary-desktop)
-* [SDK](#summary-sdk)
-* [lbry.tv](#web)
-* [Thumbnails on LBRY](#thumbs)
-* [LBRY for Android](#android)
-* [Blockchain](#blockchain)
-* [YouTube Sync](#youtube)
-* [New creator repost reward is live, analytics via email, and a special surprise](#rewards)
-* [2019 review and new 2020 roadmap](#roadmap)
+
+- [Desktop app](#summary-desktop)
+- [SDK](#summary-sdk)
+- [lbry.tv](#web)
+- [Thumbnails on LBRY](#thumbs)
+- [LBRY for Android](#android)
+- [Blockchain](#blockchain)
+- [YouTube Sync](#youtube)
+- [New creator repost reward is live, analytics via email, and a special surprise](#rewards)
+- [2019 review and new 2020 roadmap](#roadmap)
 
 ## Desktop app {#summary-desktop}
+
 Since our last development update, the app team shipped two named releases: [0.39.0](https://github.com/lbryio/lbry-desktop/releases/tag/v0.39.0), under codename [Joule](https://lbry.com/news/joule), and [0.41.0](https://github.com/lbryio/lbry-desktop/releases/tag/v0.41.0), under codename [Kelvin](https://lbry.com/news/kelvin). Both continue to improve user experience through homepage improvements and a new repost feature. Version number 0.40 was skipped due to a bad build, and [0.42.0](https://github.com/lbryio/lbry-desktop/releases/tag/v0.42.0) finished up the repost work started in Kelvin by allowing them to be created in the directly in the app.
 
 ### Joule improvements - homepage, invites, and more
+
 Joule brought a huge revamp to the homepage experience by moving away from the default trending + tags view, to a more dynamic and larger tile listing of your preferred content.
 
 We want to make the experience more about the content you’re already interested in, as opposed to trying to force you into trending-first discovery as in previous versions. The other main feature in this release was invites. We re-worked this area allowing users to share special invite URLs featuring their channels instead of a random invite code. Inviting friends and fans of your channel has never been easier!
@@ -40,6 +43,7 @@ A bit more on the UI changes: front and center is your Following feed, which inc
 ![Joule](https://spee.ch/@lbrynews:0/lbry-joule.gif)
 
 ### Kelvin features - reposts, top claims, autoplay, and more
+
 In Kelvin, we added the ability to display reposts. This is a new feature created for LBRY and is similar to what you’ve seen on platforms like Twitter where you can repost someone else’s content to your own feed.
 
 We are hoping it will help in the discovery process as it allows creators to share content from other creators. It also enables a cool new type of channel, dedicated to curating content. We call these repost only-channels (check out [lbry://@Top-LBRY-YouTubers](https://lbry.tv/@Top-LBRY-YouTubers:d) for an example). Another cool use case is the ability to repost your own or others’ content under a different URL (i.e. when you go to lbry://lbryrocks it redirects to lbry://jiggytom).
@@ -51,7 +55,9 @@ We also added a top claims page when typing any URL in the search bar, see [lbry
 ![Kelvin](https://spee.ch/5/lbry-kelvin.gif)
 
 ### Other features, tweaks, and bug fixes
+
 Other new features and changes in Joule/Kelvin, and since our last update include:
+
 - Autoplay next improvements: a countdown/cancel button, prevent playing channels/blocked content, remove mature recommendations on non-mature content
 - More languages: Danish, Romanian, and Urdu.
 - Improved display and handling of text content including markdown.
@@ -63,11 +69,13 @@ Other new features and changes in Joule/Kelvin, and since our last update includ
 - Improved embed links - with support Twitter video, thumbnails, and better autoplay support (off by default).
 
 ### Privacy at LBRY
+
 If you’ve checked out the @lbry channel recently, you may have seen our [latest video explaining privacy changes coming to LBRY](https://lbry.tv/@lbry:3f/privacy-update:f). On the desktop side, it will now be clearer which types of data is tracked and by whom, and users will have control over their settings. Both new and existing users will be prompted with the above welcome screen on startup. Users who choose to sign into lbry.tv on desktop will have to at least share data with LBRY to be eligible to earn rewards. Telemetry and other analytics data through Google Analytics will be opt-in.
 
 ![privacy](https://spee.ch/4/privacy-lbry.jpeg)
 
 ### Channel discovery on first run
+
 In order to help users better curate their homepage and follow channels they will enjoy, we’ll be encouraging following of top channels during the first run process on sign in. We’ve also revamped the [Discover New Channels page](https://lbry.tv/$/following/channels/discover) to show top, trending, and channels from @lbrycast to aid in content discovery.
 
 ![findchanels](https://spee.ch/2/find-new-2.jpg)
@@ -79,6 +87,7 @@ We want to give users more control over discovery, so we’ll be adding addition
 ![filters](https://spee.ch/a/filters-1.jpg)
 
 ## SDK {#summary-sdk}
+
 On the SDK side of the house, we’ve shipped versions every weeks since our last update: [0.52.0](https://github.com/lbryio/lbry-sdk/releases/tag/v0.52.0), [0.53.0](https://github.com/lbryio/lbry-sdk/releases/tag/v0.53.0),
 [0.54.0](https://github.com/lbryio/lbry-sdk/releases/tag/v0.53.0),
 [0.55.0](https://github.com/lbryio/lbry-sdk/releases/tag/v0.55.0),
@@ -89,6 +98,7 @@ On the SDK side of the house, we’ve shipped versions every weeks since our las
 [0.60.0](https://github.com/lbryio/lbry-sdk/releases/tag/v0.60.0), and the latest patch at [0.60.1](https://github.com/lbryio/lbry-sdk/releases/tag/v0.60.1).
 
 The main features and bug fixes include:
+
 - Add file transcoding options (see below).
 - New [wallet server indexes](https://github.com/lbryio/lbry-sdk/pull/2811) and ability to filter by duration (coming to an app soon!).
 - Reflected status on file list.
@@ -105,9 +115,10 @@ The main features and bug fixes include:
 ![sync](https://spee.ch/b/headers-sync.png)
 
 ### Transcoding of content on upload
+
 The latest SDK includes the ability to transcode content during the publish process if FFMPEG is installed on the system. It must be present in the path, or specified via the ffpmeg_folder configuration item in daemon_settings. There are two flags available:
-**--validate_file** -  validate that the video container and encodings match common web browser support or that optimization succeeds if specified.
-**--optimize_file** -  transcode the video & audio if necessary to ensure common web browser support.
+**--validate_file** - validate that the video container and encodings match common web browser support or that optimization succeeds if specified.
+**--optimize_file** - transcode the video & audio if necessary to ensure common web browser support.
 
 The first will simply tell you whether or not the file is within spec for typical streaming scenarios at LBRY (i.e. it will check the bitrate, that it’s web optimized - faststart, and has the correct encoding) and won’t actually transcode. The 2nd flag is the one that does the transcoding to the most compatible spec (h264/AAC, faststart, streamable bitrate). A new file is created along side the original in the same folder, which is then used to upload to LBRY. Currently this file must be manually deleted.
 
@@ -118,9 +129,11 @@ The first will simply tell you whether or not the file is within spec for typica
 We recently revamped our [wallet server indexes](https://github.com/lbryio/lbry-sdk/pull/2811) to include additional sorting and filtering options so that the Desktop app can give users advanced discovery options. This includes duration, claim type, stream type, fee amount, and channels. We also cleaned up some old indexes for trending global that were not being used. Currently there is a limitation with SQLite where only one index can be used at a time and we hope we can take more advantage of multiple indexes when we move to a POSTGRES database.
 
 ### Faster sync and performance improvements
+
 The SDK team has also been working closely with the blockchain team on sharing/consuming data directly without having to sync. Part of this work will also allow us to make the client/server work directly together without having to make additional calls to sync address data, transaction history, and to make claim search/resolve calls. This is going to speed things up considerably for the lbry.tv use case.
 
 ### BitTorrent progress
+
 We’ve made additional progress on our ability to download Torrent files directly into the LBRY app as if they were regular LBRY files. These will show up in file list alongside LBRY files and will give app users more decentralized content options by allowing Torrent downloads.
 
 ## lbry.tv {#web}
@@ -134,6 +147,7 @@ On the SDK side, we’ve also seen large loads due to many wallets being loaded 
 We are excited to see how performance improves once we get the larger server and SDK improvements in place. Thank you for bearing with us during some of the downtimes and slowness during this large growth period. We promise a much smoother experience is on the horizon.
 
 ### Monitoring data and metrics
+
 During the last couple of months, we’ve beefed up our system monitoring and metrics tools to get a better understanding of the lbry.tv environment and the pieces that come into play. We’re integrating Prometheus into more of the various layers, and using a tool called Grafana to put together some fantastic metrics and monitoring tools so we can understand what’s happening at a glance.
 
 ![metrics](https://spee.ch/9/metrics-lbry.jpeg)
@@ -147,16 +161,19 @@ One key component that we detached and deployed as a standalone service is the s
 We intend to continue working on scaling lbry.tv better and reaching regions all around the world providing an experience at least comparable to the one North Americans are having now.
 
 ### Invite page
+
 With our invites improvements, there is now a dedicated landing page for content creator’s channels when they share their invite links. Once a user hits an invite URL, they are automatically subscribed to the channel, the invite is credited, and new users can proceed to create a lbry.tv account.
 
 ![invite](https://spee.ch/6/invite-page.jpg)
 
 ### Privacy on lbry.tv
+
 As part of our privacy improvements for DTF February week 3, we’ve made it clearer that lbry.tv collects usage information, even with third parties like Google Analytics. Users who wish to opt out can run the Desktop app, or run an ad blocker that disables typical GA products.
 
 ![privacy-lbrytv](https://spee.ch/0/privacy---lbrytv.jpg)
 
 ## Thumbnails on LBRY {#thumbs}
+
 You may have noticed a few instances where the Thumbnail upload service was down due to spee.ch having issues. The spee.ch wallet and server have grown very large over the years due to tens of thousands of thumbnail uploads. We are exploring solutions to replace this, one of which is adding a special 2MB blob directly to the file itself which will store the thumbnail. Thank you for your patience while we work out a better solution.
 
 ## LBRY for Android {#android}
@@ -164,6 +181,7 @@ You may have noticed a few instances where the Thumbnail upload service was down
 Since our last update, our team has released [0.12.2](https://github.com/lbryio/lbry-android/releases/tag/0.12.2) codename [Fireworks] (https://lbry.com/news/fireworks) and [0.13.0](https://github.com/lbryio/lbry-android/releases/tag/0.13.0) codename [Galaxy](https://lbry.com/news/android-galaxy) which continue to polish up the Android app experience, and bring it closer to feature parity with Desktop/lbry.tv.
 
 ### Fireworks
+
 Fireworks greatly improved the search experience by preloading content from the lighthouse search service so it didn’t need to be resolved, basic text rendering (including markdown), added view and follower counts, ability to download videos/content, and removed sign in on first run. You’ll see the content download progress in the notification bar, file page, and in the Library area - you can stop downloads from any of the areas too.
 
 ![fireworks](https://spee.ch/@lbrynews:0/fireworks-android.jpeg)
@@ -177,6 +195,7 @@ The Galaxy release enabled a long awaited feature on Android - Invites! This are
 ### Other improvements and bug fixes
 
 Other new features and changes in Fireworks/Galaxy, and since our last update include:
+
 - More responsive content pages (related content delayed load).
 - Quick skip in videos (10 seconds at a time).
 - Improved search results when dealing with non-mature content (no mature content suggested even with setting enabled).
@@ -192,14 +211,17 @@ Next steps for Android include the similar first run changes as Desktop where we
 ![follow](https://spee.ch/d/Follow-android.jpg)
 
 ### F-Droid
+
 As part of our privacy initiative for DTF February, we’ve begun making the necessary changes to our build process and removing analytics/Firebase so that we can be officially part of the F-Droid repository. Both of these were requirements in order to be considered and require a standalone SDK build without buildozer and a refactor of our code to easily remove GA. Since Firebase will also be removed, these versions will not have notification capabilities until we can replace it with a non-Google alternative.
 
 ## Blockchain {#blockchain}
+
 In the last couple of months, the blockchain team has been working on two main tasks - assisting the SDK team with a single claim database mechanism and bringing in Bitcoin version 19 upstream changes. The claim database redesign will allow the LBRY SDK to directly access claim data without having the wallet servers needing to sync from LBRYcrd, which is currently a slow and tedious process.
 
 The Bitcoin version 19 changes will bring additional stability improvements to our codebase, but will force us to revamp how our tipbots work since the accounts mechanism is removed in this version. The team has also been assisting with providing the video transcoding capabilities in the SDK and debugging slowness of wallet related calls.
 
 ## YouTube Sync {#youtube}
+
 YouTube Sync has played a fundamental role in the previous months. YouTube has become more aggressive in censoring topics and channels on their platform and with their recent ban on crypto related videos we've observed a huge influx of new creators wanting to transfer to LBRY. During the first month and a half of the year we published more than 200,000 new videos with an average of 4500 videos every day!
 
 With so many new users and creators flooding into LBRY we had to better optimize the process of syncing new channels and keeping previous ones up to date. We have been very successful at that as we not only managed to keep up with the great demand, we also reduced the time it takes for popular channels to be updated: while in the past it would take up to 24 hours for a new video to appear on LBRY, we've reduced this latency to up to 3 hours maximum.
@@ -220,14 +242,17 @@ Finally, we’ve got [a big surprise scheduled for the final week of February](h
 ![creatorstats](https://spee.ch/2/stats-creators.jpg)
 
 ## 2019 review and new 2020 roadmap {#roadmap}
+
 We’re excited to announce our [2019 review by Jeremy](https://lbry.tv/@lbry:3f/LBRY-2019-Review:0) and the [roadmap for 2020](https://lbry.com/roadmap)! Jeremy covers the roadmap in details on our lbry.tv channel in both [video](https://lbry.tv/@lbry:3f/LBRY-2020-Roadmap-Release:6) and [text formats](https://lbry.tv/@lbry:3f/lbry-in-2019-2020:5).
 
 Everyone at LBRY is excited about what’s in store for this year, especially with the interest we’ve seen in lbry.tv and more awesome creators coming on board. We hope to continue improving the creator experience through analytics and LBRY first publishing, which we think will change the game considerably (once content is exclusive on LBRY for the first X hours).
 
 ## Limited Reward Code!
+
 We’ve got a special bonus for readers of this update, enjoy some LBC via this code (while supplies last!): `feb-dev-yuosd`
 
 ## Want to Develop on the LBRY ecosystem?
+
 All of our code is open source and available on [GitHub](https://github.com/lbryio). Are you a developer and want to find out more? Check out our [contributing guide](https://lbry.tech/contribute) and our [LBRY App specific contributing document](https://github.com/lbryio/lbry-app/blob/master/CONTRIBUTING.md). Make sure you have turned on the Developer option in your email preferences (see app overview page), or sign up at [lbry.tech](https://lbry.tech). We also have a [LBRY Discourse Forum](https://discourse.lbry.io) where developers can interact with the team and ask questions across all our different projects.
 
 If you aren’t part of our Discord community yet, [join us](https://chat.lbry.com) anytime and say hello!

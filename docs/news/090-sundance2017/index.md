@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Movie Soup for the Soul'
-date: '2017-01-19 00:16:00'
-cover: 'sundance-banner.png'
+title: "Movie Soup for the Soul"
+date: "2017-01-19 00:16:00"
+cover: "sundance-banner.png"
 ---
 
 In the film business, there's an annual party in the mountains to celebrate independent film and kick off the new year in movies.
@@ -23,6 +23,6 @@ A year after BELLFLOWER, yours truly (read: me) attended Sundance for the first 
 
 This little six-minute gem directed by Kat Candler went on to play 40 film festivals and two years later was adapted into a [feature film starring Aaron Paul and Juliette Lewis](http://www.imdb.com/title/tt3186318). See it at lbry://hellion
 
-Without *Hellion* and our [November film *Cinema Six*](https://lbry.com/news/singletree), I would not be here today with LBRY. So here's to keeping the dream of great indie film alive.
+Without _Hellion_ and our [November film _Cinema Six_](https://lbry.com/news/singletree), I would not be here today with LBRY. So here's to keeping the dream of great indie film alive.
 
 **Not on LBRY yet?** [Get an invite here](https://lbry.com/get/). Or if you're a creator, skip the wait and email [reilly@lbry.com](mailto:reilly@lbry.com).

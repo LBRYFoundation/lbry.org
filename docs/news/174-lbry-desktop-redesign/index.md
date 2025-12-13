@@ -1,8 +1,8 @@
 ---
 author: sean-yesmunt
-title: 'LBRY Austen: A Developers Perspective'
-date: '2018-06-25 17:00:00'
-cover: 'redesign.png'
+title: "LBRY Austen: A Developers Perspective"
+date: "2018-06-25 17:00:00"
+cover: "redesign.png"
 category: technical
 ---
 

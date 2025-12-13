@@ -9,9 +9,9 @@ Our trademarks include our name, LBRY, and our official logo, which are owned by
 
 ## Our trademark policy has three objectives:
 
-   * We want it to be very easy for anyone creating content or services on the LBRY network to use the official name and logo.
-   * We want to be clear about how and when you can use the LBRY name and logo, as well as providing examples of uses that are not acceptable.
-   * We want to make it difficult for anyone to use the LBRY name or logo to confuse or defraud people.
+- We want it to be very easy for anyone creating content or services on the LBRY network to use the official name and logo.
+- We want to be clear about how and when you can use the LBRY name and logo, as well as providing examples of uses that are not acceptable.
+- We want to make it difficult for anyone to use the LBRY name or logo to confuse or defraud people.
 
 ## Obtain your license
 
@@ -21,17 +21,17 @@ If you are a developer, you will need to complete the verification process befor
 
 ## Examples of acceptable uses
 
-   * Create brand new content. Entertain, educate, become famous, or change the world.
-   * Build a service based on LBRY. Help make the internet a better, freer place!
-   * Staying within the bounds of Fair Use, sample, derive, criticize, or otherwise use someone else's copyright work to make something new.
+- Create brand new content. Entertain, educate, become famous, or change the world.
+- Build a service based on LBRY. Help make the internet a better, freer place!
+- Staying within the bounds of Fair Use, sample, derive, criticize, or otherwise use someone else's copyright work to make something new.
 
 ## Examples of unacceptable uses
 
-   * Creating any service that uses LBRY and presenting it as an official product, such as an online wallet.
-   * Presenting yourself or implying that you are a representative or agent of LBRY, Inc.
-   * Using LBRY in the title or name of your business in a way that could be construed as being a product of LBRY, Inc.
-   * Uploading someone else's copyrighted work without their permission, either for free or attempting to profit.
-   * Uploading content that is itself a crime.
+- Creating any service that uses LBRY and presenting it as an official product, such as an online wallet.
+- Presenting yourself or implying that you are a representative or agent of LBRY, Inc.
+- Using LBRY in the title or name of your business in a way that could be construed as being a product of LBRY, Inc.
+- Uploading someone else's copyrighted work without their permission, either for free or attempting to profit.
+- Uploading content that is itself a crime.
 
 ## LBRY service trademark usage policy
 

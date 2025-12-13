@@ -1,3 +1,3 @@
-import { createContentLoader } from 'vitepress';
+import { createContentLoader } from "vitepress";
 
-export default createContentLoader('archive/faq/*/index.md');
+export default createContentLoader("archive/faq/*/index.md");

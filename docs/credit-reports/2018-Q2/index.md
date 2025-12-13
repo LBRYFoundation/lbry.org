@@ -5,7 +5,8 @@ category: policy
 ---
 
 ## Summary
-This quarter we moved no Credits from cold storage.  We spent 738,027 total community Credits on line items detailed below. No operational Credits were moved to markets.  We sold 327,352 Credits to a crypto education club.  No institutional Credits were moved or spent.  We anticipate comparable or larger total outlays in q3 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. LBRY is also likely to form it's first institutional partnership, with spending anticipated to be around 500,000 LBC.
+
+This quarter we moved no Credits from cold storage. We spent 738,027 total community Credits on line items detailed below. No operational Credits were moved to markets. We sold 327,352 Credits to a crypto education club. No institutional Credits were moved or spent. We anticipate comparable or larger total outlays in q3 2018. Operational spending may increase, but not significantly, and community spending is likely to be higher. We will continue to incentivize new users and other beneficial behavior, which is likely to involve 300,000 to 1,500,000+ LBC. LBRY is also likely to form it's first institutional partnership, with spending anticipated to be around 500,000 LBC.
 
 ## Overview By Fund
 
@@ -14,7 +15,7 @@ This quarter we moved no Credits from cold storage.  We spent 738,027 total comm
 738,027 Credits were spent from the community fund, in the following areas:
 
 | Category                | Amount               |
-|-------------------------|----------------------|
+| ----------------------- | -------------------- |
 | Bounties                | 48,606 LBRY Credits  |
 | User Engagement         | 275,000 LBRY Credits |
 | Community Management    | 35,810 LBRY Credits  |
@@ -26,11 +27,10 @@ This quarter we moved no Credits from cold storage.  We spent 738,027 total comm
 
 ### Operational Fund
 
-* LBRY sold no LBC on the open market
-* LBRY sold 327,352 Credits to a crypto education club.
+- LBRY sold no LBC on the open market
+- LBRY sold 327,352 Credits to a crypto education club.
 
 LBRY does not anticipate moving Credits to market this quarter due to both market conditions and our favorable cash position. However, should market conditions or our needs change, we reserve the right to move Credits to market as needed.
-
 
 ### Institutional Fund
 

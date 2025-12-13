@@ -1,8 +1,8 @@
 ---
 author: jeremy-kauffman
-title: 'Open Beta? New Features? Keep Your Eye on the LBRY Roadmap'
-date: '2016-10-17 00:06:18'
-cover: 'lbry-3d-1000.png'
+title: "Open Beta? New Features? Keep Your Eye on the LBRY Roadmap"
+date: "2016-10-17 00:06:18"
+cover: "lbry-3d-1000.png"
 ---
 
 LBRY is working hard to improve our communication with the public. While the vast majority of our time is put into building LBRY, we want to remain transparent and do more to keep those interested informed. In the past couple months, we have:

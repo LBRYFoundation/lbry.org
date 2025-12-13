@@ -11,7 +11,7 @@ Depending on which OS and wallet you use, LBRY files may be stored in several pl
 - `C:\Users\%USER%\AppData\Local\lbry\lbrynet` or `%localappdata%\lbry\lbrynet` - Daemon configuration, logs, encrypted blob files
 - `C:\Users\%USER%\AppData\Local\lbry\lbryum` or `%localappdata%\lbry\lbryum` - Wallet and blockchain data
 
-*\*If you originally installed v0.14 and below, the lbrynet and lbryum directories will be in `%appdata%`*
+_\*If you originally installed v0.14 and below, the lbrynet and lbryum directories will be in `%appdata%`_
 
 ## MacOS
 
@@ -19,8 +19,7 @@ Depending on which OS and wallet you use, LBRY files may be stored in several pl
 - `~/.lbryum` - Wallet and blockchain data
 - `~/.lbrycrd` - Location for [lbrycrdd](/faq/standalone-wallet/) full blockchain data (separate install)
 
-
-*Hint: copy/paste the above directories into Finder - Click `Go` from the Finder top menu bar, then `Go To Folder`*
+_Hint: copy/paste the above directories into Finder - Click `Go` from the Finder top menu bar, then `Go To Folder`_
 
 ## Linux
 
@@ -29,13 +28,15 @@ Depending on which OS and wallet you use, LBRY files may be stored in several pl
 - `~/.local/share/lbry/lbryum` - Wallet and blockchain headers
 - `~/.lbrycrd` - Location for [lbrycrdd](/faq/standalone-wallet/) full blockchain data (separate install)
 
-*\*If you originally installed v0.14 and below, the lbrynet and lbryum directories will be `~/.lbrynet` / `~/.lbryum`*
+_\*If you originally installed v0.14 and below, the lbrynet and lbryum directories will be `~/.lbrynet` / `~/.lbryum`_
 
 ## Android {#android}
- *Use file manager to navigate to the path below*
+
+_Use file manager to navigate to the path below_
+
 - `Internal storage/android/data/io.lbry.browser/files/lbrynet` - Daemon configuration, logs, encrypted blob files
 - `Internal storage/android/data/io.lbry.browser/files/lbryum` - Wallet and blockchain data
 
-_____________________________
+---
 
 Note: do not confuse blobfiles with `Download directory` that you define in app settings. The `Download directory` is just a path where all downloaded files are copied for your potential convenience, the files placed there are not used by LBRY anyhow. You can disable saving copies of all viewed content in _Advanced Settings_. If you want to change the location of actual `/blobfiles/` participating in LBRY network distribution, refer to [this instruction](/faq/how-to-change-lbry-blob-files/).

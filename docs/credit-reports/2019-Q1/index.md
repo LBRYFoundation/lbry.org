@@ -3,8 +3,10 @@ title: "quarterly Credit Report: First quarter 2019"
 sheet: https://docs.google.com/spreadsheets/d/1asnI5mGCVYb6zbcsxDhZaYu2IbXgWkGEBZcJ7VXt9Xq/edit?usp=sharing
 category: policy
 ---
+
 ## Summary
-This quarter we moved 146,289 operational Credits from cold storage.  We spent 1,695,734 total community Credits on line items detailed below. 146,289 operational Credits were used for the LBRY employee LBC purchase program.
+
+This quarter we moved 146,289 operational Credits from cold storage. We spent 1,695,734 total community Credits on line items detailed below. 146,289 operational Credits were used for the LBRY employee LBC purchase program.
 We significantly larger community outlays throughout the rest of 2019 and starting in q2 2019. Operational spending may increase at any time, but is not expected to increase significantly. Institutional spending is expected to be less than 1,000,000 LBC
 
 ## Overview By Fund
@@ -14,7 +16,7 @@ We significantly larger community outlays throughout the rest of 2019 and starti
 1,695,734 Credits were spent from the community fund, in the following areas:
 
 | Category             | Amount  |
-|----------------------|---------|
+| -------------------- | ------- |
 | Bounties             | 328,380 |
 | User Engagement      | 291,000 |
 | Community Engagement | 175,000 |
@@ -28,8 +30,8 @@ As reliability and interest has been increasing, we anticipate continuing to rew
 
 ### Operational Fund
 
-* LBRY sold no LBC on the open market
-* LBRY issued 146,289 LBC to employees
+- LBRY sold no LBC on the open market
+- LBRY issued 146,289 LBC to employees
 
 LBRY does not anticipate moving Credits to market this quarter. However, should market conditions or our needs change, we reserve the right to move Credits to market as needed.
 

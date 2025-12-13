@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
-title: 'Rock softly and carry a big guitar'
-date: '2018-02-08 00:20:00'
-cover: 'srod-banner.png'
+title: "Rock softly and carry a big guitar"
+date: "2018-02-08 00:20:00"
+cover: "srod-banner.png"
 category: content
 ---
 
@@ -14,6 +14,6 @@ What do you get when you mash Spanish, Celtic, and Islander blood into a metal r
 
 From metal and progressive rock originals to the best geek covers this side of Jakku, it's with warm welcome we re-introduce the music scene on LBRY with wailing chords.
 
-Subscribe to @srodalmenara or share his songs the *safe* way [via Spee.ch](https://spee.ch/@srodalmenara).
+Subscribe to @srodalmenara or share his songs the _safe_ way [via Spee.ch](https://spee.ch/@srodalmenara).
 
 [**Download LBRY today**](/get/). Is your favorite channel not on LBRY? Help us feature what you want to see! Email [reilly@lbry.com](mailto:reilly@lbry.com) to make it happen. Or sync your own channel at: /youtube

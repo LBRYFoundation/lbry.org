@@ -29,9 +29,9 @@ On the initial screen, you'll be asked to select a wallet file or create a new o
 
 At the next prompt, you'll be asked for the wallet type - choose Multi-signature. Next, choose how many people (including the current person/wallet) will be sharing this wallet (from X cosigners) and how many are required to approve the transaction (require X cosigners). For example, if you choose 2 of 3, any 2 people will need to sign off to send the transaction.
 
-Next, you'll be asked to provide a key for each wallet, including the current one, which is first. If you want to use your LBRY app's key / seed, proceed with  "I already have a seed." You can find this seed inside your default_wallet file that's [created as part of your app installation](/faq/how-to-backup-wallet/). Open the default_wallet and you'll see a seed there. The wallet must not be encrypted to view it (you can decrypt temporarily via Desktop App > Settings). Otherwise, you can proceed with a new seed or Hardware device (requires Ledger device, [see below](#HW). Make sure to back up the seed if creating a new one - this can be done by copying the seed phrase or backing up the wallet file that's created.
+Next, you'll be asked to provide a key for each wallet, including the current one, which is first. If you want to use your LBRY app's key / seed, proceed with "I already have a seed." You can find this seed inside your default_wallet file that's [created as part of your app installation](/faq/how-to-backup-wallet/). Open the default_wallet and you'll see a seed there. The wallet must not be encrypted to view it (you can decrypt temporarily via Desktop App > Settings). Otherwise, you can proceed with a new seed or Hardware device (requires Ledger device, [see below](#HW). Make sure to back up the seed if creating a new one - this can be done by copying the seed phrase or backing up the wallet file that's created.
 
-You will be given a Master Public Key that will be shared with the other co-signers when they create the same wallet locally. Next, you will be prompted for the next cosigners key. This would come from their PC while setting up the same wallet, or from their [default_wallet file](/faq/how-to-backup-wallet/) by opening it and using the ```"public_key":``` portion (this assumes they will create their Electrum wallet from this LBRY app seed). Proceed with all cosigners until they are all filled out. Lastly, enter a password to encrypt the multisignature wallet.
+You will be given a Master Public Key that will be shared with the other co-signers when they create the same wallet locally. Next, you will be prompted for the next cosigners key. This would come from their PC while setting up the same wallet, or from their [default_wallet file](/faq/how-to-backup-wallet/) by opening it and using the `"public_key":` portion (this assumes they will create their Electrum wallet from this LBRY app seed). Proceed with all cosigners until they are all filled out. Lastly, enter a password to encrypt the multisignature wallet.
 
 ## Receiving LBC in the wallet
 
@@ -61,10 +61,10 @@ LBRY Vault wallet files and blockchain data can be found in the App Data Roaming
 
 2. If you are having trouble sending due to fees, make sure that fee estimation is set to static, and edit fees manually is checked under **Tools > Preferences**.
 
-3. If LBRY Vault stuck in connection mode (LBRY Vault keeps connecting and disconecting)  delete the blockchain_headers file in `%appdata%\Electrum-lbry` and restart the application.
+3. If LBRY Vault stuck in connection mode (LBRY Vault keeps connecting and disconecting) delete the blockchain_headers file in `%appdata%\Electrum-lbry` and restart the application.
 
 4. If you have problems connecting to LBRY servers try adding one of community hosted server by going to **Tools > Network > Server.**
 
 | Address                    | Region | Host         |
-|----------------------------|--------|--------------|
+| -------------------------- | ------ | ------------ |
 | spv1.allaboutlbc.com:50001 | EU     | Madiator2011 |

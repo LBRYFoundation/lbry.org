@@ -1,8 +1,8 @@
 ---
 author: james-biller
-title: 'Is Everything Better On The Blockchain?'
-date: '2018-08-20 08:08:08'
-cover: 'Growing-Blockchain.png'
+title: "Is Everything Better On The Blockchain?"
+date: "2018-08-20 08:08:08"
+cover: "Growing-Blockchain.png"
 category: content
 ---
 
@@ -100,7 +100,7 @@ Red flags:
 
 Like Game.com's domain, the biggest thing Potcoin seems to have going for it is the name.
 
-This can be seen by the repetitive use of 'PotCoin' in the first paragraph. The site seems to be attempting to instill into your psychology the fact that this *will* be the coin uses for all future pot purchases because after all, it's PotCoin- how could it not be the pot-purchasing coin of the future?
+This can be seen by the repetitive use of 'PotCoin' in the first paragraph. The site seems to be attempting to instill into your psychology the fact that this _will_ be the coin uses for all future pot purchases because after all, it's PotCoin- how could it not be the pot-purchasing coin of the future?
 
 Claiming to be the solution to an emerging industry is a **bold** claim. But the website fails to back it up.
 
@@ -156,4 +156,4 @@ The problems that we're solving are explained in this [essay](/what).
 
 We see our blockchain as solving the problem of phenomena like the infamous "adpocalypse" of YouTube, where big corporations decide who gets paid and who doesn't, regardless of whose content is truly in demand and worth monetization.
 
-We think that the best way for creators to make money is by being by paid by the consumers of their content directly, without a third party- which *does* require a blockchain.
+We think that the best way for creators to make money is by being by paid by the consumers of their content directly, without a third party- which _does_ require a blockchain.

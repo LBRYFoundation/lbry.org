@@ -1,8 +1,8 @@
 ---
 author: reilly-smith
 title: "...it isn't free"
-date: '2017-05-11 00:19:30'
-cover: 'kokesh-banner.jpg'
+date: "2017-05-11 00:19:30"
+cover: "kokesh-banner.jpg"
 ---
 
 Freedom might not be free. But the works of freedom fighter Adam Kokesh definitely are.

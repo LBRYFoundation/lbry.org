@@ -1,8 +1,8 @@
 ---
 author: julie-sigwart
-title: 'Wrapping up 2019 and looking into 2020 Community update!'
-date: '2020-01-25 13:00:00'
-cover: '2020goldlights.jpg'
+title: "Wrapping up 2019 and looking into 2020 Community update!"
+date: "2020-01-25 13:00:00"
+cover: "2020goldlights.jpg"
 category: community-update
 ---
 
@@ -11,12 +11,13 @@ Here come the Roaring 20s! We finished strong in 2019, increasing our user base 
 ![YouTube boot](https://spee.ch/7/qeJp3LYGNTFrUOPd8HNvcUEj.jpeg)
 
 ## In this update {#updates}
-* [So long 2019 (and YouTube), hello to Content Freedom 2020!](#wrapup)
-* [What's new at LBRY?](#news)
-* [LBRY Foundation and the Swarm](#swarm)
-* [LBRY Foundation logo contest - up to 70,000 LBC in prizes to be awarded](#contest)
-* [Internationalization update](#i18n)
-* [The cherry on the top](#treat)
+
+- [So long 2019 (and YouTube), hello to Content Freedom 2020!](#wrapup)
+- [What's new at LBRY?](#news)
+- [LBRY Foundation and the Swarm](#swarm)
+- [LBRY Foundation logo contest - up to 70,000 LBC in prizes to be awarded](#contest)
+- [Internationalization update](#i18n)
+- [The cherry on the top](#treat)
 
 ### So long 2019 (and YouTube), hello to Content Freedom 2020! {#wrapup}
 
@@ -61,15 +62,15 @@ Abruptly on December 23, YouTube gave hundreds of creators of cryptocurrency-rel
 A huge influx of users rushed to LBRY, and despite some growing pains, the network scaled well, and LBRY received good press coverage:
 
 - Cointelegraph: [Cryptocurrency Influencers Speak Out On YouTube Deleting Crypto-Related Content ](https://cointelegraph.com/news/cryptocurrency-influencers-speak-out-on-youtube-deleting-crypto-related-content)
-- Cointelegraph: [YouTube Reinstates More Crypto-Related Content, Admits To Mistake Via Twitter](https://cointelegraph.com/news/youtube-reinstates-more-crypto-related-content-admits-to-mistake-via-twitter )
+- Cointelegraph: [YouTube Reinstates More Crypto-Related Content, Admits To Mistake Via Twitter](https://cointelegraph.com/news/youtube-reinstates-more-crypto-related-content-admits-to-mistake-via-twitter)
 - Cointelegraph: [What’s Next For YouTubers Impacted By Crypto-Related Content Ban?](https://cointelegraph.com/news/whats-next-for-youtubers-impacted-by-crypto-related-content-ban)
- _“Building a business or a following on YouTube is building on quicksand. YouTube regularly censors and bans creators, with capricious and arbitrary rules enforcement.”_
+  _“Building a business or a following on YouTube is building on quicksand. YouTube regularly censors and bans creators, with capricious and arbitrary rules enforcement.”_
 - Coinspice: [Christmas Massacre: YouTube Begins Crackdown on Crypto as LBRY Tried to Warn Content Creators](https://coinspice.io/news/christmas-massacre-youtube-begins-crackdown-on-crypto-as-lbry-tried-to-warn-content-creators/)
- _"Decentralized, crypto-friendly platform LBRY seized the opportunity. “Sneaky of YouTube to do this to all the crypto content creators right before Christmas when everyone is distracted.” Earlier this month LBRY highlighted coming changes to the YouTube platform. “Escape YouTube before it’s too late,” the company urged, which turned out to be very good advice."_
+  _"Decentralized, crypto-friendly platform LBRY seized the opportunity. “Sneaky of YouTube to do this to all the crypto content creators right before Christmas when everyone is distracted.” Earlier this month LBRY highlighted coming changes to the YouTube platform. “Escape YouTube before it’s too late,” the company urged, which turned out to be very good advice."_
 - Bitcoin.com: [Youtube 'Christmas Purge' Has Content Creators Pointing to These Alternate Platforms](https://news.bitcoin.com/youtube-christmas-purge-has-content-creators-pointing-to-these-alternate-platforms/)
-- Altcoinbuzz: [Decentralized Alternatives to Youtube](https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/decentralized-alternatives-to-youtube/ )
+- Altcoinbuzz: [Decentralized Alternatives to Youtube](https://www.altcoinbuzz.io/bitcoin-and-crypto-guide/decentralized-alternatives-to-youtube/)
 - Cryptocracy: [Special Edition: YouTube's War on Crypto Content
-Refugee video creators are migrating to LBRY with a hope and a prayer](https://cryptocracy.substack.com/p/special-edition-youtubes-war-on-crypto)
+  Refugee video creators are migrating to LBRY with a hope and a prayer](https://cryptocracy.substack.com/p/special-edition-youtubes-war-on-crypto)
 - Yahoo: [YouTube has restored deleted videos from crypto channels](https://finance.yahoo.com/news/youtube-restored-deleted-videos-crypto-103023456.html)
 - Bitcoin Warrior: [Crypto YouTubers claim platform is censoring their videos](https://bitcoinwarrior.net/2019/12/crypto-youtubers-claim-platform-is-censoring-their-videos/)
 
@@ -84,6 +85,7 @@ Full details of the Joule release [are here.](https://open.lbry.com/@lbry:3f/jou
 ![Joule](https://spee.ch/@lbrynews:0/lbry-joule.gif)
 
 #### Fireworks for Android released
+
 The new Android Fireworks release adds improved search, rich text support, a better video play experience, channel view and play counts, and more.
 
 - [Download from the Play Store](https://play.google.com/store/apps/details?id=io.lbry.browser&_ga=2.119991816.1200782483.1578512453-972114350.1553020414)
@@ -91,24 +93,29 @@ The new Android Fireworks release adds improved search, rich text support, a bet
 Full details and changes are available [on our blog.](https://open.lbry.com/@lbry:3f/android-fireworks:d?r=J9AzYYBK8iuEiH53V5PgyYUJqbvzJsnW)
 
 #### Searching on LBRY
+
 If you’ve used LBRY recently, you may have noticed improved search results - that’s because we’ve made large strides with our search algorithm to better process and spit out more relevant and timely results. This includes putting some weight on newer content and taking into account better multi-word scenarios. You can now also put quotes around entire phrases for exact search matches. We will continue to improve this area of the LBRY experience by adding additional filters and sorting criteria in the coming months.
 
 #### Wallet servers {#wallet-servers}
+
 Adding an option to select [wallet servers](https://lbry.com/faq/wallet-servers) is a large step towards our goal to further decentralize the LBRY apps and allows different communities to customize their view of the LBRY network, including search results, trending, and block lists.
 
 One such example is a community member (@EF on Discord) who is running an alternative trending algorithm on his server, connect to it to check it out: 199.192.31.122:50001. If a server is unavailable on startup, it will default back to the known lbry.tv wallet servers. We’ve also dockerized the process to make it super simple to run, check out our guide on lbry.tech.
 
 #### Invites changes
+
 We have revamped our invites program to make it easier for users to share referrals and claim referrers. You can access your invites link [here](https://open.lbry.com/?invite) and learn more on our [FAQ](https://lbry.com/faq/invites).
 
 ![invites](https://spee.ch/7/invites6.jpg)
 
 #### Support for more file types and downloads on lbry.tv
+
 We now support additional file types for viewing in the web experience - this includes markdown, text, HTML, and PDF. You can now also save content from lbry.tv using the download button!
 
 ![md](https://spee.ch/c/file-types-1.png)
 
 ### LBRY Foundation and the Swarm {#swarm}
+
 Our community held its first election, adding community member Jon Ringo to our foundation board.
 
 The results were extremely tight - a single vote could have changed the outcome. All of the candidates are standouts among our community, and we're looking forward to adding another two board seats soon.

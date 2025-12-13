@@ -1,7 +1,7 @@
 ﻿---
 author: samuel-lbryian
-title: 'LBRY Beta Goes Live! A Declaration of Independence from Big Media'
-date: '2016-07-04 00:00:01'
+title: "LBRY Beta Goes Live! A Declaration of Independence from Big Media"
+date: "2016-07-04 00:00:01"
 ---
 
 <p style="text-align: center;">
@@ -16,7 +16,7 @@ date: '2016-07-04 00:00:01'
 
 It's expensive to store and serve a bunch of content, so the market is dominated by the likes of Google's YouTube, Apple's iTunes, and Amazon's Kindle Store. By combining several new open-source technologies and key innovations, LBRY is able to cut out the middlemen. The result is a platform that no one controls, but everyone can access – just like the internet itself.
 
-With LBRY, content creators – be they filmmakers, musicians, writers, or software developers – are empowered to set their own price and release their works to the world with a few clicks of the mouse.  There are no ads, no corporate censors, and LBRY takes no portion of your income. For consumers, it means there is finally an alternative to the big media stores and the murky world of BitTorrent – which doesn't have a payment system and therefore is run on goodwill.
+With LBRY, content creators – be they filmmakers, musicians, writers, or software developers – are empowered to set their own price and release their works to the world with a few clicks of the mouse. There are no ads, no corporate censors, and LBRY takes no portion of your income. For consumers, it means there is finally an alternative to the big media stores and the murky world of BitTorrent – which doesn't have a payment system and therefore is run on goodwill.
 
 The LBRY app we're releasing today is the first of its kind – a media marketplace powered by a blockchain and yet easy enough for your Grandma to use. The release includes a LBRY client with one-click installation for Linux and OS X. Initially, the beta is invite-only to allow a gradual scaling of the network. Invites can be requested at www.lbry.com/get.
 
@@ -32,7 +32,7 @@ Indie production houses have seen the potential in LBRY. **[Oscilloscope Laborat
 
 ![It's A Disaster](/img/disaster500.png)
 
-*The sleeper hit dark comedy, starring David Cross and Julia Stiles, about four couples gathering for a regular brunch when they receive news of a disaster just outside the door. The film is considered a model of indie success.*
+_The sleeper hit dark comedy, starring David Cross and Julia Stiles, about four couples gathering for a regular brunch when they receive news of a disaster just outside the door. The film is considered a model of indie success._
 
 <p style="text-align: center;">
   <strong>Fight of the Century: Keynes vs. Hayek Rap Battle</strong>
@@ -44,13 +44,13 @@ Indie production houses have seen the potential in LBRY. **[Oscilloscope Laborat
 
 ![Keynes vs. Hayek Rap Battle](/img/keyneshayek500.png)
 
-*This viral hit short film shows economic heavyweights Friedrich Hayek and John Maynard Keynes in a musical duel over which of their theories is correct. Sound boring? Tell that to the film's millions of viewers so far.*
+_This viral hit short film shows economic heavyweights Friedrich Hayek and John Maynard Keynes in a musical duel over which of their theories is correct. Sound boring? Tell that to the film's millions of viewers so far._
 
 In addition to watching these films and other pieces already uploaded to LBRY, there are several ways users can interact with the platform – and begin generating income – once they receive beta access:
 
-* Cryptocoin enthusiasts can **begin mining our new token**, called *LBRY Credits*, by following [these instructions](/faq/mining-credits).
-* Creators can **upload their own content**, set a price, and start earning Credits using the app's publishing tools.
-* And anyone with spare disk space can **host content** and earn Credits simply by downloading something from LBRY and leaving the app running.
+- Cryptocoin enthusiasts can **begin mining our new token**, called _LBRY Credits_, by following [these instructions](/faq/mining-credits).
+- Creators can **upload their own content**, set a price, and start earning Credits using the app's publishing tools.
+- And anyone with spare disk space can **host content** and earn Credits simply by downloading something from LBRY and leaving the app running.
 
 <p style="text-align: center;">
   <a href="/get"><strong>Join the Waitlist for Early Access</strong></a>

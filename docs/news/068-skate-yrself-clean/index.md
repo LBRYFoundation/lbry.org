@@ -1,15 +1,15 @@
 ---
 author: reilly-smith
-title: 'Skate, Relax, Enjoy'
-date: '2016-09-22 00:06:00'
-cover: 'skate-banner.png'
+title: "Skate, Relax, Enjoy"
+date: "2016-09-22 00:06:00"
+cover: "skate-banner.png"
 ---
 
-This week, we're keeping it short and sweet with LBRY's first short film: *SKATE YRSELF CLEAN*.
+This week, we're keeping it short and sweet with LBRY's first short film: _SKATE YRSELF CLEAN_.
 
 Los Angeles-based actor-director Janna Jude paints a loving portrait of one Ricky Lee Robinson in her first documentary film.
 
-Part biography, part LCD Soundsystem music video, *SKATE* captures the American dream—and its obstacles—through the intimate character lens of a Floridian freestyle roller skater. He owns a floor cleaning business by day, shreds up the rink by night, and charms your pants off 24/7.
+Part biography, part LCD Soundsystem music video, _SKATE_ captures the American dream—and its obstacles—through the intimate character lens of a Floridian freestyle roller skater. He owns a floor cleaning business by day, shreds up the rink by night, and charms your pants off 24/7.
 
 ![SKATE YRSELF CLEAN](/img/news/skate-inline.png)
 

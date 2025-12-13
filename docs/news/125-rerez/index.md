@@ -1,19 +1,19 @@
 ---
 author: reilly-smith
-title: 'Game Smarter, Not Harder'
-date: '2017-08-10 00:21:00'
-cover: 'rerez-banner.png'
+title: "Game Smarter, Not Harder"
+date: "2017-08-10 00:21:00"
+cover: "rerez-banner.png"
 ---
 
 Hey, open beta made it to week TWO! More than seven days! So, let's celebrate the same way we always do: more content.
 
-There are *so many* shows out there about video games. Livestreams, nostalgia trips, novelties, reviews, gadgets–whatever the niche, the saturation of gaming content is persistent and relentless.
+There are _so many_ shows out there about video games. Livestreams, nostalgia trips, novelties, reviews, gadgets–whatever the niche, the saturation of gaming content is persistent and relentless.
 
 That's why I'm a huge fan of this week's show because he consistently maintains what many lack: quality, authentic engagement of the subject. Months ago, he e-strolled into [our Discord community](https://chat.lbry.com), ready to learn about LBRY. I present to you...
 
 ![Rerez](/img/news/rerez-inline.jpg)
 
-*(Haven't grabbed the beta yet? Do it [here](/get/).)*
+_(Haven't grabbed the beta yet? Do it [here](/get/).)_
 
 [@Rerez](https://twitter.com/rereztv) is without question the best video games-related channel on LBRY. Whether you like in-depth critical reviews of games and hardware, or exploring the weirdest depths of game novelty–and in fact, if you like neither of those things!–he finds a way to make it interesting.
 

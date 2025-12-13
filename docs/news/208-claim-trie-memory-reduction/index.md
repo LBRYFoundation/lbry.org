@@ -1,10 +1,11 @@
 ---
 author: samuel-lbryian
-title: 'Claim Trie Memory Reduction'
-date: '2019-03-26 15:00:00'
-cover: 'database2.jpg'
+title: "Claim Trie Memory Reduction"
+date: "2019-03-26 15:00:00"
+cover: "database2.jpg"
 category: technical
 ---
+
 Here follows a little writeup on some work that we have done to make the data structure in LBRYcrd less naive (and less RAM-hungry). We anticipate that it will ship in a LBRYcrd release in late spring.
 
 ## Section 1: The Requirements
@@ -19,7 +20,7 @@ LBRY is a collection of names to bids. You might outline the data like so:
 
 where bid3 is the current winning bid for name2, etc. We need a fast index into this data so that we can easily find the winning bid given a name. That's requirement #1, so let us begin with the most naive and simple approach: the hashtable. In C++ you would use the STL `std::unordered_map<string, std::vector<bid>>`, in Python `dict`, in C# `Generic.Dictionary`, etc. We need a direct lookup with a string key; a hashtable is a great option for that.
 
-And that brings us to the second requirement: I may want to do a partial lookup given the start of a name. I need a "starts with" lookup operator my data structure. To achieve this, we typically use a sorted map, which is typically implemented as a red-black tree structure. This structure will have operators for finding the nearest key to a given key. In C++, the structure is `std::map`. For Python, this article can give you some pointers on the equivalent of that: [http://www.grantjenks.com/docs/sortedcontainers/performance.html](http://www.grantjenks.com/docs/sortedcontainers/performance.html) 
+And that brings us to the second requirement: I may want to do a partial lookup given the start of a name. I need a "starts with" lookup operator my data structure. To achieve this, we typically use a sorted map, which is typically implemented as a red-black tree structure. This structure will have operators for finding the nearest key to a given key. In C++, the structure is `std::map`. For Python, this article can give you some pointers on the equivalent of that: [http://www.grantjenks.com/docs/sortedcontainers/performance.html](http://www.grantjenks.com/docs/sortedcontainers/performance.html)
 
 Fortunately, LBRY is not just a system of "names to bids". It's a verifiable system. I could store off copies of my data structure periodically. However, that would be expensive in both storage and synchronization. What we can do instead is utilize cryptographic hashing; we can combine all the data in our structure into a single hash. As long as we do this with a deterministic ordering, we should be able to repeat the hashing process and achieve the same result. This allows a person to verify that their copy of the data matches some globally preferred hash.
 
@@ -33,7 +34,7 @@ Requirements:
 4. Use minimal RAM — the requirement that got this project started.
 
 It's decided then: we're going to move to a custom container with a tree structure. Since we need a custom collection that includes strings as keys, a trie is the obvious candidate. That way the key is part of the structure rather than part of the data. The naive trie uses a single character for each node key. This is what LBRYcrd used for its first several years of existence. In essence:
-     
+
     class Node {
         map<character, Node> children
         Data data
@@ -60,9 +61,9 @@ It ends up that idea #1 makes all the difference. You have to combine the nodes 
 
 ## Section 2: The Experiments
 
-[         Timed experiments for 1 million insertions of random data [a-zA-Z0-9]{1, 60}](https://www.notion.so/lbry/adecf55e97fb4c8080e5288bb44cd65d?v=187bbb545577449489d12bc87a1892bb)
+[ Timed experiments for 1 million insertions of random data [a-zA-Z0-9]{1, 60}](https://www.notion.so/lbry/adecf55e97fb4c8080e5288bb44cd65d?v=187bbb545577449489d12bc87a1892bb)
 
-A few notes about the table: 
+A few notes about the table:
 
 - The Standard Trie is using a raw parent [pointer.](http://pointer.At) At that node count changing to a shared_ptr will up you 230MB in RAM and dropping the parent pointer will subtract that amount.
 - The collapsed prefix (CP) trie is the implementation of idea #1.
@@ -72,22 +73,22 @@ It's clear from this table that the collapsed prefix trie is the right approach.
 
 We did some experiments with using two `std::unordered_maps`; one mapped keys to nodes and the other mapped keys to a set of child keys. Alas, this ended up using as much memory as the standard trie.
 
-We also experimented with a memory-mapped backing allocator. Namely: `boost::interprocess::allocator<T, boost::interprocess::managed_mapped_file::segment_manager>` — a nice tool for this particular use case. However, memory-mapped files are aggressively kept in RAM. The kernel tries to keep the whole thing as fast as it can. Second, there is no mechanism to auto-grow the mmap file; it has to be manually increased. This makes it painful to use. The worst pain of this, though, was the general lack of allocator support libstdc++: [https://gcc.gnu.org/bugzilla/show_bug.cgi?id=57272](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=57272) 
+We also experimented with a memory-mapped backing allocator. Namely: `boost::interprocess::allocator<T, boost::interprocess::managed_mapped_file::segment_manager>` — a nice tool for this particular use case. However, memory-mapped files are aggressively kept in RAM. The kernel tries to keep the whole thing as fast as it can. Second, there is no mechanism to auto-grow the mmap file; it has to be manually increased. This makes it painful to use. The worst pain of this, though, was the general lack of allocator support libstdc++: [https://gcc.gnu.org/bugzilla/show_bug.cgi?id=57272](https://gcc.gnu.org/bugzilla/show_bug.cgi?id=57272)
 
-We experimented with using [LevelDB](https://github.com/google/leveldb) as the backing store for a custom trie. This has an interesting  advantage in that we can keep trie history forever; we can index by hash as well as by name. It could be handy for querying the trie data from a snapshot of ancient days. We had trouble making this performant, though. It's at least an order of magnitude slower; it's not in the same league as the options in the chart. And for the in-RAM trie, rolling back just a few frames for a recent historical snapshot is usually not a big deal. LevelDB has a nice LRU cache feature. We saw that it used about 830MB of RAM with 100MB of LRU configured (for our test of 1M insertions). Whenever we run out of RAM again, this approach may again come into play.
+We experimented with using [LevelDB](https://github.com/google/leveldb) as the backing store for a custom trie. This has an interesting advantage in that we can keep trie history forever; we can index by hash as well as by name. It could be handy for querying the trie data from a snapshot of ancient days. We had trouble making this performant, though. It's at least an order of magnitude slower; it's not in the same league as the options in the chart. And for the in-RAM trie, rolling back just a few frames for a recent historical snapshot is usually not a big deal. LevelDB has a nice LRU cache feature. We saw that it used about 830MB of RAM with 100MB of LRU configured (for our test of 1M insertions). Whenever we run out of RAM again, this approach may again come into play.
 
 ## Section 3: How it Works
 
-A trie is made of nodes. We'll start with a simple definition for that: 
+A trie is made of nodes. We'll start with a simple definition for that:
 
-    Node { 
+    Node {
          ordered_map<Key to Node> children
          Data data
     }
 
 We need an ordered map so that we can get repeatable hash computations. Data can be user-defined.
 
-We'll define our trie in terms of common collection operations: insert, update, delete, find, and walk-to-root. All of these involve locating the target node; hence, we'll say that "find" is the most fundamental. We'll define him first. Understand that the method `lower_bound` returns an exact match or the one right after the best fit. It uses the underlying RB tree to achieve this result quickly. 
+We'll define our trie in terms of common collection operations: insert, update, delete, find, and walk-to-root. All of these involve locating the target node; hence, we'll say that "find" is the most fundamental. We'll define him first. Understand that the method `lower_bound` returns an exact match or the one right after the best fit. It uses the underlying RB tree to achieve this result quickly.
 
 An illustration of `lower_bound`, assuming `set = std::set<std::string> { "B", "C" }`:
 
@@ -104,18 +105,18 @@ The general find algorithm in pseudo-code:
     Data find(Node root, Key key) {
         if (key is empty)
              return root.node.data
-    
+
         iterator = root.children.lower_bound(key)
         if (iterator.key == key)
              return iterator.node.data  // handle the exact match case
-    
-        if (iterator can go back) 
+
+        if (iterator can go back)
              iterator -= 1   // go back to one with a partial overlap
-    
+
         matched = match_key_bytes(iterator.key, key)
-        if (matched ≠ iterator.key.size) 
+        if (matched ≠ iterator.key.size)
               return null  // we don't have it
-    
+
         return find(iterator.node, key.substring(iterator.key.size))
     }
 
@@ -126,13 +127,13 @@ The update operation is similar: find the item and then change its data member. 
              root.data = iterator.node.data  // handle the exact match case
              return  // optionally throw an error here for a strict "insert only"
         }
-    
+
         iterator = root.children.lower_bound(key)
         if (iterator is valid and iterator.key == key) {
              root.data = iterator.node.data  // handle the exact match case
              return
         }
-    
+
         matched = 0
         if (iterator is valid)
              matched = match_key_bytes(iterator.key, key)  // "starts with"
@@ -144,7 +145,7 @@ The update operation is similar: find the item and then change its data member. 
               root.children[key] = Node(data)
               return
         }
-    
+
         if (matched < iterator.key.size) {  // we have to split an existing key
               intermediate = Node()
               intermediate.children[iterator.key.substring(matched)] = iterator.node
@@ -160,7 +161,7 @@ For the deletion/erasure operation, it's the exact opposite of the insertion met
 
 A quick explanation on the quad-bit trie: it was using a node that looked like this:
 
-    Node { 
+    Node {
          vector<Node> children
          uint64 key // upper 16 bits are flags, next 4 are key nibble count
          Data data
@@ -176,6 +177,6 @@ Determine if the child exists for next nibble n: `mask & (1 << n)`
 
 Find the index of child starting with nibble n: `popcount(mask & ((1 << n) - 1)`
 
-Where popcount represents __builtin_popcountll or some other 64bit intrinsic for accessing the CPU's POPCNT instruction (which counts the number of set bits).
+Where popcount represents \_\_builtin_popcountll or some other 64bit intrinsic for accessing the CPU's POPCNT instruction (which counts the number of set bits).
 
 In summary, it's possible to build a very efficient trie structure on top of a simple node definition that includes a sorted or indexed map of the node's children. The deeper the trie goes, the less likely it is to benefit from overlapping keys. There is no reason to use the naive trie in any scenario.
